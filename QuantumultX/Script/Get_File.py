@@ -17,7 +17,6 @@ RULES = {
     "RejectRule": {
         "MyBlockAds": RULE_URL1 + "Rules/MyBlockAds.list",
         "fenliu": RULE_URL2 + "filter/fenliu.list",
-        "AdvertisingLite": RULE_URL + "QuantumultX/AdvertisingLite/AdvertisingLite.list",
         "MyRejectRule": RULE_URL3 + "Profile/main/QuantumultX/Rule/RejectRule.list",
     },
     "ProxyRule": {
