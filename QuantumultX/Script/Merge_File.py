@@ -27,7 +27,7 @@ def merge_and_deduplicate_files(path):
                         line = re.sub(r',no-resolve', '', line)
                         line = re.sub(r',(?:Netflix|Disney|YouTube|Spotify)$', ',Streaming', line)
                         line = re.sub(r',(?:ChinaASN|China|Direct|Lan)$', ',direct', line)
-                        line = re.sub(r',(?:AdvertisingLite|Privacy|REJECT|Reject)$', ',reject', line)
+                        line = re.sub(r',(?:AdvertisingLite|Privacy|Hijacking|REJECT|Reject)$', ',reject', line)
                         line = re.sub(r',Proxy', ',proxy', line)
                         line = re.sub(r',(?:OpenAI|Claude|PayPal)$', ',US', line)
                         line = re.sub(r'^(?:host|domain|DOMAIN)', 'HOST', line)
