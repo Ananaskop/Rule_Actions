@@ -56,9 +56,12 @@ def load_file(rules_dict, file_dir):
 
 def remove():
     for folder in RULES.keys():
-        if os.path.exists(folder):
-            shutil.rmtree(folder)
-    print("删除旧文件成功")
+        target_directory = os.path.join("Surge", folder)
+        if os.path.exists(target_directory):
+            shutil.rmtree(target_directory)
+            print(f"已删除旧文件夹：{target_directory}")
+        else:
+            print(f"旧文件夹不存在：{target_directory}")
 
 if __name__ == '__main__':
     remove()
