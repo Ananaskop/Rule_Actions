@@ -4,39 +4,34 @@ import shutil
 import time
 import requests
 
-RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/"
-RULE_URL1 = "https://raw.githubusercontent.com/RuCu6/QuanX/main/"
-RULE_URL2 = "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/"
-RULE_URL3 = "https://raw.githubusercontent.com/GiveYou32Likes/"
-
 RULES = {
     "CorrectionRule": {
-        "Direct": RULE_URL + "QuantumultX/Direct/Direct.list",
-        "MyCorrectionRule": RULE_URL3 + "Profile/main/QuantumultX/Rule/CorrectionRule.list",
+        "Direct": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Direct/Direct.list",
+        "MyCorrectionRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/CorrectionRule.list",
     },
     "RejectRule": {
-        "MyBlockAds": RULE_URL1 + "Rules/MyBlockAds.list",
-        "fenliu": RULE_URL2 + "filter/fenliu.list",
-        "MyRejectRule": RULE_URL3 + "Profile/main/QuantumultX/Rule/RejectRule.list",
+        "MyBlockAds": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list",
+        "fenliu": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list",
+        "MyRejectRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/RejectRule.list",
     },
     "ProxyRule": {
-        "Proxy": RULE_URL + "QuantumultX/Proxy/Proxy.list",
-        "MyProxyRule": RULE_URL3 + "Profile/main/QuantumultX/Rule/ProxyRule.list",
+        "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Proxy/Proxy.list",
+        "MyProxyRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/ProxyRule.list",
     },
     "DirectRule": {
-        "China": RULE_URL + "QuantumultX/China/China.list",
-        "Lan": RULE_URL + "QuantumultX/Lan/Lan.list",
+        "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list",
+        "Lan": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Lan/Lan.list",
     },
     "USRule": {
-        "OpenAI": RULE_URL + "QuantumultX/OpenAI/OpenAI.list",
-        "Claude": RULE_URL + "QuantumultX/Claude/Claude.list",
-        "PayPal": RULE_URL + "QuantumultX/PayPal/PayPal.list",
+        "OpenAI": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list",
+        "Claude": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Claude/Claude.list",
+        "PayPal": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/PayPal/PayPal.list",
     },
     "StreamingRule": {
-        "Netflix": RULE_URL + "QuantumultX/Netflix/Netflix.list",
-        "Disney": RULE_URL + "QuantumultX/Disney/Disney.list",
-        "YouTube": RULE_URL + "QuantumultX/YouTube/YouTube.list",
-        "Spotify": RULE_URL + "QuantumultX/Spotify/Spotify.list",
+        "Netflix": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list",
+        "Disney": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list",
+        "YouTube": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list",
+        "Spotify": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list",
     }
 }
 

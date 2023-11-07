@@ -4,39 +4,34 @@ import shutil
 import time
 import requests
 
-RULE_URL = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/"
-RULE_URL1 = "https://raw.githubusercontent.com/RuCu6/QuanX/main/"
-RULE_URL2 = "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/"
-RULE_URL3 = "https://raw.githubusercontent.com/GiveYou32Likes/"
-
 RULES = {
     "CorrectionRule": {
-        "Direct": RULE_URL + "Clash/Direct/Direct.list",
-        "MyCorrectionRule": RULE_URL3 + "Profile/main/QuantumultX/Rule/CorrectionRule.list",
+        "Direct": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list",
+        "MyCorrectionRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/CorrectionRule.list",
     },
     "RejectRule": {
-        "MyBlockAds": RULE_URL1 + "Rules/MyBlockAds.list",
-        "fenliu": RULE_URL2 + "filter/fenliu.list",
-        "MyRejectRule": RULE_URL3 + "Profile/main/QuantumultX/Rule/RejectRule.list",
+        "MyBlockAds": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list",
+        "fenliu": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list",
+        "MyRejectRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/RejectRule.list",
     },
     "ProxyRule": {
-        "Proxy": RULE_URL + "Clash/Proxy/Proxy.list",
-        "MyProxyRule": RULE_URL3 + "Profile/main/QuantumultX/Rule/ProxyRule.list",
+        "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list",
+        "MyProxyRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/ProxyRule.list",
     },
     "DirectRule": {
-        "China": RULE_URL + "Clash/China/China.list",
-        "Lan": RULE_URL + "Clash/Lan/Lan.list",
+        "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/China.list",
+        "Lan": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list",
     },
     "USRule": {
-        "OpenAI": RULE_URL + "Clash/OpenAI/OpenAI.list",
-        "Claude": RULE_URL + "Clash/Claude/Claude.list",
-        "PayPal": RULE_URL + "Clash/PayPal/PayPal.list",
+        "OpenAI": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list",
+        "Claude": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.list",
+        "PayPal": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.list",
     },
     "StreamingRule": {
-        "Netflix": RULE_URL + "Clash/Netflix/Netflix.list",
-        "Disney": RULE_URL + "Clash/Disney/Disney.list",
-        "YouTube": RULE_URL + "Clash/YouTube/YouTube.list",
-        "Spotify": RULE_URL + "Clash/Spotify/Spotify.list",
+        "Netflix": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list",
+        "Disney": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list",
+        "YouTube": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list",
+        "Spotify": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list",
     }
 }
 
