@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-07 14:37:49
+# 更新时间： 2023-11-08 04:07:44
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -5938,6 +5938,7 @@ payload:
   - DOMAIN-SUFFIX,zyzc9.com
   - DOMAIN-SUFFIX,zzcartoon.com
   - DOMAIN-SUFFIX,zzcloud.me
+  - DOMAIN-SUFFIX,zzux.com
   - IP-CIDR,1.201.0.0/24
   - IP-CIDR,101.32.118.0/23
   - IP-CIDR,101.32.96.0/20

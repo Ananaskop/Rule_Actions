@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-07 14:38:10
+# 更新时间： 2023-11-08 04:08:05
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,118.89.204.198
@@ -133,6 +133,8 @@ DOMAIN,applog-perf.uc.cn
 DOMAIN,applogapi.autohome.com.cn
 DOMAIN,apppv.zol.com.cn
 DOMAIN,ark.letv.com
+DOMAIN,asiad.byteactivity.com
+DOMAIN,asiad.byteactivity12.com
 DOMAIN,asimgs.pplive.cn
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,awaken.amap.com
@@ -327,6 +329,7 @@ DOMAIN,p.l.qq.com
 DOMAIN,p1-play.edge4k.com
 DOMAIN,p1-play.kgslb.com
 DOMAIN,p2-play.edge4k.com
+DOMAIN,p3-ad-sign.byteimg.com
 DOMAIN,p6-ad-sign.byteimg.com
 DOMAIN,p9-ad-sign.byteimg.com
 DOMAIN,pagead2.googlesyndication.com
@@ -450,7 +453,6 @@ DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yt-adp.ws.126.net
 DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zxid-m.mobileservice.cn
-DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,a.9game.cn
@@ -492,7 +494,6 @@ DOMAIN-KEYWORD,app.51y5.net
 DOMAIN-KEYWORD,applog.uc.cn
 DOMAIN-KEYWORD,applogapi.autohome.com
 DOMAIN-KEYWORD,asewlfjqwlflkew
-DOMAIN-KEYWORD,asiad.byteactivity
 DOMAIN-KEYWORD,av1.xdrig.com
 DOMAIN-KEYWORD,bds.snssdk.com
 DOMAIN-KEYWORD,bdsp.x.jd.com
@@ -18986,7 +18987,6 @@ DOMAIN-SUFFIX,ppjia55.com
 DOMAIN-SUFFIX,ppoi.org
 DOMAIN-SUFFIX,ppp7.destinia.kr
 DOMAIN-SUFFIX,ppurifier.game.xiaomi.com
-DOMAIN-SUFFIX,ppx.hgo7r.cn
 DOMAIN-SUFFIX,pqciix.busuu.com
 DOMAIN-SUFFIX,pqlmae.lamaisonduchocolat.co.jp
 DOMAIN-SUFFIX,pr-bh.ybp.yahoo.com

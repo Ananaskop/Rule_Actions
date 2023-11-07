@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-07 14:37:29
+# 更新时间： 2023-11-08 04:07:24
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -6387,6 +6387,7 @@ HOST-SUFFIX,zyxel.com,proxy
 HOST-SUFFIX,zyzc9.com,proxy
 HOST-SUFFIX,zzcartoon.com,proxy
 HOST-SUFFIX,zzcloud.me,proxy
+HOST-SUFFIX,zzux.com,proxy
 IP-CIDR,1.201.0.0/24,proxy
 IP-CIDR,101.32.118.0/23,proxy
 IP-CIDR,101.32.96.0/20,proxy

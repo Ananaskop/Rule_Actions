@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-07 14:37:29
+# 更新时间： 2023-11-08 04:07:24
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -133,6 +133,8 @@ HOST,applog-perf.uc.cn,reject
 HOST,applogapi.autohome.com.cn,reject
 HOST,apppv.zol.com.cn,reject
 HOST,ark.letv.com,reject
+HOST,asiad.byteactivity.com,reject
+HOST,asiad.byteactivity12.com,reject
 HOST,asimgs.pplive.cn,reject
 HOST,atrace.chelaile.net.cn,reject
 HOST,awaken.amap.com,reject
@@ -327,6 +329,7 @@ HOST,p.l.qq.com,reject
 HOST,p1-play.edge4k.com,reject
 HOST,p1-play.kgslb.com,reject
 HOST,p2-play.edge4k.com,reject
+HOST,p3-ad-sign.byteimg.com,reject
 HOST,p6-ad-sign.byteimg.com,reject
 HOST,p9-ad-sign.byteimg.com,reject
 HOST,pagead2.googlesyndication.com,reject
@@ -450,7 +453,6 @@ HOST,yt-adp.nosdn.127.net,reject
 HOST,yt-adp.ws.126.net,reject
 HOST,zgsdk.zhugeio.com,reject
 HOST,zxid-m.mobileservice.cn,reject
-HOST-KEYWORD,-ad-sign.byteimg.com,reject
 HOST-KEYWORD,112wan,reject
 HOST-KEYWORD,789htbet,reject
 HOST-KEYWORD,a.9game.cn,reject
@@ -492,7 +494,6 @@ HOST-KEYWORD,app.51y5.net,reject
 HOST-KEYWORD,applog.uc.cn,reject
 HOST-KEYWORD,applogapi.autohome.com,reject
 HOST-KEYWORD,asewlfjqwlflkew,reject
-HOST-KEYWORD,asiad.byteactivity,reject
 HOST-KEYWORD,av1.xdrig.com,reject
 HOST-KEYWORD,bds.snssdk.com,reject
 HOST-KEYWORD,bdsp.x.jd.com,reject
@@ -18986,7 +18987,6 @@ HOST-SUFFIX,ppjia55.com,reject
 HOST-SUFFIX,ppoi.org,reject
 HOST-SUFFIX,ppp7.destinia.kr,reject
 HOST-SUFFIX,ppurifier.game.xiaomi.com,reject
-HOST-SUFFIX,ppx.hgo7r.cn,reject
 HOST-SUFFIX,pqciix.busuu.com,reject
 HOST-SUFFIX,pqlmae.lamaisonduchocolat.co.jp,reject
 HOST-SUFFIX,pr-bh.ybp.yahoo.com,reject
