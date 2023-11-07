@@ -1,0 +1,66 @@
+# This is a basic workflow to help you get started with Actions
+
+name: QX_Rule_Generate
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 20 * * *'
+  
+# Controls when the workflow will run
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  pull_request:
+    branches: [ "main" ]
+    
+  repository_dispatch:
+    types: [bot_trigger]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - name: Print current directory
+        run: |
+          pwd
+      # Runs a single command using the runners shell
+      - name: "拉取 QuantumultX 规则"
+        run: python QuantumultX/Script/Get_File.py
+
+      - name: "合并 QuantumultX 规则"
+        run: python QuantumultX/Script/Merge_File.py
+
+      - name: "拉取 Stash 规则"
+        run: python Stash/Script/Get_File.py
+
+      - name: "合并 Stash 规则"
+        run: python Stash/Script/Merge_File.py
+
+      - name: "拉取 Surge 规则"
+        run: python Surge/Script/Get_File.py
+
+      - name: "合并 Surge 规则"
+        run: python Surge/Script/Merge_File.py
+
+      - name: Commit files
+        run: |
+          git pull origin main
+          git config --local user.email "123@gmail.com"
+          git config --local user.name "Gene"
+          git add ./*
+          git commit -m "Update Rules" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
