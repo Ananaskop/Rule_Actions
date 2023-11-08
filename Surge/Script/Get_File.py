@@ -3,6 +3,7 @@ import io
 import shutil
 import time
 import requests
+from concurrent.futures import ThreadPoolExecutor
 
 RULES = {
     "CorrectionRule": {
@@ -41,21 +42,27 @@ RULES = {
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
 TYPES = "Surge"
 
-def load_file(rules_dict, file_dir):
-    target_directory = os.path.join(TYPES, file_dir)
+def download_and_save_file(url, target_path):
+    response = requests.get(url, headers=HEADER)
+    if response.status_code == 200:
+        with open(target_path, "wb") as f:
+            f.write(response.content)
+        time.sleep(1)
 
-    # 使用os.makedirs来递归创建目录
+def load_files(rules, folder):
+    target_directory = os.path.join(TYPES, folder)
     os.makedirs(target_directory, exist_ok=True)
 
-    for key, url in rules_dict.items():
-        response = requests.get(url, headers=HEADER)
-        if response.status_code == 200:
-            with open(os.path.join(target_directory, f"{key}.list"), "wb") as f:
-                shutil.copyfileobj(io.BytesIO(response.content), f)
-            time.sleep(1)
-    print(f"下载 {file_dir} 文件成功")
-
-def remove():
+    with ThreadPoolExecutor() as executor:
+        futures = []
+        for rule_name, rule_url in rules.items():
+            target_path = os.path.join(target_directory, f"{rule_name}.list")
+            futures.append(executor.submit(download_and_save_file, rule_url, target_path))
+        
+        for future in futures:
+            future.result()
+        print(f"新文件已下载至：{target_directory}")
+def remove_old_files():
     for folder in RULES.keys():
         target_directory = os.path.join(TYPES, folder)
         if os.path.exists(target_directory):
@@ -65,6 +72,6 @@ def remove():
             print(f"旧文件夹不存在：{target_directory}")
 
 if __name__ == '__main__':
-    remove()
+    remove_old_files()  # 删除旧文件夹
     for folder, rules in RULES.items():
-        load_file(rules, folder)
+        load_files(rules, folder)
