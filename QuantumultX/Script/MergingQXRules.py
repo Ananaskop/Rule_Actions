@@ -1,5 +1,4 @@
 import os
-import io
 import re
 import datetime
 import pytz
