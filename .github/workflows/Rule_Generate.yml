@@ -36,13 +36,13 @@ jobs:
       # Runs a single command using the runners shell
 
       - name: "下载并合并 QuantumultX 规则"
-        run: python QuantumultX/Script/MergingQXRules.py
+        run: python MergeScript/MergingQXRules.py
 
       - name: "下载并合并 Stash 规则"
-        run: python Stash/Script/MergingStashRules.py
+        run: python MergeScript/MergingStashRules.py
 
       - name: "下载并合并 Surge 规则"
-        run: python Surge/Script/MergingSurgeRules.py
+        run: python MergeScript/MergingSurgeRules.py
 
       - name: "提交文件"
         run: |
