@@ -97,7 +97,7 @@ def merge_and_deduplicate_files(path):
     with open(output_file_path, 'w', encoding='utf8') as out_f:
         # 插入当前时间行
         china_timezone = pytz.timezone('Asia/Shanghai')
-        current_time = datetime.datetime.now(china_timezone).strftime("%Y-%m-d %H:%M:%S")
+        current_time = datetime.datetime.now(china_timezone).strftime("%Y-%m-%d %H:%M:%S")
         out_f.write(f"# 更新时间： {current_time}\n")
         data_set = set()  # 使用集合去重
         for file_name in os.listdir(path):
