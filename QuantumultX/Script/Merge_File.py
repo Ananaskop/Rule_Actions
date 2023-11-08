@@ -3,8 +3,8 @@ import re
 import datetime
 import pytz
 
-types = "QuantumultX/"
-file_paths = [types + rule for rule in ["CorrectionRule", "DirectRule", "ProxyRule", "RejectRule", "StreamingRule", "USRule"]]
+TYPES = "QuantumultX"
+file_paths = [TYPES + "/" + rule for rule in ["CorrectionRule", "DirectRule", "ProxyRule", "RejectRule", "StreamingRule", "USRule"]]
 def merge_and_deduplicate_files(path):
 
     output_file_path = os.path.join(path, f"{os.path.basename(path)}.list")

@@ -38,9 +38,9 @@ RULES = {
 }
 
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
-
+TYPES = "QuantumultX"
 def load_file(rules_dict, file_dir):
-    target_directory = os.path.join("QuantumultX", file_dir)
+    target_directory = os.path.join(TYPES, file_dir)
 
     # 使用os.makedirs来递归创建目录
     os.makedirs(target_directory, exist_ok=True)
@@ -55,7 +55,7 @@ def load_file(rules_dict, file_dir):
 
 def remove():
     for folder in RULES.keys():
-        target_directory = os.path.join("QuantumultX", folder)
+        target_directory = os.path.join(TYPES, folder)
         if os.path.exists(target_directory):
             shutil.rmtree(target_directory)
             print(f"已删除旧文件夹：{target_directory}")

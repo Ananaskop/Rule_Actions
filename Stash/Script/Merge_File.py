@@ -3,8 +3,8 @@ import re
 import datetime
 import pytz
 
-types = "Stash/"
-file_paths = [types + rule for rule in ["CorrectionRule", "DirectRule", "ProxyRule", "RejectRule", "StreamingRule", "USRule"]]
+TYPES = "Stash"
+file_paths = [TYPES + "/" + rule for rule in ["CorrectionRule", "DirectRule", "ProxyRule", "RejectRule", "StreamingRule", "USRule"]]
 payload = "payload:"
 def merge_and_deduplicate_files(path):
 
