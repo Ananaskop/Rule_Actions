@@ -40,6 +40,7 @@ def merge_and_deduplicate_files(path):
                     
                     data_set.update(modified_lines)
         data_list = sorted(data_set)
+        data_list = [line for line in data_list if line.strip()]
         out_f.writelines(line + '\n' for line in data_list if line.strip())
     return output_file_path
 
