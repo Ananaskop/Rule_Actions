@@ -30,36 +30,28 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Print current directory
+      - name: "启动任务"
         run: |
           pwd
       # Runs a single command using the runners shell
-      - name: "拉取 QuantumultX 规则"
-        run: python QuantumultX/Script/Get_File.py
 
-      - name: "合并 QuantumultX 规则"
-        run: python QuantumultX/Script/Merge_File.py
+      - name: "下载并合并 QuantumultX 规则"
+        run: python QuantumultX/Script/MergingQXRules.py
 
-      - name: "拉取 Stash 规则"
-        run: python Stash/Script/Get_File.py
+      - name: "下载并合并 Stash 规则"
+        run: python Stash/Script/MergingStashRules.py
 
-      - name: "合并 Stash 规则"
-        run: python Stash/Script/Merge_File.py
+      - name: "下载并合并 Surge 规则"
+        run: python Surge/Script/MergingSurgeRules.py
 
-      - name: "拉取 Surge 规则"
-        run: python Surge/Script/Get_File.py
-
-      - name: "合并 Surge 规则"
-        run: python Surge/Script/Merge_File.py
-
-      - name: Commit files
+      - name: "提交文件"
         run: |
           git pull origin main
           git config --local user.email "123@gmail.com"
           git config --local user.name "Gene"
           git add ./*
           git commit -m "Update Rules" -a
-      - name: Push changes
+      - name: "推送文件"
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
