@@ -13,7 +13,7 @@ replacements = [
     (r',no-resolve', ''),
     (r',(?:Netflix|Disney|YouTube|Spotify)$', ',Streaming'),
     (r',(?:ChinaASN|China|Direct|Lan)$', ',direct'),
-    (r',(?:AdvertisingLite|Privacy|Hijacking|REJECT|Reject)$', ',reject'),
+    (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',Proxy', ',proxy'),
     (r',(?:OpenAI|Claude|PayPal)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
