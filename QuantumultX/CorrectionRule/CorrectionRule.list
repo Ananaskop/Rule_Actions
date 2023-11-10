@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-10 16:40:15
+# 更新时间： 2023-11-10 17:03:38
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,aliyundrive.asia,direct
@@ -22,6 +22,7 @@ HOST,clientservices.googleapis.com,direct
 HOST,ctyunxs.cn,direct
 HOST,cz.cz01.site,direct
 HOST,ddys.art,direct
+HOST,dig.bdurl.net,direct
 HOST,dl.google.com,direct
 HOST,dl.l.google.com,direct
 HOST,eco-push-api-client.meiqia.com,direct
