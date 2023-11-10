@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-10 04:07:24
+# 更新时间： 2023-11-10 14:11:46
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -23342,6 +23342,7 @@ payload:
   - DOMAIN-SUFFIX,snowplow.swm.digital
   - DOMAIN-SUFFIX,snptrk.com
   - DOMAIN-SUFFIX,snr4.canalplus.com
+  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,so.blue.ch
   - DOMAIN-SUFFIX,so.bluecinema.ch
   - DOMAIN-SUFFIX,so.bluenews.ch

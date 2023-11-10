@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-10 04:07:14
+# 更新时间： 2023-11-10 14:11:36
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,aliyundrive.asia,direct
@@ -239,6 +239,7 @@ HOST-SUFFIX,wiley.com,direct
 HOST-SUFFIX,xauat6.edu.cn,direct
 HOST-SUFFIX,xunlei.com,direct
 HOST-SUFFIX,yonghuivip.com,direct
+HOST-SUFFIX,zijieapi.com,direct
 USER-AGENT,%E8%BF%85%E9%9B%B7,direct
 USER-AGENT,Coffee%20Corp*,direct
 USER-AGENT,SpeedTest*,direct

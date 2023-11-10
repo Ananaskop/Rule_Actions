@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-10 04:07:24
+# 更新时间： 2023-11-10 14:11:46
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -240,6 +240,7 @@ payload:
   - DOMAIN-SUFFIX,xauat6.edu.cn
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,yonghuivip.com
+  - DOMAIN-SUFFIX,zijieapi.com
   - PROCESS-NAME,BaiduNetdisk_mac
   - PROCESS-NAME,BitComet
   - PROCESS-NAME,ClashX

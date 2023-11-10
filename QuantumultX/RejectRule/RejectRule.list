@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-10 04:07:14
+# 更新时间： 2023-11-10 14:11:36
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -23341,6 +23341,7 @@ HOST-SUFFIX,snowman.odencat.com,reject
 HOST-SUFFIX,snowplow.swm.digital,reject
 HOST-SUFFIX,snptrk.com,reject
 HOST-SUFFIX,snr4.canalplus.com,reject
+HOST-SUFFIX,snssdk.com,reject
 HOST-SUFFIX,so.blue.ch,reject
 HOST-SUFFIX,so.bluecinema.ch,reject
 HOST-SUFFIX,so.bluenews.ch,reject
