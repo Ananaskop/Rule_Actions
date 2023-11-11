@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-11 04:07:23
+# 更新时间： 2023-11-12 04:06:48
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,118.89.204.198
@@ -673,6 +673,7 @@ DOMAIN-KEYWORD,v0-client-lz.rili.cn
 DOMAIN-KEYWORD,v1.log.moji.com
 DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
+DOMAIN-KEYWORD,video-cn.snssdk.com
 DOMAIN-KEYWORD,vidoza
 DOMAIN-KEYWORD,vs.biz.weibo.com
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
@@ -23356,7 +23357,6 @@ DOMAIN-SUFFIX,snowman.odencat.com
 DOMAIN-SUFFIX,snowplow.swm.digital
 DOMAIN-SUFFIX,snptrk.com
 DOMAIN-SUFFIX,snr4.canalplus.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,so.blue.ch
 DOMAIN-SUFFIX,so.bluecinema.ch
 DOMAIN-SUFFIX,so.bluenews.ch
