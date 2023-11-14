@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-14 14:25:47
+# 更新时间： 2023-11-14 15:01:05
 AND,((USER-AGENT,Frodo*),(DOMAIN,119.29.29.29))
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
