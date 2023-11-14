@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-14 08:48:30
+# 更新时间： 2023-11-14 14:08:39
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -46207,7 +46207,6 @@ payload:
   - DOMAIN-SUFFIX,oratorsresente.info
   - DOMAIN-SUFFIX,orbidder.otto.de
   - DOMAIN-SUFFIX,orbis.actonservice.com
-  - DOMAIN-SUFFIX,orbsrv.com
   - DOMAIN-SUFFIX,orchidscape.net
   - DOMAIN-SUFFIX,orcjagpox.com
   - DOMAIN-SUFFIX,ordbng.extra.com.br
