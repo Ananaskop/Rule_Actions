@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-14 10:46:37
+# 更新时间： 2023-11-14 14:08:29
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -6663,7 +6663,6 @@ HOST-SUFFIX,optimizelyapis.com,reject
 HOST-SUFFIX,optimus-ads.amap.com,reject
 HOST-SUFFIX,optimus-ads.amap.com.w.alikunlun.com,reject
 HOST-SUFFIX,oq68.com,reject
-HOST-SUFFIX,orbsrv.com,reject
 HOST-SUFFIX,orchidscape.net,reject
 HOST-SUFFIX,oredero.com,reject
 HOST-SUFFIX,orz.hupu.com,reject
