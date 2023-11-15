@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-15 08:34:00
+# 更新时间： 2023-11-15 10:31:09
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -87,7 +87,6 @@ payload:
   - DOMAIN,adsp.xunlei.com
   - DOMAIN,adsstatic.vivo.com.cn
   - DOMAIN,adstats.tencentmusic.com
-  - DOMAIN,adstrategy.biz.weibo.com
   - DOMAIN,adui.tg.meitu.com
   - DOMAIN,adv-adlog.variflight.com
   - DOMAIN,adv-ads.variflight.com
@@ -267,7 +266,6 @@ payload:
   - DOMAIN,js.users.51.la
   - DOMAIN,juggler.services.disqus.com
   - DOMAIN,kad.gotokeep.com
-  - DOMAIN,kadmimage.biz.weibo.com
   - DOMAIN,kgmobilestat.kugou.com
   - DOMAIN,kgmobilestatbak.kugou.com
   - DOMAIN,kuaishou.httpdns.pro
@@ -352,7 +350,6 @@ payload:
   - DOMAIN,pp-cdnfile2pcdn.msstatic.com
   - DOMAIN,pre-acs.youku.com
   - DOMAIN,proxy.safebrowsing.apple
-  - DOMAIN,pubads.g.doubleclick.net
   - DOMAIN,pvnapp.zol.com.cn
   - DOMAIN,px.ucweb.com
   - DOMAIN,qa.viglink.com
@@ -382,10 +379,7 @@ payload:
   - DOMAIN,sdapprecv.app.cntvwb.cn
   - DOMAIN,sdk-conf.getui.com
   - DOMAIN,sdk.open.talk.getui.net
-  - DOMAIN,sdkaction.biz.weibo.com
-  - DOMAIN,sdkclick.biz.weibo.com
   - DOMAIN,sdkconfig.ad.xiaomi.com
-  - DOMAIN,sdkmonitor.biz.weibo.com
   - DOMAIN,sealine.youku.com
   - DOMAIN,securemetrics.apple.com
   - DOMAIN,security-lq.snssdk.com
@@ -460,7 +454,6 @@ payload:
   - DOMAIN,zgsdk.zhugeio.com
   - DOMAIN,zxid-m.mobileservice.cn
   - DOMAIN-KEYWORD,-ad-sign.byteimg.com
-  - DOMAIN-KEYWORD,.iad-apple.com
   - DOMAIN-KEYWORD,112wan
   - DOMAIN-KEYWORD,789htbet
   - DOMAIN-KEYWORD,a.9game.cn
@@ -481,6 +474,7 @@ payload:
   - DOMAIN-KEYWORD,adproxy.autohome.com
   - DOMAIN-KEYWORD,ads-d.viber.com
   - DOMAIN-KEYWORD,ads.aws.viber.com
+  - DOMAIN-KEYWORD,ads.g.doubleclick
   - DOMAIN-KEYWORD,ads.viber.com
   - DOMAIN-KEYWORD,adservice.kugou.com
   - DOMAIN-KEYWORD,adsfilebssdlbig.ali.kugou.com
@@ -553,7 +547,6 @@ payload:
   - DOMAIN-KEYWORD,game.weibo.cn
   - DOMAIN-KEYWORD,game.weibo.com
   - DOMAIN-KEYWORD,game.weibo.com.cn
-  - DOMAIN-KEYWORD,googleads.g.doubleclick
   - DOMAIN-KEYWORD,greenplasticdua
   - DOMAIN-KEYWORD,gw5.push.mcp.weibo.cn
   - DOMAIN-KEYWORD,gw6.push.mcp.weibo.cn
@@ -34469,6 +34462,7 @@ payload:
   - DOMAIN-SUFFIX,iad-05.braze.com
   - DOMAIN-SUFFIX,iad-06.braze.com
   - DOMAIN-SUFFIX,iad-08.braze.com
+  - DOMAIN-SUFFIX,iad-apple.com
   - DOMAIN-SUFFIX,iad.appboy.com
   - DOMAIN-SUFFIX,iad.apple.com
   - DOMAIN-SUFFIX,iad.e.360.cn

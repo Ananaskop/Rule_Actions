@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-15 08:33:49
+# 更新时间： 2023-11-15 10:30:59
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -86,7 +86,6 @@ HOST,adsmind.ugdtimg.com,reject
 HOST,adsp.xunlei.com,reject
 HOST,adsstatic.vivo.com.cn,reject
 HOST,adstats.tencentmusic.com,reject
-HOST,adstrategy.biz.weibo.com,reject
 HOST,adui.tg.meitu.com,reject
 HOST,adv-adlog.variflight.com,reject
 HOST,adv-ads.variflight.com,reject
@@ -266,7 +265,6 @@ HOST,iyes.youku.com,reject
 HOST,js.users.51.la,reject
 HOST,juggler.services.disqus.com,reject
 HOST,kad.gotokeep.com,reject
-HOST,kadmimage.biz.weibo.com,reject
 HOST,kgmobilestat.kugou.com,reject
 HOST,kgmobilestatbak.kugou.com,reject
 HOST,kuaishou.httpdns.pro,reject
@@ -351,7 +349,6 @@ HOST,play.kakao.com,reject
 HOST,pp-cdnfile2pcdn.msstatic.com,reject
 HOST,pre-acs.youku.com,reject
 HOST,proxy.safebrowsing.apple,reject
-HOST,pubads.g.doubleclick.net,reject
 HOST,pvnapp.zol.com.cn,reject
 HOST,px.ucweb.com,reject
 HOST,qa.viglink.com,reject
@@ -381,10 +378,7 @@ HOST,saxs.sina.com.cn,reject
 HOST,sdapprecv.app.cntvwb.cn,reject
 HOST,sdk-conf.getui.com,reject
 HOST,sdk.open.talk.getui.net,reject
-HOST,sdkaction.biz.weibo.com,reject
-HOST,sdkclick.biz.weibo.com,reject
 HOST,sdkconfig.ad.xiaomi.com,reject
-HOST,sdkmonitor.biz.weibo.com,reject
 HOST,sealine.youku.com,reject
 HOST,securemetrics.apple.com,reject
 HOST,security-lq.snssdk.com,reject
@@ -459,7 +453,6 @@ HOST,yt-adp.ws.126.net,reject
 HOST,zgsdk.zhugeio.com,reject
 HOST,zxid-m.mobileservice.cn,reject
 HOST-KEYWORD,-ad-sign.byteimg.com,reject
-HOST-KEYWORD,.iad-apple.com,reject
 HOST-KEYWORD,112wan,reject
 HOST-KEYWORD,789htbet,reject
 HOST-KEYWORD,a.9game.cn,reject
@@ -480,6 +473,7 @@ HOST-KEYWORD,adp.atm.youku.com,reject
 HOST-KEYWORD,adproxy.autohome.com,reject
 HOST-KEYWORD,ads-d.viber.com,reject
 HOST-KEYWORD,ads.aws.viber.com,reject
+HOST-KEYWORD,ads.g.doubleclick,reject
 HOST-KEYWORD,ads.viber.com,reject
 HOST-KEYWORD,adservice.kugou.com,reject
 HOST-KEYWORD,adsfilebssdlbig.ali.kugou.com,reject
@@ -552,7 +546,6 @@ HOST-KEYWORD,fds.api.moji.com,reject
 HOST-KEYWORD,game.weibo.cn,reject
 HOST-KEYWORD,game.weibo.com,reject
 HOST-KEYWORD,game.weibo.com.cn,reject
-HOST-KEYWORD,googleads.g.doubleclick,reject
 HOST-KEYWORD,greenplasticdua,reject
 HOST-KEYWORD,gw5.push.mcp.weibo.cn,reject
 HOST-KEYWORD,gw6.push.mcp.weibo.cn,reject
@@ -34468,6 +34461,7 @@ HOST-SUFFIX,iad-04.braze.com,reject
 HOST-SUFFIX,iad-05.braze.com,reject
 HOST-SUFFIX,iad-06.braze.com,reject
 HOST-SUFFIX,iad-08.braze.com,reject
+HOST-SUFFIX,iad-apple.com,reject
 HOST-SUFFIX,iad.appboy.com,reject
 HOST-SUFFIX,iad.apple.com,reject
 HOST-SUFFIX,iad.e.360.cn,reject

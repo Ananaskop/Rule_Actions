@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-15 08:34:14
+# 更新时间： 2023-11-15 10:31:23
 DOMAIN,aaid.uyunad.com
 DOMAIN,acdn.adnxs.com
 DOMAIN,acs4baichuan.m.taobao.com
@@ -8,7 +8,6 @@ DOMAIN,ad.zijieapi.com
 DOMAIN,ads.95516.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.ugdtimg.com
-DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adui.tg.meitu.com
 DOMAIN,adv.ccb.com
 DOMAIN,advertising.apple.com
@@ -85,7 +84,6 @@ DOMAIN,ios.video.mpush.qq.com
 DOMAIN,ipv4.gdt.qq.com
 DOMAIN,is.snssdk.com
 DOMAIN,iyes.youku.com
-DOMAIN,kadmimage.biz.weibo.com
 DOMAIN,kuaishou.httpdns.pro
 DOMAIN,launch.apple.com
 DOMAIN,layer.bz.mgtv.com
@@ -119,7 +117,6 @@ DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,passport.bilibili.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pre-acs.youku.com
-DOMAIN,pubads.g.doubleclick.net
 DOMAIN,qwapi.apple.com
 DOMAIN,rc-topic-api.bz.mgtv.com
 DOMAIN,rich.kuwo.cn
@@ -127,10 +124,7 @@ DOMAIN,route-stats.d.meituan.net
 DOMAIN,rprain.bz.mgtv.com
 DOMAIN,rprain.log.mgtv.com
 DOMAIN,rpt.gdt.qq.com
-DOMAIN,sdkaction.biz.weibo.com
-DOMAIN,sdkclick.biz.weibo.com
 DOMAIN,sdkconfig.ad.xiaomi.com
-DOMAIN,sdkmonitor.biz.weibo.com
 DOMAIN,sin3-ib.adnxs.com
 DOMAIN,statics.woozooo.com
 DOMAIN,sugar.zhihu.com
@@ -151,9 +145,8 @@ DOMAIN,ykad-data.youku.com
 DOMAIN,youku-acs.m.taobao.com
 DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
-DOMAIN-KEYWORD,.iad-apple.com
+DOMAIN-KEYWORD,ads.g.doubleclick
 DOMAIN-KEYWORD,asiad.byteactivity
-DOMAIN-KEYWORD,googleads.g.doubleclick
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,pglstatp-toutiao
@@ -196,6 +189,7 @@ DOMAIN-SUFFIX,betterzipcn.com
 DOMAIN-SUFFIX,beyondcompare.cc
 DOMAIN-SUFFIX,bianxianmao.com
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
+DOMAIN-SUFFIX,biz.weibo.com
 DOMAIN-SUFFIX,bkyhq.cn
 DOMAIN-SUFFIX,bryonypie.com
 DOMAIN-SUFFIX,chemdraw.com.cn
@@ -242,6 +236,7 @@ DOMAIN-SUFFIX,huishenghuiying.com.cn
 DOMAIN-SUFFIX,hypeapp.cn
 DOMAIN-SUFFIX,hypersnap.net
 DOMAIN-SUFFIX,hyunke.com
+DOMAIN-SUFFIX,iad-apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ichaosheng.com
 DOMAIN-SUFFIX,iconworkshop.cn
