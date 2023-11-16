@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-16 08:22:26
+# 更新时间： 2023-11-16 14:17:58
 payload:
   - DOMAIN,ai.cn
   - DOMAIN,cdn.usefathom.com
@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,anfutong.com.cn
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,beibao.cn
   - DOMAIN-SUFFIX,beibao.com
   - DOMAIN-SUFFIX,beibao.com.cn

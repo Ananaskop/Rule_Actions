@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-16 08:22:16
+# 更新时间： 2023-11-16 14:17:47
 HOST,ai.cn,US
 HOST,cdn.usefathom.com,US
 HOST-KEYWORD,openai,US
@@ -15,6 +15,7 @@ HOST-SUFFIX,anfutong.com,US
 HOST-SUFFIX,anfutong.com.cn,US
 HOST-SUFFIX,anthropic.com,US
 HOST-SUFFIX,auth0.com,US
+HOST-SUFFIX,bard.google.com,BardAI
 HOST-SUFFIX,beibao.cn,US
 HOST-SUFFIX,beibao.com,US
 HOST-SUFFIX,beibao.com.cn,US
