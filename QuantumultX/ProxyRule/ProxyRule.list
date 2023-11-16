@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-16 15:29:25
+# 更新时间： 2023-11-17 04:07:34
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -945,7 +945,6 @@ HOST-SUFFIX,cdef.org,proxy
 HOST-SUFFIX,cdig.info,proxy
 HOST-SUFFIX,cdjp.org,proxy
 HOST-SUFFIX,cdn.angruo.com,proxy
-HOST-SUFFIX,cdn.oaistatic.com,proxy
 HOST-SUFFIX,cdn.segment.com,proxy
 HOST-SUFFIX,cdnews.com.tw,proxy
 HOST-SUFFIX,cdninstagram.com,proxy

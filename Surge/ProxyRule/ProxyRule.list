@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-16 15:29:46
+# 更新时间： 2023-11-17 04:07:55
 DOMAIN,api.minecraftservices.com
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
@@ -861,7 +861,6 @@ DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdn.angruo.com
-DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnews.com.tw
 DOMAIN-SUFFIX,cdnst.net
