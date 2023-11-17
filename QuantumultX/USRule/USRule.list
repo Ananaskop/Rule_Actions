@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-17 11:09:26
+# 更新时间： 2023-11-18 04:07:45
 HOST,265.com,Google
 HOST,2mdn-cn.net,Google
 HOST,2mdn.net,Google
@@ -808,6 +808,8 @@ HOST-SUFFIX,nest.com,Google
 HOST-SUFFIX,neverware.com,Google
 HOST-SUFFIX,new.day,Google
 HOST-SUFFIX,nomulus.foo,Google
+HOST-SUFFIX,oaistatic.com,US
+HOST-SUFFIX,oaiusercontent.com,US
 HOST-SUFFIX,oasisfeng.com,Google
 HOST-SUFFIX,oauthz.com,Google
 HOST-SUFFIX,ok.gle,Google

@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-17 11:09:48
+# 更新时间： 2023-11-18 04:08:07
 DOMAIN,265.com,Google
 DOMAIN,2mdn-cn.net,Google
 DOMAIN,2mdn.net,Google
@@ -808,6 +808,8 @@ DOMAIN-SUFFIX,nest.com,Google
 DOMAIN-SUFFIX,neverware.com,Google
 DOMAIN-SUFFIX,new.day,Google
 DOMAIN-SUFFIX,nomulus.foo,Google
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oasisfeng.com,Google
 DOMAIN-SUFFIX,oauthz.com,Google
 DOMAIN-SUFFIX,ok.gle,Google
