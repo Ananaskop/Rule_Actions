@@ -1,14 +1,20 @@
-# 更新时间： 2023-11-17 04:07:45
+# 更新时间： 2023-11-17 11:09:37
 payload:
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,cdn-spotify-experiments.conductrics.com
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,heads-ak-spotify-com.akamaized.net
+  - DOMAIN,hls-amt.itunes.apple.com
+  - DOMAIN,hls.itunes.apple.com
   - DOMAIN,netflix.com.edgesuite.net
+  - DOMAIN,np-edge.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,spotify.map.fastlylb.net
+  - DOMAIN,tv.applemusic.com
+  - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,dualstack.apiproxy-
@@ -238,6 +244,7 @@ payload:
   - DOMAIN-SUFFIX,thewaltdisneycompany.com
   - DOMAIN-SUFFIX,thisispolaris.com
   - DOMAIN-SUFFIX,tospotify.com
+  - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,video.google.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
@@ -1481,6 +1488,7 @@ payload:
   - IP-CIDR6,2620:120:e000::/40
   - IP-CIDR6,2a00:86c0::/32
   - IP-CIDR6,2a03:5640::/32
+  - PROCESS-NAME,TV
   - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - PROCESS-NAME,com.disney.disneyplus
   - PROCESS-NAME,com.netflix.mediaclient

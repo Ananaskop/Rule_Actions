@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-17 04:07:34
+# 更新时间： 2023-11-17 11:09:26
 HOST,adeventtracker.spotify.com,Streaming
 HOST,adstudio-assets.scdn.co,Streaming
 HOST,audio-ak-spotify-com.akamaized.net,Streaming
@@ -12,11 +12,17 @@ HOST,espndotcom.tt.omtrdc.net,Streaming
 HOST,h-netflix.online-metrix.net,Streaming
 HOST,heads-ak-spotify-com.akamaized.net,Streaming
 HOST,heads4-ak-spotify-com.akamaized.net,Streaming
+HOST,hls-amt.itunes.apple.com,AppleTV
+HOST,hls.itunes.apple.com,AppleTV
 HOST,music.youtube.com,Streaming
 HOST,netflix.com.edgesuite.net,Streaming
+HOST,np-edge.itunes.apple.com,AppleTV
+HOST,play-edge.itunes.apple.com,AppleTV
 HOST,spotify.com.edgesuite.net,Streaming
 HOST,spotify.map.fastly.net,Streaming
 HOST,spotify.map.fastlylb.net,Streaming
+HOST,tv.applemusic.com,AppleTV
+HOST,uts-api.itunes.apple.com,AppleTV
 HOST,youtubei.googleapis.com,Streaming
 HOST,yt3.ggpht.com,Streaming
 HOST-KEYWORD,-spotify-,Streaming
@@ -248,6 +254,7 @@ HOST-SUFFIX,thestationbymaker.com,Streaming
 HOST-SUFFIX,thewaltdisneycompany.com,Streaming
 HOST-SUFFIX,thisispolaris.com,Streaming
 HOST-SUFFIX,tospotify.com,Streaming
+HOST-SUFFIX,tv.apple.com,AppleTV
 HOST-SUFFIX,us-west-2.amazonaws.com,Streaming
 HOST-SUFFIX,video.google.com,Streaming
 HOST-SUFFIX,watchdisneyfe.com,Streaming
@@ -1498,10 +1505,12 @@ IP6-CIDR,2a03:5640::/32,Streaming
 USER-AGENT,*YouTubeMusic*,Streaming
 USER-AGENT,*com.google.ios.youtubemusic*,Streaming
 USER-AGENT,*youtube*,Streaming
+USER-AGENT,AppleTV*,AppleTV
 USER-AGENT,Argo*,Streaming
 USER-AGENT,Disney+*,Streaming
 USER-AGENT,Spotify*,Streaming
 USER-AGENT,YouTube*,Streaming
 USER-AGENT,YouTubeMusic*,Streaming
+USER-AGENT,com.apple.tv*,AppleTV
 USER-AGENT,com.google.ios.youtube*,Streaming
 USER-AGENT,com.google.ios.youtubemusic*,Streaming
