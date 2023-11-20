@@ -9,14 +9,14 @@ from concurrent.futures import ThreadPoolExecutor
 
 # 正则表达式替换规则
 replacements = [
-    (r'\s+',''),
-    (r',no-resolve',''),
-    (r',(?:DIRECT$|direct$|REJECT$|reject$|PROXY$|proxy$)',''),
-    (r'-suffix','-SUFFIX'),
-    (r'-keyword','-KEYWORD'),
-    (r'ip-cidr','IP-CIDR'),
-    (r'^(?:host|HOST)','DOMAIN'),
-    (r'IP6-CIDR','IP-CIDR6'),
+    (r'\s+', ''),
+    (r',no-resolve', ''),
+    (r',(?:DIRECT$|direct$|REJECT$|reject$|PROXY$|proxy$)', ''),
+    (r'-suffix', '-SUFFIX'),
+    (r'-keyword', '-KEYWORD'),
+    (r'ip-cidr', 'IP-CIDR'),
+    (r'^(?:host|HOST)', 'DOMAIN'),
+    (r'IP6-CIDR', 'IP-CIDR6'),
 ]
 
 RULES = {
