@@ -11,11 +11,11 @@ from concurrent.futures import ThreadPoolExecutor
 replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
-    (r',(?:Netflix|Disney|YouTube|Spotify)$', ',Streaming'),
+    (r',(?:Netflix|Disney|YouTube|Spotify|AppleTV)$', ',Streaming'),
     (r',(?:ChinaASN|China|Direct|Microsoft|Speedtest|Apple|Lan)$', ',direct'),
     (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
-    (r',Proxy', ',proxy'),
-    (r',(?:OpenAI|Claude|PayPal)$', ',US'),
+    (r',(?:Proxy)$', ',proxy'),
+    (r',(?:OpenAI|Claude|PayPal|Bing|Google)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
     (r'-suffix', '-SUFFIX'),
     (r'-keyword', '-KEYWORD'),
@@ -53,6 +53,7 @@ RULES = {
         "Claude": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Claude/Claude.list",
         "PayPal": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/PayPal/PayPal.list",
         "Google": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list",
+        "Bing": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Bing/Bing.list",
     },
     "StreamingRule": {
         "Netflix": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list",
