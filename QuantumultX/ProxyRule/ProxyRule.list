@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-22 04:06:57
+# 更新时间： 2023-11-22 09:34:49
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -3343,6 +3343,7 @@ HOST-SUFFIX,liuxiaotong.com,proxy
 HOST-SUFFIX,live.com,proxy
 HOST-SUFFIX,live.net,proxy
 HOST-SUFFIX,livecoin.net,proxy
+HOST-SUFFIX,livednow.com,proxy
 HOST-SUFFIX,livedoor.jp,proxy
 HOST-SUFFIX,livefilestore.com,proxy
 HOST-SUFFIX,liveleak.com,proxy
