@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-22 09:34:49
+# 更新时间： 2023-11-23 04:07:48
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -2413,6 +2413,7 @@ HOST-SUFFIX,google.vn,proxy
 HOST-SUFFIX,google.vu,proxy
 HOST-SUFFIX,google.ws,proxy
 HOST-SUFFIX,googleapis.cn,proxy
+HOST-SUFFIX,googleapis.com,proxy
 HOST-SUFFIX,googleapps.com,proxy
 HOST-SUFFIX,googlearth.com,proxy
 HOST-SUFFIX,googleartproject.com,proxy

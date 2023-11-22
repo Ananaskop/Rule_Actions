@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-22 09:35:11
+# 更新时间： 2023-11-23 04:08:11
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,118.89.204.198
@@ -89,7 +89,6 @@ DOMAIN,adstats.tencentmusic.com
 DOMAIN,adui.tg.meitu.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
-DOMAIN,adv.ccb.com
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
 DOMAIN,advertising.apple.com
@@ -188,7 +187,6 @@ DOMAIN,g.koowo.com
 DOMAIN,g1.163.com
 DOMAIN,g3.letv.com
 DOMAIN,galaxy.bjcathay.com
-DOMAIN,gdt.qq.com
 DOMAIN,gecko-pangle-lf.snssdk.com
 DOMAIN,geo2.adobe.com
 DOMAIN,ggc.cmvideo.cn
@@ -242,7 +240,6 @@ DOMAIN,iadmusicmatvideo.music.126.net
 DOMAIN,iadworkbench.apple.com
 DOMAIN,icloud-amap.com
 DOMAIN,ifengad.3g.ifeng.com
-DOMAIN,imageadv.ccb.com
 DOMAIN,images.ctfassets.net
 DOMAIN,img.auction-ads.wpscdn.cn
 DOMAIN,img.da.mgtv.com
@@ -257,7 +254,6 @@ DOMAIN,info6.video.qq.com
 DOMAIN,inspiringaccurate.com
 DOMAIN,ios-pclog.i4.cn
 DOMAIN,ios.video.mpush.qq.com
-DOMAIN,ipv4.gdt.qq.com
 DOMAIN,iqiyim.adtrack.enlightent.cn
 DOMAIN,is.snssdk.com
 DOMAIN,ivy.pchouse.com.cn
@@ -296,7 +292,6 @@ DOMAIN,mediation.adnxs.com
 DOMAIN,mercury-sdk.snssdk.com
 DOMAIN,metrics-picture.d.meituan.net
 DOMAIN,metrics.apple.com
-DOMAIN,mi.gdt.qq.com
 DOMAIN,minfo.wps.cn
 DOMAIN,mob.bz.mgtv.com
 DOMAIN,mobad.ijinshan.com
@@ -413,7 +408,6 @@ DOMAIN,tracking.intl.miui.com
 DOMAIN,tracklog.58.com
 DOMAIN,tunion-api.m.taobao.com
 DOMAIN,tysdk.95516.com
-DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,u51.me
 DOMAIN,uc.ucweb.com
@@ -453,6 +447,7 @@ DOMAIN,yt-adp.ws.126.net
 DOMAIN,zgsdk.zhugeio.com
 DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
+DOMAIN-KEYWORD,-tos.pstatp.com
 DOMAIN-KEYWORD,112wan
 DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,a.9game.cn
@@ -480,6 +475,7 @@ DOMAIN-KEYWORD,adsfilebssdlbig.ali.kugou.com
 DOMAIN-KEYWORD,adshare.toutiao.com
 DOMAIN-KEYWORD,adstrategy.biz.weibo.com
 DOMAIN-KEYWORD,adtrack.ucweb.com
+DOMAIN-KEYWORD,adv.ccb.com
 DOMAIN-KEYWORD,afpapi.alimama.com
 DOMAIN-KEYWORD,alitui.weibo.com
 DOMAIN-KEYWORD,alitui.weibo.com.cn
@@ -652,6 +648,8 @@ DOMAIN-KEYWORD,talk.bz.getui.com
 DOMAIN-KEYWORD,toateeli
 DOMAIN-KEYWORD,tosv.boe.byted.org
 DOMAIN-KEYWORD,tosv.byted.org
+DOMAIN-KEYWORD,trace.qq.com
+DOMAIN-KEYWORD,trace.video.qq.com
 DOMAIN-KEYWORD,track.uc.cn
 DOMAIN-KEYWORD,tracker.kugou.com
 DOMAIN-KEYWORD,trackercdnbj.kugou.com

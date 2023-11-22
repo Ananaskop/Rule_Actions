@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-22 09:34:49
+# 更新时间： 2023-11-23 04:07:48
 HOST,adeventtracker.spotify.com,Streaming
 HOST,adstudio-assets.scdn.co,Streaming
 HOST,audio-ak-spotify-com.akamaized.net,Streaming
@@ -262,6 +262,7 @@ HOST-SUFFIX,watchespn.com,Streaming
 HOST-SUFFIX,wide-youtube.l.google.com,Streaming
 HOST-SUFFIX,withyoutube.com,Streaming
 HOST-SUFFIX,youtu.be,Streaming
+HOST-SUFFIX,youtube,Streaming
 HOST-SUFFIX,youtube-nocookie.com,Streaming
 HOST-SUFFIX,youtube-ui.l.google.com,Streaming
 HOST-SUFFIX,youtube.ae,Streaming

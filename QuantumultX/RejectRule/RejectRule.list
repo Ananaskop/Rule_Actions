@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-22 09:34:49
+# 更新时间： 2023-11-23 04:07:47
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -89,7 +89,6 @@ HOST,adstats.tencentmusic.com,reject
 HOST,adui.tg.meitu.com,reject
 HOST,adv-adlog.variflight.com,reject
 HOST,adv-ads.variflight.com,reject
-HOST,adv.ccb.com,reject
 HOST,advertise.baicizhan.com,reject
 HOST,advertise.baicizhan.org,reject
 HOST,advertising.apple.com,reject
@@ -188,7 +187,6 @@ HOST,g.koowo.com,reject
 HOST,g1.163.com,reject
 HOST,g3.letv.com,reject
 HOST,galaxy.bjcathay.com,reject
-HOST,gdt.qq.com,reject
 HOST,gecko-pangle-lf.snssdk.com,reject
 HOST,geo2.adobe.com,reject
 HOST,ggc.cmvideo.cn,reject
@@ -242,7 +240,6 @@ HOST,iadmusicmatvideo.music.126.net,reject
 HOST,iadworkbench.apple.com,reject
 HOST,icloud-amap.com,reject
 HOST,ifengad.3g.ifeng.com,reject
-HOST,imageadv.ccb.com,reject
 HOST,images.ctfassets.net,reject
 HOST,img.auction-ads.wpscdn.cn,reject
 HOST,img.da.mgtv.com,reject
@@ -257,7 +254,6 @@ HOST,info6.video.qq.com,reject
 HOST,inspiringaccurate.com,reject
 HOST,ios-pclog.i4.cn,reject
 HOST,ios.video.mpush.qq.com,reject
-HOST,ipv4.gdt.qq.com,reject
 HOST,iqiyim.adtrack.enlightent.cn,reject
 HOST,is.snssdk.com,reject
 HOST,ivy.pchouse.com.cn,reject
@@ -296,7 +292,6 @@ HOST,mediation.adnxs.com,reject
 HOST,mercury-sdk.snssdk.com,reject
 HOST,metrics-picture.d.meituan.net,reject
 HOST,metrics.apple.com,reject
-HOST,mi.gdt.qq.com,reject
 HOST,minfo.wps.cn,reject
 HOST,mob.bz.mgtv.com,reject
 HOST,mobad.ijinshan.com,reject
@@ -413,7 +408,6 @@ HOST,tracking.intl.miui.com,reject
 HOST,tracklog.58.com,reject
 HOST,tunion-api.m.taobao.com,reject
 HOST,tysdk.95516.com,reject
-HOST,tytx.m.cn.miaozhen.com,reject
 HOST,u1.img.mobile.sina.cn,reject
 HOST,u51.me,reject
 HOST,uc.ucweb.com,reject
@@ -453,6 +447,7 @@ HOST,yt-adp.ws.126.net,reject
 HOST,zgsdk.zhugeio.com,reject
 HOST,zxid-m.mobileservice.cn,reject
 HOST-KEYWORD,-ad-sign.byteimg.com,reject
+HOST-KEYWORD,-tos.pstatp.com,reject
 HOST-KEYWORD,112wan,reject
 HOST-KEYWORD,789htbet,reject
 HOST-KEYWORD,a.9game.cn,reject
@@ -480,6 +475,7 @@ HOST-KEYWORD,adsfilebssdlbig.ali.kugou.com,reject
 HOST-KEYWORD,adshare.toutiao.com,reject
 HOST-KEYWORD,adstrategy.biz.weibo.com,reject
 HOST-KEYWORD,adtrack.ucweb.com,reject
+HOST-KEYWORD,adv.ccb.com,reject
 HOST-KEYWORD,afpapi.alimama.com,reject
 HOST-KEYWORD,alitui.weibo.com,reject
 HOST-KEYWORD,alitui.weibo.com.cn,reject
@@ -652,6 +648,8 @@ HOST-KEYWORD,talk.bz.getui.com,reject
 HOST-KEYWORD,toateeli,reject
 HOST-KEYWORD,tosv.boe.byted.org,reject
 HOST-KEYWORD,tosv.byted.org,reject
+HOST-KEYWORD,trace.qq.com,reject
+HOST-KEYWORD,trace.video.qq.com,reject
 HOST-KEYWORD,track.uc.cn,reject
 HOST-KEYWORD,tracker.kugou.com,reject
 HOST-KEYWORD,trackercdnbj.kugou.com,reject

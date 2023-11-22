@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-22 09:35:00
+# 更新时间： 2023-11-23 04:08:00
 payload:
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -252,6 +252,7 @@ payload:
   - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,withyoutube.com
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube
   - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,youtube-ui.l.google.com
   - DOMAIN-SUFFIX,youtube.ae
