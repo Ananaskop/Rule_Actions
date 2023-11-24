@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-24 04:07:18
+# 更新时间： 2023-11-25 04:07:11
 HOST,265.com,US
 HOST,2mdn-cn.net,US
 HOST,2mdn.net,US
@@ -7,7 +7,6 @@ HOST,accounts.xn--9trs65b.com,US
 HOST,accounts.xn--ggle-55da.com,US
 HOST,admob-cn.com,US
 HOST,adservice.google.com,US
-HOST,ai.cn,US
 HOST,ai.ytimg.com,US
 HOST,analytics.google.com,US
 HOST,app-measurement-cn.com,US
@@ -148,6 +147,7 @@ HOST,staging-controlbe.floonet.goog,US
 HOST,staging-databe.floonet.goog,US
 HOST,staging-regioninfo-pa.googleapis.com,US
 HOST,staging.databe.floonet.goog,US
+HOST,static.cloudflareinsights.com,US
 HOST,support.1ucrs.com,US
 HOST,tac.googleapis.com,US
 HOST,test.bugs-qa.chromium.org,US
@@ -207,6 +207,7 @@ HOST-SUFFIX,adwords.com,US
 HOST-SUFFIX,adwordsexpress.com,US
 HOST-SUFFIX,ai.com,US
 HOST-SUFFIX,ai.ytimg.com,US
+HOST-SUFFIX,algolia.net,US
 HOST-SUFFIX,amp.dev,US
 HOST-SUFFIX,ampproject.com,US
 HOST-SUFFIX,ampproject.net,US
@@ -220,6 +221,7 @@ HOST-SUFFIX,anfutong.com.cn,US
 HOST-SUFFIX,angulardart.org,US
 HOST-SUFFIX,anthropic.com,US
 HOST-SUFFIX,api.ai,US
+HOST-SUFFIX,api.statsig.com,US
 HOST-SUFFIX,apigee.com,US
 HOST-SUFFIX,app-measurement-cn.com,US
 HOST-SUFFIX,app-measurement.com,US
@@ -353,6 +355,7 @@ HOST-SUFFIX,card.io,US
 HOST-SUFFIX,cash2.com,US
 HOST-SUFFIX,cashify.com,US
 HOST-SUFFIX,cashify.net,US
+HOST-SUFFIX,cdn.cloudflare.net,US
 HOST-SUFFIX,certificate-transparency.dev,US
 HOST-SUFFIX,certificate-transparency.org,US
 HOST-SUFFIX,challenges.cloudflare.com,US
@@ -774,6 +777,7 @@ HOST-SUFFIX,keytransparency.foo,US
 HOST-SUFFIX,keytransparency.org,US
 HOST-SUFFIX,krakenjs.com,US
 HOST-SUFFIX,lanternal.com,US
+HOST-SUFFIX,launchdarkly.com,US
 HOST-SUFFIX,like.com,US
 HOST-SUFFIX,loanbuilder.com,US
 HOST-SUFFIX,login-paypal.com,US
@@ -812,6 +816,7 @@ HOST-SUFFIX,oaistatic.com,US
 HOST-SUFFIX,oaiusercontent.com,US
 HOST-SUFFIX,oasisfeng.com,US
 HOST-SUFFIX,oauthz.com,US
+HOST-SUFFIX,observeit.net,US
 HOST-SUFFIX,on.here,US
 HOST-SUFFIX,on2.com,US
 HOST-SUFFIX,onefifteen.net,US
@@ -1058,6 +1063,7 @@ HOST-SUFFIX,screenwisetrends.com,US
 HOST-SUFFIX,screenwisetrendspanel.com,US
 HOST-SUFFIX,secure-paypal.info,US
 HOST-SUFFIX,securepaypal.info,US
+HOST-SUFFIX,segment.io,US
 HOST-SUFFIX,sentry.io,US
 HOST-SUFFIX,sg,US
 HOST-SUFFIX,shattered.io,US

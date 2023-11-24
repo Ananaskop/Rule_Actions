@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-24 04:07:18
+# 更新时间： 2023-11-25 04:07:11
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -14,6 +14,7 @@ HOST,aod-ssl.itunes.apple.com,direct
 HOST,aod.itunes.apple.com,direct
 HOST,api-edge.apps.apple.com,direct
 HOST,api-glb-sea.smoot.apple.com,direct
+HOST,api.apps.apple.com,direct
 HOST,api.smoot.apple.cn,direct
 HOST,app-site-association.cdn-apple.com,direct
 HOST,appldnld.apple.com,direct
@@ -34,6 +35,7 @@ HOST,audio.itunes.apple.com,direct
 HOST,bag.itunes.apple.com,direct
 HOST,beatselectronicsllc.tt.omtrdc.net,direct
 HOST,beta.apple.com,direct
+HOST,beta.music.apple.com,direct
 HOST,bg.v4.a.dl.ws.microsoft.com,direct
 HOST,bg4.v4.a.dl.ws.microsoft.com,direct
 HOST,bj1.api.bing.com,direct
@@ -94,6 +96,7 @@ HOST,devimages-cdn.apple.com,direct
 HOST,devstreaming-cdn.apple.com,direct
 HOST,discussionschinese.apple.com,direct
 HOST,dl.google.com,direct
+HOST,docs-assets.developer.apple.com,direct
 HOST,docs.microsoft.com,direct
 HOST,download.developer.apple.com,direct
 HOST,download.jetbrains.com,direct
@@ -229,6 +232,7 @@ HOST,s.mzstatic.com,direct
 HOST,sandbox.itunes.apple.com,direct
 HOST,sdx.microsoft.com,direct
 HOST,se-edge.itunes.apple.com,direct
+HOST,se.itunes.apple.com,direct
 HOST,se2.itunes.apple.com,direct
 HOST,search.itunes.apple.com,direct
 HOST,sf-api-token-service.itunes.apple.com,direct
@@ -301,11 +305,13 @@ HOST-KEYWORD,apple.com.akadns.net,direct
 HOST-KEYWORD,apple.com.edgekey.net,direct
 HOST-KEYWORD,baidu,direct
 HOST-KEYWORD,beplay,direct
+HOST-KEYWORD,buy.itunes.apple.com,direct
 HOST-KEYWORD,icloud.com.akadns.net,direct
 HOST-KEYWORD,microsoft,direct
 HOST-KEYWORD,officecdn,direct
 HOST-KEYWORD,onedrive,direct
 HOST-KEYWORD,skydrive,direct
+HOST-KEYWORD,smp-device,direct
 HOST-KEYWORD,speedtest,direct
 HOST-KEYWORD,taobao,direct
 HOST-KEYWORD,testflight,direct
@@ -1857,6 +1863,7 @@ HOST-SUFFIX,cctv.com,direct
 HOST-SUFFIX,cctvpic.com,direct
 HOST-SUFFIX,cczq.com,direct
 HOST-SUFFIX,cczq.net,direct
+HOST-SUFFIX,cdn-apple-mapkit.com,direct
 HOST-SUFFIX,cdn-apple.com,direct
 HOST-SUFFIX,cdn20.com,direct
 HOST-SUFFIX,cdn30.org,direct
@@ -2455,6 +2462,7 @@ HOST-SUFFIX,discoverbing.com,direct
 HOST-SUFFIX,discussionsapple.com,direct
 HOST-SUFFIX,discuz.net,direct
 HOST-SUFFIX,discuz.org,direct
+HOST-SUFFIX,dispatcher.is.autonavi.com,direct
 HOST-SUFFIX,diyiyou.com,direct
 HOST-SUFFIX,dj99.com,direct
 HOST-SUFFIX,dkbeatsbydre.com,direct
@@ -3984,6 +3992,7 @@ HOST-SUFFIX,lovemarca.com,direct
 HOST-SUFFIX,lppz.com,direct
 HOST-SUFFIX,lppzimg.com,direct
 HOST-SUFFIX,lrts.me,direct
+HOST-SUFFIX,ls.apple.com.edgesuite.net,direct
 HOST-SUFFIX,lsplayer.com,direct
 HOST-SUFFIX,lu.com,direct
 HOST-SUFFIX,lucifr.com,direct
@@ -6284,6 +6293,7 @@ IP-ASN,134775,direct
 IP-ASN,134810,direct
 IP-ASN,134993,direct
 IP-ASN,135006,direct
+IP-ASN,135054,direct
 IP-ASN,135061,direct
 IP-ASN,135089,direct
 IP-ASN,135120,direct
@@ -6293,6 +6303,7 @@ IP-ASN,135364,direct
 IP-ASN,135629,direct
 IP-ASN,135671,direct
 IP-ASN,135883,direct
+IP-ASN,136146,direct
 IP-ASN,136160,direct
 IP-ASN,136173,direct
 IP-ASN,136180,direct
@@ -6359,6 +6370,7 @@ IP-ASN,137804,direct
 IP-ASN,137806,direct
 IP-ASN,137835,direct
 IP-ASN,137882,direct
+IP-ASN,137897,direct
 IP-ASN,138029,direct
 IP-ASN,138169,direct
 IP-ASN,138182,direct
@@ -6409,7 +6421,6 @@ IP-ASN,139100,direct
 IP-ASN,139110,direct
 IP-ASN,139112,direct
 IP-ASN,139118,direct
-IP-ASN,139133,direct
 IP-ASN,139136,direct
 IP-ASN,139138,direct
 IP-ASN,139139,direct
@@ -6651,10 +6662,8 @@ IP-ASN,142549,direct
 IP-ASN,142551,direct
 IP-ASN,142553,direct
 IP-ASN,142554,direct
-IP-ASN,142582,direct
 IP-ASN,142608,direct
 IP-ASN,142611,direct
-IP-ASN,142634,direct
 IP-ASN,142642,direct
 IP-ASN,146746,direct
 IP-ASN,146758,direct
@@ -6681,6 +6690,7 @@ IP-ASN,149178,direct
 IP-ASN,149292,direct
 IP-ASN,149475,direct
 IP-ASN,149648,direct
+IP-ASN,149793,direct
 IP-ASN,149795,direct
 IP-ASN,149837,direct
 IP-ASN,149979,direct
@@ -6702,7 +6712,7 @@ IP-ASN,151202,direct
 IP-ASN,151311,direct
 IP-ASN,151313,direct
 IP-ASN,151331,direct
-IP-ASN,151334,direct
+IP-ASN,151397,direct
 IP-ASN,151416,direct
 IP-ASN,151418,direct
 IP-ASN,151464,direct
@@ -6713,7 +6723,6 @@ IP-ASN,151673,direct
 IP-ASN,151674,direct
 IP-ASN,151782,direct
 IP-ASN,151785,direct
-IP-ASN,151800,direct
 IP-ASN,151814,direct
 IP-ASN,17428,direct
 IP-ASN,17429,direct
@@ -6753,6 +6762,7 @@ IP-ASN,198527,direct
 IP-ASN,198764,direct
 IP-ASN,199068,direct
 IP-ASN,199307,direct
+IP-ASN,199310,direct
 IP-ASN,199392,direct
 IP-ASN,199406,direct
 IP-ASN,199436,direct
@@ -6775,18 +6785,16 @@ IP-ASN,200728,direct
 IP-ASN,200782,direct
 IP-ASN,200809,direct
 IP-ASN,200853,direct
-IP-ASN,200885,direct
 IP-ASN,200890,direct
 IP-ASN,200895,direct
 IP-ASN,200907,direct
 IP-ASN,200912,direct
 IP-ASN,200936,direct
-IP-ASN,200949,direct
 IP-ASN,200954,direct
 IP-ASN,200959,direct
 IP-ASN,202256,direct
-IP-ASN,202473,direct
-IP-ASN,203023,direct
+IP-ASN,203083,direct
+IP-ASN,203133,direct
 IP-ASN,203236,direct
 IP-ASN,203655,direct
 IP-ASN,203664,direct
@@ -6846,7 +6854,6 @@ IP-ASN,210872,direct
 IP-ASN,210903,direct
 IP-ASN,210934,direct
 IP-ASN,211051,direct
-IP-ASN,211293,direct
 IP-ASN,211481,direct
 IP-ASN,211571,direct
 IP-ASN,211843,direct
@@ -6861,6 +6868,7 @@ IP-ASN,212690,direct
 IP-ASN,212793,direct
 IP-ASN,213069,direct
 IP-ASN,213115,direct
+IP-ASN,216056,direct
 IP-ASN,216173,direct
 IP-ASN,216243,direct
 IP-ASN,216299,direct
@@ -7032,8 +7040,6 @@ IP-ASN,55967,direct
 IP-ASN,55971,direct
 IP-ASN,55973,direct
 IP-ASN,55982,direct
-IP-ASN,55988,direct
-IP-ASN,55989,direct
 IP-ASN,55990,direct
 IP-ASN,55992,direct
 IP-ASN,55994,direct
@@ -7058,7 +7064,6 @@ IP-ASN,56046,direct
 IP-ASN,56047,direct
 IP-ASN,56048,direct
 IP-ASN,56282,direct
-IP-ASN,58026,direct
 IP-ASN,58251,direct
 IP-ASN,58336,direct
 IP-ASN,58448,direct
@@ -7232,11 +7237,21 @@ USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,direct
 USER-AGENT,%E4%BC%98%E9%85%B7*,direct
 USER-AGENT,%E5%8D%B3%E5%88%BB*,direct
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,direct
+USER-AGENT,*FindMyiPhone?,direct
+USER-AGENT,*Music?,direct
 USER-AGENT,*Vainglory*,direct
+USER-AGENT,*WeatherFoundation*,direct
+USER-AGENT,*com.apple.Maps?,direct
+USER-AGENT,*com.apple.mobileme.fmip1,direct
 USER-AGENT,AdBlock*,direct
 USER-AGENT,AppleNews*,direct
 USER-AGENT,AppleTV*,direct
 USER-AGENT,Best%20Trace*,direct
+USER-AGENT,FMDClient*,direct
+USER-AGENT,FMFD*,direct
+USER-AGENT,FindMyFriends*,direct
+USER-AGENT,FindMyiPhone*,direct
+USER-AGENT,Maps*,direct
 USER-AGENT,MegaWerewolf*,direct
 USER-AGENT,MicroMessenger%20Client,direct
 USER-AGENT,MicroMessenger*,direct
@@ -7252,6 +7267,7 @@ USER-AGENT,RemotePlay*,direct
 USER-AGENT,SpeedTest*,direct
 USER-AGENT,TIM*,direct
 USER-AGENT,TeamViewer*,direct
+USER-AGENT,Wallet*,direct
 USER-AGENT,WeChat*,direct
 USER-AGENT,WebTorrent*,direct
 USER-AGENT,YYeTs*,direct
@@ -7259,11 +7275,16 @@ USER-AGENT,arrowio*,direct
 USER-AGENT,balls*,direct
 USER-AGENT,cmb*,direct
 USER-AGENT,cmblife*,direct
+USER-AGENT,com.apple.Maps,direct
 USER-AGENT,com.apple.appstored*,direct
 USER-AGENT,com.apple.news*,direct
 USER-AGENT,com.apple.trustd*,direct
 USER-AGENT,com.apple.tv*,direct
 USER-AGENT,eusoft_ting_en_iphone,direct
+USER-AGENT,fmflocatord*,direct
+USER-AGENT,geod*,direct
 USER-AGENT,hearthstone*,direct
 USER-AGENT,hide*,direct
+USER-AGENT,locationd*,direct
+USER-AGENT,passd*,direct
 USER-AGENT,ting_en,direct
