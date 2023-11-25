@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-25 04:07:22
+# 更新时间： 2023-11-26 04:09:36
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -330,15 +330,12 @@ payload:
   - DOMAIN,p1-play.edge4k.com
   - DOMAIN,p1-play.kgslb.com
   - DOMAIN,p2-play.edge4k.com
-  - DOMAIN,p6-ad-sign.byteimg.com
-  - DOMAIN,p9-ad-sign.byteimg.com
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,pageviewp.icbc.com.cn
   - DOMAIN,passport.bilibili.com
   - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,pgdt.gtimg.com
   - DOMAIN,pgdt.ugdtimg.com
-  - DOMAIN,pglstatp-toutiao.com
   - DOMAIN,pin.hpplay.cn
   - DOMAIN,pl.cp31.ott.cibntv.net
   - DOMAIN,play.kakao.com
@@ -378,7 +375,6 @@ payload:
   - DOMAIN,sealine.youku.com
   - DOMAIN,securemetrics.apple.com
   - DOMAIN,security-lq.snssdk.com
-  - DOMAIN,sf3-ttcdn-tos.pstatp.com
   - DOMAIN,sin3-ib.adnxs.com
   - DOMAIN,soul-ad.soulapp.cn
   - DOMAIN,splashqqlive.gtimg.com
@@ -549,6 +545,7 @@ payload:
   - DOMAIN-KEYWORD,haowanyou
   - DOMAIN-KEYWORD,highwebmedia
   - DOMAIN-KEYWORD,histats
+  - DOMAIN-KEYWORD,huichuan-mc.sm.cn
   - DOMAIN-KEYWORD,huichuan.sm.cn
   - DOMAIN-KEYWORD,iflyad.bj.openstorage.cn
   - DOMAIN-KEYWORD,image.bianxianmao.com
@@ -562,7 +559,7 @@ payload:
   - DOMAIN-KEYWORD,kgipadstat.kugou.com
   - DOMAIN-KEYWORD,kgipadstatbak.kugou.com
   - DOMAIN-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com
-  - DOMAIN-KEYWORD,ktd.m.cn.miaozhen.com
+  - DOMAIN-KEYWORD,knockout
   - DOMAIN-KEYWORD,lieyou
   - DOMAIN-KEYWORD,lkme.cc
   - DOMAIN-KEYWORD,log-api.pangolin-sdk-toutiao-b.com
@@ -596,13 +593,9 @@ payload:
   - DOMAIN-KEYWORD,onenews
   - DOMAIN-KEYWORD,ossgw.alicdn.com
   - DOMAIN-KEYWORD,ossp.voicecloud.cn
-  - DOMAIN-KEYWORD,p26-be-pack-sign.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,p3-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN-KEYWORD,p3-pack.byteimg.com
   - DOMAIN-KEYWORD,p3.pstatp.com
-  - DOMAIN-KEYWORD,p6-ad-sign.byteimg.com
   - DOMAIN-KEYWORD,p6-pack.byteimg.com
-  - DOMAIN-KEYWORD,p9-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN-KEYWORD,pagespeed-mod
   - DOMAIN-KEYWORD,pangolin-sdk-toutiao
   - DOMAIN-KEYWORD,pangolin.snssdk.com
@@ -622,7 +615,6 @@ payload:
   - DOMAIN-KEYWORD,s.alitui.weibo.com
   - DOMAIN-KEYWORD,s1.pstatp.com
   - DOMAIN-KEYWORD,s2.pstatp.com
-  - DOMAIN-KEYWORD,s3-fe-scm.pglstatp-toutiao.com
   - DOMAIN-KEYWORD,s3.pstatp.com
   - DOMAIN-KEYWORD,s3a.pstatp.com
   - DOMAIN-KEYWORD,safebrowsing.
@@ -631,15 +623,6 @@ payload:
   - DOMAIN-KEYWORD,sdkapp.uve.weibo.com
   - DOMAIN-KEYWORD,searchrecommend.kugou.com
   - DOMAIN-KEYWORD,server.m.pp.cn
-  - DOMAIN-KEYWORD,sf1-be-pack.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,sf1-be-tos.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,sf1-fe-tos.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,sf1-ttcdn-tos.pstatp.com
-  - DOMAIN-KEYWORD,sf3-be-pack.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,sf3-fe-tos.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,sf3-ttcdn-tos.pstatp.com
-  - DOMAIN-KEYWORD,sf6-be-pack.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,sf6-fe-tos.pglstatp-toutiao.com
   - DOMAIN-KEYWORD,splashimgbssdl.yun.kugou.com
   - DOMAIN-KEYWORD,static.wkanx.com
   - DOMAIN-KEYWORD,stsdk.vivo.com.cn
@@ -679,7 +662,6 @@ payload:
   - DOMAIN-KEYWORD,www.qmlog.cn
   - DOMAIN-KEYWORD,xn--2qux23c9ziyrq
   - DOMAIN-KEYWORD,xxshuyuan
-  - DOMAIN-KEYWORD,yktd.m.cn.miaozhen.com
   - DOMAIN-KEYWORD,ynuf.alipay.com
   - DOMAIN-KEYWORD,zc.biz.weibo.com
   - DOMAIN-KEYWORD,zijieapi
@@ -4917,7 +4899,6 @@ payload:
   - DOMAIN-SUFFIX,ape-tagit.timeinc.net
   - DOMAIN-SUFFIX,apeagle.io
   - DOMAIN-SUFFIX,apenterprise.io
-  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,api-analytics-prd.pelcro.com
   - DOMAIN-SUFFIX,api-flow.flyme.cn
   - DOMAIN-SUFFIX,api-game.meizu.com
@@ -13892,7 +13873,6 @@ payload:
   - DOMAIN-SUFFIX,kstj.baidu.com
   - DOMAIN-SUFFIX,kszpsc.waschbaer.ch
   - DOMAIN-SUFFIX,kt220.com
-  - DOMAIN-SUFFIX,ktd.m.cn.miaozhen.com
   - DOMAIN-SUFFIX,ktivn.uranus.sogou.com
   - DOMAIN-SUFFIX,ktracker.kumparan.com
   - DOMAIN-SUFFIX,ktunions.com
@@ -18212,7 +18192,6 @@ payload:
   - DOMAIN-SUFFIX,p242.plainwrk.name
   - DOMAIN-SUFFIX,p2pmid.baofeng.com
   - DOMAIN-SUFFIX,p2r14.com
-  - DOMAIN-SUFFIX,p3-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,p3p.mmstat.com
   - DOMAIN-SUFFIX,p3p.sogou.com
   - DOMAIN-SUFFIX,p3p.yahoo.com
@@ -18220,12 +18199,10 @@ payload:
   - DOMAIN-SUFFIX,p4p.sina.com.cn
   - DOMAIN-SUFFIX,p4psearch.china.alibaba.com
   - DOMAIN-SUFFIX,p555.cc
-  - DOMAIN-SUFFIX,p6-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,p7cloud.net
   - DOMAIN-SUFFIX,p7h1silo3f.app.cainthus.com
   - DOMAIN-SUFFIX,p8s.oxbowshop.com
   - DOMAIN-SUFFIX,p8u.hinet.net
-  - DOMAIN-SUFFIX,p9-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,pa-stats.encore.dev
   - DOMAIN-SUFFIX,pa.opqr.co
   - DOMAIN-SUFFIX,pa.travelwhiz.app
@@ -18308,8 +18285,6 @@ payload:
   - DOMAIN-SUFFIX,panda.kasika.io
   - DOMAIN-SUFFIX,panda.kdnet.net
   - DOMAIN-SUFFIX,pangle.io
-  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pangu.cc
   - DOMAIN-SUFFIX,panickycurtain.com
   - DOMAIN-SUFFIX,panickypancake.com
@@ -18501,7 +18476,6 @@ payload:
   - DOMAIN-SUFFIX,pgdt.gtimg.com
   - DOMAIN-SUFFIX,pgdt.ugdtimg.com
   - DOMAIN-SUFFIX,pgkxhq.jamesallen.com
-  - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,pgs.farmprogress.com
   - DOMAIN-SUFFIX,pgt1.voyage-prive.es
   - DOMAIN-SUFFIX,ph.roturadepantalla.com
@@ -30337,7 +30311,6 @@ payload:
   - DOMAIN-SUFFIX,ykbei.com
   - DOMAIN-SUFFIX,ykjmy.com
   - DOMAIN-SUFFIX,ykrec.youku.com
-  - DOMAIN-SUFFIX,yktd.m.cn.miaozhen.com
   - DOMAIN-SUFFIX,yktj.yzz.cn
   - DOMAIN-SUFFIX,ykxwn.com
   - DOMAIN-SUFFIX,yl850555.com
