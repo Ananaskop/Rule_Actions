@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-26 04:09:24
+# 更新时间： 2023-11-27 04:06:55
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -71,8 +71,6 @@ HOST,ads.snapchat.com,reject
 HOST,ads.yahoo.com,reject
 HOST,ads.yahoo.de,reject
 HOST,ads.youtube.com,reject
-HOST,ads3-normal-lq.zijieapi.com,reject
-HOST,ads5-normal-lq.zijieapi.com,reject
 HOST,adsapi.snapchat.com,reject
 HOST,adsdk.vivo.com.cn,reject
 HOST,adserviceretry.kugou.com,reject
@@ -649,6 +647,8 @@ HOST-KEYWORD,v2.reachmax.cn,reject
 HOST-KEYWORD,val.atm.youku.com,reject
 HOST-KEYWORD,video-cn.snssdk.com,reject
 HOST-KEYWORD,vidoza,reject
+HOST-KEYWORD,volceapplog.com,reject
+HOST-KEYWORD,volcvod.com,reject
 HOST-KEYWORD,vs.biz.weibo.com,reject
 HOST-KEYWORD,vs10.bj2ct.u3.ucweb.com,reject
 HOST-KEYWORD,wax.weibo.com,reject
@@ -663,8 +663,8 @@ HOST-KEYWORD,xn--2qux23c9ziyrq,reject
 HOST-KEYWORD,xxshuyuan,reject
 HOST-KEYWORD,ynuf.alipay.com,reject
 HOST-KEYWORD,zc.biz.weibo.com,reject
-HOST-KEYWORD,zijieapi,reject
 HOST-KEYWORD,zymo.mps.weibo.com,reject
+HOST-SUFFIX,-normal-lq.zijieapi.com,reject
 HOST-SUFFIX,0.r.msn.com,reject
 HOST-SUFFIX,000dn.com,reject
 HOST-SUFFIX,001union.com,reject
