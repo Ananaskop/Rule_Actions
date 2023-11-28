@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-28 04:07:16
+# 更新时间： 2023-11-29 04:07:40
 HOST,265.com,US
 HOST,2mdn-cn.net,US
 HOST,2mdn.net,US
@@ -24,6 +24,7 @@ HOST,c.android.clients.google.com,US
 HOST,cache-management-prod.google.com,US
 HOST,cache.pack.google.com,US
 HOST,cdn.usefathom.com,US
+HOST,chatgpt.livekit.cloud,US
 HOST,checkin.gstatic.com,US
 HOST,clickserve.cc-dt.com,US
 HOST,clickserve.dartsearch.net,US

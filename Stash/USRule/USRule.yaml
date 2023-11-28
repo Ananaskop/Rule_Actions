@@ -1,6 +1,7 @@
-# 更新时间： 2023-11-28 04:07:29
+# 更新时间： 2023-11-29 04:07:52
 payload:
   - DOMAIN,cdn.usefathom.com
+  - DOMAIN,chatgpt.livekit.cloud
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
