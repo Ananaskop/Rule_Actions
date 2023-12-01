@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-01 14:32:49
+# 更新时间： 2023-12-02 04:07:30
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -277,7 +277,6 @@ HOST,logs.chelaile.net.cn,reject
 HOST,lookup.api.bsb.baidu.com,reject
 HOST,m-vali.cp31.ott.cibntv.net,reject
 HOST,m.adyounger.com,reject
-HOST,mall.bilibili.com,reject
 HOST,mapi.apptimize.com,reject
 HOST,maplocatesdksnapshot.d.meituan.net,reject
 HOST,mc.51.la,reject
@@ -329,7 +328,6 @@ HOST,p1-play.kgslb.com,reject
 HOST,p2-play.edge4k.com,reject
 HOST,pagead2.googlesyndication.com,reject
 HOST,pageviewp.icbc.com.cn,reject
-HOST,passport.bilibili.com,reject
 HOST,pgdt.gtimg.cn,reject
 HOST,pgdt.gtimg.com,reject
 HOST,pgdt.ugdtimg.com,reject
@@ -542,6 +540,8 @@ HOST-KEYWORD,gw6.push.mcp.weibo.cn,reject
 HOST-KEYWORD,haowanyou,reject
 HOST-KEYWORD,highwebmedia,reject
 HOST-KEYWORD,histats,reject
+HOST-KEYWORD,httpdns-,reject
+HOST-KEYWORD,httpdns.,reject
 HOST-KEYWORD,huichuan-mc.sm.cn,reject
 HOST-KEYWORD,huichuan.sm.cn,reject
 HOST-KEYWORD,iflyad.bj.openstorage.cn,reject
@@ -3581,6 +3581,7 @@ HOST-SUFFIX,ad.gmw.cn,reject
 HOST-SUFFIX,ad.go.com,reject
 HOST-SUFFIX,ad.gogox.com,reject
 HOST-SUFFIX,ad.greedland.net,reject
+HOST-SUFFIX,ad.gt,reject
 HOST-SUFFIX,ad.gtbrowser.com,reject
 HOST-SUFFIX,ad.hefei.cc,reject
 HOST-SUFFIX,ad.hiiir.com,reject
