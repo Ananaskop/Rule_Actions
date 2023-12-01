@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/GiveYou32Likes/Rule_Actions/main/QuantumultX/P
 ```
 ## Stash 使用
 ```
-	rule-providers:
+rule-providers:
   CorrectionRule: {!!merge <<: *c, path: ./rule_provider/CorrectionRule.yaml, url: 'https://raw.githubusercontent.com/GiveYou32Likes/Rule_Actions/main/Stash/CorrectionRule/CorrectionRule.yaml'}
   RejectRule: {!!merge <<: *c, path: ./rule_provider/RejectRule.yaml, url: 'https://raw.githubusercontent.com/GiveYou32Likes/Rule_Actions/main/Stash/RejectRule/RejectRule.yaml'}
   StreamingRule: {!!merge <<: *c, path: ./rule_provider/StreamingRule.yaml, url: 'https://raw.githubusercontent.com/GiveYou32Likes/Rule_Actions/main/Stash/StreamingRule/StreamingRule.yaml'}
