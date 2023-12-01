@@ -98,6 +98,13 @@ def remove_old_files():
         else:
             print(f"旧文件夹不存在：{target_directory}")
 
+def remove_old_files_except_merged(path):
+    for file_name in os.listdir(path):
+        file_path = os.path.join(path, file_name)
+        if os.path.isfile(file_path) and file_name != f"{os.path.basename(path)}.yaml":
+            os.remove(file_path)
+            print(f"已删除文件：{file_path}")
+
 def merge_and_deduplicate_files(path):
     output_file_path = os.path.join(path, f"{os.path.basename(path)}.yaml")
     with open(output_file_path, 'w', encoding='utf8') as out_f:
@@ -138,5 +145,8 @@ if __name__ == '__main__':
             
         # 合并文件并去重
         output_file_path = merge_and_deduplicate_files(path)
+
+        # 删除文件夹内的其他文件
+        remove_old_files_except_merged(path)
 
         print(f"{os.path.basename(output_file_path)} 文件创建成功")
