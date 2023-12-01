@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-23 04:07:47
+# 更新时间： 2023-12-01 04:07:24
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -71,8 +71,6 @@ HOST,ads.snapchat.com,reject
 HOST,ads.yahoo.com,reject
 HOST,ads.yahoo.de,reject
 HOST,ads.youtube.com,reject
-HOST,ads3-normal-lq.zijieapi.com,reject
-HOST,ads5-normal-lq.zijieapi.com,reject
 HOST,adsapi.snapchat.com,reject
 HOST,adsdk.vivo.com.cn,reject
 HOST,adserviceretry.kugou.com,reject
@@ -329,15 +327,12 @@ HOST,p.l.qq.com,reject
 HOST,p1-play.edge4k.com,reject
 HOST,p1-play.kgslb.com,reject
 HOST,p2-play.edge4k.com,reject
-HOST,p6-ad-sign.byteimg.com,reject
-HOST,p9-ad-sign.byteimg.com,reject
 HOST,pagead2.googlesyndication.com,reject
 HOST,pageviewp.icbc.com.cn,reject
 HOST,passport.bilibili.com,reject
 HOST,pgdt.gtimg.cn,reject
 HOST,pgdt.gtimg.com,reject
 HOST,pgdt.ugdtimg.com,reject
-HOST,pglstatp-toutiao.com,reject
 HOST,pin.hpplay.cn,reject
 HOST,pl.cp31.ott.cibntv.net,reject
 HOST,play.kakao.com,reject
@@ -377,7 +372,6 @@ HOST,sdkconfig.ad.xiaomi.com,reject
 HOST,sealine.youku.com,reject
 HOST,securemetrics.apple.com,reject
 HOST,security-lq.snssdk.com,reject
-HOST,sf3-ttcdn-tos.pstatp.com,reject
 HOST,sin3-ib.adnxs.com,reject
 HOST,soul-ad.soulapp.cn,reject
 HOST,splashqqlive.gtimg.com,reject
@@ -548,6 +542,7 @@ HOST-KEYWORD,gw6.push.mcp.weibo.cn,reject
 HOST-KEYWORD,haowanyou,reject
 HOST-KEYWORD,highwebmedia,reject
 HOST-KEYWORD,histats,reject
+HOST-KEYWORD,huichuan-mc.sm.cn,reject
 HOST-KEYWORD,huichuan.sm.cn,reject
 HOST-KEYWORD,iflyad.bj.openstorage.cn,reject
 HOST-KEYWORD,image.bianxianmao.com,reject
@@ -561,7 +556,7 @@ HOST-KEYWORD,keplerapi.jd.com,reject
 HOST-KEYWORD,kgipadstat.kugou.com,reject
 HOST-KEYWORD,kgipadstatbak.kugou.com,reject
 HOST-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com,reject
-HOST-KEYWORD,ktd.m.cn.miaozhen.com,reject
+HOST-KEYWORD,knockout,reject
 HOST-KEYWORD,lieyou,reject
 HOST-KEYWORD,lkme.cc,reject
 HOST-KEYWORD,log-api.pangolin-sdk-toutiao-b.com,reject
@@ -595,13 +590,9 @@ HOST-KEYWORD,omgmta1.qq.com,reject
 HOST-KEYWORD,onenews,reject
 HOST-KEYWORD,ossgw.alicdn.com,reject
 HOST-KEYWORD,ossp.voicecloud.cn,reject
-HOST-KEYWORD,p26-be-pack-sign.pglstatp-toutiao.com,reject
-HOST-KEYWORD,p3-be-pack-sign.pglstatp-toutiao.com,reject
 HOST-KEYWORD,p3-pack.byteimg.com,reject
 HOST-KEYWORD,p3.pstatp.com,reject
-HOST-KEYWORD,p6-ad-sign.byteimg.com,reject
 HOST-KEYWORD,p6-pack.byteimg.com,reject
-HOST-KEYWORD,p9-be-pack-sign.pglstatp-toutiao.com,reject
 HOST-KEYWORD,pagespeed-mod,reject
 HOST-KEYWORD,pangolin-sdk-toutiao,reject
 HOST-KEYWORD,pangolin.snssdk.com,reject
@@ -621,7 +612,6 @@ HOST-KEYWORD,rtmretry.kugou.com,reject
 HOST-KEYWORD,s.alitui.weibo.com,reject
 HOST-KEYWORD,s1.pstatp.com,reject
 HOST-KEYWORD,s2.pstatp.com,reject
-HOST-KEYWORD,s3-fe-scm.pglstatp-toutiao.com,reject
 HOST-KEYWORD,s3.pstatp.com,reject
 HOST-KEYWORD,s3a.pstatp.com,reject
 HOST-KEYWORD,safebrowsing.,reject
@@ -630,15 +620,6 @@ HOST-KEYWORD,sdk.open.talk.getui.com,reject
 HOST-KEYWORD,sdkapp.uve.weibo.com,reject
 HOST-KEYWORD,searchrecommend.kugou.com,reject
 HOST-KEYWORD,server.m.pp.cn,reject
-HOST-KEYWORD,sf1-be-pack.pglstatp-toutiao.com,reject
-HOST-KEYWORD,sf1-be-tos.pglstatp-toutiao.com,reject
-HOST-KEYWORD,sf1-fe-tos.pglstatp-toutiao.com,reject
-HOST-KEYWORD,sf1-ttcdn-tos.pstatp.com,reject
-HOST-KEYWORD,sf3-be-pack.pglstatp-toutiao.com,reject
-HOST-KEYWORD,sf3-fe-tos.pglstatp-toutiao.com,reject
-HOST-KEYWORD,sf3-ttcdn-tos.pstatp.com,reject
-HOST-KEYWORD,sf6-be-pack.pglstatp-toutiao.com,reject
-HOST-KEYWORD,sf6-fe-tos.pglstatp-toutiao.com,reject
 HOST-KEYWORD,splashimgbssdl.yun.kugou.com,reject
 HOST-KEYWORD,static.wkanx.com,reject
 HOST-KEYWORD,stsdk.vivo.com.cn,reject
@@ -666,6 +647,8 @@ HOST-KEYWORD,v2.reachmax.cn,reject
 HOST-KEYWORD,val.atm.youku.com,reject
 HOST-KEYWORD,video-cn.snssdk.com,reject
 HOST-KEYWORD,vidoza,reject
+HOST-KEYWORD,volceapplog.com,reject
+HOST-KEYWORD,volcvod.com,reject
 HOST-KEYWORD,vs.biz.weibo.com,reject
 HOST-KEYWORD,vs10.bj2ct.u3.ucweb.com,reject
 HOST-KEYWORD,wax.weibo.com,reject
@@ -678,11 +661,10 @@ HOST-KEYWORD,wixsite.com,reject
 HOST-KEYWORD,www.qmlog.cn,reject
 HOST-KEYWORD,xn--2qux23c9ziyrq,reject
 HOST-KEYWORD,xxshuyuan,reject
-HOST-KEYWORD,yktd.m.cn.miaozhen.com,reject
 HOST-KEYWORD,ynuf.alipay.com,reject
 HOST-KEYWORD,zc.biz.weibo.com,reject
-HOST-KEYWORD,zijieapi,reject
 HOST-KEYWORD,zymo.mps.weibo.com,reject
+HOST-SUFFIX,-normal-lq.zijieapi.com,reject
 HOST-SUFFIX,0.r.msn.com,reject
 HOST-SUFFIX,000dn.com,reject
 HOST-SUFFIX,001union.com,reject
@@ -4916,7 +4898,6 @@ HOST-SUFFIX,apathetictheory.com,reject
 HOST-SUFFIX,ape-tagit.timeinc.net,reject
 HOST-SUFFIX,apeagle.io,reject
 HOST-SUFFIX,apenterprise.io,reject
-HOST-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,reject
 HOST-SUFFIX,api-analytics-prd.pelcro.com,reject
 HOST-SUFFIX,api-flow.flyme.cn,reject
 HOST-SUFFIX,api-game.meizu.com,reject
@@ -13891,7 +13872,6 @@ HOST-SUFFIX,ksrsy.com,reject
 HOST-SUFFIX,kstj.baidu.com,reject
 HOST-SUFFIX,kszpsc.waschbaer.ch,reject
 HOST-SUFFIX,kt220.com,reject
-HOST-SUFFIX,ktd.m.cn.miaozhen.com,reject
 HOST-SUFFIX,ktivn.uranus.sogou.com,reject
 HOST-SUFFIX,ktracker.kumparan.com,reject
 HOST-SUFFIX,ktunions.com,reject
@@ -18211,7 +18191,6 @@ HOST-SUFFIX,p215223.mycdn2.co,reject
 HOST-SUFFIX,p242.plainwrk.name,reject
 HOST-SUFFIX,p2pmid.baofeng.com,reject
 HOST-SUFFIX,p2r14.com,reject
-HOST-SUFFIX,p3-be-pack-sign.pglstatp-toutiao.com,reject
 HOST-SUFFIX,p3p.mmstat.com,reject
 HOST-SUFFIX,p3p.sogou.com,reject
 HOST-SUFFIX,p3p.yahoo.com,reject
@@ -18219,12 +18198,10 @@ HOST-SUFFIX,p3tt.com,reject
 HOST-SUFFIX,p4p.sina.com.cn,reject
 HOST-SUFFIX,p4psearch.china.alibaba.com,reject
 HOST-SUFFIX,p555.cc,reject
-HOST-SUFFIX,p6-be-pack-sign.pglstatp-toutiao.com,reject
 HOST-SUFFIX,p7cloud.net,reject
 HOST-SUFFIX,p7h1silo3f.app.cainthus.com,reject
 HOST-SUFFIX,p8s.oxbowshop.com,reject
 HOST-SUFFIX,p8u.hinet.net,reject
-HOST-SUFFIX,p9-be-pack-sign.pglstatp-toutiao.com,reject
 HOST-SUFFIX,pa-stats.encore.dev,reject
 HOST-SUFFIX,pa.opqr.co,reject
 HOST-SUFFIX,pa.travelwhiz.app,reject
@@ -18307,8 +18284,6 @@ HOST-SUFFIX,pan.render.com,reject
 HOST-SUFFIX,panda.kasika.io,reject
 HOST-SUFFIX,panda.kdnet.net,reject
 HOST-SUFFIX,pangle.io,reject
-HOST-SUFFIX,pangolin-sdk-toutiao-b.com,reject
-HOST-SUFFIX,pangolin-sdk-toutiao.com,reject
 HOST-SUFFIX,pangu.cc,reject
 HOST-SUFFIX,panickycurtain.com,reject
 HOST-SUFFIX,panickypancake.com,reject
@@ -18500,7 +18475,6 @@ HOST-SUFFIX,pfpip.sina.com,reject
 HOST-SUFFIX,pgdt.gtimg.com,reject
 HOST-SUFFIX,pgdt.ugdtimg.com,reject
 HOST-SUFFIX,pgkxhq.jamesallen.com,reject
-HOST-SUFFIX,pglstatp-toutiao.com,reject
 HOST-SUFFIX,pgs.farmprogress.com,reject
 HOST-SUFFIX,pgt1.voyage-prive.es,reject
 HOST-SUFFIX,ph.roturadepantalla.com,reject
@@ -30336,7 +30310,6 @@ HOST-SUFFIX,ykatr.youku.com,reject
 HOST-SUFFIX,ykbei.com,reject
 HOST-SUFFIX,ykjmy.com,reject
 HOST-SUFFIX,ykrec.youku.com,reject
-HOST-SUFFIX,yktd.m.cn.miaozhen.com,reject
 HOST-SUFFIX,yktj.yzz.cn,reject
 HOST-SUFFIX,ykxwn.com,reject
 HOST-SUFFIX,yl850555.com,reject

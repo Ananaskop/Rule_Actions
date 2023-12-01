@@ -1,6 +1,7 @@
-# 更新时间： 2023-11-23 04:08:11
-DOMAIN,ai.cn
+# 更新时间： 2023-12-01 04:07:47
 DOMAIN,cdn.usefathom.com
+DOMAIN,chatgpt.livekit.cloud
+DOMAIN,static.cloudflareinsights.com
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
@@ -37,6 +38,7 @@ DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai.ytimg.com
+DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
@@ -50,6 +52,7 @@ DOMAIN-SUFFIX,anfutong.com.cn
 DOMAIN-SUFFIX,angulardart.org
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.ai
+DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
@@ -183,6 +186,7 @@ DOMAIN-SUFFIX,card.io
 DOMAIN-SUFFIX,cash2.com
 DOMAIN-SUFFIX,cashify.com
 DOMAIN-SUFFIX,cashify.net
+DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,certificate-transparency.dev
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -604,6 +608,7 @@ DOMAIN-SUFFIX,keytransparency.foo
 DOMAIN-SUFFIX,keytransparency.org
 DOMAIN-SUFFIX,krakenjs.com
 DOMAIN-SUFFIX,lanternal.com
+DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,like.com
 DOMAIN-SUFFIX,loanbuilder.com
 DOMAIN-SUFFIX,login-paypal.com
@@ -642,6 +647,7 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oasisfeng.com
 DOMAIN-SUFFIX,oauthz.com
+DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onefifteen.net
@@ -888,6 +894,7 @@ DOMAIN-SUFFIX,screenwisetrends.com
 DOMAIN-SUFFIX,screenwisetrendspanel.com
 DOMAIN-SUFFIX,secure-paypal.info
 DOMAIN-SUFFIX,securepaypal.info
+DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,shattered.io

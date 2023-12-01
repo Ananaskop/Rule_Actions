@@ -1,4 +1,4 @@
-# 更新时间： 2023-11-23 04:07:59
+# 更新时间： 2023-12-01 04:07:36
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,appldnld.apple.com.edgesuite.net
@@ -40,11 +40,13 @@ payload:
   - DOMAIN-KEYWORD,apple.com.edgekey.net
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,buy.itunes.apple.com
   - DOMAIN-KEYWORD,icloud.com.akadns.net
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,skydrive
+  - DOMAIN-KEYWORD,smp-device
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,testflight
@@ -1596,6 +1598,7 @@ payload:
   - DOMAIN-SUFFIX,cctvpic.com
   - DOMAIN-SUFFIX,cczq.com
   - DOMAIN-SUFFIX,cczq.net
+  - DOMAIN-SUFFIX,cdn-apple-mapkit.com
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn20.com
   - DOMAIN-SUFFIX,cdn30.org
@@ -2194,6 +2197,7 @@ payload:
   - DOMAIN-SUFFIX,discussionsapple.com
   - DOMAIN-SUFFIX,discuz.net
   - DOMAIN-SUFFIX,discuz.org
+  - DOMAIN-SUFFIX,dispatcher.is.autonavi.com
   - DOMAIN-SUFFIX,diyiyou.com
   - DOMAIN-SUFFIX,dj99.com
   - DOMAIN-SUFFIX,dkbeatsbydre.com
@@ -3723,6 +3727,7 @@ payload:
   - DOMAIN-SUFFIX,lppz.com
   - DOMAIN-SUFFIX,lppzimg.com
   - DOMAIN-SUFFIX,lrts.me
+  - DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
   - DOMAIN-SUFFIX,lsplayer.com
   - DOMAIN-SUFFIX,lu.com
   - DOMAIN-SUFFIX,lucifr.com
