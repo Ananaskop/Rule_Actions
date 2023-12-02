@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-01 14:33:02
+# 更新时间： 2023-12-02 04:07:43
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -278,7 +278,6 @@ payload:
   - DOMAIN,lookup.api.bsb.baidu.com
   - DOMAIN,m-vali.cp31.ott.cibntv.net
   - DOMAIN,m.adyounger.com
-  - DOMAIN,mall.bilibili.com
   - DOMAIN,mapi.apptimize.com
   - DOMAIN,maplocatesdksnapshot.d.meituan.net
   - DOMAIN,mc.51.la
@@ -330,7 +329,6 @@ payload:
   - DOMAIN,p2-play.edge4k.com
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,pageviewp.icbc.com.cn
-  - DOMAIN,passport.bilibili.com
   - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,pgdt.gtimg.com
   - DOMAIN,pgdt.ugdtimg.com
@@ -543,6 +541,8 @@ payload:
   - DOMAIN-KEYWORD,haowanyou
   - DOMAIN-KEYWORD,highwebmedia
   - DOMAIN-KEYWORD,histats
+  - DOMAIN-KEYWORD,httpdns-
+  - DOMAIN-KEYWORD,httpdns.
   - DOMAIN-KEYWORD,huichuan-mc.sm.cn
   - DOMAIN-KEYWORD,huichuan.sm.cn
   - DOMAIN-KEYWORD,iflyad.bj.openstorage.cn
@@ -3582,6 +3582,7 @@ payload:
   - DOMAIN-SUFFIX,ad.go.com
   - DOMAIN-SUFFIX,ad.gogox.com
   - DOMAIN-SUFFIX,ad.greedland.net
+  - DOMAIN-SUFFIX,ad.gt
   - DOMAIN-SUFFIX,ad.gtbrowser.com
   - DOMAIN-SUFFIX,ad.hefei.cc
   - DOMAIN-SUFFIX,ad.hiiir.com
