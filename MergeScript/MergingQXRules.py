@@ -134,8 +134,9 @@ def merge_and_deduplicate_files(path):
         data_list = sorted(data_set)
         data_list = [line for line in data_list if line.strip()]
         out_f.writelines(line + '\n' for line in data_list if line.strip())
+        print(f"{os.path.basename(output_file_path)} 文件创建成功")
     return output_file_path
-
+    
 if __name__ == '__main__':
     remove_old_files()  # 删除旧文件夹
     for folder, rules in RULES.items():
@@ -151,5 +152,3 @@ if __name__ == '__main__':
 
         # 删除文件夹内的其他文件
         remove_old_files_except_merged(path)
-
-        print(f"{os.path.basename(output_file_path)} 文件创建成功")
