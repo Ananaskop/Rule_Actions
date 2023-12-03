@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-03 04:06:49
+# 更新时间： 2023-12-04 04:07:01
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -513,6 +513,7 @@ HOST-SUFFIX,babynet.com.hk,proxy
 HOST-SUFFIX,backchina.com,proxy
 HOST-SUFFIX,backpackers.com.tw,proxy
 HOST-SUFFIX,backtotiananmen.com,proxy
+HOST-SUFFIX,bad.news,proxy
 HOST-SUFFIX,badiucao.com,proxy
 HOST-SUFFIX,badjojo.com,proxy
 HOST-SUFFIX,badoo.com,proxy
@@ -2908,6 +2909,7 @@ HOST-SUFFIX,info-graf.fr,proxy
 HOST-SUFFIX,informer.com,proxy
 HOST-SUFFIX,ingress.com,proxy
 HOST-SUFFIX,initiativesforchina.org,proxy
+HOST-SUFFIX,inkbunny.net,proxy
 HOST-SUFFIX,inkui.com,proxy
 HOST-SUFFIX,inmediahk.net,proxy
 HOST-SUFFIX,innermongolia.org,proxy
@@ -3476,6 +3478,7 @@ HOST-SUFFIX,matome-plus.net,proxy
 HOST-SUFFIX,matrix.org,proxy
 HOST-SUFFIX,matsushimakaede.com,proxy
 HOST-SUFFIX,matters.news,proxy
+HOST-SUFFIX,matters.town,proxy
 HOST-SUFFIX,mattwilcox.net,proxy
 HOST-SUFFIX,maturejp.com,proxy
 HOST-SUFFIX,maven.org,proxy

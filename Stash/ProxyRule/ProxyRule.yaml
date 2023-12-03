@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-03 04:07:01
+# 更新时间： 2023-12-04 04:07:14
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -495,6 +495,7 @@ payload:
   - DOMAIN-SUFFIX,backchina.com
   - DOMAIN-SUFFIX,backpackers.com.tw
   - DOMAIN-SUFFIX,backtotiananmen.com
+  - DOMAIN-SUFFIX,bad.news
   - DOMAIN-SUFFIX,badiucao.com
   - DOMAIN-SUFFIX,badjojo.com
   - DOMAIN-SUFFIX,badoo.com
@@ -2546,6 +2547,7 @@ payload:
   - DOMAIN-SUFFIX,informer.com
   - DOMAIN-SUFFIX,ingress.com
   - DOMAIN-SUFFIX,initiativesforchina.org
+  - DOMAIN-SUFFIX,inkbunny.net
   - DOMAIN-SUFFIX,inkui.com
   - DOMAIN-SUFFIX,inmediahk.net
   - DOMAIN-SUFFIX,innermongolia.org
@@ -3109,6 +3111,7 @@ payload:
   - DOMAIN-SUFFIX,matrix.org
   - DOMAIN-SUFFIX,matsushimakaede.com
   - DOMAIN-SUFFIX,matters.news
+  - DOMAIN-SUFFIX,matters.town
   - DOMAIN-SUFFIX,mattwilcox.net
   - DOMAIN-SUFFIX,maturejp.com
   - DOMAIN-SUFFIX,maven.org
