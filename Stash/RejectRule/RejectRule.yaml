@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-05 04:07:19
+# 更新时间： 2023-12-06 04:07:56
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -139,6 +139,7 @@ payload:
   - DOMAIN,btrace.video.qq.com
   - DOMAIN,business.msstatic.com
   - DOMAIN,c1wx.lianwangtech.com
+  - DOMAIN,cad.youku.com
   - DOMAIN,cartoonapi.uc.cn
   - DOMAIN,cdn-new-ad.wtzw.com
   - DOMAIN,cdn.adapi.fotoable.com

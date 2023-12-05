@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-05 04:07:07
+# 更新时间： 2023-12-06 04:07:43
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -138,6 +138,7 @@ HOST,btrace.qq.com,reject
 HOST,btrace.video.qq.com,reject
 HOST,business.msstatic.com,reject
 HOST,c1wx.lianwangtech.com,reject
+HOST,cad.youku.com,reject
 HOST,cartoonapi.uc.cn,reject
 HOST,cdn-new-ad.wtzw.com,reject
 HOST,cdn.adapi.fotoable.com,reject
