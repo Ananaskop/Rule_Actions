@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-06 04:07:43
+# 更新时间： 2023-12-07 04:07:42
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -557,7 +557,6 @@ HOST-KEYWORD,keplerapi.jd.com,reject
 HOST-KEYWORD,kgipadstat.kugou.com,reject
 HOST-KEYWORD,kgipadstatbak.kugou.com,reject
 HOST-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com,reject
-HOST-KEYWORD,knockout,reject
 HOST-KEYWORD,lieyou,reject
 HOST-KEYWORD,lkme.cc,reject
 HOST-KEYWORD,log-api.pangolin-sdk-toutiao-b.com,reject

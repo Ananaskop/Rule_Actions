@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-06 04:07:56
+# 更新时间： 2023-12-07 04:07:54
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -558,7 +558,6 @@ payload:
   - DOMAIN-KEYWORD,kgipadstat.kugou.com
   - DOMAIN-KEYWORD,kgipadstatbak.kugou.com
   - DOMAIN-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com
-  - DOMAIN-KEYWORD,knockout
   - DOMAIN-KEYWORD,lieyou
   - DOMAIN-KEYWORD,lkme.cc
   - DOMAIN-KEYWORD,log-api.pangolin-sdk-toutiao-b.com
