@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-09 04:08:00
+# 更新时间： 2023-12-10 04:07:23
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,118.89.204.198
@@ -202,6 +202,7 @@ DOMAIN,glitter.services.disqus.com
 DOMAIN,goblin.hupu.com
 DOMAIN,gorgon.youdao.com
 DOMAIN,h.trace.qq.com
+DOMAIN,hdns.ksyun.com
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,holmeshelptest.uc.cn
@@ -315,6 +316,7 @@ DOMAIN,ns3.viglink.com
 DOMAIN,ns4.viglink.com
 DOMAIN,nsclick.baidu.com
 DOMAIN,open.e.kuaishou.com
+DOMAIN,open.kuaishouzt.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,order.sm.cn
@@ -413,7 +415,6 @@ DOMAIN,vip.bz.mgtv.com
 DOMAIN,voice-service.uc.cn
 DOMAIN,vs6.bj2ct.u3.ucweb.com
 DOMAIN,vv.video.qq.com
-DOMAIN,vv6.video.qq.com
 DOMAIN,wa.gtimg.com
 DOMAIN,wc.51.la
 DOMAIN,webproxy-advp.iad-apple.com
@@ -644,6 +645,7 @@ DOMAIN-KEYWORD,volceapplog.com
 DOMAIN-KEYWORD,volcvod.com
 DOMAIN-KEYWORD,vs.biz.weibo.com
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
+DOMAIN-KEYWORD,vv6.video.qq.com
 DOMAIN-KEYWORD,wax.weibo.com
 DOMAIN-KEYWORD,wax.weibo.com.cn
 DOMAIN-KEYWORD,wbapp.uve.weibo.com

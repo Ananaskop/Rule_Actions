@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-09 04:07:38
+# 更新时间： 2023-12-10 04:07:00
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -202,6 +202,7 @@ HOST,glitter.services.disqus.com,reject
 HOST,goblin.hupu.com,reject
 HOST,gorgon.youdao.com,reject
 HOST,h.trace.qq.com,reject
+HOST,hdns.ksyun.com,reject
 HOST,hm.baidu.com,reject
 HOST,hmma.baidu.com,reject
 HOST,holmeshelptest.uc.cn,reject
@@ -315,6 +316,7 @@ HOST,ns3.viglink.com,reject
 HOST,ns4.viglink.com,reject
 HOST,nsclick.baidu.com,reject
 HOST,open.e.kuaishou.com,reject
+HOST,open.kuaishouzt.com,reject
 HOST,optimus-ads.amap.com,reject
 HOST,optimus-ads.amap.com.w.alikunlun.com,reject
 HOST,order.sm.cn,reject
@@ -413,7 +415,6 @@ HOST,vip.bz.mgtv.com,reject
 HOST,voice-service.uc.cn,reject
 HOST,vs6.bj2ct.u3.ucweb.com,reject
 HOST,vv.video.qq.com,reject
-HOST,vv6.video.qq.com,reject
 HOST,wa.gtimg.com,reject
 HOST,wc.51.la,reject
 HOST,webproxy-advp.iad-apple.com,reject
@@ -644,6 +645,7 @@ HOST-KEYWORD,volceapplog.com,reject
 HOST-KEYWORD,volcvod.com,reject
 HOST-KEYWORD,vs.biz.weibo.com,reject
 HOST-KEYWORD,vs10.bj2ct.u3.ucweb.com,reject
+HOST-KEYWORD,vv6.video.qq.com,reject
 HOST-KEYWORD,wax.weibo.com,reject
 HOST-KEYWORD,wax.weibo.com.cn,reject
 HOST-KEYWORD,wbapp.uve.weibo.com,reject
