@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-10 04:07:00
+# 更新时间： 2023-12-11 04:06:51
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -110,6 +110,7 @@ HOST,api.c.uc.cn,reject
 HOST,api.helloclue.com,reject
 HOST,api.iegadp.qq.com,reject
 HOST,api.iqiyi.com,reject
+HOST,api.liquidlink.cn,reject
 HOST,api.newad.ifeng.com,reject
 HOST,api.sm.cn,reject
 HOST,api.zuihuimai.com,reject

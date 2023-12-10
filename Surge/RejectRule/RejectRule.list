@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-10 04:07:23
+# 更新时间： 2023-12-11 04:07:14
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,118.89.204.198
@@ -110,6 +110,7 @@ DOMAIN,api.c.uc.cn
 DOMAIN,api.helloclue.com
 DOMAIN,api.iegadp.qq.com
 DOMAIN,api.iqiyi.com
+DOMAIN,api.liquidlink.cn
 DOMAIN,api.newad.ifeng.com
 DOMAIN,api.sm.cn
 DOMAIN,api.zuihuimai.com
