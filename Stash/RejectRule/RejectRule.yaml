@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-11 11:10:20
+# 更新时间： 2023-12-11 20:19:44
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -647,7 +647,6 @@ payload:
   - DOMAIN-KEYWORD,volcvod.com
   - DOMAIN-KEYWORD,vs.biz.weibo.com
   - DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
-  - DOMAIN-KEYWORD,vv6.video.qq.com
   - DOMAIN-KEYWORD,wax.weibo.com
   - DOMAIN-KEYWORD,wax.weibo.com.cn
   - DOMAIN-KEYWORD,wbapp.uve.weibo.com
@@ -62444,6 +62443,7 @@ payload:
   - DOMAIN-SUFFIX,phenomtrackapi-ir.phenompeople.com
   - DOMAIN-SUFFIX,phenotypebest.com
   - DOMAIN-SUFFIX,pheselta.net
+  - DOMAIN-SUFFIX,phfqumvi.xyz
   - DOMAIN-SUFFIX,phftcml.com
   - DOMAIN-SUFFIX,phgliders.com
   - DOMAIN-SUFFIX,phglobk.com

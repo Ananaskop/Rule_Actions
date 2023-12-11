@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-11 11:10:07
+# 更新时间： 2023-12-11 20:19:31
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -646,7 +646,6 @@ HOST-KEYWORD,volceapplog.com,reject
 HOST-KEYWORD,volcvod.com,reject
 HOST-KEYWORD,vs.biz.weibo.com,reject
 HOST-KEYWORD,vs10.bj2ct.u3.ucweb.com,reject
-HOST-KEYWORD,vv6.video.qq.com,reject
 HOST-KEYWORD,wax.weibo.com,reject
 HOST-KEYWORD,wax.weibo.com.cn,reject
 HOST-KEYWORD,wbapp.uve.weibo.com,reject
@@ -62443,6 +62442,7 @@ HOST-SUFFIX,phenomenonwhilstsleek.com,reject
 HOST-SUFFIX,phenomtrackapi-ir.phenompeople.com,reject
 HOST-SUFFIX,phenotypebest.com,reject
 HOST-SUFFIX,pheselta.net,reject
+HOST-SUFFIX,phfqumvi.xyz,reject
 HOST-SUFFIX,phftcml.com,reject
 HOST-SUFFIX,phgliders.com,reject
 HOST-SUFFIX,phglobk.com,reject
