@@ -123,6 +123,8 @@ def merge_and_deduplicate_files(path):
                     modified_lines = []  # 创建新的列表来存储修改后的行
                     for i, line in enumerate(lines):
                         line = apply_replacements(line)  # 应用替换规则
+                        if re.match(r'^IP', line):
+                            line += ',no-resolve'
                         modified_lines.append(line)  # 将修改后的行添加到新的列表
                     
                     data_set.update(modified_lines)
