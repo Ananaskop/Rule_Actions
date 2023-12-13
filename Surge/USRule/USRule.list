@@ -1,6 +1,6 @@
-# 更新时间： 2023-12-13 14:13:54
+# 更新时间： 2023-12-13 20:19:05
+DOMAIN,browser-intake-datadoghq.com
 DOMAIN,cdn.usefathom.com
-DOMAIN,chatgpt.livekit.cloud
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
@@ -203,6 +203,7 @@ DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN-SUFFIX,chat.gle
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromebook.com
 DOMAIN-SUFFIX,chromecast.com
@@ -600,6 +601,7 @@ DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,hdrplusdata.org
 DOMAIN-SUFFIX,hey.gle
 DOMAIN-SUFFIX,hindiweb.com
+DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,howtogetmo.co.uk
 DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,hwgo.com
@@ -942,6 +944,7 @@ DOMAIN-SUFFIX,thinkquarterly.co.uk
 DOMAIN-SUFFIX,thinkquarterly.com
 DOMAIN-SUFFIX,thinkwithgoogle.com
 DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,txcloud.net
 DOMAIN-SUFFIX,txvia.com
 DOMAIN-SUFFIX,unfiltered.news
@@ -1011,9 +1014,13 @@ DOMAIN-SUFFIX,xoomcom.com
 DOMAIN-SUFFIX,xplr.co
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN-SUFFIX,zynamics.com
+IP-ASN,14061,no-resolve
+IP-ASN,20473,no-resolve
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR6,2620:120:e000::/40,no-resolve
 PROCESS-NAME,BackupandSync

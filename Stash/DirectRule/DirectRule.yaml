@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-13 14:13:42
+# 更新时间： 2023-12-13 20:18:53
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,appldnld.apple.com.edgesuite.net
@@ -1694,7 +1694,6 @@ payload:
   - DOMAIN-SUFFIX,charticulator.com
   - DOMAIN-SUFFIX,chashebao.com
   - DOMAIN-SUFFIX,chazhengla.com
-  - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,che168.com
   - DOMAIN-SUFFIX,cheap-beats-by-dre.net
   - DOMAIN-SUFFIX,cheap-beatsbydre.com
