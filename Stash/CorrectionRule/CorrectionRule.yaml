@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-13 02:13:13
+# 更新时间： 2023-12-13 08:31:47
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -108,5 +108,5 @@ payload:
   - DOMAIN-SUFFIX,weather-data.apple.com
   - DOMAIN-SUFFIX,weather-map.apple.com
   - DOMAIN-SUFFIX,yonghuivip.com
-  - IP-CIDR,192.168.0.1/24
-  - IP-CIDR,192.168.1.1/24
+  - IP-CIDR,192.168.0.1/24,no-resolve
+  - IP-CIDR,192.168.1.1/24,no-resolve

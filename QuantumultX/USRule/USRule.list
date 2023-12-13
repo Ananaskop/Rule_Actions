@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-13 02:13:01
+# 更新时间： 2023-12-13 08:31:36
 HOST,cdn.usefathom.com,US
 HOST,chatgpt.livekit.cloud,US
 HOST,clientservices.googleapis.com,US
@@ -1025,11 +1025,11 @@ HOST-SUFFIX,xoomcom.com,US
 HOST-SUFFIX,xplr.co,US
 HOST-SUFFIX,zukunftswerkstatt.de,US
 HOST-SUFFIX,zynamics.com,US
-IP-CIDR,172.110.32.0/21,US
-IP-CIDR,173.194.0.0/16,US
-IP-CIDR,216.73.80.0/20,US
-IP-CIDR,74.125.0.0/16,US
-IP6-CIDR,2620:120:e000::/40,US
+IP-CIDR,172.110.32.0/21,US,no-resolve
+IP-CIDR,173.194.0.0/16,US,no-resolve
+IP-CIDR,216.73.80.0/20,US,no-resolve
+IP-CIDR,74.125.0.0/16,US,no-resolve
+IP6-CIDR,2620:120:e000::/40,US,no-resolve
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,US
 USER-AGENT,*com.google.Drive*,US
 USER-AGENT,Google.Drive*,US
