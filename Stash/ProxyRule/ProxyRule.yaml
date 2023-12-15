@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-15 02:13:08
+# 更新时间： 2023-12-15 08:48:00
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -357,6 +357,7 @@ payload:
   - DOMAIN-SUFFIX,answering-islam.org
   - DOMAIN-SUFFIX,antd.org
   - DOMAIN-SUFFIX,anthonycalzadilla.com
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,anti1984.com
   - DOMAIN-SUFFIX,antichristendom.com
   - DOMAIN-SUFFIX,antiwave.net
@@ -766,6 +767,7 @@ payload:
   - DOMAIN-SUFFIX,buzzhand.com
   - DOMAIN-SUFFIX,buzzhand.net
   - DOMAIN-SUFFIX,buzzorange.com
+  - DOMAIN-SUFFIX,buzzsprout.com
   - DOMAIN-SUFFIX,bvpn.com
   - DOMAIN-SUFFIX,bwbx.io
   - DOMAIN-SUFFIX,bwgyhw.com
@@ -1026,6 +1028,7 @@ payload:
   - DOMAIN-SUFFIX,cl.ly
   - DOMAIN-SUFFIX,clarionproject.org
   - DOMAIN-SUFFIX,classicalguitarblog.net
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,clb.org.hk
   - DOMAIN-SUFFIX,cleansite.biz
   - DOMAIN-SUFFIX,cleansite.info
@@ -1643,6 +1646,7 @@ payload:
   - DOMAIN-SUFFIX,famunion.com
   - DOMAIN-SUFFIX,fan-qiang.com
   - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,fandom.com
   - DOMAIN-SUFFIX,fangbinxing.com
   - DOMAIN-SUFFIX,fangeming.com
@@ -5930,6 +5934,8 @@ payload:
   - DOMAIN-SUFFIX,zonghexinwen.com
   - DOMAIN-SUFFIX,zonghexinwen.net
   - DOMAIN-SUFFIX,zoogvpn.com
+  - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-SUFFIX,zoomgov.com
   - DOMAIN-SUFFIX,zootool.com
   - DOMAIN-SUFFIX,zoozle.net
   - DOMAIN-SUFFIX,zophar.net
