@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-17 08:51:33
+# 更新时间： 2023-12-17 14:12:21
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -372,6 +372,7 @@ payload:
   - DOMAIN,soul-ad.soulapp.cn
   - DOMAIN,splashqqlive.gtimg.com
   - DOMAIN,ssp-partner.alibaba.com
+  - DOMAIN,ssp.soulapp.cn
   - DOMAIN,stat.10jqka.com.cn
   - DOMAIN,statics.woozooo.com
   - DOMAIN,sugar.zhihu.com
@@ -9405,6 +9406,7 @@ payload:
   - DOMAIN-SUFFIX,akpiug.rarecarat.com
   - DOMAIN-SUFFIX,akrwi.cn
   - DOMAIN-SUFFIX,aksb-a.akamaihd.net
+  - DOMAIN-SUFFIX,aksleaj.com
   - DOMAIN-SUFFIX,akstat.io
   - DOMAIN-SUFFIX,aktgw4u9z27l.com
   - DOMAIN-SUFFIX,aktienyt.tns-gallup.dk
@@ -11431,7 +11433,6 @@ payload:
   - DOMAIN-SUFFIX,api.ijunhai.com
   - DOMAIN-SUFFIX,api.installer.xiaomi.com
   - DOMAIN-SUFFIX,api.intensifier.de
-  - DOMAIN-SUFFIX,api.iplay.163.com
   - DOMAIN-SUFFIX,api.itaoxiaoshuo.com
   - DOMAIN-SUFFIX,api.iterative.ly
   - DOMAIN-SUFFIX,api.joybj.com
@@ -13364,6 +13365,7 @@ payload:
   - DOMAIN-SUFFIX,avividone.likr.tw
   - DOMAIN-SUFFIX,avjofgasqcu.com
   - DOMAIN-SUFFIX,avjpkaasba.com
+  - DOMAIN-SUFFIX,avkktuywj.xyz
   - DOMAIN-SUFFIX,avkw.cn
   - DOMAIN-SUFFIX,avkyu1tesnwy.com
   - DOMAIN-SUFFIX,avma.avmaplit.com
@@ -15581,6 +15583,7 @@ payload:
   - DOMAIN-SUFFIX,biopicfumer.space
   - DOMAIN-SUFFIX,biosda.com
   - DOMAIN-SUFFIX,biphic.com
+  - DOMAIN-SUFFIX,bipidoan.com
   - DOMAIN-SUFFIX,bipkzeczia.com
   - DOMAIN-SUFFIX,biplihopsdim.com
   - DOMAIN-SUFFIX,biptolyla.com
@@ -20500,6 +20503,7 @@ payload:
   - DOMAIN-SUFFIX,cmp.tvspielfilm.de
   - DOMAIN-SUFFIX,cmp.vdfin.be
   - DOMAIN-SUFFIX,cmp.vg.no
+  - DOMAIN-SUFFIX,cmp.vizus.cz
   - DOMAIN-SUFFIX,cmp.volkswagen.be
   - DOMAIN-SUFFIX,cmp2.channelpartner.de
   - DOMAIN-SUFFIX,cmp288.com
@@ -30870,6 +30874,7 @@ payload:
   - DOMAIN-SUFFIX,eltontry.com
   - DOMAIN-SUFFIX,eltxarqgwngybfi.com
   - DOMAIN-SUFFIX,elusiveanxiouslyruns.com
+  - DOMAIN-SUFFIX,elwcchbwtnohia.com
   - DOMAIN-SUFFIX,elwmvjuit.xyz
   - DOMAIN-SUFFIX,elyxvt.wilsonamplifiers.com
   - DOMAIN-SUFFIX,em-email.thermofisher.com
@@ -39914,6 +39919,7 @@ payload:
   - DOMAIN-SUFFIX,hooptaik.net
   - DOMAIN-SUFFIX,hoosgowhandbow.com
   - DOMAIN-SUFFIX,hoowooze.net
+  - DOMAIN-SUFFIX,hoowuliz.com
   - DOMAIN-SUFFIX,hop.dttd.app
   - DOMAIN-SUFFIX,hopbeduhzbm.com
   - DOMAIN-SUFFIX,hopedwishfulpercent.com
@@ -41800,6 +41806,7 @@ payload:
   - DOMAIN-SUFFIX,imedia.bokecc.com
   - DOMAIN-SUFFIX,imeetcentral.pgi.com
   - DOMAIN-SUFFIX,imeijiajia.com
+  - DOMAIN-SUFFIX,imemediates.org
   - DOMAIN-SUFFIX,imemediatesuper.info
   - DOMAIN-SUFFIX,imfsr.lenovomm.com
   - DOMAIN-SUFFIX,img-ad-nex.com
@@ -57339,6 +57346,7 @@ payload:
   - DOMAIN-SUFFIX,nbfopy.jjshouse.com
   - DOMAIN-SUFFIX,nbg.seagate.com
   - DOMAIN-SUFFIX,nbgsintl.com
+  - DOMAIN-SUFFIX,nbhixt.xyz
   - DOMAIN-SUFFIX,nbhxgjz.com
   - DOMAIN-SUFFIX,nbidqsoy.xyz
   - DOMAIN-SUFFIX,nbjjd.com
@@ -58799,6 +58807,7 @@ payload:
   - DOMAIN-SUFFIX,nvchhzg.com
   - DOMAIN-SUFFIX,nvcrcf.com
   - DOMAIN-SUFFIX,nveryldgittle.cc
+  - DOMAIN-SUFFIX,nvgelwnecuw.com
   - DOMAIN-SUFFIX,nvidia-graphics.top
   - DOMAIN-SUFFIX,nvlalpfft.com
   - DOMAIN-SUFFIX,nvlqrvvtp6n.xhamster.com
@@ -69161,6 +69170,7 @@ payload:
   - DOMAIN-SUFFIX,roomyreading.com
   - DOMAIN-SUFFIX,roonanon.space
   - DOMAIN-SUFFIX,rooofkhtgiaog.com
+  - DOMAIN-SUFFIX,rooptawu.net
   - DOMAIN-SUFFIX,rooptuph.xyz
   - DOMAIN-SUFFIX,roosendaal.treker.fun
   - DOMAIN-SUFFIX,roosteem.net
@@ -84519,6 +84529,7 @@ payload:
   - DOMAIN-SUFFIX,tinytendency.com
   - DOMAIN-SUFFIX,tionakasulbac.net
   - DOMAIN-SUFFIX,tionininanceena.info
+  - DOMAIN-SUFFIX,tiotyuknsyen.org
   - DOMAIN-SUFFIX,tipcartoleron.com
   - DOMAIN-SUFFIX,tipcatscarola.com
   - DOMAIN-SUFFIX,tipcupids.com
@@ -91065,6 +91076,7 @@ payload:
   - DOMAIN-SUFFIX,upgrownloathly.space
   - DOMAIN-SUFFIX,upgulpinon.com
   - DOMAIN-SUFFIX,uphastod.xyz
+  - DOMAIN-SUFFIX,uphcrjth.xyz
   - DOMAIN-SUFFIX,uphewoab.net
   - DOMAIN-SUFFIX,uphillgrandmaanger.com
   - DOMAIN-SUFFIX,uphilo.com
@@ -93547,6 +93559,7 @@ payload:
   - DOMAIN-SUFFIX,wcv68kw.com
   - DOMAIN-SUFFIX,wcvyyacmnoamt.com
   - DOMAIN-SUFFIX,wcxegvp.com
+  - DOMAIN-SUFFIX,wcycotzoxhvapo.com
   - DOMAIN-SUFFIX,wd-edge.sharethis.com
   - DOMAIN-SUFFIX,wd.towmonterses.com
   - DOMAIN-SUFFIX,wd282endfws.de
@@ -94643,6 +94656,7 @@ payload:
   - DOMAIN-SUFFIX,wirjoi.meetsmore.com
   - DOMAIN-SUFFIX,wirratailage.com
   - DOMAIN-SUFFIX,wirrttnlmumsak.xyz
+  - DOMAIN-SUFFIX,wirsilsa.net
   - DOMAIN-SUFFIX,wirwastine.digital
   - DOMAIN-SUFFIX,wirypaste.com
   - DOMAIN-SUFFIX,wisdomganga.com
@@ -96773,6 +96787,7 @@ payload:
   - DOMAIN-SUFFIX,xlwnx.com
   - DOMAIN-SUFFIX,xlwnzkyj.com
   - DOMAIN-SUFFIX,xlxknf.xyz
+  - DOMAIN-SUFFIX,xlyhpurmfnlall.com
   - DOMAIN-SUFFIX,xlylqx.com
   - DOMAIN-SUFFIX,xm.tinlikeil.com
   - DOMAIN-SUFFIX,xm9178.com
@@ -99524,6 +99539,7 @@ payload:
   - IP-CIDR,115.29.247.48/32,no-resolve
   - IP-CIDR,116.206.22.7/32,no-resolve
   - IP-CIDR,116.55.227.242/32,no-resolve
+  - IP-CIDR,116.62.220.39/32,no-resolve
   - IP-CIDR,117.144.242.32/32,no-resolve
   - IP-CIDR,117.177.248.17/32,no-resolve
   - IP-CIDR,117.177.248.41/32,no-resolve
@@ -99672,6 +99688,7 @@ payload:
   - IP-CIDR,47.90.50.177/32,no-resolve
   - IP-CIDR,47.93.103.196/32,no-resolve
   - IP-CIDR,47.94.89.32/32,no-resolve
+  - IP-CIDR,47.96.15.52/32,no-resolve
   - IP-CIDR,47.96.162.122/32,no-resolve
   - IP-CIDR,49.71.37.101/32,no-resolve
   - IP-CIDR,58.215.179.159/32,no-resolve

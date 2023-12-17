@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-17 08:51:20
+# 更新时间： 2023-12-17 14:12:08
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -371,6 +371,7 @@ HOST,sin3-ib.adnxs.com,reject
 HOST,soul-ad.soulapp.cn,reject
 HOST,splashqqlive.gtimg.com,reject
 HOST,ssp-partner.alibaba.com,reject
+HOST,ssp.soulapp.cn,reject
 HOST,stat.10jqka.com.cn,reject
 HOST,statics.woozooo.com,reject
 HOST,sugar.zhihu.com,reject
@@ -9404,6 +9405,7 @@ HOST-SUFFIX,aknkvallbfml.com,reject
 HOST-SUFFIX,akpiug.rarecarat.com,reject
 HOST-SUFFIX,akrwi.cn,reject
 HOST-SUFFIX,aksb-a.akamaihd.net,reject
+HOST-SUFFIX,aksleaj.com,reject
 HOST-SUFFIX,akstat.io,reject
 HOST-SUFFIX,aktgw4u9z27l.com,reject
 HOST-SUFFIX,aktienyt.tns-gallup.dk,reject
@@ -11430,7 +11432,6 @@ HOST-SUFFIX,api.iimedia.cn,reject
 HOST-SUFFIX,api.ijunhai.com,reject
 HOST-SUFFIX,api.installer.xiaomi.com,reject
 HOST-SUFFIX,api.intensifier.de,reject
-HOST-SUFFIX,api.iplay.163.com,reject
 HOST-SUFFIX,api.itaoxiaoshuo.com,reject
 HOST-SUFFIX,api.iterative.ly,reject
 HOST-SUFFIX,api.joybj.com,reject
@@ -13363,6 +13364,7 @@ HOST-SUFFIX,avivid.likr.tw,reject
 HOST-SUFFIX,avividone.likr.tw,reject
 HOST-SUFFIX,avjofgasqcu.com,reject
 HOST-SUFFIX,avjpkaasba.com,reject
+HOST-SUFFIX,avkktuywj.xyz,reject
 HOST-SUFFIX,avkw.cn,reject
 HOST-SUFFIX,avkyu1tesnwy.com,reject
 HOST-SUFFIX,avma.avmaplit.com,reject
@@ -15580,6 +15582,7 @@ HOST-SUFFIX,biologydemandedpond.com,reject
 HOST-SUFFIX,biopicfumer.space,reject
 HOST-SUFFIX,biosda.com,reject
 HOST-SUFFIX,biphic.com,reject
+HOST-SUFFIX,bipidoan.com,reject
 HOST-SUFFIX,bipkzeczia.com,reject
 HOST-SUFFIX,biplihopsdim.com,reject
 HOST-SUFFIX,biptolyla.com,reject
@@ -20499,6 +20502,7 @@ HOST-SUFFIX,cmp.tori.fi,reject
 HOST-SUFFIX,cmp.tvspielfilm.de,reject
 HOST-SUFFIX,cmp.vdfin.be,reject
 HOST-SUFFIX,cmp.vg.no,reject
+HOST-SUFFIX,cmp.vizus.cz,reject
 HOST-SUFFIX,cmp.volkswagen.be,reject
 HOST-SUFFIX,cmp2.channelpartner.de,reject
 HOST-SUFFIX,cmp288.com,reject
@@ -30869,6 +30873,7 @@ HOST-SUFFIX,eltdeh.top,reject
 HOST-SUFFIX,eltontry.com,reject
 HOST-SUFFIX,eltxarqgwngybfi.com,reject
 HOST-SUFFIX,elusiveanxiouslyruns.com,reject
+HOST-SUFFIX,elwcchbwtnohia.com,reject
 HOST-SUFFIX,elwmvjuit.xyz,reject
 HOST-SUFFIX,elyxvt.wilsonamplifiers.com,reject
 HOST-SUFFIX,em-email.thermofisher.com,reject
@@ -39913,6 +39918,7 @@ HOST-SUFFIX,hooplejubus.uno,reject
 HOST-SUFFIX,hooptaik.net,reject
 HOST-SUFFIX,hoosgowhandbow.com,reject
 HOST-SUFFIX,hoowooze.net,reject
+HOST-SUFFIX,hoowuliz.com,reject
 HOST-SUFFIX,hop.dttd.app,reject
 HOST-SUFFIX,hopbeduhzbm.com,reject
 HOST-SUFFIX,hopedwishfulpercent.com,reject
@@ -41799,6 +41805,7 @@ HOST-SUFFIX,imdns.hpplay.cn,reject
 HOST-SUFFIX,imedia.bokecc.com,reject
 HOST-SUFFIX,imeetcentral.pgi.com,reject
 HOST-SUFFIX,imeijiajia.com,reject
+HOST-SUFFIX,imemediates.org,reject
 HOST-SUFFIX,imemediatesuper.info,reject
 HOST-SUFFIX,imfsr.lenovomm.com,reject
 HOST-SUFFIX,img-ad-nex.com,reject
@@ -57338,6 +57345,7 @@ HOST-SUFFIX,nbdiscount.com,reject
 HOST-SUFFIX,nbfopy.jjshouse.com,reject
 HOST-SUFFIX,nbg.seagate.com,reject
 HOST-SUFFIX,nbgsintl.com,reject
+HOST-SUFFIX,nbhixt.xyz,reject
 HOST-SUFFIX,nbhxgjz.com,reject
 HOST-SUFFIX,nbidqsoy.xyz,reject
 HOST-SUFFIX,nbjjd.com,reject
@@ -58798,6 +58806,7 @@ HOST-SUFFIX,nvane.com,reject
 HOST-SUFFIX,nvchhzg.com,reject
 HOST-SUFFIX,nvcrcf.com,reject
 HOST-SUFFIX,nveryldgittle.cc,reject
+HOST-SUFFIX,nvgelwnecuw.com,reject
 HOST-SUFFIX,nvidia-graphics.top,reject
 HOST-SUFFIX,nvlalpfft.com,reject
 HOST-SUFFIX,nvlqrvvtp6n.xhamster.com,reject
@@ -69160,6 +69169,7 @@ HOST-SUFFIX,roomrentpast.com,reject
 HOST-SUFFIX,roomyreading.com,reject
 HOST-SUFFIX,roonanon.space,reject
 HOST-SUFFIX,rooofkhtgiaog.com,reject
+HOST-SUFFIX,rooptawu.net,reject
 HOST-SUFFIX,rooptuph.xyz,reject
 HOST-SUFFIX,roosendaal.treker.fun,reject
 HOST-SUFFIX,roosteem.net,reject
@@ -84518,6 +84528,7 @@ HOST-SUFFIX,tinybar.com,reject
 HOST-SUFFIX,tinytendency.com,reject
 HOST-SUFFIX,tionakasulbac.net,reject
 HOST-SUFFIX,tionininanceena.info,reject
+HOST-SUFFIX,tiotyuknsyen.org,reject
 HOST-SUFFIX,tipcartoleron.com,reject
 HOST-SUFFIX,tipcatscarola.com,reject
 HOST-SUFFIX,tipcupids.com,reject
@@ -91064,6 +91075,7 @@ HOST-SUFFIX,upgrade.xl9.xunlei.com,reject
 HOST-SUFFIX,upgrownloathly.space,reject
 HOST-SUFFIX,upgulpinon.com,reject
 HOST-SUFFIX,uphastod.xyz,reject
+HOST-SUFFIX,uphcrjth.xyz,reject
 HOST-SUFFIX,uphewoab.net,reject
 HOST-SUFFIX,uphillgrandmaanger.com,reject
 HOST-SUFFIX,uphilo.com,reject
@@ -93546,6 +93558,7 @@ HOST-SUFFIX,wcuolmojkzir.com,reject
 HOST-SUFFIX,wcv68kw.com,reject
 HOST-SUFFIX,wcvyyacmnoamt.com,reject
 HOST-SUFFIX,wcxegvp.com,reject
+HOST-SUFFIX,wcycotzoxhvapo.com,reject
 HOST-SUFFIX,wd-edge.sharethis.com,reject
 HOST-SUFFIX,wd.towmonterses.com,reject
 HOST-SUFFIX,wd282endfws.de,reject
@@ -94642,6 +94655,7 @@ HOST-SUFFIX,wiringcollectorguffaw.com,reject
 HOST-SUFFIX,wirjoi.meetsmore.com,reject
 HOST-SUFFIX,wirratailage.com,reject
 HOST-SUFFIX,wirrttnlmumsak.xyz,reject
+HOST-SUFFIX,wirsilsa.net,reject
 HOST-SUFFIX,wirwastine.digital,reject
 HOST-SUFFIX,wirypaste.com,reject
 HOST-SUFFIX,wisdomganga.com,reject
@@ -96772,6 +96786,7 @@ HOST-SUFFIX,xlwaluyw.com,reject
 HOST-SUFFIX,xlwnx.com,reject
 HOST-SUFFIX,xlwnzkyj.com,reject
 HOST-SUFFIX,xlxknf.xyz,reject
+HOST-SUFFIX,xlyhpurmfnlall.com,reject
 HOST-SUFFIX,xlylqx.com,reject
 HOST-SUFFIX,xm.tinlikeil.com,reject
 HOST-SUFFIX,xm9178.com,reject
@@ -99523,6 +99538,7 @@ IP-CIDR,115.29.141.121/32,reject,no-resolve
 IP-CIDR,115.29.247.48/32,reject,no-resolve
 IP-CIDR,116.206.22.7/32,reject,no-resolve
 IP-CIDR,116.55.227.242/32,reject,no-resolve
+IP-CIDR,116.62.220.39/32,reject,no-resolve
 IP-CIDR,117.144.242.32/32,reject,no-resolve
 IP-CIDR,117.177.248.17/32,reject,no-resolve
 IP-CIDR,117.177.248.41/32,reject,no-resolve
@@ -99671,6 +99687,7 @@ IP-CIDR,47.89.59.182/32,reject,no-resolve
 IP-CIDR,47.90.50.177/32,reject,no-resolve
 IP-CIDR,47.93.103.196/32,reject,no-resolve
 IP-CIDR,47.94.89.32/32,reject,no-resolve
+IP-CIDR,47.96.15.52/32,reject,no-resolve
 IP-CIDR,47.96.162.122/32,reject,no-resolve
 IP-CIDR,49.71.37.101/32,reject,no-resolve
 IP-CIDR,58.215.179.159/32,reject,no-resolve
