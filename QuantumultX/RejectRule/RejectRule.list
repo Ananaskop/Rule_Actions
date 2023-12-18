@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-18 14:14:05
+# 更新时间： 2023-12-18 20:19:09
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -254,6 +254,8 @@ HOST,info4.video.qq.com,reject
 HOST,info6.video.qq.com,reject
 HOST,inspiringaccurate.com,reject
 HOST,ios.video.mpush.qq.com,reject
+HOST,ipv4.music.163.com,reject
+HOST,ipv6.music.163.com,reject
 HOST,iqiyim.adtrack.enlightent.cn,reject
 HOST,is.snssdk.com,reject
 HOST,ivy.pchouse.com.cn,reject

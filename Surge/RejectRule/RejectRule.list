@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-18 14:14:33
+# 更新时间： 2023-12-18 20:19:33
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,118.89.204.198
@@ -254,6 +254,8 @@ DOMAIN,info4.video.qq.com
 DOMAIN,info6.video.qq.com
 DOMAIN,inspiringaccurate.com
 DOMAIN,ios.video.mpush.qq.com
+DOMAIN,ipv4.music.163.com
+DOMAIN,ipv6.music.163.com
 DOMAIN,iqiyim.adtrack.enlightent.cn
 DOMAIN,is.snssdk.com
 DOMAIN,ivy.pchouse.com.cn
