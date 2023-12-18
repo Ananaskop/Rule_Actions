@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-18 08:47:56
+# 更新时间： 2023-12-18 14:14:05
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -8082,6 +8082,7 @@ HOST-SUFFIX,adtrue24.com,reject
 HOST-SUFFIX,adtruth.com,reject
 HOST-SUFFIX,adttt.com,reject
 HOST-SUFFIX,adtvedk.com,reject
+HOST-SUFFIX,adtx2.cn,reject
 HOST-SUFFIX,adui.tg.meitu.com,reject
 HOST-SUFFIX,adukwai.com,reject
 HOST-SUFFIX,adulatorycrappyghastly.com,reject
@@ -9818,6 +9819,7 @@ HOST-SUFFIX,alumni.qualfon.com,reject
 HOST-SUFFIX,alumnussmee.top,reject
 HOST-SUFFIX,alunitemoste.com,reject
 HOST-SUFFIX,alvares.esportsheaven.com,reject
+HOST-SUFFIX,alwaysc.com,reject
 HOST-SUFFIX,alwayscare.starmountlife.com,reject
 HOST-SUFFIX,alwayspainfully.com,reject
 HOST-SUFFIX,alwaysxup.com,reject
@@ -17326,6 +17328,7 @@ HOST-SUFFIX,bvmcdn.net,reject
 HOST-SUFFIX,bvnlrqvinhsje.com,reject
 HOST-SUFFIX,bvoffers-elb.go2cloud.org,reject
 HOST-SUFFIX,bvoqzs.com,reject
+HOST-SUFFIX,bvpqrydt.xyz,reject
 HOST-SUFFIX,bvr.ast.snva.jp,reject
 HOST-SUFFIX,bvr.snva.jp,reject
 HOST-SUFFIX,bvrwsn.dkwadrat.pl,reject
@@ -28601,6 +28604,7 @@ HOST-SUFFIX,dotserver.douyucdn.cn,reject
 HOST-SUFFIX,dotsonian.org,reject
 HOST-SUFFIX,dotsrv.com,reject
 HOST-SUFFIX,dottierspeeds.website,reject
+HOST-SUFFIX,dotuij.top,reject
 HOST-SUFFIX,dou777.com,reject
 HOST-SUFFIX,double-check.com,reject
 HOST-SUFFIX,double.net,reject
@@ -91560,6 +91564,7 @@ HOST-SUFFIX,uvgxhu.sharemods.com,reject
 HOST-SUFFIX,uviticketway.com,reject
 HOST-SUFFIX,uvnjlm.cn,reject
 HOST-SUFFIX,uvoovoachee.com,reject
+HOST-SUFFIX,uvpqrydt.xyz,reject
 HOST-SUFFIX,uvrdhasvzal.com,reject
 HOST-SUFFIX,uvsvlisbartwq.com,reject
 HOST-SUFFIX,uvtuiks.com,reject
@@ -92867,6 +92872,7 @@ HOST-SUFFIX,vpotyflfox.com,reject
 HOST-SUFFIX,vppst.iltrovatore.it,reject
 HOST-SUFFIX,vpqko.fun,reject
 HOST-SUFFIX,vpqpbgvgly.com,reject
+HOST-SUFFIX,vpqrydt.xyz,reject
 HOST-SUFFIX,vprtrfc.com,reject
 HOST-SUFFIX,vprwamqmdd.xyz,reject
 HOST-SUFFIX,vps.inte.sogou.com,reject
