@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-19 08:46:48
+# 更新时间： 2023-12-19 14:13:13
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -2165,6 +2165,7 @@ HOST-SUFFIX,4207008.com,reject
 HOST-SUFFIX,4242jj.com,reject
 HOST-SUFFIX,4242lll.com,reject
 HOST-SUFFIX,4242uuu.com,reject
+HOST-SUFFIX,4251.tech,reject
 HOST-SUFFIX,425555a.com,reject
 HOST-SUFFIX,426g.com,reject
 HOST-SUFFIX,429999d.com,reject
@@ -14265,6 +14266,7 @@ HOST-SUFFIX,bambarmedia.com,reject
 HOST-SUFFIX,banagonatural.tech,reject
 HOST-SUFFIX,banana.arabtoons.net,reject
 HOST-SUFFIX,banana.le.com,reject
+HOST-SUFFIX,banbuyserve.com,reject
 HOST-SUFFIX,banclip.com,reject
 HOST-SUFFIX,bancopostapremia.bancoposta.it,reject
 HOST-SUFFIX,bandageretaliateemail.com,reject
@@ -26269,6 +26271,7 @@ HOST-SUFFIX,data.t.worldvision.ca,reject
 HOST-SUFFIX,data.tc.jetstar.com,reject
 HOST-SUFFIX,data.thepointsguy.com,reject
 HOST-SUFFIX,data.tmail.northeast.aaa.com,reject
+HOST-SUFFIX,data.torry.io,reject
 HOST-SUFFIX,data.transaction.giftcards.com,reject
 HOST-SUFFIX,data.transactional.williamsf1.com,reject
 HOST-SUFFIX,data.trx.costco.ca,reject
@@ -37641,6 +37644,7 @@ HOST-SUFFIX,gorillaalbify.com,reject
 HOST-SUFFIX,gorillasneer.com,reject
 HOST-SUFFIX,gorillatraffic.xyz,reject
 HOST-SUFFIX,gorillatrk.com,reject
+HOST-SUFFIX,gorillatrking.com,reject
 HOST-SUFFIX,gorkt.com,reject
 HOST-SUFFIX,gororn.com,reject
 HOST-SUFFIX,gorpgeu.xyz,reject
@@ -40664,6 +40668,7 @@ HOST-SUFFIX,hzhuang.wang,reject
 HOST-SUFFIX,hzhyhm.com,reject
 HOST-SUFFIX,hzkachqd.com,reject
 HOST-SUFFIX,hzma.xyz,reject
+HOST-SUFFIX,hznaxah.cn,reject
 HOST-SUFFIX,hznkoual.com,reject
 HOST-SUFFIX,hzogncbobfb.com,reject
 HOST-SUFFIX,hzoijcm.cn,reject
@@ -45033,6 +45038,7 @@ HOST-SUFFIX,jowarblushed.space,reject
 HOST-SUFFIX,jowliercollude.com,reject
 HOST-SUFFIX,jowlishdiviner.com,reject
 HOST-SUFFIX,jowtkv.vertbaudet.de,reject
+HOST-SUFFIX,joxaviri.com,reject
 HOST-SUFFIX,joy.ochronus.online,reject
 HOST-SUFFIX,joycreatorheader.com,reject
 HOST-SUFFIX,joyfuldoors.com,reject
@@ -59314,6 +59320,7 @@ HOST-SUFFIX,occxfzqyhhq.com,reject
 HOST-SUFFIX,occxhidubbh.com,reject
 HOST-SUFFIX,ocddolmggjc.com,reject
 HOST-SUFFIX,ocdouoqjvmn.com,reject
+HOST-SUFFIX,ocean-trk.com,reject
 HOST-SUFFIX,oceanbot-steam.com,reject
 HOST-SUFFIX,oceancode.top,reject
 HOST-SUFFIX,oceanfilmingexperience.com,reject
@@ -77884,6 +77891,7 @@ HOST-SUFFIX,souvenirsconsist.com,reject
 HOST-SUFFIX,souvenirsdisgust.com,reject
 HOST-SUFFIX,souvenirsflex.com,reject
 HOST-SUFFIX,souvoana.xyz,reject
+HOST-SUFFIX,sovelswpq.com,reject
 HOST-SUFFIX,sovereignidentificationconfirmed.com,reject
 HOST-SUFFIX,sovism.com,reject
 HOST-SUFFIX,sowa.carhartt.com,reject
@@ -84050,6 +84058,7 @@ HOST-SUFFIX,test.spring-tns.net,reject
 HOST-SUFFIX,test.staging.findeck.link,reject
 HOST-SUFFIX,test.surepush.cn,reject
 HOST-SUFFIX,test.swa.info,reject
+HOST-SUFFIX,test.takedwn.ws,reject
 HOST-SUFFIX,test.thei.co,reject
 HOST-SUFFIX,test.zeus-wifi.jp,reject
 HOST-SUFFIX,test2.majelan.com,reject
@@ -88773,7 +88782,6 @@ HOST-SUFFIX,tradeadsexchange.com,reject
 HOST-SUFFIX,tradeccl.com,reject
 HOST-SUFFIX,tradedoubler.com,reject
 HOST-SUFFIX,trademob.com,reject
-HOST-SUFFIX,tradertimerz.media,reject
 HOST-SUFFIX,tradeshow.edm.globalsources.com,reject
 HOST-SUFFIX,tradeshows.aem.org,reject
 HOST-SUFFIX,tradetooth.com,reject
@@ -91698,6 +91706,7 @@ HOST-SUFFIX,uusimaa.viessmann.fi,reject
 HOST-SUFFIX,uutumb.idsblast.com,reject
 HOST-SUFFIX,uuuwhrxqnf.com,reject
 HOST-SUFFIX,uuuxyjh.cn,reject
+HOST-SUFFIX,uuxfznnf.xyz,reject
 HOST-SUFFIX,uuzsfpju.xyz,reject
 HOST-SUFFIX,uuzu.com,reject
 HOST-SUFFIX,uuzwvqc.cn,reject

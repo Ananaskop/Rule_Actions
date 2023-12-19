@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-19 08:47:01
+# 更新时间： 2023-12-19 14:13:26
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -2166,6 +2166,7 @@ payload:
   - DOMAIN-SUFFIX,4242jj.com
   - DOMAIN-SUFFIX,4242lll.com
   - DOMAIN-SUFFIX,4242uuu.com
+  - DOMAIN-SUFFIX,4251.tech
   - DOMAIN-SUFFIX,425555a.com
   - DOMAIN-SUFFIX,426g.com
   - DOMAIN-SUFFIX,429999d.com
@@ -14266,6 +14267,7 @@ payload:
   - DOMAIN-SUFFIX,banagonatural.tech
   - DOMAIN-SUFFIX,banana.arabtoons.net
   - DOMAIN-SUFFIX,banana.le.com
+  - DOMAIN-SUFFIX,banbuyserve.com
   - DOMAIN-SUFFIX,banclip.com
   - DOMAIN-SUFFIX,bancopostapremia.bancoposta.it
   - DOMAIN-SUFFIX,bandageretaliateemail.com
@@ -26270,6 +26272,7 @@ payload:
   - DOMAIN-SUFFIX,data.tc.jetstar.com
   - DOMAIN-SUFFIX,data.thepointsguy.com
   - DOMAIN-SUFFIX,data.tmail.northeast.aaa.com
+  - DOMAIN-SUFFIX,data.torry.io
   - DOMAIN-SUFFIX,data.transaction.giftcards.com
   - DOMAIN-SUFFIX,data.transactional.williamsf1.com
   - DOMAIN-SUFFIX,data.trx.costco.ca
@@ -37642,6 +37645,7 @@ payload:
   - DOMAIN-SUFFIX,gorillasneer.com
   - DOMAIN-SUFFIX,gorillatraffic.xyz
   - DOMAIN-SUFFIX,gorillatrk.com
+  - DOMAIN-SUFFIX,gorillatrking.com
   - DOMAIN-SUFFIX,gorkt.com
   - DOMAIN-SUFFIX,gororn.com
   - DOMAIN-SUFFIX,gorpgeu.xyz
@@ -40665,6 +40669,7 @@ payload:
   - DOMAIN-SUFFIX,hzhyhm.com
   - DOMAIN-SUFFIX,hzkachqd.com
   - DOMAIN-SUFFIX,hzma.xyz
+  - DOMAIN-SUFFIX,hznaxah.cn
   - DOMAIN-SUFFIX,hznkoual.com
   - DOMAIN-SUFFIX,hzogncbobfb.com
   - DOMAIN-SUFFIX,hzoijcm.cn
@@ -45034,6 +45039,7 @@ payload:
   - DOMAIN-SUFFIX,jowliercollude.com
   - DOMAIN-SUFFIX,jowlishdiviner.com
   - DOMAIN-SUFFIX,jowtkv.vertbaudet.de
+  - DOMAIN-SUFFIX,joxaviri.com
   - DOMAIN-SUFFIX,joy.ochronus.online
   - DOMAIN-SUFFIX,joycreatorheader.com
   - DOMAIN-SUFFIX,joyfuldoors.com
@@ -59315,6 +59321,7 @@ payload:
   - DOMAIN-SUFFIX,occxhidubbh.com
   - DOMAIN-SUFFIX,ocddolmggjc.com
   - DOMAIN-SUFFIX,ocdouoqjvmn.com
+  - DOMAIN-SUFFIX,ocean-trk.com
   - DOMAIN-SUFFIX,oceanbot-steam.com
   - DOMAIN-SUFFIX,oceancode.top
   - DOMAIN-SUFFIX,oceanfilmingexperience.com
@@ -77885,6 +77892,7 @@ payload:
   - DOMAIN-SUFFIX,souvenirsdisgust.com
   - DOMAIN-SUFFIX,souvenirsflex.com
   - DOMAIN-SUFFIX,souvoana.xyz
+  - DOMAIN-SUFFIX,sovelswpq.com
   - DOMAIN-SUFFIX,sovereignidentificationconfirmed.com
   - DOMAIN-SUFFIX,sovism.com
   - DOMAIN-SUFFIX,sowa.carhartt.com
@@ -84051,6 +84059,7 @@ payload:
   - DOMAIN-SUFFIX,test.staging.findeck.link
   - DOMAIN-SUFFIX,test.surepush.cn
   - DOMAIN-SUFFIX,test.swa.info
+  - DOMAIN-SUFFIX,test.takedwn.ws
   - DOMAIN-SUFFIX,test.thei.co
   - DOMAIN-SUFFIX,test.zeus-wifi.jp
   - DOMAIN-SUFFIX,test2.majelan.com
@@ -88774,7 +88783,6 @@ payload:
   - DOMAIN-SUFFIX,tradeccl.com
   - DOMAIN-SUFFIX,tradedoubler.com
   - DOMAIN-SUFFIX,trademob.com
-  - DOMAIN-SUFFIX,tradertimerz.media
   - DOMAIN-SUFFIX,tradeshow.edm.globalsources.com
   - DOMAIN-SUFFIX,tradeshows.aem.org
   - DOMAIN-SUFFIX,tradetooth.com
@@ -91699,6 +91707,7 @@ payload:
   - DOMAIN-SUFFIX,uutumb.idsblast.com
   - DOMAIN-SUFFIX,uuuwhrxqnf.com
   - DOMAIN-SUFFIX,uuuxyjh.cn
+  - DOMAIN-SUFFIX,uuxfznnf.xyz
   - DOMAIN-SUFFIX,uuzsfpju.xyz
   - DOMAIN-SUFFIX,uuzu.com
   - DOMAIN-SUFFIX,uuzwvqc.cn
