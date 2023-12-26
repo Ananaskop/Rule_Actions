@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-26 14:13:03
+# 更新时间： 2023-12-26 20:17:13
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -737,6 +737,7 @@ HOST-SUFFIX,04cbf4193b.com,reject
 HOST-SUFFIX,0531kt.com,reject
 HOST-SUFFIX,053h94.com,reject
 HOST-SUFFIX,0551huayanbdf.com,reject
+HOST-SUFFIX,055g.com,reject
 HOST-SUFFIX,056opui.com,reject
 HOST-SUFFIX,05826.online,reject
 HOST-SUFFIX,0592weixin.com,reject
@@ -15732,6 +15733,7 @@ HOST-SUFFIX,bigvids.space,reject
 HOST-SUFFIX,bihaipack.com,reject
 HOST-SUFFIX,bihake.com,reject
 HOST-SUFFIX,bihunekus.com,reject
+HOST-SUFFIX,biiepofl.xyz,reject
 HOST-SUFFIX,bijitsoa.com,reject
 HOST-SUFFIX,bijouremudas.space,reject
 HOST-SUFFIX,bijwehk.com,reject
@@ -23239,6 +23241,7 @@ HOST-SUFFIX,customers.fptad.com,reject
 HOST-SUFFIX,customersucceed.nanophase.com,reject
 HOST-SUFFIX,customfingerprints.bablosoft.com,reject
 HOST-SUFFIX,customizerbox.com,reject
+HOST-SUFFIX,customizeyourdeliveryroute.com,reject
 HOST-SUFFIX,customurink.com,reject
 HOST-SUFFIX,cut.qumi.com,reject
 HOST-SUFFIX,cutcurrent.com,reject
@@ -27524,7 +27527,6 @@ HOST-SUFFIX,dgafgadsgkjg.top,reject
 HOST-SUFFIX,dgaxxjq.cn,reject
 HOST-SUFFIX,dgaxzn.samma3a.com,reject
 HOST-SUFFIX,dgayibf.icu,reject
-HOST-SUFFIX,dgbdhvqpwvplersqjytw.dunkansp.info,reject
 HOST-SUFFIX,dgbftl.luckyvitamin.com,reject
 HOST-SUFFIX,dgd.okiela.com,reject
 HOST-SUFFIX,dgemanowhot.com.ua,reject
@@ -29450,6 +29452,7 @@ HOST-SUFFIX,dunct.com,reject
 HOST-SUFFIX,dunderaffiliates.com,reject
 HOST-SUFFIX,dunemanslaughter.com,reject
 HOST-SUFFIX,dungmamma.com,reject
+HOST-SUFFIX,dunkansp.info,reject
 HOST-SUFFIX,dunlopfermi.com,reject
 HOST-SUFFIX,dunnedemicant.com,reject
 HOST-SUFFIX,dunowmymmexmd.com,reject
@@ -40487,6 +40490,7 @@ HOST-SUFFIX,hs.scrabervinod.com,reject
 HOST-SUFFIX,hsa.wageworks.info,reject
 HOST-SUFFIX,hsadspixel.net,reject
 HOST-SUFFIX,hsbarbershop.co.uk,reject
+HOST-SUFFIX,hscnpk86.shop,reject
 HOST-SUFFIX,hscta.net,reject
 HOST-SUFFIX,hsdawz.com,reject
 HOST-SUFFIX,hsfbpp.xyz,reject
@@ -44369,7 +44373,6 @@ HOST-SUFFIX,izooto.com,reject
 HOST-SUFFIX,izrnvo.com,reject
 HOST-SUFFIX,izrvuofcrrhsm.com,reject
 HOST-SUFFIX,izzzlfrzmwtter.com,reject
-HOST-SUFFIX,j-natural.com,reject
 HOST-SUFFIX,j.6avz.com,reject
 HOST-SUFFIX,j.avz4.com,reject
 HOST-SUFFIX,j.baminw.cn,reject
@@ -49100,6 +49103,7 @@ HOST-SUFFIX,lkqd.net,reject
 HOST-SUFFIX,lkqpxhw.com,reject
 HOST-SUFFIX,lkqyqwk.xyz,reject
 HOST-SUFFIX,lksbnrs.com,reject
+HOST-SUFFIX,lkuygf.top,reject
 HOST-SUFFIX,lkvllssp.com,reject
 HOST-SUFFIX,lkzlambkzljee.top,reject
 HOST-SUFFIX,lkzlambkzllaz.top,reject
@@ -53240,9 +53244,11 @@ HOST-SUFFIX,maxprofitcontrol.com,reject
 HOST-SUFFIX,maxreturn.cn,reject
 HOST-SUFFIX,maxserving.com,reject
 HOST-SUFFIX,maxtrafixx.tech,reject
+HOST-SUFFIX,maxucc77.top,reject
 HOST-SUFFIX,maxun066.top,reject
 HOST-SUFFIX,maxun103.top,reject
 HOST-SUFFIX,maxun118.top,reject
+HOST-SUFFIX,maxunn55.top,reject
 HOST-SUFFIX,maxwebsearch.com,reject
 HOST-SUFFIX,maxwellsery.com,reject
 HOST-SUFFIX,maxx1.a.pleasedonotblockme.com,reject
@@ -57705,7 +57711,6 @@ HOST-SUFFIX,navi24.com,reject
 HOST-SUFFIX,navi24.ru,reject
 HOST-SUFFIX,navi3.com,reject
 HOST-SUFFIX,navi30.ru,reject
-HOST-SUFFIX,navi31.com,reject
 HOST-SUFFIX,navi32.com,reject
 HOST-SUFFIX,navi33.com,reject
 HOST-SUFFIX,navi35.com,reject
@@ -57716,6 +57721,7 @@ HOST-SUFFIX,navi38.ru,reject
 HOST-SUFFIX,navi39.ru,reject
 HOST-SUFFIX,navi4.com,reject
 HOST-SUFFIX,navi40.com,reject
+HOST-SUFFIX,navi42.ru,reject
 HOST-SUFFIX,navi43.com,reject
 HOST-SUFFIX,navi45.ru,reject
 HOST-SUFFIX,navi47.com,reject
@@ -57750,7 +57756,6 @@ HOST-SUFFIX,navi88.com,reject
 HOST-SUFFIX,navi9.com,reject
 HOST-SUFFIX,navi9.ru,reject
 HOST-SUFFIX,navi90.com,reject
-HOST-SUFFIX,navi91.com,reject
 HOST-SUFFIX,navi94.com,reject
 HOST-SUFFIX,navi96.com,reject
 HOST-SUFFIX,navi98.com,reject
@@ -91032,6 +91037,7 @@ HOST-SUFFIX,uidhome.com,reject
 HOST-SUFFIX,uidsync.net,reject
 HOST-SUFFIX,uidwyx.icu,reject
 HOST-SUFFIX,uie.data.cbc.ca,reject
+HOST-SUFFIX,uiiepofl.xyz,reject
 HOST-SUFFIX,uiiwzyv.cn,reject
 HOST-SUFFIX,uijciz.gunze.jp,reject
 HOST-SUFFIX,uimg.27admin.com,reject
@@ -97245,6 +97251,7 @@ HOST-SUFFIX,xifuquan.com,reject
 HOST-SUFFIX,xigrtoai.com,reject
 HOST-SUFFIX,xihashuale.com,reject
 HOST-SUFFIX,xihuashuale.com,reject
+HOST-SUFFIX,xiiepofl.xyz,reject
 HOST-SUFFIX,xijahhhuzsr.com,reject
 HOST-SUFFIX,xijdiptaro.com,reject
 HOST-SUFFIX,xijgedjgg5f55.com,reject
@@ -99869,6 +99876,7 @@ HOST-SUFFIX,ztxbd.com,reject
 HOST-SUFFIX,ztyqrwinqpvque.com,reject
 HOST-SUFFIX,ztyumn.ifeng.com,reject
 HOST-SUFFIX,zu08e.cn,reject
+HOST-SUFFIX,zu2.top,reject
 HOST-SUFFIX,zuanke123.com,reject
 HOST-SUFFIX,zubivu.com,reject
 HOST-SUFFIX,zubojcnubadk.com,reject

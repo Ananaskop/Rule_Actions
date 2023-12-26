@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-26 14:13:16
+# 更新时间： 2023-12-26 20:17:26
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -738,6 +738,7 @@ payload:
   - DOMAIN-SUFFIX,0531kt.com
   - DOMAIN-SUFFIX,053h94.com
   - DOMAIN-SUFFIX,0551huayanbdf.com
+  - DOMAIN-SUFFIX,055g.com
   - DOMAIN-SUFFIX,056opui.com
   - DOMAIN-SUFFIX,05826.online
   - DOMAIN-SUFFIX,0592weixin.com
@@ -15733,6 +15734,7 @@ payload:
   - DOMAIN-SUFFIX,bihaipack.com
   - DOMAIN-SUFFIX,bihake.com
   - DOMAIN-SUFFIX,bihunekus.com
+  - DOMAIN-SUFFIX,biiepofl.xyz
   - DOMAIN-SUFFIX,bijitsoa.com
   - DOMAIN-SUFFIX,bijouremudas.space
   - DOMAIN-SUFFIX,bijwehk.com
@@ -23240,6 +23242,7 @@ payload:
   - DOMAIN-SUFFIX,customersucceed.nanophase.com
   - DOMAIN-SUFFIX,customfingerprints.bablosoft.com
   - DOMAIN-SUFFIX,customizerbox.com
+  - DOMAIN-SUFFIX,customizeyourdeliveryroute.com
   - DOMAIN-SUFFIX,customurink.com
   - DOMAIN-SUFFIX,cut.qumi.com
   - DOMAIN-SUFFIX,cutcurrent.com
@@ -27525,7 +27528,6 @@ payload:
   - DOMAIN-SUFFIX,dgaxxjq.cn
   - DOMAIN-SUFFIX,dgaxzn.samma3a.com
   - DOMAIN-SUFFIX,dgayibf.icu
-  - DOMAIN-SUFFIX,dgbdhvqpwvplersqjytw.dunkansp.info
   - DOMAIN-SUFFIX,dgbftl.luckyvitamin.com
   - DOMAIN-SUFFIX,dgd.okiela.com
   - DOMAIN-SUFFIX,dgemanowhot.com.ua
@@ -29451,6 +29453,7 @@ payload:
   - DOMAIN-SUFFIX,dunderaffiliates.com
   - DOMAIN-SUFFIX,dunemanslaughter.com
   - DOMAIN-SUFFIX,dungmamma.com
+  - DOMAIN-SUFFIX,dunkansp.info
   - DOMAIN-SUFFIX,dunlopfermi.com
   - DOMAIN-SUFFIX,dunnedemicant.com
   - DOMAIN-SUFFIX,dunowmymmexmd.com
@@ -40488,6 +40491,7 @@ payload:
   - DOMAIN-SUFFIX,hsa.wageworks.info
   - DOMAIN-SUFFIX,hsadspixel.net
   - DOMAIN-SUFFIX,hsbarbershop.co.uk
+  - DOMAIN-SUFFIX,hscnpk86.shop
   - DOMAIN-SUFFIX,hscta.net
   - DOMAIN-SUFFIX,hsdawz.com
   - DOMAIN-SUFFIX,hsfbpp.xyz
@@ -44370,7 +44374,6 @@ payload:
   - DOMAIN-SUFFIX,izrnvo.com
   - DOMAIN-SUFFIX,izrvuofcrrhsm.com
   - DOMAIN-SUFFIX,izzzlfrzmwtter.com
-  - DOMAIN-SUFFIX,j-natural.com
   - DOMAIN-SUFFIX,j.6avz.com
   - DOMAIN-SUFFIX,j.avz4.com
   - DOMAIN-SUFFIX,j.baminw.cn
@@ -49101,6 +49104,7 @@ payload:
   - DOMAIN-SUFFIX,lkqpxhw.com
   - DOMAIN-SUFFIX,lkqyqwk.xyz
   - DOMAIN-SUFFIX,lksbnrs.com
+  - DOMAIN-SUFFIX,lkuygf.top
   - DOMAIN-SUFFIX,lkvllssp.com
   - DOMAIN-SUFFIX,lkzlambkzljee.top
   - DOMAIN-SUFFIX,lkzlambkzllaz.top
@@ -53241,9 +53245,11 @@ payload:
   - DOMAIN-SUFFIX,maxreturn.cn
   - DOMAIN-SUFFIX,maxserving.com
   - DOMAIN-SUFFIX,maxtrafixx.tech
+  - DOMAIN-SUFFIX,maxucc77.top
   - DOMAIN-SUFFIX,maxun066.top
   - DOMAIN-SUFFIX,maxun103.top
   - DOMAIN-SUFFIX,maxun118.top
+  - DOMAIN-SUFFIX,maxunn55.top
   - DOMAIN-SUFFIX,maxwebsearch.com
   - DOMAIN-SUFFIX,maxwellsery.com
   - DOMAIN-SUFFIX,maxx1.a.pleasedonotblockme.com
@@ -57706,7 +57712,6 @@ payload:
   - DOMAIN-SUFFIX,navi24.ru
   - DOMAIN-SUFFIX,navi3.com
   - DOMAIN-SUFFIX,navi30.ru
-  - DOMAIN-SUFFIX,navi31.com
   - DOMAIN-SUFFIX,navi32.com
   - DOMAIN-SUFFIX,navi33.com
   - DOMAIN-SUFFIX,navi35.com
@@ -57717,6 +57722,7 @@ payload:
   - DOMAIN-SUFFIX,navi39.ru
   - DOMAIN-SUFFIX,navi4.com
   - DOMAIN-SUFFIX,navi40.com
+  - DOMAIN-SUFFIX,navi42.ru
   - DOMAIN-SUFFIX,navi43.com
   - DOMAIN-SUFFIX,navi45.ru
   - DOMAIN-SUFFIX,navi47.com
@@ -57751,7 +57757,6 @@ payload:
   - DOMAIN-SUFFIX,navi9.com
   - DOMAIN-SUFFIX,navi9.ru
   - DOMAIN-SUFFIX,navi90.com
-  - DOMAIN-SUFFIX,navi91.com
   - DOMAIN-SUFFIX,navi94.com
   - DOMAIN-SUFFIX,navi96.com
   - DOMAIN-SUFFIX,navi98.com
@@ -91033,6 +91038,7 @@ payload:
   - DOMAIN-SUFFIX,uidsync.net
   - DOMAIN-SUFFIX,uidwyx.icu
   - DOMAIN-SUFFIX,uie.data.cbc.ca
+  - DOMAIN-SUFFIX,uiiepofl.xyz
   - DOMAIN-SUFFIX,uiiwzyv.cn
   - DOMAIN-SUFFIX,uijciz.gunze.jp
   - DOMAIN-SUFFIX,uimg.27admin.com
@@ -97246,6 +97252,7 @@ payload:
   - DOMAIN-SUFFIX,xigrtoai.com
   - DOMAIN-SUFFIX,xihashuale.com
   - DOMAIN-SUFFIX,xihuashuale.com
+  - DOMAIN-SUFFIX,xiiepofl.xyz
   - DOMAIN-SUFFIX,xijahhhuzsr.com
   - DOMAIN-SUFFIX,xijdiptaro.com
   - DOMAIN-SUFFIX,xijgedjgg5f55.com
@@ -99870,6 +99877,7 @@ payload:
   - DOMAIN-SUFFIX,ztyqrwinqpvque.com
   - DOMAIN-SUFFIX,ztyumn.ifeng.com
   - DOMAIN-SUFFIX,zu08e.cn
+  - DOMAIN-SUFFIX,zu2.top
   - DOMAIN-SUFFIX,zuanke123.com
   - DOMAIN-SUFFIX,zubivu.com
   - DOMAIN-SUFFIX,zubojcnubadk.com
