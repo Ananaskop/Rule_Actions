@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-30 08:44:07
+# 更新时间： 2023-12-30 14:11:54
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -16616,6 +16616,7 @@ HOST-SUFFIX,boowang.com,reject
 HOST-SUFFIX,boozifyprays.space,reject
 HOST-SUFFIX,bop-bop-bam.com,reject
 HOST-SUFFIX,bopexacta.com,reject
+HOST-SUFFIX,boplgt.icu,reject
 HOST-SUFFIX,bopvetgel.com,reject
 HOST-SUFFIX,boqcfrsfdykjhb.com,reject
 HOST-SUFFIX,boqsxdpx.xyz,reject
@@ -17050,10 +17051,6 @@ HOST-SUFFIX,briareddollier.com,reject
 HOST-SUFFIX,briarsbarrer.guru,reject
 HOST-SUFFIX,bribrieslabon.com,reject
 HOST-SUFFIX,bricius-ing.com,reject
-HOST-SUFFIX,brick.xhamster.com,reject
-HOST-SUFFIX,brick.xhamster.desi,reject
-HOST-SUFFIX,brick.xhamster2.com,reject
-HOST-SUFFIX,brick.xhamster3.com,reject
 HOST-SUFFIX,brickandmobile.com,reject
 HOST-SUFFIX,bricksconsentedhanky.com,reject
 HOST-SUFFIX,bricksolidly.com,reject
@@ -81716,6 +81713,7 @@ HOST-SUFFIX,stork.notlessbutbetter.com,reject
 HOST-SUFFIX,storm.logger.baofeng.com,reject
 HOST-SUFFIX,stormyachiever.com,reject
 HOST-SUFFIX,stormydrawer.com,reject
+HOST-SUFFIX,stormyfold.com,reject
 HOST-SUFFIX,stormyproposal.pro,reject
 HOST-SUFFIX,storners.com,reject
 HOST-SUFFIX,storyblizzard.com,reject
@@ -92160,6 +92158,7 @@ HOST-SUFFIX,usudgbdbqmj.com,reject
 HOST-SUFFIX,usurerspoind.life,reject
 HOST-SUFFIX,usurertramped.guru,reject
 HOST-SUFFIX,usurv.com,reject
+HOST-SUFFIX,usvkfwth.xyz,reject
 HOST-SUFFIX,uswardwot.com,reject
 HOST-SUFFIX,usxuyr.icu,reject
 HOST-SUFFIX,usync.aws.rubiconproject.com,reject
@@ -97046,6 +97045,7 @@ HOST-SUFFIX,wychhedgy.life,reject
 HOST-SUFFIX,wydtxpctgipa.xyz,reject
 HOST-SUFFIX,wyelmp.vidaxl.si,reject
 HOST-SUFFIX,wyeszcj.com,reject
+HOST-SUFFIX,wyfec.cn,reject
 HOST-SUFFIX,wyglyvaso.com,reject
 HOST-SUFFIX,wyhifdpatl.com,reject
 HOST-SUFFIX,wyhzzy.com,reject

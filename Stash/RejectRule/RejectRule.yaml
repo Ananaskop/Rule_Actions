@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-30 08:44:21
+# 更新时间： 2023-12-30 14:12:08
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -16617,6 +16617,7 @@ payload:
   - DOMAIN-SUFFIX,boozifyprays.space
   - DOMAIN-SUFFIX,bop-bop-bam.com
   - DOMAIN-SUFFIX,bopexacta.com
+  - DOMAIN-SUFFIX,boplgt.icu
   - DOMAIN-SUFFIX,bopvetgel.com
   - DOMAIN-SUFFIX,boqcfrsfdykjhb.com
   - DOMAIN-SUFFIX,boqsxdpx.xyz
@@ -17051,10 +17052,6 @@ payload:
   - DOMAIN-SUFFIX,briarsbarrer.guru
   - DOMAIN-SUFFIX,bribrieslabon.com
   - DOMAIN-SUFFIX,bricius-ing.com
-  - DOMAIN-SUFFIX,brick.xhamster.com
-  - DOMAIN-SUFFIX,brick.xhamster.desi
-  - DOMAIN-SUFFIX,brick.xhamster2.com
-  - DOMAIN-SUFFIX,brick.xhamster3.com
   - DOMAIN-SUFFIX,brickandmobile.com
   - DOMAIN-SUFFIX,bricksconsentedhanky.com
   - DOMAIN-SUFFIX,bricksolidly.com
@@ -81717,6 +81714,7 @@ payload:
   - DOMAIN-SUFFIX,storm.logger.baofeng.com
   - DOMAIN-SUFFIX,stormyachiever.com
   - DOMAIN-SUFFIX,stormydrawer.com
+  - DOMAIN-SUFFIX,stormyfold.com
   - DOMAIN-SUFFIX,stormyproposal.pro
   - DOMAIN-SUFFIX,storners.com
   - DOMAIN-SUFFIX,storyblizzard.com
@@ -92161,6 +92159,7 @@ payload:
   - DOMAIN-SUFFIX,usurerspoind.life
   - DOMAIN-SUFFIX,usurertramped.guru
   - DOMAIN-SUFFIX,usurv.com
+  - DOMAIN-SUFFIX,usvkfwth.xyz
   - DOMAIN-SUFFIX,uswardwot.com
   - DOMAIN-SUFFIX,usxuyr.icu
   - DOMAIN-SUFFIX,usync.aws.rubiconproject.com
@@ -97047,6 +97046,7 @@ payload:
   - DOMAIN-SUFFIX,wydtxpctgipa.xyz
   - DOMAIN-SUFFIX,wyelmp.vidaxl.si
   - DOMAIN-SUFFIX,wyeszcj.com
+  - DOMAIN-SUFFIX,wyfec.cn
   - DOMAIN-SUFFIX,wyglyvaso.com
   - DOMAIN-SUFFIX,wyhifdpatl.com
   - DOMAIN-SUFFIX,wyhzzy.com
