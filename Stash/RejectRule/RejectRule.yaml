@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-30 20:16:34
+# 更新时间： 2023-12-31 02:12:12
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -17688,7 +17688,6 @@ payload:
   - DOMAIN-SUFFIX,byqymwkscobhked.com
   - DOMAIN-SUFFIX,byrledmtscmd.com
   - DOMAIN-SUFFIX,bysqbtyuugub.com
-  - DOMAIN-SUFFIX,bytedance.com
   - DOMAIN-SUFFIX,bytegoofy.com
   - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,bytejtxbulpncg.com

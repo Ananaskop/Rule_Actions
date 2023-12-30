@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-30 20:16:20
+# 更新时间： 2023-12-31 02:11:59
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -17687,7 +17687,6 @@ HOST-SUFFIX,byqdtp.interpark.com,reject
 HOST-SUFFIX,byqymwkscobhked.com,reject
 HOST-SUFFIX,byrledmtscmd.com,reject
 HOST-SUFFIX,bysqbtyuugub.com,reject
-HOST-SUFFIX,bytedance.com,reject
 HOST-SUFFIX,bytegoofy.com,reject
 HOST-SUFFIX,byteimg.com,DIRECT
 HOST-SUFFIX,bytejtxbulpncg.com,reject
