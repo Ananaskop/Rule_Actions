@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-31 02:12:13
+# 更新时间： 2023-12-31 08:50:40
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -1314,6 +1314,7 @@ payload:
   - DOMAIN-SUFFIX,discuss.com.hk
   - DOMAIN-SUFFIX,discuss4u.com
   - DOMAIN-SUFFIX,dish.com
+  - DOMAIN-SUFFIX,disk.yandex.ru
   - DOMAIN-SUFFIX,disp.cc
   - DOMAIN-SUFFIX,disq.us
   - DOMAIN-SUFFIX,disqus.com
@@ -3637,6 +3638,7 @@ payload:
   - DOMAIN-SUFFIX,oauth.net
   - DOMAIN-SUFFIX,observechina.net
   - DOMAIN-SUFFIX,obutu.com
+  - DOMAIN-SUFFIX,obyte.org
   - DOMAIN-SUFFIX,ocaspro.com
   - DOMAIN-SUFFIX,occupytiananmen.com
   - DOMAIN-SUFFIX,oclp.hk
@@ -4001,6 +4003,7 @@ payload:
   - DOMAIN-SUFFIX,psiphon.ca
   - DOMAIN-SUFFIX,psiphon3.com
   - DOMAIN-SUFFIX,psiphontoday.com
+  - DOMAIN-SUFFIX,pstatic.net
   - DOMAIN-SUFFIX,pt.im
   - DOMAIN-SUFFIX,pts.org.tw
   - DOMAIN-SUFFIX,ptt.cc
@@ -4855,6 +4858,7 @@ payload:
   - DOMAIN-SUFFIX,thomasbernhard.org
   - DOMAIN-SUFFIX,thongdreams.com
   - DOMAIN-SUFFIX,threadreaderapp.com
+  - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,threatchaos.com
   - DOMAIN-SUFFIX,throughnightsfire.com
   - DOMAIN-SUFFIX,thumbzilla.com
@@ -5632,6 +5636,7 @@ payload:
   - DOMAIN-SUFFIX,witopia.net
   - DOMAIN-SUFFIX,wizcrafts.net
   - DOMAIN-SUFFIX,wjbk.org
+  - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wn.com
   - DOMAIN-SUFFIX,wnacg.com
   - DOMAIN-SUFFIX,wnacg.org

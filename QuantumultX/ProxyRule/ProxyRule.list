@@ -1,4 +1,4 @@
-# 更新时间： 2023-12-31 02:12:00
+# 更新时间： 2023-12-31 08:50:28
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -1403,6 +1403,7 @@ HOST-SUFFIX,discordstatus.com,proxy
 HOST-SUFFIX,discuss.com.hk,proxy
 HOST-SUFFIX,discuss4u.com,proxy
 HOST-SUFFIX,dish.com,proxy
+HOST-SUFFIX,disk.yandex.ru,proxy
 HOST-SUFFIX,disp.cc,proxy
 HOST-SUFFIX,disq.us,proxy
 HOST-SUFFIX,disqus.com,proxy
@@ -4005,6 +4006,7 @@ HOST-SUFFIX,oann.com,proxy
 HOST-SUFFIX,oauth.net,proxy
 HOST-SUFFIX,observechina.net,proxy
 HOST-SUFFIX,obutu.com,proxy
+HOST-SUFFIX,obyte.org,proxy
 HOST-SUFFIX,ocaspro.com,proxy
 HOST-SUFFIX,occupytiananmen.com,proxy
 HOST-SUFFIX,oclp.hk,proxy
@@ -4395,6 +4397,7 @@ HOST-SUFFIX,pshvpn.com,proxy
 HOST-SUFFIX,psiphon.ca,proxy
 HOST-SUFFIX,psiphon3.com,proxy
 HOST-SUFFIX,psiphontoday.com,proxy
+HOST-SUFFIX,pstatic.net,proxy
 HOST-SUFFIX,pt.im,proxy
 HOST-SUFFIX,pts.org.tw,proxy
 HOST-SUFFIX,ptt.cc,proxy
@@ -5267,6 +5270,7 @@ HOST-SUFFIX,thlib.org,proxy
 HOST-SUFFIX,thomasbernhard.org,proxy
 HOST-SUFFIX,thongdreams.com,proxy
 HOST-SUFFIX,threadreaderapp.com,proxy
+HOST-SUFFIX,threads.net,proxy
 HOST-SUFFIX,threatchaos.com,proxy
 HOST-SUFFIX,throughnightsfire.com,proxy
 HOST-SUFFIX,thumbzilla.com,proxy
@@ -6070,6 +6074,7 @@ HOST-SUFFIX,witnessleeteaching.com,proxy
 HOST-SUFFIX,witopia.net,proxy
 HOST-SUFFIX,wizcrafts.net,proxy
 HOST-SUFFIX,wjbk.org,proxy
+HOST-SUFFIX,wmflabs.org,proxy
 HOST-SUFFIX,wn.com,proxy
 HOST-SUFFIX,wnacg.com,proxy
 HOST-SUFFIX,wnacg.org,proxy
