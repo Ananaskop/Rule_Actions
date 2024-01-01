@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-01 02:11:14
+# 更新时间： 2024-01-01 08:52:03
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -877,6 +877,7 @@ HOST-SUFFIX,cahr.org.tw,proxy
 HOST-SUFFIX,caijinglengyan.com,proxy
 HOST-SUFFIX,calameo.com,proxy
 HOST-SUFFIX,calebelston.com,proxy
+HOST-SUFFIX,calendarz.com,proxy
 HOST-SUFFIX,calgarychinese.ca,proxy
 HOST-SUFFIX,calgarychinese.com,proxy
 HOST-SUFFIX,calgarychinese.net,proxy
@@ -947,6 +948,7 @@ HOST-SUFFIX,cdcparty.com,proxy
 HOST-SUFFIX,cdef.org,proxy
 HOST-SUFFIX,cdig.info,proxy
 HOST-SUFFIX,cdjp.org,proxy
+HOST-SUFFIX,cdn-telegram.org,proxy
 HOST-SUFFIX,cdn.angruo.com,proxy
 HOST-SUFFIX,cdn.segment.com,proxy
 HOST-SUFFIX,cdnews.com.tw,proxy
@@ -1192,6 +1194,7 @@ HOST-SUFFIX,comefromchina.com,proxy
 HOST-SUFFIX,comic-mega.me,proxy
 HOST-SUFFIX,comico.tw,proxy
 HOST-SUFFIX,commandarms.com,proxy
+HOST-SUFFIX,comments.app,proxy
 HOST-SUFFIX,commentshk.com,proxy
 HOST-SUFFIX,communistcrimes.org,proxy
 HOST-SUFFIX,communitychoicecu.com,proxy
@@ -2079,6 +2082,7 @@ HOST-SUFFIX,geekerhome.com,proxy
 HOST-SUFFIX,geekheart.info,proxy
 HOST-SUFFIX,gekikame.com,proxy
 HOST-SUFFIX,gelbooru.com,proxy
+HOST-SUFFIX,generated.photos,proxy
 HOST-SUFFIX,geni.us,proxy
 HOST-SUFFIX,genius.com,proxy
 HOST-SUFFIX,geocities.co.jp,proxy
@@ -2469,6 +2473,7 @@ HOST-SUFFIX,gradconnection.com,proxy
 HOST-SUFFIX,grammaly.com,proxy
 HOST-SUFFIX,grandtrial.org,proxy
 HOST-SUFFIX,grangorz.org,proxy
+HOST-SUFFIX,graph.org,proxy
 HOST-SUFFIX,graphis.ne.jp,proxy
 HOST-SUFFIX,graphql.org,proxy
 HOST-SUFFIX,gravatar.com,proxy
@@ -2773,6 +2778,8 @@ HOST-SUFFIX,huayuworld.org,proxy
 HOST-SUFFIX,hudatoriq.web.id,proxy
 HOST-SUFFIX,hudson.org,proxy
 HOST-SUFFIX,huffingtonpost.com,proxy
+HOST-SUFFIX,huffpost.com,proxy
+HOST-SUFFIX,huggingface.co,proxy
 HOST-SUFFIX,hugoroy.eu,proxy
 HOST-SUFFIX,huhaitai.com,proxy
 HOST-SUFFIX,huhamhire.com,proxy
@@ -4459,6 +4466,7 @@ HOST-SUFFIX,quay.io,proxy
 HOST-SUFFIX,questvisual.com,proxy
 HOST-SUFFIX,quitccp.net,proxy
 HOST-SUFFIX,quitccp.org,proxy
+HOST-SUFFIX,quiz.directory,proxy
 HOST-SUFFIX,quora.com,proxy
 HOST-SUFFIX,quoracdn.net,proxy
 HOST-SUFFIX,quran.com,proxy
@@ -5198,6 +5206,7 @@ HOST-SUFFIX,telegram-cdn.org,proxy
 HOST-SUFFIX,telegram.dog,proxy
 HOST-SUFFIX,telegram.me,proxy
 HOST-SUFFIX,telegram.org,proxy
+HOST-SUFFIX,telegram.space,proxy
 HOST-SUFFIX,telegramdownload.com,proxy
 HOST-SUFFIX,telegraph.co.uk,proxy
 HOST-SUFFIX,telesco.pe,proxy
@@ -5948,6 +5957,7 @@ HOST-SUFFIX,wattpad.com,proxy
 HOST-SUFFIX,wav.tv,proxy
 HOST-SUFFIX,waveprotocol.org,proxy
 HOST-SUFFIX,waymo.com,proxy
+HOST-SUFFIX,wd.bible,proxy
 HOST-SUFFIX,wda.gov.tw,proxy
 HOST-SUFFIX,wdf5.com,proxy
 HOST-SUFFIX,wealth.com.tw,proxy
