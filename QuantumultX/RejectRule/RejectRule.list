@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-01 08:52:02
+# 更新时间： 2024-01-01 14:14:02
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -61222,7 +61222,6 @@ HOST-SUFFIX,osptjkslmy.com,reject
 HOST-SUFFIX,osqbfakufafv.com,reject
 HOST-SUFFIX,osrhdsoeqhos.com,reject
 HOST-SUFFIX,osrrltw.cn,reject
-HOST-SUFFIX,oss-accelerate.aliyuncs.com,reject
 HOST-SUFFIX,oss-asq-static.11222.cn,reject
 HOST-SUFFIX,ossfile001.com,reject
 HOST-SUFFIX,ossgogoaton.com,reject

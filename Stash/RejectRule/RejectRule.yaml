@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-01 08:52:14
+# 更新时间： 2024-01-01 14:14:15
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -61223,7 +61223,6 @@ payload:
   - DOMAIN-SUFFIX,osqbfakufafv.com
   - DOMAIN-SUFFIX,osrhdsoeqhos.com
   - DOMAIN-SUFFIX,osrrltw.cn
-  - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
   - DOMAIN-SUFFIX,oss-asq-static.11222.cn
   - DOMAIN-SUFFIX,ossfile001.com
   - DOMAIN-SUFFIX,ossgogoaton.com
