@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-03 02:12:58
+# 更新时间： 2024-01-03 08:46:35
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -2117,6 +2117,7 @@ HOST-SUFFIX,3a29f8bf84.com,reject
 HOST-SUFFIX,3a2qi55fr.com,reject
 HOST-SUFFIX,3a98f4e936.com,reject
 HOST-SUFFIX,3ad5iot.com,reject
+HOST-SUFFIX,3azpx.xyz,reject
 HOST-SUFFIX,3b0df911a8.com,reject
 HOST-SUFFIX,3bcd202415.com,reject
 HOST-SUFFIX,3bfcfaa8c8.com,reject
@@ -2274,7 +2275,6 @@ HOST-SUFFIX,49453k0l.vs.loveota.com,reject
 HOST-SUFFIX,495affa75e.com,reject
 HOST-SUFFIX,49af7cee19.com,reject
 HOST-SUFFIX,49b6b77e56.com,reject
-HOST-SUFFIX,49oa3o49b6.com,reject
 HOST-SUFFIX,49wanwan.com,reject
 HOST-SUFFIX,4a136c118e.com,reject
 HOST-SUFFIX,4a167ec12d.com,reject
@@ -2923,7 +2923,6 @@ HOST-SUFFIX,7i4dka.cn,reject
 HOST-SUFFIX,7imtcjd21.com,reject
 HOST-SUFFIX,7insight.com,reject
 HOST-SUFFIX,7j2edrbxb.com,reject
-HOST-SUFFIX,7jhsdfs77.monster,reject
 HOST-SUFFIX,7jiajiao.com,reject
 HOST-SUFFIX,7jkzmbd.cn,reject
 HOST-SUFFIX,7jrahgc.de,reject
@@ -3090,6 +3089,7 @@ HOST-SUFFIX,8964c6de00.com,reject
 HOST-SUFFIX,89968199c6.com,reject
 HOST-SUFFIX,899h3.top,reject
 HOST-SUFFIX,899v.com,reject
+HOST-SUFFIX,89dfa3575e.com,reject
 HOST-SUFFIX,89h8.com,reject
 HOST-SUFFIX,89hdn.cn,reject
 HOST-SUFFIX,89mtdab.xyz,reject
@@ -5324,7 +5324,6 @@ HOST-SUFFIX,abhorcarious.com,reject
 HOST-SUFFIX,abidedfloria.website,reject
 HOST-SUFFIX,abidepeachy.com,reject
 HOST-SUFFIX,abiderestless.com,reject
-HOST-SUFFIX,abideruledestiny.com,reject
 HOST-SUFFIX,abjectionblame.com,reject
 HOST-SUFFIX,abjectionomnipresent.com,reject
 HOST-SUFFIX,abjectionremarksdisarm.com,reject
@@ -9362,6 +9361,7 @@ HOST-SUFFIX,ahaheartburndo.com,reject
 HOST-SUFFIX,ahalogy.com,reject
 HOST-SUFFIX,ahaurgoo.net,reject
 HOST-SUFFIX,ahbdsply.com,reject
+HOST-SUFFIX,ahcapzoqgyw.com,reject
 HOST-SUFFIX,ahcdsply.com,reject
 HOST-SUFFIX,ahclyq.xyz,reject
 HOST-SUFFIX,ahcyzs8888.com,reject
@@ -10596,6 +10596,7 @@ HOST-SUFFIX,analytics.egernsund.de,reject
 HOST-SUFFIX,analytics.eggoffer.com,reject
 HOST-SUFFIX,analytics.eikko.ai,reject
 HOST-SUFFIX,analytics.eikondigital.it,reject
+HOST-SUFFIX,analytics.eip.telegraph.co.uk,reject
 HOST-SUFFIX,analytics.electro-com.ru,reject
 HOST-SUFFIX,analytics.elegela.net,reject
 HOST-SUFFIX,analytics.elegela.us,reject
@@ -11442,6 +11443,7 @@ HOST-SUFFIX,antyoubeliket.info,reject
 HOST-SUFFIX,antyoubeliketheap.com,reject
 HOST-SUFFIX,anubinbrewed.tech,reject
 HOST-SUFFIX,anun.comicsarmy.com,reject
+HOST-SUFFIX,anunderstrobed.com,reject
 HOST-SUFFIX,anvhgwjy.com,reject
 HOST-SUFFIX,anvilfaintmaiden.com,reject
 HOST-SUFFIX,anvkmi.com,reject
@@ -12757,6 +12759,7 @@ HOST-SUFFIX,art.theta.sogoucdn.com,reject
 HOST-SUFFIX,artax-evn.com,reject
 HOST-SUFFIX,artem1.redirtt.online,reject
 HOST-SUFFIX,artemis-cdn.ocdn.eu,reject
+HOST-SUFFIX,artertapirus.com,reject
 HOST-SUFFIX,arterybasin.com,reject
 HOST-SUFFIX,artespipe.com,reject
 HOST-SUFFIX,artfulparrotnobody.com,reject
@@ -13041,6 +13044,7 @@ HOST-SUFFIX,asricewaterho.com,reject
 HOST-SUFFIX,asrntiljustetyerec.info,reject
 HOST-SUFFIX,asrowjkagg.com,reject
 HOST-SUFFIX,asryrzpu.xyz,reject
+HOST-SUFFIX,assagaiwooable.com,reject
 HOST-SUFFIX,assailusefullyenemies.com,reject
 HOST-SUFFIX,assassinfitness.com,reject
 HOST-SUFFIX,assaultmolecularjim.com,reject
@@ -16235,6 +16239,7 @@ HOST-SUFFIX,blowlanternradical.com,reject
 HOST-SUFFIX,bloxplay.com,reject
 HOST-SUFFIX,blsoof.wirwinzer.de,reject
 HOST-SUFFIX,blthwbe.xyz,reject
+HOST-SUFFIX,bltmjevd.xyz,reject
 HOST-SUFFIX,bltskins.com,reject
 HOST-SUFFIX,blu5fdclr.com,reject
 HOST-SUFFIX,bluadz.com,reject
@@ -18500,6 +18505,7 @@ HOST-SUFFIX,carloforward.com,reject
 HOST-SUFFIX,carlotcoopee.website,reject
 HOST-SUFFIX,carlsonmedia.streetinteractive.com,reject
 HOST-SUFFIX,carmeleanurous.com,reject
+HOST-SUFFIX,caroakitab.com,reject
 HOST-SUFFIX,carol.trekkww.space,reject
 HOST-SUFFIX,carp.acda.app,reject
 HOST-SUFFIX,carp.amespacios.com,reject
@@ -18667,6 +18673,7 @@ HOST-SUFFIX,cattle.weiss-bregenz.at,reject
 HOST-SUFFIX,cattle.yourdallashandyman.com,reject
 HOST-SUFFIX,cattlecommittee.com,reject
 HOST-SUFFIX,cattledisplace.com,reject
+HOST-SUFFIX,catukhyistk.org,reject
 HOST-SUFFIX,catvmuvkibud.com,reject
 HOST-SUFFIX,catwenbat.com,reject
 HOST-SUFFIX,catwrite.com,reject
@@ -19350,6 +19357,7 @@ HOST-SUFFIX,ceteembathe.com,reject
 HOST-SUFFIX,cetoniafulwa.website,reject
 HOST-SUFFIX,cetrk.com,reject
 HOST-SUFFIX,cevocoxuhu.com,reject
+HOST-SUFFIX,cewrndlpqzacv.com,reject
 HOST-SUFFIX,cex8jw.cn,reject
 HOST-SUFFIX,cexucetum.com,reject
 HOST-SUFFIX,ceztv.com,reject
@@ -24052,6 +24060,7 @@ HOST-SUFFIX,dapperfloor.com,reject
 HOST-SUFFIX,dapperminecraft.online,reject
 HOST-SUFFIX,daptem.com,reject
 HOST-SUFFIX,daqiangolf.com,reject
+HOST-SUFFIX,daradis.com,reject
 HOST-SUFFIX,daraz.com,reject
 HOST-SUFFIX,daredcoil.com,reject
 HOST-SUFFIX,darersan.co,reject
@@ -28312,6 +28321,7 @@ HOST-SUFFIX,disembarkadmonishment.com,reject
 HOST-SUFFIX,disembarkappendix.com,reject
 HOST-SUFFIX,disembroildisembroilassuredwitchcraft.com,reject
 HOST-SUFFIX,disfigured-state.pro,reject
+HOST-SUFFIX,disfiguredrough.pro,reject
 HOST-SUFFIX,disfigurestokerlikelihood.com,reject
 HOST-SUFFIX,disgraceannihilate.com,reject
 HOST-SUFFIX,disgracefulaffluenceunethical.com,reject
@@ -29022,6 +29032,7 @@ HOST-SUFFIX,dotchaudou.com,reject
 HOST-SUFFIX,dotcom10.info,reject
 HOST-SUFFIX,dotcounter.douyucdn.cn,reject
 HOST-SUFFIX,dotcounter.douyutv.com,reject
+HOST-SUFFIX,dotercouther.uno,reject
 HOST-SUFFIX,dothaish.net,reject
 HOST-SUFFIX,dotherconey.space,reject
 HOST-SUFFIX,dotmatrixops.com,reject
@@ -29312,6 +29323,7 @@ HOST-SUFFIX,dreamstee.com,reject
 HOST-SUFFIX,dreamstees.com,reject
 HOST-SUFFIX,dreamvids.pro,reject
 HOST-SUFFIX,dreamycanyon.com,reject
+HOST-SUFFIX,drearlyknifes.com,reject
 HOST-SUFFIX,dreary-east.pro,reject
 HOST-SUFFIX,dreemdmbabys.oss-cn-guangzhou.aliyuncs.com,reject
 HOST-SUFFIX,dreesfootler.uno,reject
@@ -30493,6 +30505,7 @@ HOST-SUFFIX,ebkthjkvp.com,reject
 HOST-SUFFIX,eblastengine.com,reject
 HOST-SUFFIX,ebmhpt.sneakscloud.com,reject
 HOST-SUFFIX,ebmlsvw.cn,reject
+HOST-SUFFIX,ebnarnf.com,reject
 HOST-SUFFIX,ebnpqi.carrefourlocation.fr,reject
 HOST-SUFFIX,ebonyrecognize.com,reject
 HOST-SUFFIX,ebook.meizu.com,reject
@@ -30581,7 +30594,6 @@ HOST-SUFFIX,economicpizzas.com,reject
 HOST-SUFFIX,economies.adp.ca,reject
 HOST-SUFFIX,econth.com,reject
 HOST-SUFFIX,econtinuedidg.com,reject
-HOST-SUFFIX,ecorph.com,reject
 HOST-SUFFIX,ecortb.com,reject
 HOST-SUFFIX,ecoulsou.xyz,reject
 HOST-SUFFIX,ecound.com,reject
@@ -31590,9 +31602,9 @@ HOST-SUFFIX,emotionallycosmeticshardly.com,reject
 HOST-SUFFIX,emotionallyhemisphere.com,reject
 HOST-SUFFIX,emotionalworld.cn,reject
 HOST-SUFFIX,empafnyfiexpectt.info,reject
+HOST-SUFFIX,empairscarp.com,reject
 HOST-SUFFIX,empdat.com,reject
 HOST-SUFFIX,emperm.com,reject
-HOST-SUFFIX,empied.com,reject
 HOST-SUFFIX,empiot.com,reject
 HOST-SUFFIX,empirecdn.io,reject
 HOST-SUFFIX,empireexhibited.com,reject
@@ -34763,6 +34775,7 @@ HOST-SUFFIX,fogayeown.com,reject
 HOST-SUFFIX,foggytube.com,reject
 HOST-SUFFIX,fogpurply.website,reject
 HOST-SUFFIX,fogramokayed.com,reject
+HOST-SUFFIX,fogtweybq.com,reject
 HOST-SUFFIX,foguroli.pro,reject
 HOST-SUFFIX,fogvnoq.com,reject
 HOST-SUFFIX,foheltou.com,reject
@@ -35387,6 +35400,7 @@ HOST-SUFFIX,frookshop-winsive.com,reject
 HOST-SUFFIX,frostgoddess.com,reject
 HOST-SUFFIX,frostnsullivan.advancedtech.com,reject
 HOST-SUFFIX,frosty-cigarette.com,reject
+HOST-SUFFIX,frosty-criticism.pro,reject
 HOST-SUFFIX,frothadditions.com,reject
 HOST-SUFFIX,frothsubmarine.com,reject
 HOST-SUFFIX,frownfirsthand.com,reject
@@ -36179,6 +36193,7 @@ HOST-SUFFIX,gct.americanexpress.com,reject
 HOST-SUFFIX,gcukphxabcifwlo.com,reject
 HOST-SUFFIX,gcuylkyvi.com,reject
 HOST-SUFFIX,gcwubi.happypancake.fi,reject
+HOST-SUFFIX,gcwwsv.icu,reject
 HOST-SUFFIX,gcxiyx.inspireuplift.com,reject
 HOST-SUFFIX,gcyzgld.com,reject
 HOST-SUFFIX,gd.cnhange.cn,reject
@@ -39015,6 +39030,7 @@ HOST-SUFFIX,haggeisgael.com,reject
 HOST-SUFFIX,haghalra.com,reject
 HOST-SUFFIX,haglance.com,reject
 HOST-SUFFIX,hagridestupose.space,reject
+HOST-SUFFIX,hagweedtoytown.com,reject
 HOST-SUFFIX,hagzuwbukmpe.com,reject
 HOST-SUFFIX,hahscalusar.guru,reject
 HOST-SUFFIX,haihaime.net,reject
@@ -39142,6 +39158,7 @@ HOST-SUFFIX,hanlinzhijia.net,reject
 HOST-SUFFIX,hannode.xyz,reject
 HOST-SUFFIX,hansajude.uno,reject
 HOST-SUFFIX,hansetwangy.com,reject
+HOST-SUFFIX,hantlesberith.com,reject
 HOST-SUFFIX,hanwdsii.com,reject
 HOST-SUFFIX,hanyingmall.cn,reject
 HOST-SUFFIX,hao.7654.com,reject
@@ -39207,6 +39224,7 @@ HOST-SUFFIX,hardwaretakeoutintimidate.com,reject
 HOST-SUFFIX,hardynarrow.com,reject
 HOST-SUFFIX,hare.felix-schmid.de,reject
 HOST-SUFFIX,haree.cn,reject
+HOST-SUFFIX,harelipwelshes.digital,reject
 HOST-SUFFIX,haresmodus.com,reject
 HOST-SUFFIX,hargmosmosmu.com,reject
 HOST-SUFFIX,harhtwb.com,reject
@@ -39744,6 +39762,7 @@ HOST-SUFFIX,heroadmissionfinalize.com,reject
 HOST-SUFFIX,heroclick.cn,reject
 HOST-SUFFIX,herodiessujed.org,reject
 HOST-SUFFIX,herofherlittleboyw.info,reject
+HOST-SUFFIX,heroiddepress.com,reject
 HOST-SUFFIX,heroinslagunes.com,reject
 HOST-SUFFIX,herolaumbrous.website,reject
 HOST-SUFFIX,heron.joel.is,reject
@@ -41647,6 +41666,7 @@ HOST-SUFFIX,igexin.com,reject
 HOST-SUFFIX,igexlg.weltbild.de,reject
 HOST-SUFFIX,ightdecipientconc.info,reject
 HOST-SUFFIX,igj5y.yongchanghengyuan.com,reject
+HOST-SUFFIX,igjptqlywyvfveq.com,reject
 HOST-SUFFIX,igjytl.unice.com,reject
 HOST-SUFFIX,igkgag.xyz,reject
 HOST-SUFFIX,iglephoo.xyz,reject
@@ -45034,7 +45054,6 @@ HOST-SUFFIX,jeffstrategic.com,reject
 HOST-SUFFIX,jehobsee.com,reject
 HOST-SUFFIX,jeidd.xyz,reject
 HOST-SUFFIX,jekmmlwnyzyjr.top,reject
-HOST-SUFFIX,jekone.cfd,reject
 HOST-SUFFIX,jellifytayer.com,reject
 HOST-SUFFIX,jelllearnedhungry.com,reject
 HOST-SUFFIX,jellyfish.pandora.xiaomi.com,reject
@@ -45049,6 +45068,7 @@ HOST-SUFFIX,jelndb.truereligion.com,reject
 HOST-SUFFIX,jelqr4dqeep7.com,reject
 HOST-SUFFIX,jelr1.dili.fr,reject
 HOST-SUFFIX,jeltoocm.xyz,reject
+HOST-SUFFIX,jelvsdxsdnqze.com,reject
 HOST-SUFFIX,jemonews.com,reject
 HOST-SUFFIX,jenicdntc.com,reject
 HOST-SUFFIX,jennyblockademark.com,reject
@@ -45101,6 +45121,7 @@ HOST-SUFFIX,jewscane.digital,reject
 HOST-SUFFIX,jewspa.com,reject
 HOST-SUFFIX,jeyttn.snipes.com,reject
 HOST-SUFFIX,jezailmasking.com,reject
+HOST-SUFFIX,jeziaodqmy.com,reject
 HOST-SUFFIX,jf.10010.com,reject
 HOST-SUFFIX,jf.winads.cn,reject
 HOST-SUFFIX,jf2v.mnpool.cn,reject
@@ -45684,6 +45705,7 @@ HOST-SUFFIX,jrkkmpeqtlsawgf.com,reject
 HOST-SUFFIX,jrklavzamkby.top,reject
 HOST-SUFFIX,jrlt.beacon.qq.com,reject
 HOST-SUFFIX,jrltdiu.cn,reject
+HOST-SUFFIX,jrlxrrwgcszo.com,reject
 HOST-SUFFIX,jrmrijv.icu,reject
 HOST-SUFFIX,jrnkmlrajnbnj.top,reject
 HOST-SUFFIX,jrpkizae.com,reject
@@ -46855,6 +46877,7 @@ HOST-SUFFIX,kjxmcn.eset.com,reject
 HOST-SUFFIX,kk.braincf.com,reject
 HOST-SUFFIX,kk7kk.com,reject
 HOST-SUFFIX,kk99.co,reject
+HOST-SUFFIX,kkbbjtfp.xyz,reject
 HOST-SUFFIX,kkcaicai.com,reject
 HOST-SUFFIX,kkcmcp.printemps.com,reject
 HOST-SUFFIX,kkeojk.xyz,reject
@@ -48318,7 +48341,6 @@ HOST-SUFFIX,lexvek.gap.ae,reject
 HOST-SUFFIX,leynqj.newport.se,reject
 HOST-SUFFIX,lezntf.heydudeshoesusa.com,reject
 HOST-SUFFIX,leztc.com,reject
-HOST-SUFFIX,lf.hagweedtoytown.com,reject
 HOST-SUFFIX,lfeaqcozlbki.com,reject
 HOST-SUFFIX,lfeeder.com,reject
 HOST-SUFFIX,lfeorrzkua.com,reject
@@ -49357,7 +49379,6 @@ HOST-SUFFIX,livestormy.com,reject
 HOST-SUFFIX,livetrafficfeed.com,reject
 HOST-SUFFIX,liveupdate.mac.sandai.net,reject
 HOST-SUFFIX,liveviewer.ez.no,reject
-HOST-SUFFIX,livewidget.net,reject
 HOST-SUFFIX,liveyield.com,reject
 HOST-SUFFIX,livezombymil.com,reject
 HOST-SUFFIX,lividn.com,reject
@@ -49611,7 +49632,6 @@ HOST-SUFFIX,loatheskeletonethic.com,reject
 HOST-SUFFIX,loathynay.com,reject
 HOST-SUFFIX,loazezoo.net,reject
 HOST-SUFFIX,lobby-x.eu,reject
-HOST-SUFFIX,lobimax.com,reject
 HOST-SUFFIX,lobipedholw.space,reject
 HOST-SUFFIX,lobmuc.cn,reject
 HOST-SUFFIX,loboclick.com,reject
@@ -50667,6 +50687,7 @@ HOST-SUFFIX,luogod.xyz,reject
 HOST-SUFFIX,luotediao.net,reject
 HOST-SUFFIX,luoyangjinmeii.com,reject
 HOST-SUFFIX,luping.net.cn,reject
+HOST-SUFFIX,lupininulster.com,reject
 HOST-SUFFIX,luptbq.lampsplus.com,reject
 HOST-SUFFIX,luptcasperci.com,reject
 HOST-SUFFIX,lupvaqvfeka.com,reject
@@ -51386,6 +51407,7 @@ HOST-SUFFIX,m2.ai,reject
 HOST-SUFFIX,m2.da.mgtv.com,reject
 HOST-SUFFIX,m2.lelemh.com,reject
 HOST-SUFFIX,m2.qinsx.cn,reject
+HOST-SUFFIX,m28458.top,reject
 HOST-SUFFIX,m2e6t0d57rudx9y0edn8xhaw5fh8awjxla25cz8s0zwj5auc7ahw1far3x8d.com,reject
 HOST-SUFFIX,m2k3j7x8.com,reject
 HOST-SUFFIX,m2pub.com,reject
@@ -56381,6 +56403,7 @@ HOST-SUFFIX,mlsend.com,reject
 HOST-SUFFIX,mlstx.cn,reject
 HOST-SUFFIX,mlsys.xyz,reject
 HOST-SUFFIX,mlt01.com,reject
+HOST-SUFFIX,mltmjevd.xyz,reject
 HOST-SUFFIX,mlumlio.cn,reject
 HOST-SUFFIX,mluptwapaj.com,reject
 HOST-SUFFIX,mlvgxzenoiz.com,reject
@@ -56485,6 +56508,7 @@ HOST-SUFFIX,mnekumtrssln.com,reject
 HOST-SUFFIX,mneljcvkiwe.xyz,reject
 HOST-SUFFIX,mnetads.com,reject
 HOST-SUFFIX,mnfhxszj.xyz,reject
+HOST-SUFFIX,mnfse.cn,reject
 HOST-SUFFIX,mng-ads.com,reject
 HOST-SUFFIX,mngjrn.cn,reject
 HOST-SUFFIX,mnhjk.com,reject
@@ -57794,6 +57818,7 @@ HOST-SUFFIX,mypowur.eyecue.io,reject
 HOST-SUFFIX,myprofile.panasonic.eu,reject
 HOST-SUFFIX,myprofile.technics.eu,reject
 HOST-SUFFIX,myqmjhkgxpkmh.com,reject
+HOST-SUFFIX,myraqcajwkeyqd.com,reject
 HOST-SUFFIX,myrtb.net,reject
 HOST-SUFFIX,myscreen.com,reject
 HOST-SUFFIX,mysecurify.com,reject
@@ -58113,7 +58138,6 @@ HOST-SUFFIX,navi100.com,reject
 HOST-SUFFIX,navi12.com,reject
 HOST-SUFFIX,navi13.com,reject
 HOST-SUFFIX,navi18.com,reject
-HOST-SUFFIX,navi19.ru,reject
 HOST-SUFFIX,navi2.com,reject
 HOST-SUFFIX,navi20.com,reject
 HOST-SUFFIX,navi20.ru,reject
@@ -58418,6 +58442,7 @@ HOST-SUFFIX,nephef.com,reject
 HOST-SUFFIX,neptunclicks.com,reject
 HOST-SUFFIX,neralcapicha.website,reject
 HOST-SUFFIX,nereserv.com,reject
+HOST-SUFFIX,nerfctv.com,reject
 HOST-SUFFIX,nergyflexibilit.pics,reject
 HOST-SUFFIX,nervous-touch.pro,reject
 HOST-SUFFIX,nervousclangprobable.com,reject
@@ -58553,6 +58578,7 @@ HOST-SUFFIX,newdomain.center,reject
 HOST-SUFFIX,newdompet.com,reject
 HOST-SUFFIX,neweggstats.com,reject
 HOST-SUFFIX,newfootwearshop.com,reject
+HOST-SUFFIX,newgstore.com,reject
 HOST-SUFFIX,newhand.name,reject
 HOST-SUFFIX,newhigee.net,reject
 HOST-SUFFIX,newir3ltyug79aiman.com,reject
@@ -59524,6 +59550,7 @@ HOST-SUFFIX,nsedgj.bonprix.de,reject
 HOST-SUFFIX,nsfdsa.xyz,reject
 HOST-SUFFIX,nsfwadds.com,reject
 HOST-SUFFIX,nshio.com,reject
+HOST-SUFFIX,nshypdry.xyz,reject
 HOST-SUFFIX,nsjyfpo.com,reject
 HOST-SUFFIX,nslokxweviwqbg.com,reject
 HOST-SUFFIX,nsm.dell.com,reject
@@ -59569,6 +59596,7 @@ HOST-SUFFIX,ntopcd.underarmour.nl,reject
 HOST-SUFFIX,ntozchv.icu,reject
 HOST-SUFFIX,ntracker-collector.naver.com,reject
 HOST-SUFFIX,ntrfr.leovegas.com,reject
+HOST-SUFFIX,ntrwnd.xyz,reject
 HOST-SUFFIX,ntsibo.com,reject
 HOST-SUFFIX,ntsiwoulukdli.org,reject
 HOST-SUFFIX,ntsujfrvvabs.com,reject
@@ -60248,6 +60276,7 @@ HOST-SUFFIX,oficial.informacionimportanteoficial.com,reject
 HOST-SUFFIX,oficial.manualdosnumeros.com,reject
 HOST-SUFFIX,ofkqiy.knowfashionstyle.com,reject
 HOST-SUFFIX,ofleafeona.com,reject
+HOST-SUFFIX,oflike.com,reject
 HOST-SUFFIX,ofnumeltor.com,reject
 HOST-SUFFIX,ofoockoo.com,reject
 HOST-SUFFIX,ofphanpytor.com,reject
@@ -61825,6 +61854,7 @@ HOST-SUFFIX,overheatusa.com,reject
 HOST-SUFFIX,overjoyedwithinthin.com,reject
 HOST-SUFFIX,overkirliaan.com,reject
 HOST-SUFFIX,overlapflintsidenote.com,reject
+HOST-SUFFIX,overlapparians.com,reject
 HOST-SUFFIX,overlettolt.com,reject
 HOST-SUFFIX,overlivestrongergruel.com,reject
 HOST-SUFFIX,overlook.fun,reject
@@ -63908,6 +63938,7 @@ HOST-SUFFIX,pgkxhq.jamesallen.com,reject
 HOST-SUFFIX,pglstatp-toutiao.com,reject
 HOST-SUFFIX,pgmcdn.com,reject
 HOST-SUFFIX,pgmediaserve.com,reject
+HOST-SUFFIX,pgmfuffwfl.com,reject
 HOST-SUFFIX,pgmpsqoq.xyz,reject
 HOST-SUFFIX,pgonews.pro,reject
 HOST-SUFFIX,pgpartner.com,reject
@@ -64101,6 +64132,7 @@ HOST-SUFFIX,pi.beaufintorque.com,reject
 HOST-SUFFIX,pi.technik3d.com,reject
 HOST-SUFFIX,pi4.piczhq.com,reject
 HOST-SUFFIX,piads.vn,reject
+HOST-SUFFIX,piaigyyigyghjmi.xyz,reject
 HOST-SUFFIX,pianistcampingroom.com,reject
 HOST-SUFFIX,pianoalter.xyz,reject
 HOST-SUFFIX,pianoassort.com,reject
@@ -69170,6 +69202,7 @@ HOST-SUFFIX,repellentcenturiespersevere.com,reject
 HOST-SUFFIX,repellentremainingsly.com,reject
 HOST-SUFFIX,repentancematernity.com,reject
 HOST-SUFFIX,repentant-plant.pro,reject
+HOST-SUFFIX,repentantsympathy.com,reject
 HOST-SUFFIX,repentbits.com,reject
 HOST-SUFFIX,repercussionspoonsbuiltin.com,reject
 HOST-SUFFIX,repetitioustaint.com,reject
@@ -70742,6 +70775,7 @@ HOST-SUFFIX,rtumdhdk.xyz,reject
 HOST-SUFFIX,rtumwzp.icu,reject
 HOST-SUFFIX,rtwdzxstpanmn.com,reject
 HOST-SUFFIX,rtwebcollects.kugou.com,reject
+HOST-SUFFIX,rtxbdugpeumpmye.xyz,reject
 HOST-SUFFIX,rtxpx-a.akamaihd.net,reject
 HOST-SUFFIX,rtxrtb.com,reject
 HOST-SUFFIX,rtyznd.com,reject
@@ -73937,6 +73971,7 @@ HOST-SUFFIX,sfsinfo.sabic.com,reject
 HOST-SUFFIX,sftapi.com,reject
 HOST-SUFFIX,sftrack.searchforce.net,reject
 HOST-SUFFIX,sfultraight.xyz,reject
+HOST-SUFFIX,sfuoasztfxr.com,reject
 HOST-SUFFIX,sg-cdn.effectivemeasure.net,reject
 HOST-SUFFIX,sg-go.experian.com,reject
 HOST-SUFFIX,sg.log.ulivetv.net,reject
@@ -81935,6 +81970,7 @@ HOST-SUFFIX,steelhousemedia.com,reject
 HOST-SUFFIX,steelickier.uno,reject
 HOST-SUFFIX,steeltour.pro,reject
 HOST-SUFFIX,steep-secretary.pro,reject
+HOST-SUFFIX,steepscale.com,reject
 HOST-SUFFIX,steepsister.com,reject
 HOST-SUFFIX,steepsquirrel.com,reject
 HOST-SUFFIX,steepto.com,reject
@@ -82138,6 +82174,7 @@ HOST-SUFFIX,storeax.com,reject
 HOST-SUFFIX,storecollegeonline.com,reject
 HOST-SUFFIX,storeconfig.mistat.intl.xiaomi.com,reject
 HOST-SUFFIX,storeconfig.mistat.xiaomi.com,reject
+HOST-SUFFIX,storedarkness.com,reject
 HOST-SUFFIX,storedk.tns-gallup.dk,reject
 HOST-SUFFIX,storeoregononline.com,reject
 HOST-SUFFIX,stores-counters.wix.com,reject
@@ -84115,6 +84152,7 @@ HOST-SUFFIX,tangerinenet.biz,reject
 HOST-SUFFIX,tangibleteam.com,reject
 HOST-SUFFIX,tangier.treker.fun,reject
 HOST-SUFFIX,tangoutianxia.com,reject
+HOST-SUFFIX,tangpuax.xyz,reject
 HOST-SUFFIX,tangyamount.com,reject
 HOST-SUFFIX,tangycover.com,reject
 HOST-SUFFIX,tanjs.com,reject
@@ -84960,6 +84998,7 @@ HOST-SUFFIX,terrificlukewarm.com,reject
 HOST-SUFFIX,terrifictooth.com,reject
 HOST-SUFFIX,terrifyingdeveloperreschedule.com,reject
 HOST-SUFFIX,terttalkinhitin.pro,reject
+HOST-SUFFIX,tesla-openai.com,reject
 HOST-SUFFIX,teslaamg.obs.cn-east-3.myhuaweicloud.com,reject
 HOST-SUFFIX,teslabrc.com,reject
 HOST-SUFFIX,teslacar.io,reject
@@ -85531,6 +85570,7 @@ HOST-SUFFIX,thxnr.com,reject
 HOST-SUFFIX,thycantyoubelike.com,reject
 HOST-SUFFIX,thygrepuwo.pro,reject
 HOST-SUFFIX,thymeneoctic.digital,reject
+HOST-SUFFIX,thymomamunify.top,reject
 HOST-SUFFIX,thyouglasuntilj.info,reject
 HOST-SUFFIX,thyroidaketon.com,reject
 HOST-SUFFIX,thyvjboy.com,reject
@@ -85984,6 +86024,7 @@ HOST-SUFFIX,tl2go.com,reject
 HOST-SUFFIX,tla.traderlink.com,reject
 HOST-SUFFIX,tlbjw.com,reject
 HOST-SUFFIX,tlcs666.com,reject
+HOST-SUFFIX,tleboywhowa.com,reject
 HOST-SUFFIX,tlhlpcb.xyz,reject
 HOST-SUFFIX,tlivgsvwkaysva.xyz,reject
 HOST-SUFFIX,tllfouwvkqza.com,reject
@@ -85994,6 +86035,7 @@ HOST-SUFFIX,tlprlf.xyz,reject
 HOST-SUFFIX,tlrkcj17.de,reject
 HOST-SUFFIX,tls.thelibrarystore.com,reject
 HOST-SUFFIX,tlstoreonline.com,reject
+HOST-SUFFIX,tltmjevd.xyz,reject
 HOST-SUFFIX,tltpyy.saatchiart.com,reject
 HOST-SUFFIX,tltyygb.cn,reject
 HOST-SUFFIX,tluicnvqxbjdt.com,reject
@@ -86167,6 +86209,7 @@ HOST-SUFFIX,token.rubiconproject.com,reject
 HOST-SUFFIX,tokenads.com,reject
 HOST-SUFFIX,tokendomain.xyz,reject
 HOST-SUFFIX,tokenvolatilebreaker.com,reject
+HOST-SUFFIX,toko999.shop,reject
 HOST-SUFFIX,tokofyttes.com,reject
 HOST-SUFFIX,tokyoredcirce.com,reject
 HOST-SUFFIX,tolacdn.online,reject
@@ -86451,6 +86494,7 @@ HOST-SUFFIX,towersalighthybrids.com,reject
 HOST-SUFFIX,townrusisedprivat.info,reject
 HOST-SUFFIX,towtinsel.com,reject
 HOST-SUFFIX,toxaminbowtell.com,reject
+HOST-SUFFIX,toxemiaslier.com,reject
 HOST-SUFFIX,toxicfluency.com,reject
 HOST-SUFFIX,toxicrookie.com,reject
 HOST-SUFFIX,toyhyhv.icu,reject
@@ -91779,7 +91823,6 @@ HOST-SUFFIX,ukjwyv.icu,reject
 HOST-SUFFIX,ukkkmg.xyz,reject
 HOST-SUFFIX,uklgakwqy.com,reject
 HOST-SUFFIX,uklife.smartfinancialinsider.com,reject
-HOST-SUFFIX,uklyeconnected.monster,reject
 HOST-SUFFIX,ukmarketing.sedgwick.com,reject
 HOST-SUFFIX,ukmlastityty.info,reject
 HOST-SUFFIX,ukmnlp.techbang.com,reject
@@ -91840,6 +91883,7 @@ HOST-SUFFIX,ultimateclixx.com,reject
 HOST-SUFFIX,ultimatumloftyharvest.com,reject
 HOST-SUFFIX,ultimedia.com,reject
 HOST-SUFFIX,ultimumflyers.uno,reject
+HOST-SUFFIX,ultmjevd.xyz,reject
 HOST-SUFFIX,ultrabetas.com,reject
 HOST-SUFFIX,ultraboxlab.com,reject
 HOST-SUFFIX,ultraclassmate.com,reject
@@ -92044,6 +92088,7 @@ HOST-SUFFIX,unfina.com,reject
 HOST-SUFFIX,unfinisheddolphin.com,reject
 HOST-SUFFIX,unfolded-economics.com,reject
 HOST-SUFFIX,unforgivablegrowl.com,reject
+HOST-SUFFIX,ungillhenbane.com,reject
 HOST-SUFFIX,unglazeclassic.com,reject
 HOST-SUFFIX,ungloomnisnas.com,reject
 HOST-SUFFIX,ungoutylensmen.website,reject
@@ -92432,7 +92477,6 @@ HOST-SUFFIX,uq.skewlyshoggle.com,reject
 HOST-SUFFIX,uqckxr.chilli.se,reject
 HOST-SUFFIX,uqd.io,reject
 HOST-SUFFIX,uqdoeag.com,reject
-HOST-SUFFIX,uqdxfjhlj.com,reject
 HOST-SUFFIX,uqelxct.cn,reject
 HOST-SUFFIX,uqeuxpl.cn,reject
 HOST-SUFFIX,uqotbpmidyewkmb.com,reject
@@ -92992,6 +93036,7 @@ HOST-SUFFIX,valid-dad.com,reject
 HOST-SUFFIX,validclick.com,reject
 HOST-SUFFIX,valiumabaris.live,reject
 HOST-SUFFIX,valiumbessel.com,reject
+HOST-SUFFIX,vallarymedlars.com,reject
 HOST-SUFFIX,valleyhouse.com,reject
 HOST-SUFFIX,valleyhousegallery.com,reject
 HOST-SUFFIX,valleymuchunnecessary.com,reject
@@ -93068,7 +93113,6 @@ HOST-SUFFIX,variablefitness.com,reject
 HOST-SUFFIX,variationaspenjaunty.com,reject
 HOST-SUFFIX,variationsgovernment.com,reject
 HOST-SUFFIX,variationsreviewmocking.com,reject
-HOST-SUFFIX,varict.com,reject
 HOST-SUFFIX,variedpretenceclasped.com,reject
 HOST-SUFFIX,variedslimecloset.com,reject
 HOST-SUFFIX,varietiesassuage.com,reject
@@ -93304,6 +93348,7 @@ HOST-SUFFIX,verifyvegetable.com,reject
 HOST-SUFFIX,veritaswhang.com,reject
 HOST-SUFFIX,veritiesgarlejobade.com,reject
 HOST-SUFFIX,verizon-branch.locationlabs.com,reject
+HOST-SUFFIX,verneukorgia.com,reject
 HOST-SUFFIX,verninchange.com,reject
 HOST-SUFFIX,vernondesigninghelmet.com,reject
 HOST-SUFFIX,veronalhaf.com,reject
@@ -94339,6 +94384,7 @@ HOST-SUFFIX,vzhzlraxtwgyn.com,reject
 HOST-SUFFIX,vzigttqgqx.com,reject
 HOST-SUFFIX,vzizatjihca.com,reject
 HOST-SUFFIX,vzoarcomvorz.com,reject
+HOST-SUFFIX,vztlivv.com,reject
 HOST-SUFFIX,vzufzah.com,reject
 HOST-SUFFIX,vzvvifw.cn,reject
 HOST-SUFFIX,w-profiling.simplii.com,reject
@@ -94713,6 +94759,7 @@ HOST-SUFFIX,watch.vipa.me,reject
 HOST-SUFFIX,watchahv.com,reject
 HOST-SUFFIX,watchcpm.com,reject
 HOST-SUFFIX,watchercupboard.com,reject
+HOST-SUFFIX,watchesthereupon.com,reject
 HOST-SUFFIX,watchestwenties.com,reject
 HOST-SUFFIX,watchexcellent.pics,reject
 HOST-SUFFIX,watchexcellentpics.online,reject
@@ -95750,6 +95797,7 @@ HOST-SUFFIX,widern.com,reject
 HOST-SUFFIX,widespace.com,reject
 HOST-SUFFIX,widespreadgabblewear.com,reject
 HOST-SUFFIX,widezealconstant.com,reject
+HOST-SUFFIX,widget-social-proof-api.one.store,reject
 HOST-SUFFIX,widget.admiral.hr,reject
 HOST-SUFFIX,widget.chat.zalo.me,reject
 HOST-SUFFIX,widget.criteo.com,reject
@@ -96045,6 +96093,7 @@ HOST-SUFFIX,wkctj.baidu.com,reject
 HOST-SUFFIX,wkewgywth.xyz,reject
 HOST-SUFFIX,wkjoehzlkl.com,reject
 HOST-SUFFIX,wknaczrxjrj.com,reject
+HOST-SUFFIX,wkpfgjbmd.com,reject
 HOST-SUFFIX,wkqcnkstso.com,reject
 HOST-SUFFIX,wkrcbszi.xyz,reject
 HOST-SUFFIX,wkrd.tingyun.com,reject
@@ -96120,6 +96169,7 @@ HOST-SUFFIX,wmqfey.com,reject
 HOST-SUFFIX,wmtaeem.com,reject
 HOST-SUFFIX,wmtmhbuiumwl.com,reject
 HOST-SUFFIX,wmudsraxwj.xyz,reject
+HOST-SUFFIX,wmwwmbjkmalz.top,reject
 HOST-SUFFIX,wmxke.com,reject
 HOST-SUFFIX,wmxthwflju.xyz,reject
 HOST-SUFFIX,wn68din.cn,reject
@@ -96495,6 +96545,7 @@ HOST-SUFFIX,wrotus.com,reject
 HOST-SUFFIX,wrpsouf.cn,reject
 HOST-SUFFIX,wrrzje.com,reject
 HOST-SUFFIX,wrtjojn.xyz,reject
+HOST-SUFFIX,wruaqpkuwa.com,reject
 HOST-SUFFIX,wrufer.com,reject
 HOST-SUFFIX,wrvdmh.cn,reject
 HOST-SUFFIX,wrvueo.mollis.ru,reject
@@ -96639,6 +96690,7 @@ HOST-SUFFIX,wukbgater.buzz,reject
 HOST-SUFFIX,wukoopicee.com,reject
 HOST-SUFFIX,wukq.cn,reject
 HOST-SUFFIX,wuksaiho.net,reject
+HOST-SUFFIX,wuksosta.com,reject
 HOST-SUFFIX,wuliao.chzsport.cn,reject
 HOST-SUFFIX,wuliao.epro.sogou.com,reject
 HOST-SUFFIX,wuliao.ganji.cn,reject
@@ -97725,6 +97777,7 @@ HOST-SUFFIX,xalienstreamx.com,reject
 HOST-SUFFIX,xalzny.xyz,reject
 HOST-SUFFIX,xameleonads.com,reject
 HOST-SUFFIX,xanawet.com,reject
+HOST-SUFFIX,xannevugjv.com,reject
 HOST-SUFFIX,xapads.com,reject
 HOST-SUFFIX,xapqupnreogd.com,reject
 HOST-SUFFIX,xapzihodca.com,reject
@@ -97988,6 +98041,7 @@ HOST-SUFFIX,xilbalar.com,reject
 HOST-SUFFIX,xilele.com,reject
 HOST-SUFFIX,xiliweisha.cn,reject
 HOST-SUFFIX,xilofr.xyz,reject
+HOST-SUFFIX,xiloncopmat.com,reject
 HOST-SUFFIX,ximad.com,reject
 HOST-SUFFIX,ximit8023.maijijo.com,reject
 HOST-SUFFIX,xin.ygqczh.com,reject
@@ -98095,6 +98149,7 @@ HOST-SUFFIX,xljqqe.hsn.com,reject
 HOST-SUFFIX,xlmc.sandai.net,reject
 HOST-SUFFIX,xlmc.sec.miui.com,reject
 HOST-SUFFIX,xlmygeuxtv.com,reject
+HOST-SUFFIX,xlnvvbk.xyz,reject
 HOST-SUFFIX,xlog-va.byteoversea.com,reject
 HOST-SUFFIX,xlog-va.musical.ly,reject
 HOST-SUFFIX,xlog-va.tiktokv.com,reject
@@ -98106,6 +98161,7 @@ HOST-SUFFIX,xlog.tiktokv.com,reject
 HOST-SUFFIX,xlrdr.com,reject
 HOST-SUFFIX,xlrm-tech.com,reject
 HOST-SUFFIX,xls.go.sohu.com,reject
+HOST-SUFFIX,xltmjevd.xyz,reject
 HOST-SUFFIX,xlviiirdr.com,reject
 HOST-SUFFIX,xlviirdr.com,reject
 HOST-SUFFIX,xlvirdr.com,reject
@@ -99559,6 +99615,7 @@ HOST-SUFFIX,yrvzqabfxe.com,reject
 HOST-SUFFIX,yrxmr.com,reject
 HOST-SUFFIX,ys.muhoujiemi.com,reject
 HOST-SUFFIX,ys2000.cdn.bcebos.com,reject
+HOST-SUFFIX,yscfsmxrtcifye.com,reject
 HOST-SUFFIX,yscntxil.com,reject
 HOST-SUFFIX,ysej.code.weddingeeos.com,reject
 HOST-SUFFIX,ysemblyjusting.info,reject
@@ -99604,6 +99661,7 @@ HOST-SUFFIX,ytjzqde.xyz,reject
 HOST-SUFFIX,ytlcz.cn,reject
 HOST-SUFFIX,ytmx.2r3485.cn,reject
 HOST-SUFFIX,ytndjaefvan.xyz,reject
+HOST-SUFFIX,ytoworkwi.org,reject
 HOST-SUFFIX,ytqlyw.xyz,reject
 HOST-SUFFIX,ytqnzvqfsr.com,reject
 HOST-SUFFIX,yts.ytsyyey.com,reject
@@ -99710,6 +99768,7 @@ HOST-SUFFIX,yvzgazds6d.com,reject
 HOST-SUFFIX,ywayoh.ecipo.hu,reject
 HOST-SUFFIX,ywcqef.lyst.com.nl,reject
 HOST-SUFFIX,ywg.jobui.com,reject
+HOST-SUFFIX,ywhowascryin.com,reject
 HOST-SUFFIX,ywjxsp168.cn,reject
 HOST-SUFFIX,ywkkmze.cn,reject
 HOST-SUFFIX,ywrcqa.10tv.com,reject
@@ -99747,6 +99806,7 @@ HOST-SUFFIX,yx1.managershare.com,reject
 HOST-SUFFIX,yxajqsrsij.com,reject
 HOST-SUFFIX,yxbh3a53nv.adaptive.marketing,reject
 HOST-SUFFIX,yxcpm.com,reject
+HOST-SUFFIX,yxcrcc.xyz,reject
 HOST-SUFFIX,yxeqahmgyxqdid.com,reject
 HOST-SUFFIX,yxgacdl.com,reject
 HOST-SUFFIX,yxguqmcemyjiwb.com,reject
