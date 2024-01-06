@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-06 08:45:57
+# 更新时间： 2024-01-06 14:12:08
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -30117,6 +30117,7 @@ HOST-SUFFIX,dxprla.m.qxs.la,reject
 HOST-SUFFIX,dxpxgy.jdsports.com,reject
 HOST-SUFFIX,dxraceroutlet.com,reject
 HOST-SUFFIX,dxssiyi.com,reject
+HOST-SUFFIX,dxxwdz.xyz,reject
 HOST-SUFFIX,dxzky.love,reject
 HOST-SUFFIX,dy.dautedergot.com,reject
 HOST-SUFFIX,dy.fitrootmisterm.com,reject
@@ -36342,6 +36343,7 @@ HOST-SUFFIX,gaijiglo.net,reject
 HOST-SUFFIX,gaimofup.com,reject
 HOST-SUFFIX,gaimoupy.net,reject
 HOST-SUFFIX,gaiphaud.xyz,reject
+HOST-SUFFIX,gaipuzui.com,reject
 HOST-SUFFIX,gaiqgs.xyz,reject
 HOST-SUFFIX,gaisteem.net,reject
 HOST-SUFFIX,gaitheed.com,reject
@@ -46485,6 +46487,7 @@ HOST-SUFFIX,just-news.pro,reject
 HOST-SUFFIX,just.playvici.com,reject
 HOST-SUFFIX,justasimple.top,reject
 HOST-SUFFIX,justdy.shop,reject
+HOST-SUFFIX,justey.com,reject
 HOST-SUFFIX,justgetitfaster.com,reject
 HOST-SUFFIX,justicejudo.com,reject
 HOST-SUFFIX,justificationevidentpensive.com,reject
@@ -48371,6 +48374,7 @@ HOST-SUFFIX,lcdtilth.uno,reject
 HOST-SUFFIX,lcefua.timberland.ru,reject
 HOST-SUFFIX,lcentntel.com,reject
 HOST-SUFFIX,lcfooiqhro.com,reject
+HOST-SUFFIX,lcid.top,reject
 HOST-SUFFIX,lcjiusbyqfpdo.com,reject
 HOST-SUFFIX,lcjyll.xyz,reject
 HOST-SUFFIX,lckjqtx.xyz,reject
@@ -51909,6 +51913,7 @@ HOST-SUFFIX,m6c4t9vmqarj.www.cefirates.com,reject
 HOST-SUFFIX,m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me,reject
 HOST-SUFFIX,m73lae5cpmgrv38.com,reject
 HOST-SUFFIX,m7g2v1b9.com,reject
+HOST-SUFFIX,m8oxd.xyz,reject
 HOST-SUFFIX,m8ppac2on0xy.com,reject
 HOST-SUFFIX,m9.xcdf.cn,reject
 HOST-SUFFIX,m9.xcy8.com,reject
@@ -56971,6 +56976,7 @@ HOST-SUFFIX,mnpvdtywjtupl.com,reject
 HOST-SUFFIX,mnrddc.journeys.com,reject
 HOST-SUFFIX,mntzr11.net,reject
 HOST-SUFFIX,mntzrlt.net,reject
+HOST-SUFFIX,mnvxdkd.xyz,reject
 HOST-SUFFIX,mnwan.com,reject
 HOST-SUFFIX,mnwjxqwt.xyz,reject
 HOST-SUFFIX,mnwor.xuanlishi.com,reject
@@ -92670,6 +92676,7 @@ HOST-SUFFIX,uoblij.farmaline.be,reject
 HOST-SUFFIX,uod2quk646.com,reject
 HOST-SUFFIX,uodoo.com,reject
 HOST-SUFFIX,uogqym.christopherandbanks.com,reject
+HOST-SUFFIX,uogtrmjz.xyz,reject
 HOST-SUFFIX,uohxijnkd.com,reject
 HOST-SUFFIX,uoktyggqexq.com,reject
 HOST-SUFFIX,uoldid.ru,reject
@@ -96463,6 +96470,7 @@ HOST-SUFFIX,wkqcnkstso.com,reject
 HOST-SUFFIX,wkrcbszi.xyz,reject
 HOST-SUFFIX,wkrd.tingyun.com,reject
 HOST-SUFFIX,wkzrqq.com,reject
+HOST-SUFFIX,wkzsmj.icu,reject
 HOST-SUFFIX,wl-analytics.tsp.li,reject
 HOST-SUFFIX,wl-cornholio.com,reject
 HOST-SUFFIX,wl-pixel.index.digital,reject
