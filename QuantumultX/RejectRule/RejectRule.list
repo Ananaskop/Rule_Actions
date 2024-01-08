@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-08 20:19:07
+# 更新时间： 2024-01-09 02:13:26
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -23469,7 +23469,6 @@ HOST-SUFFIX,ct.irlmail.org,reject
 HOST-SUFFIX,ct.needlive.com,reject
 HOST-SUFFIX,ct.niu.xunlei.com,reject
 HOST-SUFFIX,ct.taskhuman.com,reject
-HOST-SUFFIX,ct.xiaojukeji.com,reject
 HOST-SUFFIX,ct2.kimodameshi.com,reject
 HOST-SUFFIX,ct2.kutinawa.com,reject
 HOST-SUFFIX,ct2.kyarame.com,reject
