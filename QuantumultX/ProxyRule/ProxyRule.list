@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-08 14:14:02
+# 更新时间： 2024-01-08 20:19:09
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -26,7 +26,6 @@ HOST,openaicomproductionae4b.blob.core.windows.net,proxy
 HOST,p16-tiktokcdn-com.akamaized.net,proxy
 HOST,production-openaicom-storage.azureedge.net,proxy
 HOST,public.emby.ws,proxy
-HOST,services.googleapis.cn,proxy
 HOST,testflight.apple.com,proxy
 HOST,themoviedb.org,proxy
 HOST,thetvdb.com,proxy
@@ -674,7 +673,6 @@ HOST-SUFFIX,blog.com,proxy
 HOST-SUFFIX,blog.de,proxy
 HOST-SUFFIX,blog.google,proxy
 HOST-SUFFIX,blog.jp,proxy
-HOST-SUFFIX,blog.syx86.cn,proxy
 HOST-SUFFIX,blogblog.com,proxy
 HOST-SUFFIX,blogcdn.com,proxy
 HOST-SUFFIX,blogcity.me,proxy
@@ -748,7 +746,6 @@ HOST-SUFFIX,blogspot.ug,proxy
 HOST-SUFFIX,blogtd.net,proxy
 HOST-SUFFIX,blogtd.org,proxy
 HOST-SUFFIX,bloodshed.net,proxy
-HOST-SUFFIX,bloomberg.cn,proxy
 HOST-SUFFIX,bloomberg.com,proxy
 HOST-SUFFIX,bloomberg.de,proxy
 HOST-SUFFIX,bloombergview.com,proxy
@@ -978,7 +975,6 @@ HOST-SUFFIX,cfr.org,proxy
 HOST-SUFFIX,cftfc.com,proxy
 HOST-SUFFIX,cgdepot.org,proxy
 HOST-SUFFIX,cgst.edu,proxy
-HOST-SUFFIX,chalungu.cn,proxy
 HOST-SUFFIX,change.org,proxy
 HOST-SUFFIX,changeip.name,proxy
 HOST-SUFFIX,changeip.net,proxy
@@ -1153,10 +1149,8 @@ HOST-SUFFIX,cn.com,proxy
 HOST-SUFFIX,cn6.eu,proxy
 HOST-SUFFIX,cna.com.tw,proxy
 HOST-SUFFIX,cnabc.com,proxy
-HOST-SUFFIX,cnbeta.com.tw,proxy
 HOST-SUFFIX,cnd.org,proxy
 HOST-SUFFIX,cnet.com,proxy
-HOST-SUFFIX,cnex.org.cn,proxy
 HOST-SUFFIX,cnineu.com,proxy
 HOST-SUFFIX,cnitter.com,proxy
 HOST-SUFFIX,cnn.com,proxy
@@ -1339,7 +1333,6 @@ HOST-SUFFIX,data.gov.tw,proxy
 HOST-SUFFIX,daum.net,proxy
 HOST-SUFFIX,david-kilgour.com,proxy
 HOST-SUFFIX,dawangidc.com,proxy
-HOST-SUFFIX,daxa.cn,proxy
 HOST-SUFFIX,dayabook.com,proxy
 HOST-SUFFIX,daylife.com,proxy
 HOST-SUFFIX,dayone.me,proxy
@@ -1580,7 +1573,6 @@ HOST-SUFFIX,edgecastcdn.net,proxy
 HOST-SUFFIX,edgekey.net,proxy
 HOST-SUFFIX,edgesuite.net,proxy
 HOST-SUFFIX,edicypages.com,proxy
-HOST-SUFFIX,edmontonchina.cn,proxy
 HOST-SUFFIX,edmontonservice.com,proxy
 HOST-SUFFIX,edns.biz,proxy
 HOST-SUFFIX,edoors.com,proxy
@@ -2248,7 +2240,6 @@ HOST-SUFFIX,google.ch,proxy
 HOST-SUFFIX,google.ci,proxy
 HOST-SUFFIX,google.cl,proxy
 HOST-SUFFIX,google.cm,proxy
-HOST-SUFFIX,google.cn,proxy
 HOST-SUFFIX,google.co.ao,proxy
 HOST-SUFFIX,google.co.bw,proxy
 HOST-SUFFIX,google.co.ck,proxy
@@ -2424,7 +2415,6 @@ HOST-SUFFIX,google.vg,proxy
 HOST-SUFFIX,google.vn,proxy
 HOST-SUFFIX,google.vu,proxy
 HOST-SUFFIX,google.ws,proxy
-HOST-SUFFIX,googleapis.cn,proxy
 HOST-SUFFIX,googleapis.com,proxy
 HOST-SUFFIX,googleapps.com,proxy
 HOST-SUFFIX,googlearth.com,proxy
@@ -2499,7 +2489,6 @@ HOST-SUFFIX,grotty-monday.com,proxy
 HOST-SUFFIX,grow.google,proxy
 HOST-SUFFIX,gs-discuss.com,proxy
 HOST-SUFFIX,gsearch.media,proxy
-HOST-SUFFIX,gstatic.cn,proxy
 HOST-SUFFIX,gstatic.com,proxy
 HOST-SUFFIX,gtricks.com,proxy
 HOST-SUFFIX,gts-vpn.com,proxy
@@ -2728,7 +2717,6 @@ HOST-SUFFIX,hotair.com,proxy
 HOST-SUFFIX,hotav.tv,proxy
 HOST-SUFFIX,hotbak.net,proxy
 HOST-SUFFIX,hotcoin.com,proxy
-HOST-SUFFIX,hotels.cn,proxy
 HOST-SUFFIX,hotfrog.com.tw,proxy
 HOST-SUFFIX,hotgoo.com,proxy
 HOST-SUFFIX,hotpornshow.com,proxy
@@ -3202,7 +3190,6 @@ HOST-SUFFIX,kinmen.org.tw,proxy
 HOST-SUFFIX,kinmen.travel,proxy
 HOST-SUFFIX,kinokuniya.com,proxy
 HOST-SUFFIX,kir.jp,proxy
-HOST-SUFFIX,kissbbao.cn,proxy
 HOST-SUFFIX,kiwi.kz,proxy
 HOST-SUFFIX,kk-whys.co.jp,proxy
 HOST-SUFFIX,kkbox.com,proxy
@@ -3257,9 +3244,7 @@ HOST-SUFFIX,lamenhu.com,proxy
 HOST-SUFFIX,lamnia.co.uk,proxy
 HOST-SUFFIX,lamrim.com,proxy
 HOST-SUFFIX,landofhope.tv,proxy
-HOST-SUFFIX,lanterncn.cn,proxy
 HOST-SUFFIX,lantosfoundation.org,proxy
-HOST-SUFFIX,laod.cn,proxy
 HOST-SUFFIX,laogai.org,proxy
 HOST-SUFFIX,laogairesearch.org,proxy
 HOST-SUFFIX,laomiu.com,proxy
@@ -3322,7 +3307,6 @@ HOST-SUFFIX,lifemiles.com,proxy
 HOST-SUFFIX,lightboxcdn.com,proxy
 HOST-SUFFIX,lighten.org.tw,proxy
 HOST-SUFFIX,lighti.me,proxy
-HOST-SUFFIX,lightnovel.cn,proxy
 HOST-SUFFIX,lightyearvpn.com,proxy
 HOST-SUFFIX,lihkg.com,proxy
 HOST-SUFFIX,like.com,proxy
@@ -4095,7 +4079,6 @@ HOST-SUFFIX,openvpn.net,proxy
 HOST-SUFFIX,openvpn.org,proxy
 HOST-SUFFIX,openwebster.com,proxy
 HOST-SUFFIX,openwrt.org,proxy
-HOST-SUFFIX,openwrt.org.cn,proxy
 HOST-SUFFIX,opera-mini.net,proxy
 HOST-SUFFIX,opera.com,proxy
 HOST-SUFFIX,opus-gaming.com,proxy
@@ -4450,7 +4433,6 @@ HOST-SUFFIX,qiangyou.org,proxy
 HOST-SUFFIX,qidian.ca,proxy
 HOST-SUFFIX,qienkuen.org,proxy
 HOST-SUFFIX,qiwen.lu,proxy
-HOST-SUFFIX,qixianglu.cn,proxy
 HOST-SUFFIX,qkshare.com,proxy
 HOST-SUFFIX,qmzdd.com,proxy
 HOST-SUFFIX,qoos.com,proxy
@@ -4843,7 +4825,6 @@ HOST-SUFFIX,sitemaps.org,proxy
 HOST-SUFFIX,six-degrees.io,proxy
 HOST-SUFFIX,sixth.biz,proxy
 HOST-SUFFIX,sjrt.org,proxy
-HOST-SUFFIX,sjum.cn,proxy
 HOST-SUFFIX,sketchappsources.com,proxy
 HOST-SUFFIX,skimtube.com,proxy
 HOST-SUFFIX,skk.moe,proxy
@@ -5294,7 +5275,6 @@ HOST-SUFFIX,tianhuayuan.com,proxy
 HOST-SUFFIX,tianlawoffice.com,proxy
 HOST-SUFFIX,tianti.io,proxy
 HOST-SUFFIX,tiantibooks.org,proxy
-HOST-SUFFIX,tianyantong.org.cn,proxy
 HOST-SUFFIX,tianzhu.org,proxy
 HOST-SUFFIX,tibet-envoy.eu,proxy
 HOST-SUFFIX,tibet-foundation.org,proxy
@@ -5778,7 +5758,6 @@ HOST-SUFFIX,valeursactuelles.com,proxy
 HOST-SUFFIX,valvesoftware.com,proxy
 HOST-SUFFIX,van001.com,proxy
 HOST-SUFFIX,van698.com,proxy
-HOST-SUFFIX,vanemu.cn,proxy
 HOST-SUFFIX,vanilla-jp.com,proxy
 HOST-SUFFIX,vanpeople.com,proxy
 HOST-SUFFIX,vansky.com,proxy
@@ -6020,7 +5999,6 @@ HOST-SUFFIX,whatsapp.com,proxy
 HOST-SUFFIX,whatsapp.net,proxy
 HOST-SUFFIX,whatsonweibo.com,proxy
 HOST-SUFFIX,wheatseeds.org,proxy
-HOST-SUFFIX,wheel-size.cn,proxy
 HOST-SUFFIX,wheelockslatin.com,proxy
 HOST-SUFFIX,whereiswerner.com,proxy
 HOST-SUFFIX,wheretowatch.com,proxy
@@ -6033,7 +6011,6 @@ HOST-SUFFIX,whylover.com,proxy
 HOST-SUFFIX,whyx.org,proxy
 HOST-SUFFIX,widevine.com,proxy
 HOST-SUFFIX,wikaba.com,proxy
-HOST-SUFFIX,wiki.keso.cn,proxy
 HOST-SUFFIX,wikia.com,proxy
 HOST-SUFFIX,wikibooks.org,proxy
 HOST-SUFFIX,wikidata.org,proxy
@@ -6379,7 +6356,6 @@ HOST-SUFFIX,zhongmeng.org,proxy
 HOST-SUFFIX,zhoushuguang.com,proxy
 HOST-SUFFIX,zhreader.com,proxy
 HOST-SUFFIX,zhuangbi.me,proxy
-HOST-SUFFIX,zhuanxing.cn,proxy
 HOST-SUFFIX,zhuatieba.com,proxy
 HOST-SUFFIX,zi.media,proxy
 HOST-SUFFIX,zi5.me,proxy
@@ -6391,7 +6367,6 @@ HOST-SUFFIX,ziporn.com,proxy
 HOST-SUFFIX,zippyshare.com,proxy
 HOST-SUFFIX,zkaip.com,proxy
 HOST-SUFFIX,zkiz.com,proxy
-HOST-SUFFIX,zmw.cn,proxy
 HOST-SUFFIX,zodgame.us,proxy
 HOST-SUFFIX,zoho.com,proxy
 HOST-SUFFIX,zomobo.net,proxy

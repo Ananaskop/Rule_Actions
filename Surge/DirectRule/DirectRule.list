@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-08 14:14:27
+# 更新时间： 2024-01-08 20:19:34
 DOMAIN,analytics.strava.com
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
@@ -9,7 +9,6 @@ DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
-DOMAIN,dl.google.com
 DOMAIN,download.jetbrains.com
 DOMAIN,e16991.b.akamaiedge.net
 DOMAIN,github-cloud.s3.amazonaws.com
@@ -18,7 +17,6 @@ DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
 DOMAIN,lookup-api.apple.com.edgekey.net
-DOMAIN,mtalk.google.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,outlook.office365.com
@@ -2645,7 +2643,6 @@ DOMAIN-SUFFIX,gongyi.xin
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goodsdunk.net
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,goosail.com
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,goselling.com
@@ -6144,7 +6141,6 @@ IP-ASN,139110,no-resolve
 IP-ASN,139112,no-resolve
 IP-ASN,139118,no-resolve
 IP-ASN,139122,no-resolve
-IP-ASN,139133,no-resolve
 IP-ASN,139136,no-resolve
 IP-ASN,139138,no-resolve
 IP-ASN,139139,no-resolve
@@ -6359,6 +6355,7 @@ IP-ASN,140863,no-resolve
 IP-ASN,140886,no-resolve
 IP-ASN,140895,no-resolve
 IP-ASN,140903,no-resolve
+IP-ASN,140915,no-resolve
 IP-ASN,140936,no-resolve
 IP-ASN,140979,no-resolve
 IP-ASN,141025,no-resolve
@@ -6393,6 +6390,7 @@ IP-ASN,146758,no-resolve
 IP-ASN,146771,no-resolve
 IP-ASN,146772,no-resolve
 IP-ASN,146774,no-resolve
+IP-ASN,146788,no-resolve
 IP-ASN,146792,no-resolve
 IP-ASN,146809,no-resolve
 IP-ASN,146812,no-resolve
@@ -6402,6 +6400,7 @@ IP-ASN,146822,no-resolve
 IP-ASN,146824,no-resolve
 IP-ASN,146827,no-resolve
 IP-ASN,146834,no-resolve
+IP-ASN,146841,no-resolve
 IP-ASN,146842,no-resolve
 IP-ASN,146845,no-resolve
 IP-ASN,146966,no-resolve
@@ -6442,6 +6441,7 @@ IP-ASN,151397,no-resolve
 IP-ASN,151416,no-resolve
 IP-ASN,151418,no-resolve
 IP-ASN,151464,no-resolve
+IP-ASN,151483,no-resolve
 IP-ASN,151493,no-resolve
 IP-ASN,151494,no-resolve
 IP-ASN,151640,no-resolve
@@ -6451,7 +6451,10 @@ IP-ASN,151782,no-resolve
 IP-ASN,151785,no-resolve
 IP-ASN,151814,no-resolve
 IP-ASN,151823,no-resolve
+IP-ASN,151841,no-resolve
 IP-ASN,152092,no-resolve
+IP-ASN,152118,no-resolve
+IP-ASN,152157,no-resolve
 IP-ASN,17428,no-resolve
 IP-ASN,17429,no-resolve
 IP-ASN,17430,no-resolve
@@ -6488,7 +6491,6 @@ IP-ASN,197866,no-resolve
 IP-ASN,198025,no-resolve
 IP-ASN,198266,no-resolve
 IP-ASN,198304,no-resolve
-IP-ASN,198527,no-resolve
 IP-ASN,198764,no-resolve
 IP-ASN,199068,no-resolve
 IP-ASN,199307,no-resolve
@@ -6497,7 +6499,6 @@ IP-ASN,199392,no-resolve
 IP-ASN,199406,no-resolve
 IP-ASN,199436,no-resolve
 IP-ASN,199684,no-resolve
-IP-ASN,199691,no-resolve
 IP-ASN,199832,no-resolve
 IP-ASN,199932,no-resolve
 IP-ASN,200021,no-resolve
@@ -6518,7 +6519,6 @@ IP-ASN,200809,no-resolve
 IP-ASN,200853,no-resolve
 IP-ASN,200890,no-resolve
 IP-ASN,200895,no-resolve
-IP-ASN,200907,no-resolve
 IP-ASN,200912,no-resolve
 IP-ASN,200936,no-resolve
 IP-ASN,200949,no-resolve
@@ -6556,12 +6556,10 @@ IP-ASN,208266,no-resolve
 IP-ASN,208618,no-resolve
 IP-ASN,208679,no-resolve
 IP-ASN,208680,no-resolve
-IP-ASN,208698,no-resolve
 IP-ASN,208830,no-resolve
 IP-ASN,208872,no-resolve
 IP-ASN,208993,no-resolve
 IP-ASN,209083,no-resolve
-IP-ASN,209101,no-resolve
 IP-ASN,209218,no-resolve
 IP-ASN,209261,no-resolve
 IP-ASN,209294,no-resolve
@@ -6599,6 +6597,10 @@ IP-ASN,212690,no-resolve
 IP-ASN,212793,no-resolve
 IP-ASN,213069,no-resolve
 IP-ASN,213115,no-resolve
+IP-ASN,215786,no-resolve
+IP-ASN,215829,no-resolve
+IP-ASN,215832,no-resolve
+IP-ASN,215848,no-resolve
 IP-ASN,215906,no-resolve
 IP-ASN,215969,no-resolve
 IP-ASN,216056,no-resolve
@@ -6666,7 +6668,6 @@ IP-ASN,24400,no-resolve
 IP-ASN,24406,no-resolve
 IP-ASN,24409,no-resolve
 IP-ASN,24413,no-resolve
-IP-ASN,24416,no-resolve
 IP-ASN,24422,no-resolve
 IP-ASN,24423,no-resolve
 IP-ASN,24424,no-resolve

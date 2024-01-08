@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-08 14:14:03
+# 更新时间： 2024-01-08 20:19:09
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -54,7 +54,6 @@ HOST,cdn1.apple-mapkit.com,direct
 HOST,cdn2.apple-mapkit.com,direct
 HOST,cdn3.apple-mapkit.com,direct
 HOST,cdn4.apple-mapkit.com,direct
-HOST,cdp.cloud.unity3d.com,direct
 HOST,cds-cdn.v.aaplimg.com,direct
 HOST,cds.apple.com,direct
 HOST,cds.apple.com.akadns.net,direct
@@ -95,7 +94,6 @@ HOST,developer.microsoft.com,direct
 HOST,devimages-cdn.apple.com,direct
 HOST,devstreaming-cdn.apple.com,direct
 HOST,discussionschinese.apple.com,direct
-HOST,dl.google.com,direct
 HOST,docs-assets.developer.apple.com,direct
 HOST,docs.microsoft.com,direct
 HOST,download.developer.apple.com,direct
@@ -108,10 +106,12 @@ HOST,edge.activity.windows.com,direct
 HOST,edge.microsoft.com,direct
 HOST,emoi-cncdn.bing.com,direct
 HOST,fides-pol.apple.com,direct
+HOST,file-igamecj.akamaized.net,direct
 HOST,fmfmobile.icloud.com,direct
 HOST,fmipmobile.icloud.com,direct
 HOST,fs.microsoft.com,direct
 HOST,gateway.icloud.com,direct
+HOST,geetest.datasink.sensorsdata.cn,direct
 HOST,gs-loc-cn.apple.com,direct
 HOST,gs-loc.apple.com,direct
 HOST,gsp10-ssl-cn.ls.apple.com,direct
@@ -157,6 +157,7 @@ HOST,init.itunes.apple.com,direct
 HOST,iosapps-ssl.itunes.apple.com,direct
 HOST,iosapps.itunes.apple.com,direct
 HOST,iosapps.itunes.g.aaplimg.com,direct
+HOST,ip.bjango.com,direct
 HOST,ip.istatmenus.app,direct
 HOST,ipcdn.apple.com,direct
 HOST,iphone-ld.apple.com,direct
@@ -189,10 +190,10 @@ HOST,mask.icloud.com,direct
 HOST,mesu-cdn.apple.com.akadns.net,direct
 HOST,mesu-china.apple.com.akadns.net,direct
 HOST,mesu.apple.com,direct
+HOST,moocs.unipus.cn,direct
 HOST,msedge.api.cdp.microsoft.com,direct
 HOST,msgr.dlservice.microsoft.com,direct
 HOST,msgruser.dlservice.microsoft.com,direct
-HOST,mtalk.google.com,direct
 HOST,music.apple.com,direct
 HOST,mvod.itunes.apple.com,direct
 HOST,mwf-service.akamaized.net,direct
@@ -202,6 +203,7 @@ HOST,news-client.apple.com,direct
 HOST,news-edge.apple.com,direct
 HOST,news-events.apple.com,direct
 HOST,np-edge.itunes.apple.com,direct
+HOST,ntservicepack.microsoft.com,direct
 HOST,ocsp-lb.apple.com.akadns.net,direct
 HOST,ocsp.apple.com,direct
 HOST,ocsp2-lb.apple.com.akadns.net,direct
@@ -240,6 +242,7 @@ HOST,silverlight.dlservice.microsoft.com,direct
 HOST,slupdate.dlservice.microsoft.com,direct
 HOST,smp-device-content.apple.com,direct
 HOST,sms.imagetasks.com,direct
+HOST,smtp-mail.outlook.com,direct
 HOST,smtp.office365.com,direct
 HOST,sp.itunes.apple.com,direct
 HOST,speed.dler.io,direct
@@ -247,7 +250,6 @@ HOST,statici.icloud.com,direct
 HOST,statics-marketingsites-eas-ms-com.akamaized.net,direct
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,direct
 HOST,statics-marketingsites-wcus-ms-com.akamaized.net,direct
-HOST,steamcommunity-a.akamaihd.net,direct
 HOST,stocks-sparkline-lb.apple.com.akadns.net,direct
 HOST,stocks-sparkline.apple.com,direct
 HOST,store.apple.com,direct
@@ -277,6 +279,7 @@ HOST,tv.applemusic.com,direct
 HOST,updates-http.cdn-apple.com,direct
 HOST,updates-http.cdn-apple.com.akadns.net,direct
 HOST,updates.cdn-apple.com,direct
+HOST,upos-hz-mirrorakam.akamaized.net,direct
 HOST,upp.itunes.apple.com,direct
 HOST,uts-api.itunes.apple.com,direct
 HOST,valid.apple.com,direct
@@ -286,6 +289,7 @@ HOST,weather-data.apple.com,direct
 HOST,wl.dlservice.microsoft.com,direct
 HOST,wscont1.apps.microsoft.com,direct
 HOST,wscont2.apps.microsoft.com,direct
+HOST,wustat.windows.com,direct
 HOST,www-cdn.icloud.com.akadns.net,direct
 HOST,www.apple.com,direct
 HOST,www.apple.com.edgekey.net,direct
@@ -2911,7 +2915,6 @@ HOST-SUFFIX,gongyi.xin,direct
 HOST-SUFFIX,goodread.com,direct
 HOST-SUFFIX,goodsdunk.net,direct
 HOST-SUFFIX,goofish.com,direct
-HOST-SUFFIX,googletraveladservices.com,direct
 HOST-SUFFIX,goosail.com,direct
 HOST-SUFFIX,goproxy.io,direct
 HOST-SUFFIX,goselling.com,direct
@@ -6420,7 +6423,6 @@ IP-ASN,139110,direct,no-resolve
 IP-ASN,139112,direct,no-resolve
 IP-ASN,139118,direct,no-resolve
 IP-ASN,139122,direct,no-resolve
-IP-ASN,139133,direct,no-resolve
 IP-ASN,139136,direct,no-resolve
 IP-ASN,139138,direct,no-resolve
 IP-ASN,139139,direct,no-resolve
@@ -6635,6 +6637,7 @@ IP-ASN,140863,direct,no-resolve
 IP-ASN,140886,direct,no-resolve
 IP-ASN,140895,direct,no-resolve
 IP-ASN,140903,direct,no-resolve
+IP-ASN,140915,direct,no-resolve
 IP-ASN,140936,direct,no-resolve
 IP-ASN,140979,direct,no-resolve
 IP-ASN,141025,direct,no-resolve
@@ -6669,6 +6672,7 @@ IP-ASN,146758,direct,no-resolve
 IP-ASN,146771,direct,no-resolve
 IP-ASN,146772,direct,no-resolve
 IP-ASN,146774,direct,no-resolve
+IP-ASN,146788,direct,no-resolve
 IP-ASN,146792,direct,no-resolve
 IP-ASN,146809,direct,no-resolve
 IP-ASN,146812,direct,no-resolve
@@ -6678,6 +6682,7 @@ IP-ASN,146822,direct,no-resolve
 IP-ASN,146824,direct,no-resolve
 IP-ASN,146827,direct,no-resolve
 IP-ASN,146834,direct,no-resolve
+IP-ASN,146841,direct,no-resolve
 IP-ASN,146842,direct,no-resolve
 IP-ASN,146845,direct,no-resolve
 IP-ASN,146966,direct,no-resolve
@@ -6718,6 +6723,7 @@ IP-ASN,151397,direct,no-resolve
 IP-ASN,151416,direct,no-resolve
 IP-ASN,151418,direct,no-resolve
 IP-ASN,151464,direct,no-resolve
+IP-ASN,151483,direct,no-resolve
 IP-ASN,151493,direct,no-resolve
 IP-ASN,151494,direct,no-resolve
 IP-ASN,151640,direct,no-resolve
@@ -6727,7 +6733,10 @@ IP-ASN,151782,direct,no-resolve
 IP-ASN,151785,direct,no-resolve
 IP-ASN,151814,direct,no-resolve
 IP-ASN,151823,direct,no-resolve
+IP-ASN,151841,direct,no-resolve
 IP-ASN,152092,direct,no-resolve
+IP-ASN,152118,direct,no-resolve
+IP-ASN,152157,direct,no-resolve
 IP-ASN,17428,direct,no-resolve
 IP-ASN,17429,direct,no-resolve
 IP-ASN,17430,direct,no-resolve
@@ -6764,7 +6773,6 @@ IP-ASN,197866,direct,no-resolve
 IP-ASN,198025,direct,no-resolve
 IP-ASN,198266,direct,no-resolve
 IP-ASN,198304,direct,no-resolve
-IP-ASN,198527,direct,no-resolve
 IP-ASN,198764,direct,no-resolve
 IP-ASN,199068,direct,no-resolve
 IP-ASN,199307,direct,no-resolve
@@ -6773,7 +6781,6 @@ IP-ASN,199392,direct,no-resolve
 IP-ASN,199406,direct,no-resolve
 IP-ASN,199436,direct,no-resolve
 IP-ASN,199684,direct,no-resolve
-IP-ASN,199691,direct,no-resolve
 IP-ASN,199832,direct,no-resolve
 IP-ASN,199932,direct,no-resolve
 IP-ASN,200021,direct,no-resolve
@@ -6794,7 +6801,6 @@ IP-ASN,200809,direct,no-resolve
 IP-ASN,200853,direct,no-resolve
 IP-ASN,200890,direct,no-resolve
 IP-ASN,200895,direct,no-resolve
-IP-ASN,200907,direct,no-resolve
 IP-ASN,200912,direct,no-resolve
 IP-ASN,200936,direct,no-resolve
 IP-ASN,200949,direct,no-resolve
@@ -6832,12 +6838,10 @@ IP-ASN,208266,direct,no-resolve
 IP-ASN,208618,direct,no-resolve
 IP-ASN,208679,direct,no-resolve
 IP-ASN,208680,direct,no-resolve
-IP-ASN,208698,direct,no-resolve
 IP-ASN,208830,direct,no-resolve
 IP-ASN,208872,direct,no-resolve
 IP-ASN,208993,direct,no-resolve
 IP-ASN,209083,direct,no-resolve
-IP-ASN,209101,direct,no-resolve
 IP-ASN,209218,direct,no-resolve
 IP-ASN,209261,direct,no-resolve
 IP-ASN,209294,direct,no-resolve
@@ -6875,6 +6879,10 @@ IP-ASN,212690,direct,no-resolve
 IP-ASN,212793,direct,no-resolve
 IP-ASN,213069,direct,no-resolve
 IP-ASN,213115,direct,no-resolve
+IP-ASN,215786,direct,no-resolve
+IP-ASN,215829,direct,no-resolve
+IP-ASN,215832,direct,no-resolve
+IP-ASN,215848,direct,no-resolve
 IP-ASN,215906,direct,no-resolve
 IP-ASN,215969,direct,no-resolve
 IP-ASN,216056,direct,no-resolve
@@ -6942,7 +6950,6 @@ IP-ASN,24400,direct,no-resolve
 IP-ASN,24406,direct,no-resolve
 IP-ASN,24409,direct,no-resolve
 IP-ASN,24413,direct,no-resolve
-IP-ASN,24416,direct,no-resolve
 IP-ASN,24422,direct,no-resolve
 IP-ASN,24423,direct,no-resolve
 IP-ASN,24424,direct,no-resolve

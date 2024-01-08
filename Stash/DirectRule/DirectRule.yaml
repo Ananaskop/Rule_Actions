@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-08 14:14:15
+# 更新时间： 2024-01-08 20:19:21
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,appldnld.apple.com.edgesuite.net
@@ -10,7 +10,6 @@ payload:
   - DOMAIN,cdn.angruo.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,client.amplifi.com
-  - DOMAIN,dl.google.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,e16991.b.akamaiedge.net
   - DOMAIN,github-cloud.s3.amazonaws.com
@@ -19,7 +18,6 @@ payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,kc.kexinshe.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
-  - DOMAIN,mtalk.google.com
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,outlook.office365.com
@@ -2646,7 +2644,6 @@ payload:
   - DOMAIN-SUFFIX,goodread.com
   - DOMAIN-SUFFIX,goodsdunk.net
   - DOMAIN-SUFFIX,goofish.com
-  - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,goosail.com
   - DOMAIN-SUFFIX,goproxy.io
   - DOMAIN-SUFFIX,goselling.com
