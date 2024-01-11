@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-11 08:48:02
+# 更新时间： 2024-01-11 14:13:47
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -55245,6 +55245,7 @@ HOST-SUFFIX,meritiny.top,reject
 HOST-SUFFIX,merligopotlid.com,reject
 HOST-SUFFIX,mermenmanzil.life,reject
 HOST-SUFFIX,mermiscoapted.com,reject
+HOST-SUFFIX,merqieth.com,reject
 HOST-SUFFIX,merryindecisionremained.com,reject
 HOST-SUFFIX,merterpazar.com,reject
 HOST-SUFFIX,meryjanechile.rdtrke.com,reject
@@ -92719,6 +92720,7 @@ HOST-SUFFIX,ueb4.destinia.tw,reject
 HOST-SUFFIX,uebabuf.cn,reject
 HOST-SUFFIX,uebawtz7.me,reject
 HOST-SUFFIX,uebipacy.xyz,reject
+HOST-SUFFIX,uebohjhh.xyz,reject
 HOST-SUFFIX,uectfe.toptantr.com,reject
 HOST-SUFFIX,ued8.destinia.sg,reject
 HOST-SUFFIX,uedas.qidian.com,reject
