@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-12 08:48:37
+# 更新时间： 2024-01-12 14:14:07
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -28145,6 +28145,7 @@ payload:
   - DOMAIN-SUFFIX,df.infra.shopee.ph
   - DOMAIN-SUFFIX,df253f3b96.com
   - DOMAIN-SUFFIX,df3n43m.com
+  - DOMAIN-SUFFIX,df63x.xyz
   - DOMAIN-SUFFIX,df77.com
   - DOMAIN-SUFFIX,df888.eastday.com
   - DOMAIN-SUFFIX,dfad.dfdaily.com
@@ -39783,6 +39784,7 @@ payload:
   - DOMAIN-SUFFIX,hajoopteg.com
   - DOMAIN-SUFFIX,hal.courrierinternational.com
   - DOMAIN-SUFFIX,halachadivvers.com
+  - DOMAIN-SUFFIX,halcyoncanyon.com
   - DOMAIN-SUFFIX,halerugeogeny.com
   - DOMAIN-SUFFIX,halfhaled.com
   - DOMAIN-SUFFIX,halfpriceozarks.com
@@ -84497,7 +84499,6 @@ payload:
   - DOMAIN-SUFFIX,szipkp.com
   - DOMAIN-SUFFIX,szkdst.com
   - DOMAIN-SUFFIX,szlipubod.com
-  - DOMAIN-SUFFIX,szlong.weixin.qq.com
   - DOMAIN-SUFFIX,szltwl.com
   - DOMAIN-SUFFIX,szmdp.cn
   - DOMAIN-SUFFIX,szmkr.cn

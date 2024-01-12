@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-12 08:48:24
+# 更新时间： 2024-01-12 14:13:53
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,118.89.204.198,reject
@@ -28144,6 +28144,7 @@ HOST-SUFFIX,df-long.cn,reject
 HOST-SUFFIX,df.infra.shopee.ph,reject
 HOST-SUFFIX,df253f3b96.com,reject
 HOST-SUFFIX,df3n43m.com,reject
+HOST-SUFFIX,df63x.xyz,reject
 HOST-SUFFIX,df77.com,reject
 HOST-SUFFIX,df888.eastday.com,reject
 HOST-SUFFIX,dfad.dfdaily.com,reject
@@ -39782,6 +39783,7 @@ HOST-SUFFIX,haizhangs.com,reject
 HOST-SUFFIX,hajoopteg.com,reject
 HOST-SUFFIX,hal.courrierinternational.com,reject
 HOST-SUFFIX,halachadivvers.com,reject
+HOST-SUFFIX,halcyoncanyon.com,reject
 HOST-SUFFIX,halerugeogeny.com,reject
 HOST-SUFFIX,halfhaled.com,reject
 HOST-SUFFIX,halfpriceozarks.com,reject
@@ -84496,7 +84498,6 @@ HOST-SUFFIX,szhyzkj.com,reject
 HOST-SUFFIX,szipkp.com,reject
 HOST-SUFFIX,szkdst.com,reject
 HOST-SUFFIX,szlipubod.com,reject
-HOST-SUFFIX,szlong.weixin.qq.com,reject
 HOST-SUFFIX,szltwl.com,reject
 HOST-SUFFIX,szmdp.cn,reject
 HOST-SUFFIX,szmkr.cn,reject
