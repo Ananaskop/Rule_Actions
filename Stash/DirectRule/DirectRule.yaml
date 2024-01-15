@@ -1,20 +1,24 @@
-# 更新时间： 2024-01-15 15:16:49
+# 更新时间： 2024-01-15 15:21:00
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,appldnld.apple.com.edgesuite.net
   - DOMAIN,apple-events.akamaized.net
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+  - DOMAIN,asusrouter.com
   - DOMAIN,beatselectronicsllc.tt.omtrdc.net
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,cdn.angruo.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,client.amplifi.com
+  - DOMAIN,cp.cloudflare.com
+  - DOMAIN,detectportal.firefox.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,e16991.b.akamaiedge.net
   - DOMAIN,github-cloud.s3.amazonaws.com
   - DOMAIN,icons.axm-usercontent-apple.com
   - DOMAIN,images-cn.ssl-images-amazon.com
+  - DOMAIN,instant.arubanetworks.com
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,kc.kexinshe.com
   - DOMAIN,lookup-api.apple.com.edgekey.net
@@ -22,10 +26,13 @@ payload:
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,outlook.office365.com
   - DOMAIN,p-events-delivery.akamaized.net
+  - DOMAIN,router.asus.com
+  - DOMAIN,setmeup.arubanetworks.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,smtp.office365.com
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,vsmarketplacebadge.apphb.com
+  - DOMAIN,www.asusrouter.com
   - DOMAIN,www.libvideo.com
   - DOMAIN,www.yxssp.com
   - DOMAIN-KEYWORD,.tmall.com
@@ -48,37 +55,72 @@ payload:
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,testflight
+  - DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+  - DOMAIN-SUFFIX,0.in-addr.arpa
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,0123456789.com
   - DOMAIN-SUFFIX,0379home.com
   - DOMAIN-SUFFIX,055110.com
   - DOMAIN-SUFFIX,05sun.com
   - DOMAIN-SUFFIX,0759job.com
+  - DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+  - DOMAIN-SUFFIX,10.in-addr.arpa
+  - DOMAIN-SUFFIX,100.100.in-addr.arpa
+  - DOMAIN-SUFFIX,100.51.198.in-addr.arpa
   - DOMAIN-SUFFIX,10010.com
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,100bt.com
   - DOMAIN-SUFFIX,100offer.com
+  - DOMAIN-SUFFIX,101.100.in-addr.arpa
+  - DOMAIN-SUFFIX,102.100.in-addr.arpa
+  - DOMAIN-SUFFIX,103.100.in-addr.arpa
+  - DOMAIN-SUFFIX,104.100.in-addr.arpa
+  - DOMAIN-SUFFIX,105.100.in-addr.arpa
+  - DOMAIN-SUFFIX,106.100.in-addr.arpa
+  - DOMAIN-SUFFIX,107.100.in-addr.arpa
+  - DOMAIN-SUFFIX,108.100.in-addr.arpa
+  - DOMAIN-SUFFIX,109.100.in-addr.arpa
+  - DOMAIN-SUFFIX,110.100.in-addr.arpa
+  - DOMAIN-SUFFIX,111.100.in-addr.arpa
+  - DOMAIN-SUFFIX,112.100.in-addr.arpa
+  - DOMAIN-SUFFIX,113.0.203.in-addr.arpa
+  - DOMAIN-SUFFIX,113.100.in-addr.arpa
+  - DOMAIN-SUFFIX,114.100.in-addr.arpa
   - DOMAIN-SUFFIX,11467.com
   - DOMAIN-SUFFIX,114chn.com
   - DOMAIN-SUFFIX,114menhu.com
   - DOMAIN-SUFFIX,114piaowu.com
   - DOMAIN-SUFFIX,114shouji.com
+  - DOMAIN-SUFFIX,115.100.in-addr.arpa
   - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,115cdn.com
   - DOMAIN-SUFFIX,115cdn.net
   - DOMAIN-SUFFIX,115img.com
+  - DOMAIN-SUFFIX,116.100.in-addr.arpa
   - DOMAIN-SUFFIX,116cd.com
   - DOMAIN-SUFFIX,116cd.net
+  - DOMAIN-SUFFIX,117.100.in-addr.arpa
+  - DOMAIN-SUFFIX,118.100.in-addr.arpa
+  - DOMAIN-SUFFIX,119.100.in-addr.arpa
   - DOMAIN-SUFFIX,119you.com
+  - DOMAIN-SUFFIX,120.100.in-addr.arpa
+  - DOMAIN-SUFFIX,121.100.in-addr.arpa
+  - DOMAIN-SUFFIX,122.100.in-addr.arpa
+  - DOMAIN-SUFFIX,123.100.in-addr.arpa
   - DOMAIN-SUFFIX,12306.com
   - DOMAIN-SUFFIX,123juzi.com
   - DOMAIN-SUFFIX,123juzi.net
   - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,123u.com
+  - DOMAIN-SUFFIX,124.100.in-addr.arpa
+  - DOMAIN-SUFFIX,125.100.in-addr.arpa
+  - DOMAIN-SUFFIX,126.100.in-addr.arpa
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,126.link
   - DOMAIN-SUFFIX,126.net
+  - DOMAIN-SUFFIX,127.100.in-addr.arpa
   - DOMAIN-SUFFIX,127.com
+  - DOMAIN-SUFFIX,127.in-addr.arpa
   - DOMAIN-SUFFIX,127.net
   - DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
   - DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
@@ -97,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
   - DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
   - DOMAIN-SUFFIX,139.com
+  - DOMAIN-SUFFIX,16.172.in-addr.arpa
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,1637.com
   - DOMAIN-SUFFIX,163cn.tv
@@ -106,9 +149,11 @@ payload:
   - DOMAIN-SUFFIX,163yun.com
   - DOMAIN-SUFFIX,166.com
   - DOMAIN-SUFFIX,166.net
+  - DOMAIN-SUFFIX,168.192.in-addr.arpa
   - DOMAIN-SUFFIX,1688.com
   - DOMAIN-SUFFIX,16888.com
   - DOMAIN-SUFFIX,16rd.com
+  - DOMAIN-SUFFIX,17.172.in-addr.arpa
   - DOMAIN-SUFFIX,17173.com
   - DOMAIN-SUFFIX,178.com
   - DOMAIN-SUFFIX,178linux.com
@@ -122,8 +167,10 @@ payload:
   - DOMAIN-SUFFIX,17usoft.net
   - DOMAIN-SUFFIX,17zuoye.com
   - DOMAIN-SUFFIX,17zuoye.net
+  - DOMAIN-SUFFIX,18.172.in-addr.arpa
   - DOMAIN-SUFFIX,18183.com
   - DOMAIN-SUFFIX,188.com
+  - DOMAIN-SUFFIX,19.172.in-addr.arpa
   - DOMAIN-SUFFIX,1905.com
   - DOMAIN-SUFFIX,19yxw.com
   - DOMAIN-SUFFIX,1drv.com
@@ -135,6 +182,8 @@ payload:
   - DOMAIN-SUFFIX,1to1computing.com.au
   - DOMAIN-SUFFIX,1to1conference.com.au
   - DOMAIN-SUFFIX,1zhe.com
+  - DOMAIN-SUFFIX,2.0.192.in-addr.arpa
+  - DOMAIN-SUFFIX,20.172.in-addr.arpa
   - DOMAIN-SUFFIX,2013beatsbydrdreonline.com
   - DOMAIN-SUFFIX,2013beatsbydrdreshop.com
   - DOMAIN-SUFFIX,2013beatsbydreshop.com
@@ -143,24 +192,37 @@ payload:
   - DOMAIN-SUFFIX,2013newbeatsworld.com
   - DOMAIN-SUFFIX,2013pascherbeatsbydre.com
   - DOMAIN-SUFFIX,2014cheapbeatsbydre.com
+  - DOMAIN-SUFFIX,21.172.in-addr.arpa
   - DOMAIN-SUFFIX,21cn.com
   - DOMAIN-SUFFIX,21jingji.com
   - DOMAIN-SUFFIX,21vbc.com
   - DOMAIN-SUFFIX,21vbluecloud.com
   - DOMAIN-SUFFIX,21vbluecloud.net
+  - DOMAIN-SUFFIX,22.172.in-addr.arpa
   - DOMAIN-SUFFIX,2265.com
   - DOMAIN-SUFFIX,2288.org
+  - DOMAIN-SUFFIX,23.172.in-addr.arpa
   - DOMAIN-SUFFIX,2345.com
+  - DOMAIN-SUFFIX,24.172.in-addr.arpa
+  - DOMAIN-SUFFIX,25.172.in-addr.arpa
+  - DOMAIN-SUFFIX,254.169.in-addr.arpa
+  - DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa
   - DOMAIN-SUFFIX,258.com
   - DOMAIN-SUFFIX,25pp.com
+  - DOMAIN-SUFFIX,26.172.in-addr.arpa
   - DOMAIN-SUFFIX,263.net
+  - DOMAIN-SUFFIX,27.172.in-addr.arpa
+  - DOMAIN-SUFFIX,28.172.in-addr.arpa
   - DOMAIN-SUFFIX,289.com
+  - DOMAIN-SUFFIX,29.172.in-addr.arpa
   - DOMAIN-SUFFIX,2beatsdre.com
   - DOMAIN-SUFFIX,2buybeatsbydre.com
   - DOMAIN-SUFFIX,2cto.com
   - DOMAIN-SUFFIX,2drdrebeats.com
+  - DOMAIN-SUFFIX,30.172.in-addr.arpa
   - DOMAIN-SUFFIX,3000.com
   - DOMAIN-SUFFIX,300hu.com
+  - DOMAIN-SUFFIX,31.172.in-addr.arpa
   - DOMAIN-SUFFIX,310win.com
   - DOMAIN-SUFFIX,315che.com
   - DOMAIN-SUFFIX,3234.com
@@ -312,21 +374,37 @@ payload:
   - DOMAIN-SUFFIX,5read.com
   - DOMAIN-SUFFIX,5you.com
   - DOMAIN-SUFFIX,61.com
+  - DOMAIN-SUFFIX,64.100.in-addr.arpa
+  - DOMAIN-SUFFIX,65.100.in-addr.arpa
+  - DOMAIN-SUFFIX,66.100.in-addr.arpa
   - DOMAIN-SUFFIX,6655.com
   - DOMAIN-SUFFIX,66wz.com
+  - DOMAIN-SUFFIX,67.100.in-addr.arpa
+  - DOMAIN-SUFFIX,68.100.in-addr.arpa
   - DOMAIN-SUFFIX,68h5.com
+  - DOMAIN-SUFFIX,69.100.in-addr.arpa
   - DOMAIN-SUFFIX,6rooms.com
+  - DOMAIN-SUFFIX,70.100.in-addr.arpa
+  - DOMAIN-SUFFIX,71.100.in-addr.arpa
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,71.am.com
   - DOMAIN-SUFFIX,714.com
   - DOMAIN-SUFFIX,71acg.com
   - DOMAIN-SUFFIX,71acg.net
   - DOMAIN-SUFFIX,71edge.com
+  - DOMAIN-SUFFIX,72.100.in-addr.arpa
   - DOMAIN-SUFFIX,7230.com
   - DOMAIN-SUFFIX,72byte.com
   - DOMAIN-SUFFIX,72whys.com
+  - DOMAIN-SUFFIX,73.100.in-addr.arpa
+  - DOMAIN-SUFFIX,74.100.in-addr.arpa
+  - DOMAIN-SUFFIX,75.100.in-addr.arpa
   - DOMAIN-SUFFIX,75.team
   - DOMAIN-SUFFIX,75team.com
+  - DOMAIN-SUFFIX,76.100.in-addr.arpa
+  - DOMAIN-SUFFIX,77.100.in-addr.arpa
+  - DOMAIN-SUFFIX,78.100.in-addr.arpa
+  - DOMAIN-SUFFIX,79.100.in-addr.arpa
   - DOMAIN-SUFFIX,7down.com
   - DOMAIN-SUFFIX,7fresh.com
   - DOMAIN-SUFFIX,7k7k.com
@@ -334,28 +412,51 @@ payload:
   - DOMAIN-SUFFIX,7po.com
   - DOMAIN-SUFFIX,7x24cc.com
   - DOMAIN-SUFFIX,7xdown.com
+  - DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa
+  - DOMAIN-SUFFIX,8.e.f.ip6.arpa
+  - DOMAIN-SUFFIX,80.100.in-addr.arpa
   - DOMAIN-SUFFIX,8008205555.com
+  - DOMAIN-SUFFIX,81.100.in-addr.arpa
   - DOMAIN-SUFFIX,818ps.com
+  - DOMAIN-SUFFIX,82.100.in-addr.arpa
   - DOMAIN-SUFFIX,8264.com
+  - DOMAIN-SUFFIX,83.100.in-addr.arpa
+  - DOMAIN-SUFFIX,84.100.in-addr.arpa
   - DOMAIN-SUFFIX,84399.com
+  - DOMAIN-SUFFIX,85.100.in-addr.arpa
+  - DOMAIN-SUFFIX,86.100.in-addr.arpa
   - DOMAIN-SUFFIX,8686c.com
+  - DOMAIN-SUFFIX,87.100.in-addr.arpa
+  - DOMAIN-SUFFIX,88.100.in-addr.arpa
   - DOMAIN-SUFFIX,885.com
   - DOMAIN-SUFFIX,88cdn.com
+  - DOMAIN-SUFFIX,89.100.in-addr.arpa
   - DOMAIN-SUFFIX,8btc.com
+  - DOMAIN-SUFFIX,9.e.f.ip6.arpa
+  - DOMAIN-SUFFIX,90.100.in-addr.arpa
   - DOMAIN-SUFFIX,900.la
+  - DOMAIN-SUFFIX,91.100.in-addr.arpa
   - DOMAIN-SUFFIX,91.com
   - DOMAIN-SUFFIX,917.com
   - DOMAIN-SUFFIX,91danji.com
   - DOMAIN-SUFFIX,91yunxiao.com
+  - DOMAIN-SUFFIX,92.100.in-addr.arpa
+  - DOMAIN-SUFFIX,93.100.in-addr.arpa
+  - DOMAIN-SUFFIX,94.100.in-addr.arpa
+  - DOMAIN-SUFFIX,95.100.in-addr.arpa
   - DOMAIN-SUFFIX,95095.com
   - DOMAIN-SUFFIX,95508.com
   - DOMAIN-SUFFIX,95516.com
   - DOMAIN-SUFFIX,95516.net
   - DOMAIN-SUFFIX,9553.com
   - DOMAIN-SUFFIX,95588.com
+  - DOMAIN-SUFFIX,96.100.in-addr.arpa
   - DOMAIN-SUFFIX,962.net
+  - DOMAIN-SUFFIX,97.100.in-addr.arpa
   - DOMAIN-SUFFIX,9718.com
   - DOMAIN-SUFFIX,97973.com
+  - DOMAIN-SUFFIX,98.100.in-addr.arpa
+  - DOMAIN-SUFFIX,99.100.in-addr.arpa
   - DOMAIN-SUFFIX,99166.com
   - DOMAIN-SUFFIX,998.com
   - DOMAIN-SUFFIX,999d.com
@@ -365,6 +466,7 @@ payload:
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,9xu.com
   - DOMAIN-SUFFIX,a-msedge.net
+  - DOMAIN-SUFFIX,a.e.f.ip6.arpa
   - DOMAIN-SUFFIX,a0pple.net
   - DOMAIN-SUFFIX,a1158.g.akamai.net
   - DOMAIN-SUFFIX,a122.dscg3.akamai.net
@@ -391,6 +493,7 @@ payload:
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
+  - DOMAIN-SUFFIX,acl4.ssr
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acompli.com
   - DOMAIN-SUFFIX,acompli.net
@@ -1018,6 +1121,7 @@ payload:
   - DOMAIN-SUFFIX,azurestackvalidation.com
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,b.akamaiedge.net
+  - DOMAIN-SUFFIX,b.e.f.ip6.arpa
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,b2byao.com
   - DOMAIN-SUFFIX,b2clogin.cn
@@ -1560,6 +1664,7 @@ payload:
   - DOMAIN-SUFFIX,cang.com
   - DOMAIN-SUFFIX,cankaoxiaoxi.com
   - DOMAIN-SUFFIX,capitalonline.net
+  - DOMAIN-SUFFIX,captive.apple.com
   - DOMAIN-SUFFIX,carbon.com
   - DOMAIN-SUFFIX,cardbaobao.com
   - DOMAIN-SUFFIX,carekit.org
@@ -2002,6 +2107,7 @@ payload:
   - DOMAIN-SUFFIX,com-hs-hkdy.com
   - DOMAIN-SUFFIX,computeinit.com
   - DOMAIN-SUFFIX,comsenz.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,contentchina.com
   - DOMAIN-SUFFIX,coolapk.com
   - DOMAIN-SUFFIX,coolapkmarket.com
@@ -2094,6 +2200,7 @@ payload:
   - DOMAIN-SUFFIX,cztv.com
   - DOMAIN-SUFFIX,cztvcloud.com
   - DOMAIN-SUFFIX,czybjz.com
+  - DOMAIN-SUFFIX,d.f.ip6.arpa
   - DOMAIN-SUFFIX,dadajiasu.com
   - DOMAIN-SUFFIX,dadighost.com
   - DOMAIN-SUFFIX,daguzhe.com
@@ -2791,6 +2898,7 @@ payload:
   - DOMAIN-SUFFIX,hipzoom.net
   - DOMAIN-SUFFIX,hisilicon.com
   - DOMAIN-SUFFIX,hitv.com
+  - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,hiyd.com
   - DOMAIN-SUFFIX,hjapi.com
   - DOMAIN-SUFFIX,hkgcloudcs.com
@@ -2807,6 +2915,7 @@ payload:
   - DOMAIN-SUFFIX,hollisterco.com
   - DOMAIN-SUFFIX,hollycrm.com
   - DOMAIN-SUFFIX,hololens.com
+  - DOMAIN-SUFFIX,home.arpa
   - DOMAIN-SUFFIX,homeinns.com
   - DOMAIN-SUFFIX,homekoo.com
   - DOMAIN-SUFFIX,homepod.cn
@@ -3642,6 +3751,7 @@ payload:
   - DOMAIN-SUFFIX,leecountytimes.com
   - DOMAIN-SUFFIX,leetcode-cn.com
   - DOMAIN-SUFFIX,leigod.com
+  - DOMAIN-SUFFIX,leike.cc
   - DOMAIN-SUFFIX,leikeji.com
   - DOMAIN-SUFFIX,leiphone.com
   - DOMAIN-SUFFIX,leiting.com
@@ -3706,6 +3816,8 @@ payload:
   - DOMAIN-SUFFIX,llscdn.com
   - DOMAIN-SUFFIX,llsserver.com
   - DOMAIN-SUFFIX,lnlib.net
+  - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,localhost.sec.qq.com
   - DOMAIN-SUFFIX,localizecdn.com
   - DOMAIN-SUFFIX,localytics.com
   - DOMAIN-SUFFIX,lofter.com
@@ -4187,6 +4299,7 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftidentity.com
+  - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftnet.org
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
@@ -4242,6 +4355,7 @@ payload:
   - DOMAIN-SUFFIX,mwf-service.akamaized.net
   - DOMAIN-SUFFIX,mxhichina.com
   - DOMAIN-SUFFIX,my-qcloud.com
+  - DOMAIN-SUFFIX,my.router
   - DOMAIN-SUFFIX,my4399.com
   - DOMAIN-SUFFIX,myalicdn.com
   - DOMAIN-SUFFIX,myanonamouse.net
@@ -4293,6 +4407,7 @@ payload:
   - DOMAIN-SUFFIX,netease-inc.com
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,netease.im
+  - DOMAIN-SUFFIX,networkcheck.kde.org
   - DOMAIN-SUFFIX,newasp.net
   - DOMAIN-SUFFIX,newbandeng.com
   - DOMAIN-SUFFIX,newbeatsblackfriday.com
@@ -4459,6 +4574,7 @@ payload:
   - DOMAIN-SUFFIX,oxfordartonline.com
   - DOMAIN-SUFFIX,oxfordbibliographies.com
   - DOMAIN-SUFFIX,oxfordmusiconline.com
+  - DOMAIN-SUFFIX,p.to
   - DOMAIN-SUFFIX,p2cdn.com
   - DOMAIN-SUFFIX,p2peye.com
   - DOMAIN-SUFFIX,p4pfile.com
@@ -4481,12 +4597,14 @@ payload:
   - DOMAIN-SUFFIX,pcpop.com
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,peccn.com
+  - DOMAIN-SUFFIX,peiluyou.com
   - DOMAIN-SUFFIX,perfectkickz.net
   - DOMAIN-SUFFIX,personeelsland.com
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,pgyer.com
   - DOMAIN-SUFFIX,pgzs.com
   - DOMAIN-SUFFIX,pharmacodia.com
+  - DOMAIN-SUFFIX,phicomm.me
   - DOMAIN-SUFFIX,philanthropy.xin
   - DOMAIN-SUFFIX,phonefactor.net
   - DOMAIN-SUFFIX,phpcomposer.com
@@ -4518,6 +4636,7 @@ payload:
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
   - DOMAIN-SUFFIX,playstationnetwork.com
+  - DOMAIN-SUFFIX,plex.direct
   - DOMAIN-SUFFIX,pmphmooc.com
   - DOMAIN-SUFFIX,pn1waq.com
   - DOMAIN-SUFFIX,pnas.org
@@ -4723,6 +4842,8 @@ payload:
   - DOMAIN-SUFFIX,rong360.com
   - DOMAIN-SUFFIX,rongechain.com
   - DOMAIN-SUFFIX,ronghub.com
+  - DOMAIN-SUFFIX,router.ctc
+  - DOMAIN-SUFFIX,routerlogin.com
   - DOMAIN-SUFFIX,routewize.com
   - DOMAIN-SUFFIX,rrmj.tv
   - DOMAIN-SUFFIX,rsc.org
@@ -5118,6 +5239,7 @@ payload:
   - DOMAIN-SUFFIX,tencentwemeet.club
   - DOMAIN-SUFFIX,tencentwepark.com
   - DOMAIN-SUFFIX,tencentyun.com
+  - DOMAIN-SUFFIX,tendawifi.com
   - DOMAIN-SUFFIX,tendbcluster.com
   - DOMAIN-SUFFIX,tendis.net
   - DOMAIN-SUFFIX,tenor.com
@@ -5126,6 +5248,7 @@ payload:
   - DOMAIN-SUFFIX,test-cignacmb.com
   - DOMAIN-SUFFIX,test-ipv4.com
   - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,test.steampowered.com
   - DOMAIN-SUFFIX,testwaf.com
   - DOMAIN-SUFFIX,texasholdemcup.com
   - DOMAIN-SUFFIX,texasholdemcup.net
@@ -5216,6 +5339,8 @@ payload:
   - DOMAIN-SUFFIX,toutiaostatic.com
   - DOMAIN-SUFFIX,toutiaovod.com
   - DOMAIN-SUFFIX,touzid.com
+  - DOMAIN-SUFFIX,tplinkwifi.net
+  - DOMAIN-SUFFIX,tplogin.cn
   - DOMAIN-SUFFIX,tpyzq.com
   - DOMAIN-SUFFIX,tracking-location.com
   - DOMAIN-SUFFIX,tracup.com
@@ -5234,6 +5359,7 @@ payload:
   - DOMAIN-SUFFIX,trustutn.org
   - DOMAIN-SUFFIX,tryfunctions.com
   - DOMAIN-SUFFIX,tryrating.com
+  - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,tsparkling.com
   - DOMAIN-SUFFIX,tteshop.com
   - DOMAIN-SUFFIX,ttmeiju.com
@@ -5484,6 +5610,7 @@ payload:
   - DOMAIN-SUFFIX,wholesalefine.com
   - DOMAIN-SUFFIX,wholesaleonlinemart.com
   - DOMAIN-SUFFIX,wicresoft.com
+  - DOMAIN-SUFFIX,wifi.cmcc
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,win007.com
   - DOMAIN-SUFFIX,win7china.com
@@ -5912,6 +6039,7 @@ payload:
   - DOMAIN-SUFFIX,zrblog.net
   - DOMAIN-SUFFIX,zsxq.com
   - DOMAIN-SUFFIX,zszq.com
+  - DOMAIN-SUFFIX,zte.home
   - DOMAIN-SUFFIX,ztfsec.com
   - DOMAIN-SUFFIX,zuche.com
   - DOMAIN-SUFFIX,zuchecdn.com
@@ -5925,18 +6053,24 @@ payload:
   - DOMAIN-SUFFIX,zybang.com
   - DOMAIN-SUFFIX,zyh365.com
   - DOMAIN-SUFFIX,zzdtec.com
+  - IP-CIDR,0.0.0.0/8,no-resolve
   - IP-CIDR,1.255.62.0/24,no-resolve
+  - IP-CIDR,10.0.0.0/8,no-resolve
+  - IP-CIDR,100.64.0.0/10,no-resolve
   - IP-CIDR,101.32.104.0/21,no-resolve
   - IP-CIDR,101.32.118.0/23,no-resolve
   - IP-CIDR,101.32.96.0/20,no-resolve
   - IP-CIDR,119.28.28.28/32,no-resolve
   - IP-CIDR,120.195.181.180/32,no-resolve
+  - IP-CIDR,127.0.0.0/8,no-resolve
   - IP-CIDR,129.226.0.0/16,no-resolve
   - IP-CIDR,139.178.128.0/18,no-resolve
   - IP-CIDR,144.178.0.0/19,no-resolve
   - IP-CIDR,144.178.36.0/22,no-resolve
   - IP-CIDR,144.178.48.0/20,no-resolve
+  - IP-CIDR,169.254.0.0/16,no-resolve
   - IP-CIDR,17.0.0.0/8,no-resolve
+  - IP-CIDR,172.16.0.0/12,no-resolve
   - IP-CIDR,182.254.116.0/24,no-resolve
   - IP-CIDR,183.128.0.0/11,no-resolve
   - IP-CIDR,183.131.48.0/20,no-resolve
@@ -5945,17 +6079,29 @@ payload:
   - IP-CIDR,185.188.33.0/24,no-resolve
   - IP-CIDR,185.188.34.0/24,no-resolve
   - IP-CIDR,185.188.35.0/24,no-resolve
+  - IP-CIDR,192.0.0.0/24,no-resolve
+  - IP-CIDR,192.0.2.0/24,no-resolve
+  - IP-CIDR,192.168.0.0/16,no-resolve
   - IP-CIDR,192.35.50.0/24,no-resolve
+  - IP-CIDR,192.88.99.0/24,no-resolve
+  - IP-CIDR,198.18.0.0/15,no-resolve
   - IP-CIDR,198.183.17.0/24,no-resolve
+  - IP-CIDR,198.51.100.0/24,no-resolve
+  - IP-CIDR,203.0.113.0/24,no-resolve
   - IP-CIDR,203.205.238.0/23,no-resolve
   - IP-CIDR,203.205.254.0/23,no-resolve
   - IP-CIDR,205.180.175.0/24,no-resolve
+  - IP-CIDR,224.0.0.0/3,no-resolve
   - IP-CIDR,63.92.224.0/19,no-resolve
   - IP-CIDR,65.199.22.0/23,no-resolve
   - IP-CIDR6,2a0b:b580::/48,no-resolve
   - IP-CIDR6,2a0b:b581::/48,no-resolve
   - IP-CIDR6,2a0b:b582::/48,no-resolve
   - IP-CIDR6,2a0b:b583::/48,no-resolve
+  - IP-CIDR6,::/127,no-resolve
+  - IP-CIDR6,fc00::/7,no-resolve
+  - IP-CIDR6,fe80::/10,no-resolve
+  - IP-CIDR6,ff00::/8,no-resolve
   - PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCServices/LookupViewService.xpc/Contents/MacOS/LookupViewService
   - PROCESS-NAME,LookupViewService
   - PROCESS-NAME,Music
