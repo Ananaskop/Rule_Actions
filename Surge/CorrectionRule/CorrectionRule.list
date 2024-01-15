@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-15 02:12:09
+# 更新时间： 2024-01-15 08:18:44
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -112,6 +112,7 @@ DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,yonghuivip.com
 IP-CIDR,192.168.0.1/24,no-resolve
 IP-CIDR,192.168.1.1/24,no-resolve
+IP-CIDR,198.18.0.1/16,no-resolve
 USER-AGENT,archero*
 USER-AGENT,coffee%20corp*
 USER-AGENT,coffeecorp*
