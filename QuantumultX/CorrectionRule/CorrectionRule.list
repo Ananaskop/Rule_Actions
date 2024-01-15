@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-15 14:14:12
+# 更新时间： 2024-01-15 15:16:39
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -112,7 +112,6 @@ HOST-SUFFIX,weather-map.apple.com,direct
 HOST-SUFFIX,yonghuivip.com,direct
 IP-CIDR,192.168.0.1/24,direct,no-resolve
 IP-CIDR,192.168.1.1/24,direct,no-resolve
-IP-CIDR,198.18.0.1/16,direct,no-resolve
 USER-AGENT,archero*,direct
 USER-AGENT,coffee%20corp*,direct
 USER-AGENT,coffeecorp*,direct

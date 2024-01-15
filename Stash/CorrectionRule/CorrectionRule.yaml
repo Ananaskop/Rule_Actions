@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-15 14:14:22
+# 更新时间： 2024-01-15 15:16:49
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -113,4 +113,3 @@ payload:
   - DOMAIN-SUFFIX,yonghuivip.com
   - IP-CIDR,192.168.0.1/24,no-resolve
   - IP-CIDR,192.168.1.1/24,no-resolve
-  - IP-CIDR,198.18.0.1/16,no-resolve
