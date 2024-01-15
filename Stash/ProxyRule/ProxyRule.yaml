@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-10 02:10:46
+# 更新时间： 2024-01-15 15:16:49
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -230,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,adult-sex-games.com
+  - DOMAIN-SUFFIX,adult.friendfinder.com
   - DOMAIN-SUFFIX,adultkeep.net
   - DOMAIN-SUFFIX,advanscene.com
   - DOMAIN-SUFFIX,advertfan.com
@@ -1850,7 +1851,6 @@ payload:
   - DOMAIN-SUFFIX,frienddy.com
   - DOMAIN-SUFFIX,friendfeed-media.com
   - DOMAIN-SUFFIX,friendfeed.com
-  - DOMAIN-SUFFIX,friendfinder.com
   - DOMAIN-SUFFIX,friends-of-tibet.org
   - DOMAIN-SUFFIX,friendsoftibet.org
   - DOMAIN-SUFFIX,fring.com

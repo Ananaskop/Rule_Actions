@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-10 02:10:45
+# 更新时间： 2024-01-15 15:16:49
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -13,7 +13,10 @@ payload:
   - DOMAIN,appsflyer.com
   - DOMAIN,bdtj.tagtic.cn
   - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cm.emby.ws
+  - DOMAIN,ct.emby.ws
   - DOMAIN,ctyunxs.cn
+  - DOMAIN,cu.emby.ws
   - DOMAIN,cz.cz01.site
   - DOMAIN,ddys.art
   - DOMAIN,deo.shopeemobile.com
