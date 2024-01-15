@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-15 20:19:25
+# 更新时间： 2024-01-16 02:12:51
 payload:
   - DOMAIN,aaid.uyunad.com
   - DOMAIN,acdn.adnxs.com
@@ -140,7 +140,6 @@ payload:
   - DOMAIN,youku-acs.m.taobao.com
   - DOMAIN,zxid-m.mobileservice.cn
   - DOMAIN-KEYWORD,-ad-sign.byteimg.com
-  - DOMAIN-KEYWORD,-tos.pstatp.com
   - DOMAIN-KEYWORD,ads.g.doubleclick
   - DOMAIN-KEYWORD,adv.ccb.com
   - DOMAIN-KEYWORD,asiad.byteactivity

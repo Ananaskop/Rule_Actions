@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-15 20:19:13
+# 更新时间： 2024-01-16 02:12:39
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -139,7 +139,6 @@ HOST,ykad-data.youku.com,reject
 HOST,youku-acs.m.taobao.com,reject
 HOST,zxid-m.mobileservice.cn,reject
 HOST-KEYWORD,-ad-sign.byteimg.com,reject
-HOST-KEYWORD,-tos.pstatp.com,reject
 HOST-KEYWORD,ads.g.doubleclick,reject
 HOST-KEYWORD,adv.ccb.com,reject
 HOST-KEYWORD,asiad.byteactivity,reject
