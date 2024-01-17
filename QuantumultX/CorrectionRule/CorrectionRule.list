@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-17 17:00:12
+# 更新时间： 2024-01-17 20:19:03
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -91,6 +91,7 @@ HOST-KEYWORD,weather-adge.apple.com,direct
 HOST-KEYWORD,weather-edge.apple.com,direct
 HOST-SUFFIX,1password.com,direct
 HOST-SUFFIX,baomitu.com,direct
+HOST-SUFFIX,bili.bili.rip,direct
 HOST-SUFFIX,bootcss.com,direct
 HOST-SUFFIX,byteimg.com,direct
 HOST-SUFFIX,dizhensubao.getui.com,direct
