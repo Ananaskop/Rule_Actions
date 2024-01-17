@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-17 16:46:11
+# 更新时间： 2024-01-17 17:00:33
 DOMAIN,api.minecraftservices.com
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
@@ -6043,3 +6043,12 @@ IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+USER-AGENT,Duolingo*
+USER-AGENT,OneDrive*
+USER-AGENT,PayPal*
+USER-AGENT,Roam*
+USER-AGENT,TikTok*
+USER-AGENT,WhatsApp*
+USER-AGENT,battleroyale*
+USER-AGENT,com.apple.trustd*
+USER-AGENT,hearthstone*
