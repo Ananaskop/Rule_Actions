@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-17 02:13:07
+# 更新时间： 2024-01-17 08:48:26
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,e13252.dscg.akamaiedge.net
@@ -821,6 +821,7 @@ IP-CIDR,18.196.161.0/26,no-resolve
 IP-CIDR,18.196.161.184/29,no-resolve
 IP-CIDR,18.196.161.192/28,no-resolve
 IP-CIDR,18.196.161.80/28,no-resolve
+IP-CIDR,18.199.68.0/22,no-resolve
 IP-CIDR,18.200.212.0/23,no-resolve
 IP-CIDR,18.202.216.48/29,no-resolve
 IP-CIDR,18.206.107.160/29,no-resolve
