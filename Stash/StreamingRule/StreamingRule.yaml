@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-20 20:17:22
+# 更新时间： 2024-01-20 23:59:23
 payload:
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -7,8 +7,11 @@ payload:
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,hls-amt.itunes.apple.com
   - DOMAIN,hls.itunes.apple.com
+  - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+  - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN,np-edge.itunes.apple.com
+  - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
@@ -23,9 +26,11 @@ payload:
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN-KEYWORD,recaptcha
   - DOMAIN-KEYWORD,spotify.com
+  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
@@ -183,7 +188,12 @@ payload:
   - DOMAIN-SUFFIX,bumptop.org
   - DOMAIN-SUFFIX,bumptunes.com
   - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,bytedapm.com
+  - DOMAIN-SUFFIX,bytegecko-i18n.com
+  - DOMAIN-SUFFIX,bytegecko.com
+  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,campuslondon.com
+  - DOMAIN-SUFFIX,capcut.com
   - DOMAIN-SUFFIX,capitalg.com
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,certificate-transparency.dev
@@ -707,8 +717,12 @@ payload:
   - DOMAIN-SUFFIX,hwgo.com
   - DOMAIN-SUFFIX,iam.soy
   - DOMAIN-SUFFIX,iamremarkable.org
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,igoogle.com
   - DOMAIN-SUFFIX,impermium.com
+  - DOMAIN-SUFFIX,ipstatp.com
+  - DOMAIN-SUFFIX,isnssdk.com
   - DOMAIN-SUFFIX,itasoftware.com
   - DOMAIN-SUFFIX,j2objc.org
   - DOMAIN-SUFFIX,jibemobile.com
@@ -742,6 +756,8 @@ payload:
   - DOMAIN-SUFFIX,monitoring.qpdp1.net
   - DOMAIN-SUFFIX,moodstocks.com
   - DOMAIN-SUFFIX,moviesanywhere.com
+  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,natgeomaps.com
   - DOMAIN-SUFFIX,nationalgeographic.com
   - DOMAIN-SUFFIX,nationalgeographicpartners.com
@@ -853,10 +869,12 @@ payload:
   - DOMAIN-SUFFIX,schemer.com
   - DOMAIN-SUFFIX,screenwisetrends.com
   - DOMAIN-SUFFIX,screenwisetrendspanel.com
+  - DOMAIN-SUFFIX,sgpstatp.com
   - DOMAIN-SUFFIX,shattered.io
   - DOMAIN-SUFFIX,shopdisney.com
   - DOMAIN-SUFFIX,shops-disney.com
   - DOMAIN-SUFFIX,snapseed.com
+  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,solveforx.com
   - DOMAIN-SUFFIX,sorcerersarena.com
   - DOMAIN-SUFFIX,spaindisney.com
@@ -907,6 +925,14 @@ payload:
   - DOMAIN-SUFFIX,thinkquarterly.com
   - DOMAIN-SUFFIX,thinkwithgoogle.com
   - DOMAIN-SUFFIX,thisispolaris.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn-us.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokd.net
+  - DOMAIN-SUFFIX,tiktokd.org
+  - DOMAIN-SUFFIX,tiktokmusic.app
+  - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,tospotify.com
   - DOMAIN-SUFFIX,tv.apple.com
@@ -2225,3 +2251,4 @@ payload:
   - PROCESS-NAME,com.google.android.play.games
   - PROCESS-NAME,com.netflix.mediaclient
   - PROCESS-NAME,com.spotify.music
+  - PROCESS-NAME,com.zhiliaoapp.musically

@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-20 20:17:11
+# 更新时间： 2024-01-20 23:59:12
 HOST,adeventtracker.spotify.com,Streaming
 HOST,adstudio-assets.scdn.co,Streaming
 HOST,audio-ak-spotify-com.akamaized.net,Streaming
@@ -19,11 +19,14 @@ HOST,heads4-ak-spotify-com.akamaized.net,Streaming
 HOST,hls-amt.itunes.apple.com,Streaming
 HOST,hls.itunes.apple.com,Streaming
 HOST,lens.l.google.com,Streaming
+HOST,lf16-effectcdn.byteeffecttos-g.com,Streaming
+HOST,lf16-pkgcdn.pitaya-clientai.com,Streaming
 HOST,mtalk.google.com,Streaming
 HOST,music.youtube.com,Streaming
 HOST,netflix.com.edgesuite.net,Streaming
 HOST,np-edge.itunes.apple.com,Streaming
 HOST,ocsp.pki.goog,Streaming
+HOST,p16-tiktokcdn-com.akamaized.net,Streaming
 HOST,play-edge.itunes.apple.com,Streaming
 HOST,redirector.c.bigcache.googleapis.com,Streaming
 HOST,redirector.gvt1.com,Streaming
@@ -47,9 +50,11 @@ HOST-KEYWORD,dualstack.apiproxy-,Streaming
 HOST-KEYWORD,dualstack.ichnaea-web-,Streaming
 HOST-KEYWORD,gmail,Streaming
 HOST-KEYWORD,google,Streaming
+HOST-KEYWORD,musical.ly,Streaming
 HOST-KEYWORD,netflixdnstest,Streaming
 HOST-KEYWORD,recaptcha,Streaming
 HOST-KEYWORD,spotify.com,Streaming
+HOST-KEYWORD,tiktok,Streaming
 HOST-KEYWORD,youtube,Streaming
 HOST-SUFFIX,0emm.com,Streaming
 HOST-SUFFIX,1e100.net,Streaming
@@ -207,7 +212,12 @@ HOST-SUFFIX,bumptop.net,Streaming
 HOST-SUFFIX,bumptop.org,Streaming
 HOST-SUFFIX,bumptunes.com,Streaming
 HOST-SUFFIX,byspotify.com,Streaming
+HOST-SUFFIX,bytedapm.com,Streaming
+HOST-SUFFIX,bytegecko-i18n.com,Streaming
+HOST-SUFFIX,bytegecko.com,Streaming
+HOST-SUFFIX,byteoversea.com,Streaming
 HOST-SUFFIX,campuslondon.com,Streaming
+HOST-SUFFIX,capcut.com,Streaming
 HOST-SUFFIX,capitalg.com,Streaming
 HOST-SUFFIX,cdn.optimizely.com,Streaming
 HOST-SUFFIX,certificate-transparency.dev,Streaming
@@ -731,8 +741,12 @@ HOST-SUFFIX,html5rocks.com,Streaming
 HOST-SUFFIX,hwgo.com,Streaming
 HOST-SUFFIX,iam.soy,Streaming
 HOST-SUFFIX,iamremarkable.org,Streaming
+HOST-SUFFIX,ibytedtos.com,Streaming
+HOST-SUFFIX,ibyteimg.com,Streaming
 HOST-SUFFIX,igoogle.com,Streaming
 HOST-SUFFIX,impermium.com,Streaming
+HOST-SUFFIX,ipstatp.com,Streaming
+HOST-SUFFIX,isnssdk.com,Streaming
 HOST-SUFFIX,itasoftware.com,Streaming
 HOST-SUFFIX,j2objc.org,Streaming
 HOST-SUFFIX,jibemobile.com,Streaming
@@ -766,6 +780,8 @@ HOST-SUFFIX,monitoring.qcpp1.net,Streaming
 HOST-SUFFIX,monitoring.qpdp1.net,Streaming
 HOST-SUFFIX,moodstocks.com,Streaming
 HOST-SUFFIX,moviesanywhere.com,Streaming
+HOST-SUFFIX,muscdn.com,Streaming
+HOST-SUFFIX,musical.ly,Streaming
 HOST-SUFFIX,natgeomaps.com,Streaming
 HOST-SUFFIX,nationalgeographic.com,Streaming
 HOST-SUFFIX,nationalgeographicpartners.com,Streaming
@@ -877,10 +893,12 @@ HOST-SUFFIX,schema.org,Streaming
 HOST-SUFFIX,schemer.com,Streaming
 HOST-SUFFIX,screenwisetrends.com,Streaming
 HOST-SUFFIX,screenwisetrendspanel.com,Streaming
+HOST-SUFFIX,sgpstatp.com,Streaming
 HOST-SUFFIX,shattered.io,Streaming
 HOST-SUFFIX,shopdisney.com,Streaming
 HOST-SUFFIX,shops-disney.com,Streaming
 HOST-SUFFIX,snapseed.com,Streaming
+HOST-SUFFIX,snssdk.com,Streaming
 HOST-SUFFIX,solveforx.com,Streaming
 HOST-SUFFIX,sorcerersarena.com,Streaming
 HOST-SUFFIX,spaindisney.com,Streaming
@@ -931,6 +949,14 @@ HOST-SUFFIX,thinkquarterly.co.uk,Streaming
 HOST-SUFFIX,thinkquarterly.com,Streaming
 HOST-SUFFIX,thinkwithgoogle.com,Streaming
 HOST-SUFFIX,thisispolaris.com,Streaming
+HOST-SUFFIX,tik-tokapi.com,Streaming
+HOST-SUFFIX,tiktok.com,Streaming
+HOST-SUFFIX,tiktokcdn-us.com,Streaming
+HOST-SUFFIX,tiktokcdn.com,Streaming
+HOST-SUFFIX,tiktokd.net,Streaming
+HOST-SUFFIX,tiktokd.org,Streaming
+HOST-SUFFIX,tiktokmusic.app,Streaming
+HOST-SUFFIX,tiktokv.com,Streaming
 HOST-SUFFIX,tiltbrush.com,Streaming
 HOST-SUFFIX,tospotify.com,Streaming
 HOST-SUFFIX,tv.apple.com,Streaming
@@ -2252,6 +2278,7 @@ USER-AGENT,Argo*,Streaming
 USER-AGENT,Disney+*,Streaming
 USER-AGENT,Google.Drive*,Streaming
 USER-AGENT,Spotify*,Streaming
+USER-AGENT,TikTok*,Streaming
 USER-AGENT,YouTube*,Streaming
 USER-AGENT,YouTubeMusic*,Streaming
 USER-AGENT,com.apple.tv*,Streaming
