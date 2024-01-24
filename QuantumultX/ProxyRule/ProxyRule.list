@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-24 02:12:55
+# 更新时间： 2024-01-24 08:49:08
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -1400,7 +1400,6 @@ HOST-SUFFIX,discordstatus.com,proxy
 HOST-SUFFIX,discuss.com.hk,proxy
 HOST-SUFFIX,discuss4u.com,proxy
 HOST-SUFFIX,dish.com,proxy
-HOST-SUFFIX,disk.yandex.ru,proxy
 HOST-SUFFIX,disp.cc,proxy
 HOST-SUFFIX,disq.us,proxy
 HOST-SUFFIX,disqus.com,proxy
@@ -2467,7 +2466,6 @@ HOST-SUFFIX,graph.org,proxy
 HOST-SUFFIX,graphis.ne.jp,proxy
 HOST-SUFFIX,graphql.org,proxy
 HOST-SUFFIX,gravatar.com,proxy
-HOST-SUFFIX,greasespot.net,proxy
 HOST-SUFFIX,great-firewall.com,proxy
 HOST-SUFFIX,great-roc.org,proxy
 HOST-SUFFIX,greatfire.org,proxy
@@ -6067,7 +6065,6 @@ HOST-SUFFIX,wnacg.com,proxy
 HOST-SUFFIX,wnacg.org,proxy
 HOST-SUFFIX,wo.tc,proxy
 HOST-SUFFIX,woeser.com,proxy
-HOST-SUFFIX,woesermiddle-way.net,proxy
 HOST-SUFFIX,wokar.org,proxy
 HOST-SUFFIX,wolfax.com,proxy
 HOST-SUFFIX,wombo.ai,proxy
@@ -6231,6 +6228,7 @@ HOST-SUFFIX,yam.com,proxy
 HOST-SUFFIX,yam.org.tw,proxy
 HOST-SUFFIX,yande.re,proxy
 HOST-SUFFIX,yandex.com,proxy
+HOST-SUFFIX,yandex.ru,proxy
 HOST-SUFFIX,yanghengjun.com,proxy
 HOST-SUFFIX,yangjianli.com,proxy
 HOST-SUFFIX,yasni.co.uk,proxy

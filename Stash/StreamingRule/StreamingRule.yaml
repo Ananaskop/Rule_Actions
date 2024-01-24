@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-24 02:13:05
+# 更新时间： 2024-01-24 08:49:19
 payload:
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -1194,6 +1194,8 @@ payload:
   - IP-CIDR,13.127.70.128/27,no-resolve
   - IP-CIDR,13.127.70.160/29,no-resolve
   - IP-CIDR,13.200.140.0/23,no-resolve
+  - IP-CIDR,13.200.142.112/30,no-resolve
+  - IP-CIDR,13.200.142.82/31,no-resolve
   - IP-CIDR,13.200.7.128/28,no-resolve
   - IP-CIDR,13.208.131.0/27,no-resolve
   - IP-CIDR,13.208.131.128/26,no-resolve
@@ -1300,6 +1302,7 @@ payload:
   - IP-CIDR,13.36.76.0/23,no-resolve
   - IP-CIDR,13.36.78.0/24,no-resolve
   - IP-CIDR,13.36.84.112/29,no-resolve
+  - IP-CIDR,13.36.84.126/31,no-resolve
   - IP-CIDR,13.36.84.24/29,no-resolve
   - IP-CIDR,13.36.84.32/30,no-resolve
   - IP-CIDR,13.36.84.44/30,no-resolve
@@ -1307,6 +1310,7 @@ payload:
   - IP-CIDR,13.36.84.64/28,no-resolve
   - IP-CIDR,13.38.132.0/22,no-resolve
   - IP-CIDR,13.38.140.0/23,no-resolve
+  - IP-CIDR,13.39.103.180/30,no-resolve
   - IP-CIDR,13.39.141.160/28,no-resolve
   - IP-CIDR,13.40.202.0/23,no-resolve
   - IP-CIDR,13.40.204.0/22,no-resolve
@@ -1444,6 +1448,8 @@ payload:
   - IP-CIDR,15.228.92.192/26,no-resolve
   - IP-CIDR,15.228.97.0/24,no-resolve
   - IP-CIDR,15.229.120.48/28,no-resolve
+  - IP-CIDR,15.229.206.194/31,no-resolve
+  - IP-CIDR,15.229.206.196/30,no-resolve
   - IP-CIDR,15.229.36.0/23,no-resolve
   - IP-CIDR,15.229.40.0/23,no-resolve
   - IP-CIDR,15.236.80.0/23,no-resolve
@@ -1674,6 +1680,8 @@ payload:
   - IP-CIDR,3.101.208.0/24,no-resolve
   - IP-CIDR,3.101.209.0/26,no-resolve
   - IP-CIDR,3.101.226.80/28,no-resolve
+  - IP-CIDR,3.101.239.34/31,no-resolve
+  - IP-CIDR,3.101.239.36/30,no-resolve
   - IP-CIDR,3.101.52.208/29,no-resolve
   - IP-CIDR,3.105.172.0/22,no-resolve
   - IP-CIDR,3.105.5.0/26,no-resolve

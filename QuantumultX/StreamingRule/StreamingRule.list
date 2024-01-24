@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-24 02:12:55
+# 更新时间： 2024-01-24 08:49:08
 HOST,adeventtracker.spotify.com,Streaming
 HOST,adstudio-assets.scdn.co,Streaming
 HOST,audio-ak-spotify-com.akamaized.net,Streaming
@@ -1222,6 +1222,8 @@ IP-CIDR,13.126.243.0/24,Streaming,no-resolve
 IP-CIDR,13.127.70.128/27,Streaming,no-resolve
 IP-CIDR,13.127.70.160/29,Streaming,no-resolve
 IP-CIDR,13.200.140.0/23,Streaming,no-resolve
+IP-CIDR,13.200.142.112/30,Streaming,no-resolve
+IP-CIDR,13.200.142.82/31,Streaming,no-resolve
 IP-CIDR,13.200.7.128/28,Streaming,no-resolve
 IP-CIDR,13.208.131.0/27,Streaming,no-resolve
 IP-CIDR,13.208.131.128/26,Streaming,no-resolve
@@ -1328,6 +1330,7 @@ IP-CIDR,13.36.18.64/27,Streaming,no-resolve
 IP-CIDR,13.36.76.0/23,Streaming,no-resolve
 IP-CIDR,13.36.78.0/24,Streaming,no-resolve
 IP-CIDR,13.36.84.112/29,Streaming,no-resolve
+IP-CIDR,13.36.84.126/31,Streaming,no-resolve
 IP-CIDR,13.36.84.24/29,Streaming,no-resolve
 IP-CIDR,13.36.84.32/30,Streaming,no-resolve
 IP-CIDR,13.36.84.44/30,Streaming,no-resolve
@@ -1335,6 +1338,7 @@ IP-CIDR,13.36.84.48/28,Streaming,no-resolve
 IP-CIDR,13.36.84.64/28,Streaming,no-resolve
 IP-CIDR,13.38.132.0/22,Streaming,no-resolve
 IP-CIDR,13.38.140.0/23,Streaming,no-resolve
+IP-CIDR,13.39.103.180/30,Streaming,no-resolve
 IP-CIDR,13.39.141.160/28,Streaming,no-resolve
 IP-CIDR,13.40.202.0/23,Streaming,no-resolve
 IP-CIDR,13.40.204.0/22,Streaming,no-resolve
@@ -1472,6 +1476,8 @@ IP-CIDR,15.228.72.64/26,Streaming,no-resolve
 IP-CIDR,15.228.92.192/26,Streaming,no-resolve
 IP-CIDR,15.228.97.0/24,Streaming,no-resolve
 IP-CIDR,15.229.120.48/28,Streaming,no-resolve
+IP-CIDR,15.229.206.194/31,Streaming,no-resolve
+IP-CIDR,15.229.206.196/30,Streaming,no-resolve
 IP-CIDR,15.229.36.0/23,Streaming,no-resolve
 IP-CIDR,15.229.40.0/23,Streaming,no-resolve
 IP-CIDR,15.236.80.0/23,Streaming,no-resolve
@@ -1702,6 +1708,8 @@ IP-CIDR,3.101.202.0/23,Streaming,no-resolve
 IP-CIDR,3.101.208.0/24,Streaming,no-resolve
 IP-CIDR,3.101.209.0/26,Streaming,no-resolve
 IP-CIDR,3.101.226.80/28,Streaming,no-resolve
+IP-CIDR,3.101.239.34/31,Streaming,no-resolve
+IP-CIDR,3.101.239.36/30,Streaming,no-resolve
 IP-CIDR,3.101.52.208/29,Streaming,no-resolve
 IP-CIDR,3.105.172.0/22,Streaming,no-resolve
 IP-CIDR,3.105.5.0/26,Streaming,no-resolve

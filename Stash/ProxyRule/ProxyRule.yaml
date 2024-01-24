@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-24 02:13:05
+# 更新时间： 2024-01-24 08:49:19
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -1311,7 +1311,6 @@ payload:
   - DOMAIN-SUFFIX,discuss.com.hk
   - DOMAIN-SUFFIX,discuss4u.com
   - DOMAIN-SUFFIX,dish.com
-  - DOMAIN-SUFFIX,disk.yandex.ru
   - DOMAIN-SUFFIX,disp.cc
   - DOMAIN-SUFFIX,disq.us
   - DOMAIN-SUFFIX,disqus.com
@@ -2111,7 +2110,6 @@ payload:
   - DOMAIN-SUFFIX,graphis.ne.jp
   - DOMAIN-SUFFIX,graphql.org
   - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,greasespot.net
   - DOMAIN-SUFFIX,great-firewall.com
   - DOMAIN-SUFFIX,great-roc.org
   - DOMAIN-SUFFIX,greatfire.org
@@ -5630,7 +5628,6 @@ payload:
   - DOMAIN-SUFFIX,wnacg.org
   - DOMAIN-SUFFIX,wo.tc
   - DOMAIN-SUFFIX,woeser.com
-  - DOMAIN-SUFFIX,woesermiddle-way.net
   - DOMAIN-SUFFIX,wokar.org
   - DOMAIN-SUFFIX,wolfax.com
   - DOMAIN-SUFFIX,wombo.ai
@@ -5793,6 +5790,7 @@ payload:
   - DOMAIN-SUFFIX,yam.org.tw
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yanghengjun.com
   - DOMAIN-SUFFIX,yangjianli.com
   - DOMAIN-SUFFIX,yasni.co.uk
