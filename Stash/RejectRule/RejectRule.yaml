@@ -1,12 +1,16 @@
-# 更新时间： 2024-01-26 20:16:56
+# 更新时间： 2024-01-27 02:12:18
 payload:
   - DOMAIN,aaid.uyunad.com
   - DOMAIN,acdn.adnxs.com
   - DOMAIN,acs4baichuan.m.taobao.com
+  - DOMAIN,ad-h5-cdn.soulapp.cn
+  - DOMAIN,ad-h5-station-cdn.soulapp.cn
+  - DOMAIN,ad-r.soulapp.cn
   - DOMAIN,ad.cyapi.cn
   - DOMAIN,ad.tencentmusic.com
   - DOMAIN,ad.zijieapi.com
   - DOMAIN,ads.95516.com
+  - DOMAIN,ads.pubmatic.com
   - DOMAIN,adsmind.gdtimg.com
   - DOMAIN,adsmind.ugdtimg.com
   - DOMAIN,adttrackingprd.hwwt8.com
@@ -76,6 +80,7 @@ payload:
   - DOMAIN,iadmusicmat.music.126.net
   - DOMAIN,iadmusicmatvideo.music.126.net
   - DOMAIN,iadworkbench.apple.com
+  - DOMAIN,id.hadron.ad.gt
   - DOMAIN,images.ctfassets.net
   - DOMAIN,imge.dangbei.net
   - DOMAIN,info4.video.qq.com
@@ -121,6 +126,7 @@ payload:
   - DOMAIN,rprain.log.mgtv.com
   - DOMAIN,sdkconfig.ad.xiaomi.com
   - DOMAIN,sin3-ib.adnxs.com
+  - DOMAIN,soul-ad.soulapp.cn
   - DOMAIN,ssp.soulapp.cn
   - DOMAIN,statics.woozooo.com
   - DOMAIN,sugar.zhihu.com
@@ -140,7 +146,9 @@ payload:
   - DOMAIN,youku-acs.m.taobao.com
   - DOMAIN,zxid-m.mobileservice.cn
   - DOMAIN-KEYWORD,-ad-sign.byteimg.com
+  - DOMAIN-KEYWORD,-adsystem.com
   - DOMAIN-KEYWORD,ads.g.doubleclick
+  - DOMAIN-KEYWORD,adservice.google.com
   - DOMAIN-KEYWORD,adv.ccb.com
   - DOMAIN-KEYWORD,asiad.byteactivity
   - DOMAIN-KEYWORD,httpdns-
@@ -172,9 +180,7 @@ payload:
   - DOMAIN-SUFFIX,91veg.com
   - DOMAIN-SUFFIX,9s6q.cn
   - DOMAIN-SUFFIX,abbyychina.com
-  - DOMAIN-SUFFIX,ad.gt
   - DOMAIN-SUFFIX,adsame.com
-  - DOMAIN-SUFFIX,adservice.google.com
   - DOMAIN-SUFFIX,advp.apple.com
   - DOMAIN-SUFFIX,akuai.top
   - DOMAIN-SUFFIX,alienskins.cn
@@ -373,7 +379,9 @@ payload:
   - IP-CIDR,119.29.29.98/31,no-resolve
   - IP-CIDR,119.4.249.166/32,no-resolve
   - IP-CIDR,120.240.95.37/32,no-resolve
+  - IP-CIDR,120.27.235.201/32,no-resolve
   - IP-CIDR,120.76.189.132/32,no-resolve
+  - IP-CIDR,121.196.197.147/32,no-resolve
   - IP-CIDR,122.229.29.89/32,no-resolve
   - IP-CIDR,122.229.8.47/32,no-resolve
   - IP-CIDR,123.151.54.50/32,no-resolve
@@ -412,8 +420,11 @@ payload:
   - IP-CIDR,42.187.184.154/32,no-resolve
   - IP-CIDR,42.81.232.18/32,no-resolve
   - IP-CIDR,47.110.187.87/32,no-resolve
+  - IP-CIDR,47.56.131.76/32,no-resolve
   - IP-CIDR,47.89.59.182/32,no-resolve
   - IP-CIDR,47.96.15.52/32,no-resolve
+  - IP-CIDR,47.97.215.55/32,no-resolve
+  - IP-CIDR,47.99.42.29/32,no-resolve
   - IP-CIDR,59.111.239.61/32,no-resolve
   - IP-CIDR,59.111.239.62/32,no-resolve
   - IP-CIDR,61.160.200.223/32,no-resolve

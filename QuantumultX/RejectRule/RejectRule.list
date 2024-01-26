@@ -1,11 +1,15 @@
-# 更新时间： 2024-01-26 20:16:45
+# 更新时间： 2024-01-27 02:12:08
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
+HOST,ad-h5-cdn.soulapp.cn,reject
+HOST,ad-h5-station-cdn.soulapp.cn,reject
+HOST,ad-r.soulapp.cn,reject
 HOST,ad.cyapi.cn,reject
 HOST,ad.tencentmusic.com,reject
 HOST,ad.zijieapi.com,reject
 HOST,ads.95516.com,reject
+HOST,ads.pubmatic.com,reject
 HOST,adsmind.gdtimg.com,reject
 HOST,adsmind.ugdtimg.com,reject
 HOST,adttrackingprd.hwwt8.com,reject
@@ -75,6 +79,7 @@ HOST,iadmoo.apple.com,reject
 HOST,iadmusicmat.music.126.net,reject
 HOST,iadmusicmatvideo.music.126.net,reject
 HOST,iadworkbench.apple.com,reject
+HOST,id.hadron.ad.gt,reject
 HOST,images.ctfassets.net,reject
 HOST,imge.dangbei.net,reject
 HOST,info4.video.qq.com,reject
@@ -120,6 +125,7 @@ HOST,rprain.bz.mgtv.com,reject
 HOST,rprain.log.mgtv.com,reject
 HOST,sdkconfig.ad.xiaomi.com,reject
 HOST,sin3-ib.adnxs.com,reject
+HOST,soul-ad.soulapp.cn,reject
 HOST,ssp.soulapp.cn,reject
 HOST,statics.woozooo.com,reject
 HOST,sugar.zhihu.com,reject
@@ -139,7 +145,9 @@ HOST,ykad-data.youku.com,reject
 HOST,youku-acs.m.taobao.com,reject
 HOST,zxid-m.mobileservice.cn,reject
 HOST-KEYWORD,-ad-sign.byteimg.com,reject
+HOST-KEYWORD,-adsystem.com,reject
 HOST-KEYWORD,ads.g.doubleclick,reject
+HOST-KEYWORD,adservice.google.com,reject
 HOST-KEYWORD,adv.ccb.com,reject
 HOST-KEYWORD,asiad.byteactivity,reject
 HOST-KEYWORD,httpdns-,reject
@@ -171,9 +179,7 @@ HOST-SUFFIX,7gg.cc,reject
 HOST-SUFFIX,91veg.com,reject
 HOST-SUFFIX,9s6q.cn,reject
 HOST-SUFFIX,abbyychina.com,reject
-HOST-SUFFIX,ad.gt,reject
 HOST-SUFFIX,adsame.com,reject
-HOST-SUFFIX,adservice.google.com,reject
 HOST-SUFFIX,advp.apple.com,reject
 HOST-SUFFIX,akuai.top,reject
 HOST-SUFFIX,alienskins.cn,reject
@@ -372,7 +378,9 @@ IP-CIDR,118.89.204.198/32,reject,no-resolve
 IP-CIDR,119.29.29.98/31,reject,no-resolve
 IP-CIDR,119.4.249.166/32,reject,no-resolve
 IP-CIDR,120.240.95.37/32,reject,no-resolve
+IP-CIDR,120.27.235.201/32,reject,no-resolve
 IP-CIDR,120.76.189.132/32,reject,no-resolve
+IP-CIDR,121.196.197.147/32,reject,no-resolve
 IP-CIDR,122.229.29.89/32,reject,no-resolve
 IP-CIDR,122.229.8.47/32,reject,no-resolve
 IP-CIDR,123.151.54.50/32,reject,no-resolve
@@ -411,8 +419,11 @@ IP-CIDR,42.187.182.123/32,reject,no-resolve
 IP-CIDR,42.187.184.154/32,reject,no-resolve
 IP-CIDR,42.81.232.18/32,reject,no-resolve
 IP-CIDR,47.110.187.87/32,reject,no-resolve
+IP-CIDR,47.56.131.76/32,reject,no-resolve
 IP-CIDR,47.89.59.182/32,reject,no-resolve
 IP-CIDR,47.96.15.52/32,reject,no-resolve
+IP-CIDR,47.97.215.55/32,reject,no-resolve
+IP-CIDR,47.99.42.29/32,reject,no-resolve
 IP-CIDR,59.111.239.61/32,reject,no-resolve
 IP-CIDR,59.111.239.62/32,reject,no-resolve
 IP-CIDR,61.160.200.223/32,reject,no-resolve
