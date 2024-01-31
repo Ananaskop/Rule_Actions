@@ -1,4 +1,4 @@
-# 更新时间： 2024-01-31 08:43:49
+# 更新时间： 2024-01-31 14:12:44
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -69,6 +69,7 @@ HOST,httpsdns.baidu.com,reject
 HOST,hudong.alicdn.com,reject
 HOST,huichuan-mc.sm.cn,reject
 HOST,huichuan.sm.cn,reject
+HOST,huodong.weibo.cn,reject
 HOST,i.snssdk.com,reject
 HOST,iad.apple.com,reject
 HOST,iadcontent.apple.com,reject
