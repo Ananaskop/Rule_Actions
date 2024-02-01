@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-01 02:09:45
+# 更新时间： 2024-02-01 08:46:07
 HOST,adeventtracker.spotify.com,Streaming
 HOST,adstudio-assets.scdn.co,Streaming
 HOST,audio-ak-spotify-com.akamaized.net,Streaming
@@ -1210,6 +1210,7 @@ IP-CIDR,108.175.32.0/20,Streaming,no-resolve
 IP-CIDR,13.112.191.184/29,Streaming,no-resolve
 IP-CIDR,13.113.196.64/26,Streaming,no-resolve
 IP-CIDR,13.113.203.0/24,Streaming,no-resolve
+IP-CIDR,13.113.244.25/32,Streaming,no-resolve
 IP-CIDR,13.124.145.16/28,Streaming,no-resolve
 IP-CIDR,13.124.145.64/26,Streaming,no-resolve
 IP-CIDR,13.124.199.0/24,Streaming,no-resolve
@@ -1657,6 +1658,8 @@ IP-CIDR,18.246.178.0/23,Streaming,no-resolve
 IP-CIDR,18.246.181.0/24,Streaming,no-resolve
 IP-CIDR,18.246.182.0/23,Streaming,no-resolve
 IP-CIDR,18.246.184.0/23,Streaming,no-resolve
+IP-CIDR,18.246.224.18/32,Streaming,no-resolve
+IP-CIDR,18.246.224.24/29,Streaming,no-resolve
 IP-CIDR,18.252.145.156/30,Streaming,no-resolve
 IP-CIDR,18.252.145.160/28,Streaming,no-resolve
 IP-CIDR,18.252.145.192/27,Streaming,no-resolve
@@ -2274,6 +2277,7 @@ IP-CIDR,54.85.0.0/16,Streaming,no-resolve
 IP-CIDR,54.86.0.0/16,Streaming,no-resolve
 IP-CIDR,57.181.142.164/31,Streaming,no-resolve
 IP-CIDR,57.181.142.168/30,Streaming,no-resolve
+IP-CIDR,57.181.142.182/31,Streaming,no-resolve
 IP-CIDR,64.120.128.0/17,Streaming,no-resolve
 IP-CIDR,65.0.192.176/28,Streaming,no-resolve
 IP-CIDR,65.0.192.224/27,Streaming,no-resolve
