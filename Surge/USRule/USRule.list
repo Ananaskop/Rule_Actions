@@ -1,7 +1,8 @@
-# 更新时间： 2024-02-02 20:16:53
+# 更新时间： 2024-02-03 02:12:47
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,static.cloudflareinsights.com
+DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
@@ -170,7 +171,6 @@ DOMAIN-SUFFIX,blogspot.td
 DOMAIN-SUFFIX,blogspot.tw
 DOMAIN-SUFFIX,blogspot.ug
 DOMAIN-SUFFIX,blogspot.vn
-DOMAIN-SUFFIX,bluehatnights.com
 DOMAIN-SUFFIX,bml.info
 DOMAIN-SUFFIX,braintreegateway.com
 DOMAIN-SUFFIX,braintreegateway.tv
@@ -253,14 +253,12 @@ DOMAIN-SUFFIX,deps.info
 DOMAIN-SUFFIX,devsitetest.how
 DOMAIN-SUFFIX,devtools-paypal.com
 DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,dictate.ms
 DOMAIN-SUFFIX,digisfera.com
 DOMAIN-SUFFIX,digitalassetlinks.org
 DOMAIN-SUFFIX,digitalattackmap.com
 DOMAIN-SUFFIX,distribution.qatp1.net
 DOMAIN-SUFFIX,distribution.qcpp1.net
 DOMAIN-SUFFIX,distribution.qpdp1.net
-DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,doubleclick-cn.net
 DOMAIN-SUFFIX,doubleclick.com
 DOMAIN-SUFFIX,doubleclick.net
@@ -279,7 +277,6 @@ DOMAIN-SUFFIX,filipino-music.net
 DOMAIN-SUFFIX,financeleadsonline.com
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
 DOMAIN-SUFFIX,foofle.com
@@ -630,23 +627,15 @@ DOMAIN-SUFFIX,loanbuilder.com
 DOMAIN-SUFFIX,login-paypal.com
 DOMAIN-SUFFIX,login-paypal.info
 DOMAIN-SUFFIX,madewithcode.com
-DOMAIN-SUFFIX,masalladeloslimites.com
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,mdialog.com
 DOMAIN-SUFFIX,meet.new
 DOMAIN-SUFFIX,mfg-inspector.com
-DOMAIN-SUFFIX,microsoft-give.com
-DOMAIN-SUFFIX,microsoftcloudsummit.com
-DOMAIN-SUFFIX,microsoftdiplomados.com
-DOMAIN-SUFFIX,microsoftlatamholiday.com
-DOMAIN-SUFFIX,microsoftmxfilantropia.com
-DOMAIN-SUFFIX,microsoftpartnersolutions.com
 DOMAIN-SUFFIX,mobileview.page
 DOMAIN-SUFFIX,monitoring.qatp1.net
 DOMAIN-SUFFIX,monitoring.qcpp1.net
 DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,moodstocks.com
-DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,mywaytopay.info
 DOMAIN-SUFFIX,mywaytopay.net
 DOMAIN-SUFFIX,near.by
@@ -888,7 +877,6 @@ DOMAIN-SUFFIX,redirector.gvt1.com
 DOMAIN-SUFFIX,redirector.offline-maps.gvt1.com
 DOMAIN-SUFFIX,redirector.snap.gvt1.com
 DOMAIN-SUFFIX,registry.google
-DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,revolv.com
 DOMAIN-SUFFIX,ridepenguin.com
 DOMAIN-SUFFIX,run.app
@@ -910,7 +898,6 @@ DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,simility.com
 DOMAIN-SUFFIX,snapseed.com
 DOMAIN-SUFFIX,solveforx.com
-DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,sslpaypal.org
 DOMAIN-SUFFIX,stadia.dev
 DOMAIN-SUFFIX,staging-controlbe.floonet.goog
@@ -933,7 +920,6 @@ DOMAIN-SUFFIX,swiftfinancial.info
 DOMAIN-SUFFIX,swiftfinancial.net
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,teachparentstech.org
-DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,thecleversense.com

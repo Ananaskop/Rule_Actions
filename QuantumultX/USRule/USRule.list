@@ -1,7 +1,9 @@
-# 更新时间： 2024-02-02 20:16:39
+# 更新时间： 2024-02-03 02:12:33
 HOST,browser-intake-datadoghq.com,US
 HOST,cdn.usefathom.com,US
 HOST,static.cloudflareinsights.com,US
+HOST,voice.telephony.goog
+HOST,www.paypal-mktg.com,US
 HOST-KEYWORD,appspot
 HOST-KEYWORD,blogspot
 HOST-KEYWORD,gmail
@@ -170,7 +172,6 @@ HOST-SUFFIX,blogspot.td
 HOST-SUFFIX,blogspot.tw
 HOST-SUFFIX,blogspot.ug
 HOST-SUFFIX,blogspot.vn
-HOST-SUFFIX,bluehatnights.com,US
 HOST-SUFFIX,bml.info,US
 HOST-SUFFIX,braintreegateway.com,US
 HOST-SUFFIX,braintreegateway.tv,US
@@ -253,14 +254,12 @@ HOST-SUFFIX,deps.info
 HOST-SUFFIX,devsitetest.how
 HOST-SUFFIX,devtools-paypal.com,US
 HOST-SUFFIX,dialogflow.com
-HOST-SUFFIX,dictate.ms,US
 HOST-SUFFIX,digisfera.com
 HOST-SUFFIX,digitalassetlinks.org
 HOST-SUFFIX,digitalattackmap.com
 HOST-SUFFIX,distribution.qatp1.net
 HOST-SUFFIX,distribution.qcpp1.net
 HOST-SUFFIX,distribution.qpdp1.net
-HOST-SUFFIX,ditu.live.com,US
 HOST-SUFFIX,doubleclick-cn.net
 HOST-SUFFIX,doubleclick.com
 HOST-SUFFIX,doubleclick.net
@@ -279,7 +278,6 @@ HOST-SUFFIX,filipino-music.net,US
 HOST-SUFFIX,financeleadsonline.com
 HOST-SUFFIX,firebaseapp.com
 HOST-SUFFIX,firebaseio.com
-HOST-SUFFIX,flipwithsurface.com,US
 HOST-SUFFIX,flutter.dev
 HOST-SUFFIX,flutterapp.com
 HOST-SUFFIX,foofle.com
@@ -630,23 +628,15 @@ HOST-SUFFIX,loanbuilder.com,US
 HOST-SUFFIX,login-paypal.com,US
 HOST-SUFFIX,login-paypal.info,US
 HOST-SUFFIX,madewithcode.com
-HOST-SUFFIX,masalladeloslimites.com,US
 HOST-SUFFIX,material.io
 HOST-SUFFIX,mdialog.com
 HOST-SUFFIX,meet.new
 HOST-SUFFIX,mfg-inspector.com
-HOST-SUFFIX,microsoft-give.com,US
-HOST-SUFFIX,microsoftcloudsummit.com,US
-HOST-SUFFIX,microsoftdiplomados.com,US
-HOST-SUFFIX,microsoftlatamholiday.com,US
-HOST-SUFFIX,microsoftmxfilantropia.com,US
-HOST-SUFFIX,microsoftpartnersolutions.com,US
 HOST-SUFFIX,mobileview.page
 HOST-SUFFIX,monitoring.qatp1.net
 HOST-SUFFIX,monitoring.qcpp1.net
 HOST-SUFFIX,monitoring.qpdp1.net
 HOST-SUFFIX,moodstocks.com
-HOST-SUFFIX,msunlimitedcloudsummit.com,US
 HOST-SUFFIX,mywaytopay.info,US
 HOST-SUFFIX,mywaytopay.net,US
 HOST-SUFFIX,near.by
@@ -888,7 +878,6 @@ HOST-SUFFIX,redirector.gvt1.com
 HOST-SUFFIX,redirector.offline-maps.gvt1.com
 HOST-SUFFIX,redirector.snap.gvt1.com
 HOST-SUFFIX,registry.google
-HOST-SUFFIX,renovacionoffice.com,US
 HOST-SUFFIX,revolv.com
 HOST-SUFFIX,ridepenguin.com
 HOST-SUFFIX,run.app
@@ -910,7 +899,6 @@ HOST-SUFFIX,shattered.io
 HOST-SUFFIX,simility.com,US
 HOST-SUFFIX,snapseed.com
 HOST-SUFFIX,solveforx.com
-HOST-SUFFIX,sprinklesapp.com,US
 HOST-SUFFIX,sslpaypal.org,US
 HOST-SUFFIX,stadia.dev
 HOST-SUFFIX,staging-controlbe.floonet.goog
@@ -933,7 +921,6 @@ HOST-SUFFIX,swiftfinancial.info,US
 HOST-SUFFIX,swiftfinancial.net,US
 HOST-SUFFIX,synergyse.com
 HOST-SUFFIX,teachparentstech.org
-HOST-SUFFIX,telephony.goog
 HOST-SUFFIX,tensorflow.org
 HOST-SUFFIX,tfhub.dev
 HOST-SUFFIX,thecleversense.com

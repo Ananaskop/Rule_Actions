@@ -1,21 +1,14 @@
-# 更新时间： 2024-02-02 20:16:39
-HOST,adeventtracker.spotify.com,Streaming
-HOST,adstudio-assets.scdn.co,Streaming
-HOST,audio-ak-spotify-com.akamaized.net,Streaming
+# 更新时间： 2024-02-03 02:12:33
 HOST,audio4-ak-spotify-com.akamaized.net,Streaming
-HOST,bloodhound.spotify.com,Streaming
 HOST,cdn-spotify-experiments.conductrics.com,Streaming
 HOST,cdn.registerdisney.go.com,Streaming
 HOST,clientservices.googleapis.com,Streaming
 HOST,crl.pki.goog,Streaming
 HOST,e13252.dscg.akamaiedge.net,Streaming
-HOST,espn.hb.omtrdc.net,Streaming
-HOST,espndotcom.tt.omtrdc.net,Streaming
 HOST,fonts.googleapis.com,Streaming
 HOST,fonts.gstatic.com,Streaming
 HOST,h-netflix.online-metrix.net,Streaming
 HOST,heads-ak-spotify-com.akamaized.net,Streaming
-HOST,heads4-ak-spotify-com.akamaized.net,Streaming
 HOST,hls-amt.itunes.apple.com,Streaming
 HOST,hls.itunes.apple.com,Streaming
 HOST,lens.l.google.com,Streaming
@@ -937,7 +930,6 @@ HOST-SUFFIX,stxmosquitoproject.net,Streaming
 HOST-SUFFIX,stxmosquitoproject.org,Streaming
 HOST-SUFFIX,synergyse.com,Streaming
 HOST-SUFFIX,teachparentstech.org,Streaming
-HOST-SUFFIX,telephony.goog,Streaming
 HOST-SUFFIX,tensorflow.org,Streaming
 HOST-SUFFIX,tfhub.dev,Streaming
 HOST-SUFFIX,thecleversense.com,Streaming

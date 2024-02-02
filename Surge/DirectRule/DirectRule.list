@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-02 20:16:53
+# 更新时间： 2024-02-03 02:12:47
 DOMAIN,analytics.strava.com
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
@@ -14,7 +14,6 @@ DOMAIN,cp.cloudflare.com
 DOMAIN,detectportal.firefox.com
 DOMAIN,download.jetbrains.com
 DOMAIN,e16991.b.akamaiedge.net
-DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,icons.axm-usercontent-apple.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,instant.arubanetworks.com
@@ -23,12 +22,10 @@ DOMAIN,kc.kexinshe.com
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
-DOMAIN,outlook.office365.com
 DOMAIN,p-events-delivery.akamaized.net
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,sms.imagetasks.com
-DOMAIN,smtp.office365.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,www.asusrouter.com
@@ -1757,7 +1754,6 @@ DOMAIN-SUFFIX,cdnhwczmn114.com
 DOMAIN-SUFFIX,cdnhwczth23.com
 DOMAIN-SUFFIX,cdnhwcztu09.com
 DOMAIN-SUFFIX,cdnhwczxh101.com
-DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cdntip.com
 DOMAIN-SUFFIX,cdntips.com
 DOMAIN-SUFFIX,cdntips.net
@@ -1767,7 +1763,6 @@ DOMAIN-SUFFIX,ceblease.com
 DOMAIN-SUFFIX,cecdc.com
 DOMAIN-SUFFIX,cecport.com
 DOMAIN-SUFFIX,cegid-cloud.cn
-DOMAIN-SUFFIX,cellmaps.com
 DOMAIN-SUFFIX,centanet.com
 DOMAIN-SUFFIX,centralvalidation.com
 DOMAIN-SUFFIX,cerambath.org
@@ -2493,8 +2488,6 @@ DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,eeyy.com
 DOMAIN-SUFFIX,eflycloud.com
 DOMAIN-SUFFIX,efproject.net
-DOMAIN-SUFFIX,ekahau.cloud
-DOMAIN-SUFFIX,ekahau.com
 DOMAIN-SUFFIX,elderscrolls.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,elecfans.com
@@ -4524,7 +4517,6 @@ DOMAIN-SUFFIX,onmicrosoft.com
 DOMAIN-SUFFIX,onmschina.cn
 DOMAIN-SUFFIX,onsalekey.com
 DOMAIN-SUFFIX,onsaletrend.com
-DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,opdown.com
 DOMAIN-SUFFIX,open.cd
@@ -4620,7 +4612,6 @@ DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,pingan.com.hk
 DOMAIN-SUFFIX,pingplusplus.com
-DOMAIN-SUFFIX,pingtest.net
 DOMAIN-SUFFIX,pingwest.com
 DOMAIN-SUFFIX,pingxx.com
 DOMAIN-SUFFIX,pintu360.com
@@ -5044,9 +5035,6 @@ DOMAIN-SUFFIX,spcloudhw.net
 DOMAIN-SUFFIX,specialtyheadphones.com
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
-DOMAIN-SUFFIX,speedtest.co
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,speedws.info
 DOMAIN-SUFFIX,speedws.org
 DOMAIN-SUFFIX,speiyou.com
@@ -5569,7 +5557,6 @@ DOMAIN-SUFFIX,webobjects.net
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,webqxs.com
 DOMAIN-SUFFIX,webterren.com
-DOMAIN-SUFFIX,webtest.net
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wegamedeveloper.com
@@ -7114,7 +7101,6 @@ PROCESS-NAME,/System/Library/PrivateFrameworks/Lookup.framework/Versions/A/XPCSe
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,Music
-PROCESS-NAME,News
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
 PROCESS-NAME,TV
@@ -7126,7 +7112,6 @@ PROCESS-NAME,findmydevice-user-agent
 PROCESS-NAME,fmfd
 PROCESS-NAME,mapspushd
 PROCESS-NAME,netbiosd
-PROCESS-NAME,storedownloadd
 PROCESS-NAME,trustd
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 USER-AGENT,%E4%BA%AC%E4%B8%9C%E5%88%B0%E5%AE%B6*

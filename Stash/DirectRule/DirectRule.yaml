@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-02 20:16:46
+# 更新时间： 2024-02-03 02:12:40
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,appldnld.apple.com.edgesuite.net
@@ -15,7 +15,6 @@ payload:
   - DOMAIN,detectportal.firefox.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,e16991.b.akamaiedge.net
-  - DOMAIN,github-cloud.s3.amazonaws.com
   - DOMAIN,icons.axm-usercontent-apple.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,instant.arubanetworks.com
@@ -24,12 +23,10 @@ payload:
   - DOMAIN,lookup-api.apple.com.edgekey.net
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
-  - DOMAIN,outlook.office365.com
   - DOMAIN,p-events-delivery.akamaized.net
   - DOMAIN,router.asus.com
   - DOMAIN,setmeup.arubanetworks.com
   - DOMAIN,sms.imagetasks.com
-  - DOMAIN,smtp.office365.com
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN,www.asusrouter.com
@@ -1758,7 +1755,6 @@ payload:
   - DOMAIN-SUFFIX,cdnhwczth23.com
   - DOMAIN-SUFFIX,cdnhwcztu09.com
   - DOMAIN-SUFFIX,cdnhwczxh101.com
-  - DOMAIN-SUFFIX,cdnst.net
   - DOMAIN-SUFFIX,cdntip.com
   - DOMAIN-SUFFIX,cdntips.com
   - DOMAIN-SUFFIX,cdntips.net
@@ -1768,7 +1764,6 @@ payload:
   - DOMAIN-SUFFIX,cecdc.com
   - DOMAIN-SUFFIX,cecport.com
   - DOMAIN-SUFFIX,cegid-cloud.cn
-  - DOMAIN-SUFFIX,cellmaps.com
   - DOMAIN-SUFFIX,centanet.com
   - DOMAIN-SUFFIX,centralvalidation.com
   - DOMAIN-SUFFIX,cerambath.org
@@ -2494,8 +2489,6 @@ payload:
   - DOMAIN-SUFFIX,eeyy.com
   - DOMAIN-SUFFIX,eflycloud.com
   - DOMAIN-SUFFIX,efproject.net
-  - DOMAIN-SUFFIX,ekahau.cloud
-  - DOMAIN-SUFFIX,ekahau.com
   - DOMAIN-SUFFIX,elderscrolls.com
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,elecfans.com
@@ -4525,7 +4518,6 @@ payload:
   - DOMAIN-SUFFIX,onmschina.cn
   - DOMAIN-SUFFIX,onsalekey.com
   - DOMAIN-SUFFIX,onsaletrend.com
-  - DOMAIN-SUFFIX,ookla.com
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,opdown.com
   - DOMAIN-SUFFIX,open.cd
@@ -4621,7 +4613,6 @@ payload:
   - DOMAIN-SUFFIX,pingan.com
   - DOMAIN-SUFFIX,pingan.com.hk
   - DOMAIN-SUFFIX,pingplusplus.com
-  - DOMAIN-SUFFIX,pingtest.net
   - DOMAIN-SUFFIX,pingwest.com
   - DOMAIN-SUFFIX,pingxx.com
   - DOMAIN-SUFFIX,pintu360.com
@@ -5045,9 +5036,6 @@ payload:
   - DOMAIN-SUFFIX,specialtyheadphones.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,speed.dler.io
-  - DOMAIN-SUFFIX,speedtest.co
-  - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,speedtestcustom.com
   - DOMAIN-SUFFIX,speedws.info
   - DOMAIN-SUFFIX,speedws.org
   - DOMAIN-SUFFIX,speiyou.com
@@ -5570,7 +5558,6 @@ payload:
   - DOMAIN-SUFFIX,webofknowledge.com
   - DOMAIN-SUFFIX,webqxs.com
   - DOMAIN-SUFFIX,webterren.com
-  - DOMAIN-SUFFIX,webtest.net
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,wegame.com
   - DOMAIN-SUFFIX,wegamedeveloper.com
@@ -6106,7 +6093,6 @@ payload:
   - PROCESS-NAME,CoreLocationAgent
   - PROCESS-NAME,LookupViewService
   - PROCESS-NAME,Music
-  - PROCESS-NAME,News
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDriveUpdater
   - PROCESS-NAME,TV
@@ -6118,5 +6104,4 @@ payload:
   - PROCESS-NAME,fmfd
   - PROCESS-NAME,mapspushd
   - PROCESS-NAME,netbiosd
-  - PROCESS-NAME,storedownloadd
   - PROCESS-NAME,trustd

@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-02 20:16:38
+# 更新时间： 2024-02-03 02:12:33
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -55,7 +55,6 @@ HOST,cdn1.apple-mapkit.com,direct
 HOST,cdn2.apple-mapkit.com,direct
 HOST,cdn3.apple-mapkit.com,direct
 HOST,cdn4.apple-mapkit.com,direct
-HOST,cdp.cloud.unity3d.com,direct
 HOST,cds-cdn.v.aaplimg.com,direct
 HOST,cds.apple.com,direct
 HOST,cds.apple.com.akadns.net,direct
@@ -160,6 +159,7 @@ HOST,instant.arubanetworks.com,direct
 HOST,iosapps-ssl.itunes.apple.com,direct
 HOST,iosapps.itunes.apple.com,direct
 HOST,iosapps.itunes.g.aaplimg.com,direct
+HOST,ip.bjango.com,direct
 HOST,ip.istatmenus.app,direct
 HOST,ipcdn.apple.com,direct
 HOST,iphone-ld.apple.com,direct
@@ -204,6 +204,7 @@ HOST,news-client.apple.com,direct
 HOST,news-edge.apple.com,direct
 HOST,news-events.apple.com,direct
 HOST,np-edge.itunes.apple.com,direct
+HOST,ntservicepack.microsoft.com,direct
 HOST,ocsp-lb.apple.com.akadns.net,direct
 HOST,ocsp.apple.com,direct
 HOST,ocsp2-lb.apple.com.akadns.net,direct
@@ -244,6 +245,7 @@ HOST,silverlight.dlservice.microsoft.com,direct
 HOST,slupdate.dlservice.microsoft.com,direct
 HOST,smp-device-content.apple.com,direct
 HOST,sms.imagetasks.com,direct
+HOST,smtp-mail.outlook.com,direct
 HOST,smtp.office365.com,direct
 HOST,sp.itunes.apple.com,direct
 HOST,speed.dler.io,direct
@@ -251,7 +253,6 @@ HOST,statici.icloud.com,direct
 HOST,statics-marketingsites-eas-ms-com.akamaized.net,direct
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,direct
 HOST,statics-marketingsites-wcus-ms-com.akamaized.net,direct
-HOST,steamcommunity-a.akamaihd.net,direct
 HOST,stocks-sparkline-lb.apple.com.akadns.net,direct
 HOST,stocks-sparkline.apple.com,direct
 HOST,store.apple.com,direct
@@ -290,6 +291,7 @@ HOST,weather-data.apple.com,direct
 HOST,wl.dlservice.microsoft.com,direct
 HOST,wscont1.apps.microsoft.com,direct
 HOST,wscont2.apps.microsoft.com,direct
+HOST,wustat.windows.com,direct
 HOST,www-cdn.icloud.com.akadns.net,direct
 HOST,www.apple.com,direct
 HOST,www.apple.com.edgekey.net,direct
@@ -2023,7 +2025,6 @@ HOST-SUFFIX,cdnhwczmn114.com,direct
 HOST-SUFFIX,cdnhwczth23.com,direct
 HOST-SUFFIX,cdnhwcztu09.com,direct
 HOST-SUFFIX,cdnhwczxh101.com,direct
-HOST-SUFFIX,cdnst.net,direct
 HOST-SUFFIX,cdntip.com,direct
 HOST-SUFFIX,cdntips.com,direct
 HOST-SUFFIX,cdntips.net,direct
@@ -2033,7 +2034,6 @@ HOST-SUFFIX,ceblease.com,direct
 HOST-SUFFIX,cecdc.com,direct
 HOST-SUFFIX,cecport.com,direct
 HOST-SUFFIX,cegid-cloud.cn,direct
-HOST-SUFFIX,cellmaps.com,direct
 HOST-SUFFIX,centanet.com,direct
 HOST-SUFFIX,centralvalidation.com,direct
 HOST-SUFFIX,cerambath.org,direct
@@ -2759,8 +2759,6 @@ HOST-SUFFIX,eduei.com,direct
 HOST-SUFFIX,eeyy.com,direct
 HOST-SUFFIX,eflycloud.com,direct
 HOST-SUFFIX,efproject.net,direct
-HOST-SUFFIX,ekahau.cloud,direct
-HOST-SUFFIX,ekahau.com,direct
 HOST-SUFFIX,elderscrolls.com,direct
 HOST-SUFFIX,ele.me,direct
 HOST-SUFFIX,elecfans.com,direct
@@ -4790,7 +4788,6 @@ HOST-SUFFIX,onmicrosoft.com,direct
 HOST-SUFFIX,onmschina.cn,direct
 HOST-SUFFIX,onsalekey.com,direct
 HOST-SUFFIX,onsaletrend.com,direct
-HOST-SUFFIX,ookla.com,direct
 HOST-SUFFIX,ooklaserver.net,direct
 HOST-SUFFIX,opdown.com,direct
 HOST-SUFFIX,open.cd,direct
@@ -4886,7 +4883,6 @@ HOST-SUFFIX,pinduoduo.net,direct
 HOST-SUFFIX,pingan.com,direct
 HOST-SUFFIX,pingan.com.hk,direct
 HOST-SUFFIX,pingplusplus.com,direct
-HOST-SUFFIX,pingtest.net,direct
 HOST-SUFFIX,pingwest.com,direct
 HOST-SUFFIX,pingxx.com,direct
 HOST-SUFFIX,pintu360.com,direct
@@ -5310,9 +5306,6 @@ HOST-SUFFIX,spcloudhw.net,direct
 HOST-SUFFIX,specialtyheadphones.com,direct
 HOST-SUFFIX,speed.cloudflare.com,direct
 HOST-SUFFIX,speed.dler.io,direct
-HOST-SUFFIX,speedtest.co,direct
-HOST-SUFFIX,speedtest.net,direct
-HOST-SUFFIX,speedtestcustom.com,direct
 HOST-SUFFIX,speedws.info,direct
 HOST-SUFFIX,speedws.org,direct
 HOST-SUFFIX,speiyou.com,direct
@@ -5835,7 +5828,6 @@ HOST-SUFFIX,webobjects.net,direct
 HOST-SUFFIX,webofknowledge.com,direct
 HOST-SUFFIX,webqxs.com,direct
 HOST-SUFFIX,webterren.com,direct
-HOST-SUFFIX,webtest.net,direct
 HOST-SUFFIX,wechat.com,direct
 HOST-SUFFIX,wegame.com,direct
 HOST-SUFFIX,wegamedeveloper.com,direct
