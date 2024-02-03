@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-03 14:11:31
+# 更新时间： 2024-02-03 20:14:47
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -624,6 +624,7 @@ HOST-SUFFIX,bignews.org,proxy
 HOST-SUFFIX,bigone.com,proxy
 HOST-SUFFIX,bigsound.org,proxy
 HOST-SUFFIX,bild.de,proxy
+HOST-SUFFIX,bili.bili.rip,proxy
 HOST-SUFFIX,biliworld.com,proxy
 HOST-SUFFIX,billypan.com,proxy
 HOST-SUFFIX,binance.com,proxy

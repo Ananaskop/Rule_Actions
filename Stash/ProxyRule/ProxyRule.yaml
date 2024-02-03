@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-03 14:11:38
+# 更新时间： 2024-02-03 20:14:54
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -605,6 +605,7 @@ payload:
   - DOMAIN-SUFFIX,bigone.com
   - DOMAIN-SUFFIX,bigsound.org
   - DOMAIN-SUFFIX,bild.de
+  - DOMAIN-SUFFIX,bili.bili.rip
   - DOMAIN-SUFFIX,biliworld.com
   - DOMAIN-SUFFIX,billypan.com
   - DOMAIN-SUFFIX,binance.com

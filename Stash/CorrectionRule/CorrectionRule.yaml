@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-03 14:11:38
+# 更新时间： 2024-02-03 20:14:54
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -92,7 +92,6 @@ payload:
   - DOMAIN-KEYWORD,weather-edge.apple.com
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,baomitu.com
-  - DOMAIN-SUFFIX,bili.bili.rip
   - DOMAIN-SUFFIX,bootcss.com
   - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,dizhensubao.getui.com
