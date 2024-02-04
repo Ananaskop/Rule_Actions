@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-04 02:10:59
+# 更新时间： 2024-02-04 08:47:52
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -55,6 +55,7 @@ HOST,cdn1.apple-mapkit.com,direct
 HOST,cdn2.apple-mapkit.com,direct
 HOST,cdn3.apple-mapkit.com,direct
 HOST,cdn4.apple-mapkit.com,direct
+HOST,cdp.cloud.unity3d.com,direct
 HOST,cds-cdn.v.aaplimg.com,direct
 HOST,cds.apple.com,direct
 HOST,cds.apple.com.akadns.net,direct
@@ -159,7 +160,6 @@ HOST,instant.arubanetworks.com,direct
 HOST,iosapps-ssl.itunes.apple.com,direct
 HOST,iosapps.itunes.apple.com,direct
 HOST,iosapps.itunes.g.aaplimg.com,direct
-HOST,ip.bjango.com,direct
 HOST,ip.istatmenus.app,direct
 HOST,ipcdn.apple.com,direct
 HOST,iphone-ld.apple.com,direct
@@ -204,7 +204,6 @@ HOST,news-client.apple.com,direct
 HOST,news-edge.apple.com,direct
 HOST,news-events.apple.com,direct
 HOST,np-edge.itunes.apple.com,direct
-HOST,ntservicepack.microsoft.com,direct
 HOST,ocsp-lb.apple.com.akadns.net,direct
 HOST,ocsp.apple.com,direct
 HOST,ocsp2-lb.apple.com.akadns.net,direct
@@ -217,7 +216,6 @@ HOST,origin-a.akamaihd.net,direct
 HOST,oscdn.apple.com,direct
 HOST,oscdn.origin-apple.com.akadns.net,direct
 HOST,osxapps.itunes.apple.com,direct
-HOST,outlook.office365.com,direct
 HOST,p-events-delivery.akamaized.net,direct
 HOST,pancake.apple.com,direct
 HOST,pancake.cdn-apple.com.akadns.net,direct
@@ -245,14 +243,13 @@ HOST,silverlight.dlservice.microsoft.com,direct
 HOST,slupdate.dlservice.microsoft.com,direct
 HOST,smp-device-content.apple.com,direct
 HOST,sms.imagetasks.com,direct
-HOST,smtp-mail.outlook.com,direct
-HOST,smtp.office365.com,direct
 HOST,sp.itunes.apple.com,direct
 HOST,speed.dler.io,direct
 HOST,statici.icloud.com,direct
 HOST,statics-marketingsites-eas-ms-com.akamaized.net,direct
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,direct
 HOST,statics-marketingsites-wcus-ms-com.akamaized.net,direct
+HOST,steamcommunity-a.akamaihd.net,direct
 HOST,stocks-sparkline-lb.apple.com.akadns.net,direct
 HOST,stocks-sparkline.apple.com,direct
 HOST,store.apple.com,direct
@@ -291,7 +288,6 @@ HOST,weather-data.apple.com,direct
 HOST,wl.dlservice.microsoft.com,direct
 HOST,wscont1.apps.microsoft.com,direct
 HOST,wscont2.apps.microsoft.com,direct
-HOST,wustat.windows.com,direct
 HOST,www-cdn.icloud.com.akadns.net,direct
 HOST,www.apple.com,direct
 HOST,www.apple.com.edgekey.net,direct
