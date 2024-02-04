@@ -11,11 +11,11 @@ from concurrent.futures import ThreadPoolExecutor
 replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
-    (r',(?:Netflix|Disney|YouTube|Spotify|AppleTV|Google|TikTok)$', ',Streaming'),
+    (r',(?:Netflix|Disney|YouTube|Spotify|AppleTV|TikTok)$', ',Streaming'),
     (r',(?:ChinaASN|China|Direct|Microsoft|Speedtest|Apple|Lan)$', ',direct'),
     (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy)$', ',proxy'),
-    (r',(?:OpenAI|Claude|PayPal|Bing)$', ',US'),
+    (r',(?:OpenAI|Claude|PayPal|Google|Bing)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
     (r'-suffix', '-SUFFIX'),
     (r'-keyword', '-KEYWORD'),
