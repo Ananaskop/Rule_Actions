@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-08 08:42:59
+# 更新时间： 2024-02-08 14:13:15
 payload:
   - DOMAIN,aaid.uyunad.com
   - DOMAIN,acdn.adnxs.com
@@ -82,6 +82,7 @@ payload:
   - DOMAIN,iadmusicmatvideo.music.126.net
   - DOMAIN,iadworkbench.apple.com
   - DOMAIN,id.hadron.ad.gt
+  - DOMAIN,image.mybank.icbc.com.cn
   - DOMAIN,images.ctfassets.net
   - DOMAIN,imge.dangbei.net
   - DOMAIN,info4.video.qq.com
@@ -278,6 +279,7 @@ payload:
   - DOMAIN-SUFFIX,mairuan.net
   - DOMAIN-SUFFIX,mairuanwang.com
   - DOMAIN-SUFFIX,makeding.com
+  - DOMAIN-SUFFIX,mall.icbc.com.cn
   - DOMAIN-SUFFIX,mathtype.cn
   - DOMAIN-SUFFIX,miaozhen.com
   - DOMAIN-SUFFIX,mindmanager.cc

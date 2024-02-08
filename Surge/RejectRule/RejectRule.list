@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-08 08:43:07
+# 更新时间： 2024-02-08 14:13:22
 DOMAIN,aaid.uyunad.com
 DOMAIN,acdn.adnxs.com
 DOMAIN,acs4baichuan.m.taobao.com
@@ -81,6 +81,7 @@ DOMAIN,iadmusicmat.music.126.net
 DOMAIN,iadmusicmatvideo.music.126.net
 DOMAIN,iadworkbench.apple.com
 DOMAIN,id.hadron.ad.gt
+DOMAIN,image.mybank.icbc.com.cn
 DOMAIN,images.ctfassets.net
 DOMAIN,imge.dangbei.net
 DOMAIN,info4.video.qq.com
@@ -277,6 +278,7 @@ DOMAIN-SUFFIX,mairuan.com.cn
 DOMAIN-SUFFIX,mairuan.net
 DOMAIN-SUFFIX,mairuanwang.com
 DOMAIN-SUFFIX,makeding.com
+DOMAIN-SUFFIX,mall.icbc.com.cn
 DOMAIN-SUFFIX,mathtype.cn
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mindmanager.cc

@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-08 08:42:51
+# 更新时间： 2024-02-08 14:13:08
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -81,6 +81,7 @@ HOST,iadmusicmat.music.126.net,reject
 HOST,iadmusicmatvideo.music.126.net,reject
 HOST,iadworkbench.apple.com,reject
 HOST,id.hadron.ad.gt,reject
+HOST,image.mybank.icbc.com.cn,reject
 HOST,images.ctfassets.net,reject
 HOST,imge.dangbei.net,reject
 HOST,info4.video.qq.com,reject
@@ -277,6 +278,7 @@ HOST-SUFFIX,mairuan.com.cn,reject
 HOST-SUFFIX,mairuan.net,reject
 HOST-SUFFIX,mairuanwang.com,reject
 HOST-SUFFIX,makeding.com,reject
+HOST-SUFFIX,mall.icbc.com.cn,reject
 HOST-SUFFIX,mathtype.cn,reject
 HOST-SUFFIX,miaozhen.com,reject
 HOST-SUFFIX,mindmanager.cc,reject
