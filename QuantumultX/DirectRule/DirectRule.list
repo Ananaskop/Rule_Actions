@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-10 02:11:55
+# 更新时间： 2024-02-10 08:42:02
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -4079,6 +4079,7 @@ HOST-SUFFIX,localhost.ptlogin2.qq.com,direct
 HOST-SUFFIX,localhost.sec.qq.com,direct
 HOST-SUFFIX,localizecdn.com,direct
 HOST-SUFFIX,localytics.com,direct
+HOST-SUFFIX,location.services.mozilla.com,direct
 HOST-SUFFIX,lofter.com,direct
 HOST-SUFFIX,logiseasy.com,direct
 HOST-SUFFIX,lojaiphone.com.br,direct

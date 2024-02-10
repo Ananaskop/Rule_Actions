@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-10 02:12:10
+# 更新时间： 2024-02-10 08:42:17
 DOMAIN,analytics.strava.com
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
@@ -3812,6 +3812,7 @@ DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,localytics.com
+DOMAIN-SUFFIX,location.services.mozilla.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,logiseasy.com
 DOMAIN-SUFFIX,lojaiphone.com.br
