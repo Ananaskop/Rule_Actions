@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-15 08:43:51
+# 更新时间： 2024-02-15 14:12:50
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -182,6 +182,7 @@ HOST-SUFFIX,91veg.com,reject
 HOST-SUFFIX,9s6q.cn,reject
 HOST-SUFFIX,abbyychina.com,reject
 HOST-SUFFIX,adsame.com,reject
+HOST-SUFFIX,adservice.google.com,reject
 HOST-SUFFIX,advp.apple.com,reject
 HOST-SUFFIX,akuai.top,reject
 HOST-SUFFIX,alienskins.cn,reject
