@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-16 08:43:09
+# 更新时间： 2024-02-16 14:12:43
 DOMAIN,aaid.uyunad.com
 DOMAIN,acdn.adnxs.com
 DOMAIN,acs4baichuan.m.taobao.com
@@ -115,6 +115,7 @@ DOMAIN,open.e.kuaishou.com
 DOMAIN,open.kuaishouzt.com
 DOMAIN,ossgw.alicdn.com
 DOMAIN,otheve.beacon.qq.com
+DOMAIN,pagead2.googlesyndication-cn.com
 DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pageviewp.icbc.com.cn
 DOMAIN,pgdt.gtimg.cn
@@ -149,7 +150,6 @@ DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-adsystem.com
 DOMAIN-KEYWORD,ads.g.doubleclick
-DOMAIN-KEYWORD,adservice.google.com
 DOMAIN-KEYWORD,adv.ccb.com
 DOMAIN-KEYWORD,asiad.byteactivity
 DOMAIN-KEYWORD,httpdns-

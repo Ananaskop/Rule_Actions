@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-16 08:42:49
+# 更新时间： 2024-02-16 14:12:29
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -115,6 +115,7 @@ HOST,open.e.kuaishou.com,reject
 HOST,open.kuaishouzt.com,reject
 HOST,ossgw.alicdn.com,reject
 HOST,otheve.beacon.qq.com,reject
+HOST,pagead2.googlesyndication-cn.com,reject
 HOST,pagead2.googlesyndication.com,reject
 HOST,pageviewp.icbc.com.cn,reject
 HOST,pgdt.gtimg.cn,reject
@@ -149,7 +150,6 @@ HOST,zxid-m.mobileservice.cn,reject
 HOST-KEYWORD,-ad-sign.byteimg.com,reject
 HOST-KEYWORD,-adsystem.com,reject
 HOST-KEYWORD,ads.g.doubleclick,reject
-HOST-KEYWORD,adservice.google.com,reject
 HOST-KEYWORD,adv.ccb.com,reject
 HOST-KEYWORD,asiad.byteactivity,reject
 HOST-KEYWORD,httpdns-,reject
