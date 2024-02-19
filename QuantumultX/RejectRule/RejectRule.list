@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-19 08:44:32
+# 更新时间： 2024-02-19 14:13:34
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -17,7 +17,6 @@ HOST,adui.tg.meitu.com,reject
 HOST,advertising.apple.com,reject
 HOST,afd.baidu.com,reject
 HOST,afdconf.baidu.com,reject
-HOST,al-log.d.meituan.net,reject
 HOST,amap-aos-info-nogw.amap.com,reject
 HOST,amdc.m.youku.com,reject
 HOST,api-adservices.apple.com,reject
@@ -31,7 +30,6 @@ HOST,appcloud.zhihu.com,reject
 HOST,appcloud2.in.zhihu.com,reject
 HOST,apple.comscoreresearch.com,reject
 HOST,awaken.amap.com,reject
-HOST,babel-statistics-android.d.meituan.net,reject
 HOST,baichuan-sdk.alicdn.com,reject
 HOST,banners.itunes.apple.com,reject
 HOST,brahe.apptimize.com,reject
@@ -81,7 +79,6 @@ HOST,iadmusicmat.music.126.net,reject
 HOST,iadmusicmatvideo.music.126.net,reject
 HOST,iadworkbench.apple.com,reject
 HOST,id.hadron.ad.gt,reject
-HOST,image.mybank.icbc.com.cn,reject
 HOST,images.ctfassets.net,reject
 HOST,imge.dangbei.net,reject
 HOST,info4.video.qq.com,reject
@@ -112,7 +109,7 @@ HOST,mqtt.zhihu.com,reject
 HOST,music.httpdns.c.163.com,reject
 HOST,nbsdk-baichuan.alicdn.com,reject
 HOST,open.e.kuaishou.com,reject
-HOST,open.kuaishouzt.com,reject
+HOST,open.kuaishou.com,reject
 HOST,ossgw.alicdn.com,reject
 HOST,otheve.beacon.qq.com,reject
 HOST,pagead2.googlesyndication-cn.com,reject
@@ -123,7 +120,6 @@ HOST,pre-acs.youku.com,reject
 HOST,qwapi.apple.com,reject
 HOST,rc-topic-api.bz.mgtv.com,reject
 HOST,rich.kuwo.cn,reject
-HOST,route-stats.d.meituan.net,reject
 HOST,rprain.bz.mgtv.com,reject
 HOST,rprain.log.mgtv.com,reject
 HOST,sdkconfig.ad.xiaomi.com,reject
@@ -181,6 +177,7 @@ HOST-SUFFIX,7gg.cc,reject
 HOST-SUFFIX,91veg.com,reject
 HOST-SUFFIX,9s6q.cn,reject
 HOST-SUFFIX,abbyychina.com,reject
+HOST-SUFFIX,ads.linkedin.com,reject
 HOST-SUFFIX,adsame.com,reject
 HOST-SUFFIX,adservice.google.com,reject
 HOST-SUFFIX,advp.apple.com,reject
@@ -263,6 +260,7 @@ HOST-SUFFIX,jwg365.cn,reject
 HOST-SUFFIX,kawo77.com,reject
 HOST-SUFFIX,keyshot.cc,reject
 HOST-SUFFIX,kingdeecn.cn,reject
+HOST-SUFFIX,kuaishouzt.com,reject
 HOST-SUFFIX,kuaizip.com,reject
 HOST-SUFFIX,kualianyingxiao.cn,reject
 HOST-SUFFIX,kumihua.com,reject
@@ -364,6 +362,7 @@ HOST-SUFFIX,zunmi.cn,reject
 HOST-SUFFIX,zzd6.com,reject
 IP-CIDR,101.124.19.122/32,reject,no-resolve
 IP-CIDR,103.224.222.208/32,reject,no-resolve
+IP-CIDR,103.37.155.60/32,reject,no-resolve
 IP-CIDR,103.41.167.237/32,reject,no-resolve
 IP-CIDR,103.49.209.27/32,reject,no-resolve
 IP-CIDR,106.75.231.48/32,reject,no-resolve
