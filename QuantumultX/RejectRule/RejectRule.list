@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-19 14:13:34
+# 更新时间： 2024-02-19 20:17:36
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -393,6 +393,7 @@ IP-CIDR,124.14.21.151/32,reject,no-resolve
 IP-CIDR,124.232.160.178/32,reject,no-resolve
 IP-CIDR,175.6.223.15/32,reject,no-resolve
 IP-CIDR,180.166.52.24/32,reject,no-resolve
+IP-CIDR,180.76.76.112/32,reject,no-resolve
 IP-CIDR,180.76.76.200/32,reject,no-resolve
 IP-CIDR,182.254.116.117/32,reject,no-resolve
 IP-CIDR,182.254.118.119/32,reject,no-resolve

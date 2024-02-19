@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-19 14:13:41
+# 更新时间： 2024-02-19 20:17:43
 payload:
   - DOMAIN,aaid.uyunad.com
   - DOMAIN,acdn.adnxs.com
@@ -394,6 +394,7 @@ payload:
   - IP-CIDR,124.232.160.178/32,no-resolve
   - IP-CIDR,175.6.223.15/32,no-resolve
   - IP-CIDR,180.166.52.24/32,no-resolve
+  - IP-CIDR,180.76.76.112/32,no-resolve
   - IP-CIDR,180.76.76.200/32,no-resolve
   - IP-CIDR,182.254.116.117/32,no-resolve
   - IP-CIDR,182.254.118.119/32,no-resolve
