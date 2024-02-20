@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-20 08:43:01
+# 更新时间： 2024-02-20 09:56:07
 DOMAIN,api.minecraftservices.com
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,1984bbs.org
 DOMAIN-SUFFIX,1991way.com
 DOMAIN-SUFFIX,1998cdp.org
 DOMAIN-SUFFIX,1bao.org
+DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1dumb.com
 DOMAIN-SUFFIX,1eew.com
 DOMAIN-SUFFIX,1mobile.com
@@ -3672,6 +3673,9 @@ DOMAIN-SUFFIX,omy.sg
 DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onapp.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onejav.com
 DOMAIN-SUFFIX,onekey.so
@@ -3846,6 +3850,7 @@ DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,phonegap.com
 DOMAIN-SUFFIX,photodharma.net
 DOMAIN-SUFFIX,photofocus.com
+DOMAIN-SUFFIX,photos.live.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,phuquocservices.com
 DOMAIN-SUFFIX,piaotian.net
@@ -4344,6 +4349,8 @@ DOMAIN-SUFFIX,shangfang.org
 DOMAIN-SUFFIX,shapeservices.com
 DOMAIN-SUFFIX,sharebee.com
 DOMAIN-SUFFIX,sharecool.org
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,sharpdaily.com.hk
 DOMAIN-SUFFIX,sharpdaily.hk
 DOMAIN-SUFFIX,sharpdaily.tw
@@ -4426,6 +4433,7 @@ DOMAIN-SUFFIX,sketchappsources.com
 DOMAIN-SUFFIX,skimtube.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,skybet.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,skykiwi.com
 DOMAIN-SUFFIX,skynet.be
@@ -4538,6 +4546,7 @@ DOMAIN-SUFFIX,spendee.com
 DOMAIN-SUFFIX,spicevpn.com
 DOMAIN-SUFFIX,spideroak.com
 DOMAIN-SUFFIX,spike.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,spotflux.com
 DOMAIN-SUFFIX,spreadshirt.es
 DOMAIN-SUFFIX,spring-plus.net
@@ -4600,6 +4609,8 @@ DOMAIN-SUFFIX,stileproject.com
 DOMAIN-SUFFIX,sto.cc
 DOMAIN-SUFFIX,stoporganharvesting.org
 DOMAIN-SUFFIX,stoptibetcrisis.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,storagenewsletter.com
 DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,storm.mg
@@ -6035,8 +6046,11 @@ IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
 USER-AGENT,Duolingo*
 USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
 USER-AGENT,PayPal*
 USER-AGENT,Roam*
 USER-AGENT,TikTok*
