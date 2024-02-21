@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-21 02:13:39
+# 更新时间： 2024-02-21 08:43:46
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -2779,6 +2779,7 @@ HOST-SUFFIX,huiyi.in,proxy
 HOST-SUFFIX,hulkshare.com,proxy
 HOST-SUFFIX,hulu.com,proxy
 HOST-SUFFIX,huluim.com,proxy
+HOST-SUFFIX,humanparty.me,proxy
 HOST-SUFFIX,humanrightspressawards.org,proxy
 HOST-SUFFIX,humblebundle.com,proxy
 HOST-SUFFIX,hung-ya.com,proxy
@@ -5204,6 +5205,7 @@ HOST-SUFFIX,telegraph.co.uk,proxy
 HOST-SUFFIX,telesco.pe,proxy
 HOST-SUFFIX,tellme.pw,proxy
 HOST-SUFFIX,tenacy.com,proxy
+HOST-SUFFIX,tenor.com,proxy
 HOST-SUFFIX,tensorflow.org,proxy
 HOST-SUFFIX,tenzinpalmo.com,proxy
 HOST-SUFFIX,terabox.com,proxy
