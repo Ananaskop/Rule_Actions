@@ -1,8 +1,35 @@
-# 更新时间： 2024-02-23 14:13:19
+# 更新时间： 2024-02-23 16:39:41
 payload:
+  - DOMAIN,api-glb-sea.smoot.apple.com
+  - DOMAIN,apple.comscoreresearch.com
+  - DOMAIN,books.itunes.apple.com
   - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,cdn.apple-cloudkit.com
   - DOMAIN,cdn.usefathom.com
+  - DOMAIN,cvws.icloud-content.com
+  - DOMAIN,developer.apple.com
+  - DOMAIN,devimages-cdn.apple.com
+  - DOMAIN,devstreaming-cdn.apple.com
+  - DOMAIN,docs-assets.developer.apple.com
+  - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN,hls-svod.itunes.apple.com
+  - DOMAIN,itunes.apple.com
+  - DOMAIN,js-cdn.music.apple.com
+  - DOMAIN,lookup-api.apple.com
+  - DOMAIN,mask-api.icloud.com
+  - DOMAIN,mask-h2.icloud.com
+  - DOMAIN,mask.icloud.com
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,np-edge.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
+  - DOMAIN,sandbox.itunes.apple.com
   - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN,testflight.apple.com
+  - DOMAIN,tv.applemusic.com
+  - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,voice.telephony.goog
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
@@ -62,11 +89,16 @@ payload:
   - DOMAIN-SUFFIX,appbridge.ca
   - DOMAIN-SUFFIX,appbridge.io
   - DOMAIN-SUFFIX,appbridge.it
+  - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,apps.apple.com
   - DOMAIN-SUFFIX,apps5.oingo.com
   - DOMAIN-SUFFIX,appspot.com
+  - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,apture.com
   - DOMAIN-SUFFIX,area120.com
   - DOMAIN-SUFFIX,asp-cc.com
+  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,autodraw.com
   - DOMAIN-SUFFIX,avail.googleflights.net
@@ -96,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,blink.org
+  - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,blogblog.com
   - DOMAIN-SUFFIX,blogger.com
@@ -198,6 +231,7 @@ payload:
   - DOMAIN-SUFFIX,cash2.com
   - DOMAIN-SUFFIX,cashify.com
   - DOMAIN-SUFFIX,cashify.net
+  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn.cloudflare.net
   - DOMAIN-SUFFIX,certificate-transparency.dev
   - DOMAIN-SUFFIX,certificate-transparency.org
@@ -254,6 +288,7 @@ payload:
   - DOMAIN-SUFFIX,devsitetest.how
   - DOMAIN-SUFFIX,devtools-paypal.com
   - DOMAIN-SUFFIX,dialogflow.com
+  - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,digisfera.com
   - DOMAIN-SUFFIX,digitalassetlinks.org
   - DOMAIN-SUFFIX,digitalattackmap.com
@@ -599,6 +634,8 @@ payload:
   - DOMAIN-SUFFIX,hdrplusdata.org
   - DOMAIN-SUFFIX,hey.gle
   - DOMAIN-SUFFIX,hindiweb.com
+  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+  - DOMAIN-SUFFIX,hls.itunes.apple.com
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,howtogetmo.co.uk
   - DOMAIN-SUFFIX,html5rocks.com
@@ -648,6 +685,7 @@ payload:
   - DOMAIN-SUFFIX,oasisfeng.com
   - DOMAIN-SUFFIX,oauthz.com
   - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,ocsp.apple.com
   - DOMAIN-SUFFIX,ok.gle
   - DOMAIN-SUFFIX,on.here
   - DOMAIN-SUFFIX,on2.com
@@ -932,6 +970,7 @@ payload:
   - DOMAIN-SUFFIX,thinkwithgoogle.com
   - DOMAIN-SUFFIX,tiltbrush.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,txcloud.net
   - DOMAIN-SUFFIX,txvia.com
   - DOMAIN-SUFFIX,unfiltered.news
@@ -1010,6 +1049,7 @@ payload:
   - IP-CIDR6,2620:120:e000::/40,no-resolve
   - PROCESS-NAME,BackupandSync
   - PROCESS-NAME,GoogleDriveFS.exe
+  - PROCESS-NAME,LookupViewService
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms
   - PROCESS-NAME,com.google.android.gsf
