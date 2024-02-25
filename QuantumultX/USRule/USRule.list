@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-25 14:11:41
+# 更新时间： 2024-02-25 20:15:36
 HOST,api-glb-sea.smoot.apple.com,AppleProxy
 HOST,apple.comscoreresearch.com,AppleProxy
 HOST,books.itunes.apple.com,AppleProxy
@@ -16,12 +16,16 @@ HOST,fonts.googleapis.com,US
 HOST,fonts.gstatic.com,US
 HOST,gspe1-ssl.ls.apple.com,AppleProxy
 HOST,hls-svod.itunes.apple.com,AppleProxy
+HOST,hls.itunes.apple.com,AppleProxy
 HOST,itunes.apple.com,AppleProxy
 HOST,js-cdn.music.apple.com,AppleProxy
 HOST,lens.l.google.com,US
 HOST,lookup-api.apple.com,AppleProxy
+HOST,mask-api.fe.apple-dns.net,AppleProxy
 HOST,mask-api.icloud.com,AppleProxy
 HOST,mask-h2.icloud.com,AppleProxy
+HOST,mask-t.apple-dns.net,AppleProxy
+HOST,mask.apple-dns.net,AppleProxy
 HOST,mask.icloud.com,AppleProxy
 HOST,mtalk.google.com,US
 HOST,news-assets.apple.com,AppleProxy
@@ -43,6 +47,7 @@ HOST,tv.applemusic.com,AppleProxy
 HOST,uts-api.itunes.apple.com,AppleProxy
 HOST,voice.telephony.goog,US
 HOST,www.googleapis.com,US
+HOST,www.paypal-mktg.com,US
 HOST-KEYWORD,appspot,US
 HOST-KEYWORD,blogspot,US
 HOST-KEYWORD,gmail,US
