@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-26 08:44:33
+# 更新时间： 2024-02-26 11:50:28
 payload:
   - DOMAIN,api-glb-sea.smoot.apple.com
   - DOMAIN,apple.comscoreresearch.com
@@ -31,14 +31,18 @@ payload:
   - DOMAIN,tv.applemusic.com
   - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,voice.telephony.goog
+  - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,appspot
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,recaptcha
+  - DOMAIN-KEYWORD,skydrive
   - DOMAIN-SUFFIX,0emm.com
+  - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
   - DOMAIN-SUFFIX,265.com
@@ -661,6 +665,7 @@ payload:
   - DOMAIN-SUFFIX,lanternal.com
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,like.com
+  - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,loanbuilder.com
   - DOMAIN-SUFFIX,login-paypal.com
   - DOMAIN-SUFFIX,login-paypal.info
@@ -689,6 +694,9 @@ payload:
   - DOMAIN-SUFFIX,ok.gle
   - DOMAIN-SUFFIX,on.here
   - DOMAIN-SUFFIX,on2.com
+  - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,onefifteen.net
   - DOMAIN-SUFFIX,onefifteen.org
   - DOMAIN-SUFFIX,oneworldmanystories.com
@@ -866,6 +874,7 @@ payload:
   - DOMAIN-SUFFIX,payppal.com
   - DOMAIN-SUFFIX,payypal.com
   - DOMAIN-SUFFIX,pdncommunity.com
+  - DOMAIN-SUFFIX,photos.live.com
   - DOMAIN-SUFFIX,picasa.com
   - DOMAIN-SUFFIX,picasaweb.com
   - DOMAIN-SUFFIX,picasaweb.net
@@ -933,10 +942,14 @@ payload:
   - DOMAIN-SUFFIX,securepaypal.info
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,shattered.io
   - DOMAIN-SUFFIX,simility.com
+  - DOMAIN-SUFFIX,skydrive.wns.windows.com
   - DOMAIN-SUFFIX,snapseed.com
   - DOMAIN-SUFFIX,solveforx.com
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
   - DOMAIN-SUFFIX,sslpaypal.org
   - DOMAIN-SUFFIX,stadia.dev
   - DOMAIN-SUFFIX,staging-controlbe.floonet.goog
@@ -944,6 +957,8 @@ payload:
   - DOMAIN-SUFFIX,staging.databe.floonet.goog
   - DOMAIN-SUFFIX,stcroixmosquito.com
   - DOMAIN-SUFFIX,stcroixmosquitoproject.com
+  - DOMAIN-SUFFIX,storage.live.com
+  - DOMAIN-SUFFIX,storage.msn.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,studywatchbyverily.com
   - DOMAIN-SUFFIX,studywatchbyverily.org
@@ -1050,6 +1065,8 @@ payload:
   - PROCESS-NAME,BackupandSync
   - PROCESS-NAME,GoogleDriveFS.exe
   - PROCESS-NAME,LookupViewService
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,OneDriveUpdater
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms
   - PROCESS-NAME,com.google.android.gsf

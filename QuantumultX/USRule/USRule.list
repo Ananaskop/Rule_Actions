@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-26 08:44:25
+# 更新时间： 2024-02-26 11:50:21
 HOST,api-glb-sea.smoot.apple.com,AppleProxy
 HOST,apple.comscoreresearch.com,AppleProxy
 HOST,books.itunes.apple.com,AppleProxy
@@ -34,6 +34,7 @@ HOST,news-edge.apple.com,AppleProxy
 HOST,news-events.apple.com,AppleProxy
 HOST,np-edge.itunes.apple.com,AppleProxy
 HOST,ocsp.pki.goog,US
+HOST,oneclient.sfx.ms,OneDrive
 HOST,play-edge.itunes.apple.com,AppleProxy
 HOST,redirector.c.bigcache.googleapis.com,US
 HOST,redirector.gvt1.com,US
@@ -48,14 +49,18 @@ HOST,uts-api.itunes.apple.com,AppleProxy
 HOST,voice.telephony.goog,US
 HOST,www.googleapis.com,US
 HOST,www.paypal-mktg.com,US
+HOST-KEYWORD,1drv,OneDrive
 HOST-KEYWORD,appspot,US
 HOST-KEYWORD,blogspot,US
 HOST-KEYWORD,gmail,US
 HOST-KEYWORD,google,US
+HOST-KEYWORD,onedrive,OneDrive
 HOST-KEYWORD,openai,US
 HOST-KEYWORD,paypal,US
 HOST-KEYWORD,recaptcha,US
+HOST-KEYWORD,skydrive,OneDrive
 HOST-SUFFIX,0emm.com,US
+HOST-SUFFIX,1drv.com,OneDrive
 HOST-SUFFIX,1e100.net,US
 HOST-SUFFIX,1ucrs.com,US
 HOST-SUFFIX,265.com,US
@@ -678,6 +683,7 @@ HOST-SUFFIX,krakenjs.com,US
 HOST-SUFFIX,lanternal.com,US
 HOST-SUFFIX,launchdarkly.com,US
 HOST-SUFFIX,like.com,US
+HOST-SUFFIX,livefilestore.com,OneDrive
 HOST-SUFFIX,loanbuilder.com,US
 HOST-SUFFIX,login-paypal.com,US
 HOST-SUFFIX,login-paypal.info,US
@@ -706,6 +712,9 @@ HOST-SUFFIX,ocsp.apple.com,AppleProxy
 HOST-SUFFIX,ok.gle,US
 HOST-SUFFIX,on.here,US
 HOST-SUFFIX,on2.com,US
+HOST-SUFFIX,oneclient.sfx.ms,OneDrive
+HOST-SUFFIX,onedrive.com,OneDrive
+HOST-SUFFIX,onedrive.live.com,OneDrive
 HOST-SUFFIX,onefifteen.net,US
 HOST-SUFFIX,onefifteen.org,US
 HOST-SUFFIX,oneworldmanystories.com,US
@@ -883,6 +892,7 @@ HOST-SUFFIX,paypaly.com,US
 HOST-SUFFIX,payppal.com,US
 HOST-SUFFIX,payypal.com,US
 HOST-SUFFIX,pdncommunity.com,US
+HOST-SUFFIX,photos.live.com,OneDrive
 HOST-SUFFIX,picasa.com,US
 HOST-SUFFIX,picasaweb.com,US
 HOST-SUFFIX,picasaweb.net,US
@@ -950,10 +960,14 @@ HOST-SUFFIX,secure-paypal.info,US
 HOST-SUFFIX,securepaypal.info,US
 HOST-SUFFIX,segment.io,US
 HOST-SUFFIX,sentry.io,US
+HOST-SUFFIX,sharepoint.com,OneDrive
+HOST-SUFFIX,sharepointonline.com,OneDrive
 HOST-SUFFIX,shattered.io,US
 HOST-SUFFIX,simility.com,US
+HOST-SUFFIX,skydrive.wns.windows.com,OneDrive
 HOST-SUFFIX,snapseed.com,US
 HOST-SUFFIX,solveforx.com,US
+HOST-SUFFIX,spoprod-a.akamaihd.net,OneDrive
 HOST-SUFFIX,sslpaypal.org,US
 HOST-SUFFIX,stadia.dev,US
 HOST-SUFFIX,staging-controlbe.floonet.goog,US
@@ -961,6 +975,8 @@ HOST-SUFFIX,staging-databe.floonet.goog,US
 HOST-SUFFIX,staging.databe.floonet.goog,US
 HOST-SUFFIX,stcroixmosquito.com,US
 HOST-SUFFIX,stcroixmosquitoproject.com,US
+HOST-SUFFIX,storage.live.com,OneDrive
+HOST-SUFFIX,storage.msn.com,OneDrive
 HOST-SUFFIX,stripe.com,US
 HOST-SUFFIX,studywatchbyverily.com,US
 HOST-SUFFIX,studywatchbyverily.org,US
@@ -1070,6 +1086,8 @@ USER-AGENT,*com.google.Drive*,US
 USER-AGENT,AppleNews*,AppleProxy
 USER-AGENT,AppleTV*,AppleProxy
 USER-AGENT,Google.Drive*,US
+USER-AGENT,OneDrive*,OneDrive
+USER-AGENT,OneDriveiOSApp*,OneDrive
 USER-AGENT,PayPal*,US
 USER-AGENT,com.apple.news*,AppleProxy
 USER-AGENT,com.apple.trustd*,AppleProxy

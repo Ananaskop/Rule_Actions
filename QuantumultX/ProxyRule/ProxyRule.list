@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-26 08:44:25
+# 更新时间： 2024-02-26 11:50:21
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -18,7 +18,6 @@ HOST,haiwaikan.com,proxy
 HOST,notion-api.splitbee.io,proxy
 HOST,olemovienews.com,proxy
 HOST,olevod.com,proxy
-HOST,oneclient.sfx.ms,OneDrive
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,proxy
 HOST,openaicomproductionae4b.blob.core.windows.net,proxy
 HOST,public.emby.ws,proxy
@@ -28,7 +27,6 @@ HOST,thetvdb.com,proxy
 HOST,tmdb.org,proxy
 HOST,v1.mk,proxy
 HOST,voice.telephony.goog,proxy
-HOST-KEYWORD,1drv,OneDrive
 HOST-KEYWORD,1drv,proxy
 HOST-KEYWORD,1e100,proxy
 HOST-KEYWORD,abema,proxy
@@ -45,12 +43,10 @@ HOST-KEYWORD,gmail,proxy
 HOST-KEYWORD,google,proxy
 HOST-KEYWORD,instagram,proxy
 HOST-KEYWORD,musical.ly,proxy
-HOST-KEYWORD,onedrive,OneDrive
 HOST-KEYWORD,onedrive,proxy
 HOST-KEYWORD,paypal,proxy
 HOST-KEYWORD,porn,proxy
 HOST-KEYWORD,sci-hub,proxy
-HOST-KEYWORD,skydrive,OneDrive
 HOST-KEYWORD,skydrive,proxy
 HOST-KEYWORD,spotify,proxy
 HOST-KEYWORD,telegram,proxy
@@ -95,7 +91,6 @@ HOST-SUFFIX,1984bbs.org,proxy
 HOST-SUFFIX,1991way.com,proxy
 HOST-SUFFIX,1998cdp.org,proxy
 HOST-SUFFIX,1bao.org,proxy
-HOST-SUFFIX,1drv.com,OneDrive
 HOST-SUFFIX,1dumb.com,proxy
 HOST-SUFFIX,1eew.com,proxy
 HOST-SUFFIX,1mobile.com,proxy
@@ -2985,7 +2980,6 @@ HOST-SUFFIX,live.net,proxy
 HOST-SUFFIX,livecoin.net,proxy
 HOST-SUFFIX,livednow.com,proxy
 HOST-SUFFIX,livedoor.jp,proxy
-HOST-SUFFIX,livefilestore.com,OneDrive
 HOST-SUFFIX,livefilestore.com,proxy
 HOST-SUFFIX,liveleak.com,proxy
 HOST-SUFFIX,livemint.com,proxy
@@ -3679,9 +3673,6 @@ HOST-SUFFIX,omy.sg,proxy
 HOST-SUFFIX,on.cc,proxy
 HOST-SUFFIX,on2.com,proxy
 HOST-SUFFIX,onapp.com,proxy
-HOST-SUFFIX,oneclient.sfx.ms,OneDrive
-HOST-SUFFIX,onedrive.com,OneDrive
-HOST-SUFFIX,onedrive.live.com,OneDrive
 HOST-SUFFIX,onedumb.com,proxy
 HOST-SUFFIX,onejav.com,proxy
 HOST-SUFFIX,onekey.so,proxy
@@ -3856,7 +3847,6 @@ HOST-SUFFIX,phobos.apple.com,proxy
 HOST-SUFFIX,phonegap.com,proxy
 HOST-SUFFIX,photodharma.net,proxy
 HOST-SUFFIX,photofocus.com,proxy
-HOST-SUFFIX,photos.live.com,OneDrive
 HOST-SUFFIX,phprcdn.com,proxy
 HOST-SUFFIX,phuquocservices.com,proxy
 HOST-SUFFIX,piaotian.net,proxy
@@ -4355,8 +4345,6 @@ HOST-SUFFIX,shangfang.org,proxy
 HOST-SUFFIX,shapeservices.com,proxy
 HOST-SUFFIX,sharebee.com,proxy
 HOST-SUFFIX,sharecool.org,proxy
-HOST-SUFFIX,sharepoint.com,OneDrive
-HOST-SUFFIX,sharepointonline.com,OneDrive
 HOST-SUFFIX,sharpdaily.com.hk,proxy
 HOST-SUFFIX,sharpdaily.hk,proxy
 HOST-SUFFIX,sharpdaily.tw,proxy
@@ -4439,7 +4427,6 @@ HOST-SUFFIX,sketchappsources.com,proxy
 HOST-SUFFIX,skimtube.com,proxy
 HOST-SUFFIX,skk.moe,proxy
 HOST-SUFFIX,skybet.com,proxy
-HOST-SUFFIX,skydrive.wns.windows.com,OneDrive
 HOST-SUFFIX,skyking.com.tw,proxy
 HOST-SUFFIX,skykiwi.com,proxy
 HOST-SUFFIX,skynet.be,proxy
@@ -4552,7 +4539,6 @@ HOST-SUFFIX,spendee.com,proxy
 HOST-SUFFIX,spicevpn.com,proxy
 HOST-SUFFIX,spideroak.com,proxy
 HOST-SUFFIX,spike.com,proxy
-HOST-SUFFIX,spoprod-a.akamaihd.net,OneDrive
 HOST-SUFFIX,spotflux.com,proxy
 HOST-SUFFIX,spreadshirt.es,proxy
 HOST-SUFFIX,spring-plus.net,proxy
@@ -4615,8 +4601,6 @@ HOST-SUFFIX,stileproject.com,proxy
 HOST-SUFFIX,sto.cc,proxy
 HOST-SUFFIX,stoporganharvesting.org,proxy
 HOST-SUFFIX,stoptibetcrisis.net,proxy
-HOST-SUFFIX,storage.live.com,OneDrive
-HOST-SUFFIX,storage.msn.com,OneDrive
 HOST-SUFFIX,storagenewsletter.com,proxy
 HOST-SUFFIX,storify.com,proxy
 HOST-SUFFIX,storm.mg,proxy
@@ -6054,9 +6038,7 @@ IP6-CIDR,2001:67c:4e8::/48,proxy,no-resolve
 IP6-CIDR,2001:b28:f23d::/48,proxy,no-resolve
 IP6-CIDR,2001:b28:f23f::/48,proxy,no-resolve
 USER-AGENT,Duolingo*,proxy
-USER-AGENT,OneDrive*,OneDrive
 USER-AGENT,OneDrive*,proxy
-USER-AGENT,OneDriveiOSApp*,OneDrive
 USER-AGENT,PayPal*,proxy
 USER-AGENT,Roam*,proxy
 USER-AGENT,TikTok*,proxy
