@@ -1,4 +1,4 @@
-# 更新时间： 2024-02-28 02:12:27
+# 更新时间： 2024-02-28 07:37:46
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -145,6 +145,7 @@ HOST,iosapps.itunes.g.aaplimg.com,direct
 HOST,ip.istatmenus.app,direct
 HOST,ipcdn.apple.com,direct
 HOST,iphone-ld.apple.com,direct
+HOST,iphone-ld.origin-apple.com.akadns.net,direct
 HOST,is1-ssl.mzstatic.com,direct
 HOST,is1.mzstatic.com,direct
 HOST,is2-ssl.mzstatic.com,direct
@@ -174,6 +175,7 @@ HOST,mask.icloud.com,direct
 HOST,mesu-cdn.apple.com.akadns.net,direct
 HOST,mesu-china.apple.com.akadns.net,direct
 HOST,mesu.apple.com,direct
+HOST,ml.cdn-apple.com,direct
 HOST,music.apple.com,direct
 HOST,mvod.itunes.apple.com,direct
 HOST,news-assets.apple.com,direct
@@ -191,6 +193,7 @@ HOST,origin-a.akamaihd.net,direct
 HOST,oscdn.apple.com,direct
 HOST,oscdn.origin-apple.com.akadns.net,direct
 HOST,osxapps.itunes.apple.com,direct
+HOST,osxapps.itunes.g.aaplimg.com,direct
 HOST,p-events-delivery.akamaized.net,direct
 HOST,pancake.apple.com,direct
 HOST,pancake.cdn-apple.com.akadns.net,direct
@@ -229,6 +232,7 @@ HOST,su.itunes.apple.com,direct
 HOST,support-china.apple-support.akadns.net,direct
 HOST,support.apple.com,direct
 HOST,supportdownload.apple.com,direct
+HOST,swallow-apple-com.v.aaplimg.com,direct
 HOST,swallow.apple.com,direct
 HOST,swcatalog-cdn.apple.com.akadns.net,direct
 HOST,swcatalog.apple.com,direct
@@ -249,6 +253,9 @@ HOST,uts-api.itunes.apple.com,direct
 HOST,valid.apple.com,direct
 HOST,valid.origin-apple.com.akadns.net,direct
 HOST,weather-data.apple.com,direct
+HOST,weather-data.apple.com.akadns.net,direct
+HOST,weather-map.apple.com,direct
+HOST,weather-map2.apple.com,direct
 HOST,www-cdn.icloud.com.akadns.net,direct
 HOST,www.apple.com,direct
 HOST,www.apple.com.edgekey.net,direct
