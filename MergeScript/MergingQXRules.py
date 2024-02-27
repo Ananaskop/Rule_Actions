@@ -15,7 +15,7 @@ replacements = [
     (r',(?:ChinaASN|China|Direct|Microsoft|Speedtest|Apple|Lan)$', ',direct'),
     (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy)$', ',proxy'),
-    (r',(?:OpenAI|Claude|PayPal|Google|Bing)$', ',US'),
+    (r',(?:OpenAI|Claude|PayPal|Google|Bing|AppleProxy|OneDrive)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
     (r'-suffix', '-SUFFIX'),
     (r'-keyword', '-KEYWORD'),
