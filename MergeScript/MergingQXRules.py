@@ -14,7 +14,7 @@ replacements = [
     (r',(?:Netflix|Disney|YouTube|Spotify|AppleTV|TikTok)$', ',Streaming'),
     (r',(?:ChinaASN|China|Direct|Microsoft|Speedtest|Apple|Lan)$', ',direct'),
     (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
-    (r',(?:Proxy)$', ',proxy'),
+    (r',(?:Proxy|Global)$', ',proxy'),
     (r',(?:OpenAI|Claude|PayPal|Google|Bing|AppleProxy|OneDrive)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
     (r'-suffix', '-SUFFIX'),
@@ -36,7 +36,7 @@ RULES = {
         "BlockHttpDNS": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BlockHttpDNS/BlockHttpDNS.list",
     },
     "ProxyRule": {
-        "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Proxy/Proxy.list",
+        "Global": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list",
         "MyProxyRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/ProxyRule.list",
     },
     "DirectRule": {
