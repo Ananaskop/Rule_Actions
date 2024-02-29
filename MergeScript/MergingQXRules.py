@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
-    (r',(?:GlobalMedia)$', ',Streaming'),
+    (r',(?:GlobalMedia)$', ',STREAMING'),
     (r',(?:ChinaMax|Direct|Speedtest|Apple|Lan|Microsoft)$', ',direct'),
     (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy|Global)$', ',proxy'),
