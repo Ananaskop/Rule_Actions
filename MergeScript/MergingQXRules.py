@@ -11,11 +11,11 @@ from concurrent.futures import ThreadPoolExecutor
 replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
-    (r',(?:Netflix|Disney|YouTube|Spotify|AppleTV|TikTok)$', ',Streaming'),
+    (r',(?:GlobalMedia)$', ',Streaming'),
     (r',(?:ChinaMax|Direct|Speedtest|Apple|Lan|Microsoft)$', ',direct'),
     (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy|Global)$', ',proxy'),
-    (r',(?:OpenAI|PayPal|OneDrive|Google|Bing)$', ',US'),
+    (r',(?:OpenAI|PayPal|Google|Bing)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
     (r'-suffix', '-SUFFIX'),
     (r'-keyword', '-KEYWORD'),
@@ -53,12 +53,7 @@ RULES = {
         "Bing": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Bing/Bing.list",
     },
     "StreamingRule": {
-        "TikTok": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TikTok/TikTok.list",
-        "Netflix": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list",
-        "Disney": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list",
-        "YouTube": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list",
-        "Spotify": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list",
-        "AppleTV": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppleTV/AppleTV.list",
+        "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list",
     }
 }
 
