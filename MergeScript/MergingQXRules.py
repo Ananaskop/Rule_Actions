@@ -12,7 +12,7 @@ replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
     (r',(?:Netflix|Disney|YouTube|Spotify|AppleTV|TikTok)$', ',Streaming'),
-    (r',(?:ChinaASN|China|Direct|Speedtest|Apple|Lan|Microsoft)$', ',direct'),
+    (r',(?:ChinaMax|Direct|Speedtest|Apple|Lan|Microsoft)$', ',direct'),
     (r',(?:AdvertisingLite|Privacy|Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy|Global)$', ',proxy'),
     (r',(?:OpenAI|PayPal|OneDrive|Google|Bing)$', ',US'),
@@ -44,8 +44,7 @@ RULES = {
         "Apple": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list",
         "Microsoft": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list",
         "Speedtest": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Speedtest/Speedtest.list",
-        "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list",
-        "ChinaASN": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaASN/ChinaASN.list",
+        "ChinaMax": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMax/ChinaMax.list",
     },
     "USRule": {
         "OpenAI": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list",
