@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-01 08:48:41
+# 更新时间： 2024-03-01 14:13:06
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -29,7 +29,6 @@ HOST,apiv4-iyes.youku.com,reject
 HOST,appcloud.zhihu.com,reject
 HOST,appcloud2.in.zhihu.com,reject
 HOST,apple.comscoreresearch.com,reject
-HOST,awaken.amap.com,reject
 HOST,baichuan-sdk.alicdn.com,reject
 HOST,banners.itunes.apple.com,reject
 HOST,brahe.apptimize.com,reject
