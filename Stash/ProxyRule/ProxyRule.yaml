@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-03 02:12:46
+# 更新时间： 2024-03-03 08:46:20
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -902,7 +902,6 @@ payload:
   - DOMAIN-SUFFIX,channelnewsasia.com
   - DOMAIN-SUFFIX,chaoex.com
   - DOMAIN-SUFFIX,chapm25.com
-  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatnook.com
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,checkgfw.com

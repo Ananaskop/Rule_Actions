@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-03 02:12:37
+# 更新时间： 2024-03-03 08:46:11
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -986,7 +986,6 @@ HOST-SUFFIX,changsa.net,proxy
 HOST-SUFFIX,channelnewsasia.com,proxy
 HOST-SUFFIX,chaoex.com,proxy
 HOST-SUFFIX,chapm25.com,proxy
-HOST-SUFFIX,chatgpt.com,proxy
 HOST-SUFFIX,chatnook.com,proxy
 HOST-SUFFIX,chaturbate.com,proxy
 HOST-SUFFIX,checkgfw.com,proxy

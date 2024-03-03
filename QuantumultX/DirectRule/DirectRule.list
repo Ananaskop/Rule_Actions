@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-03 02:12:37
+# 更新时间： 2024-03-03 08:46:11
 HOST,1-fss24-s0.streamhoster.com,direct
 HOST,14033.live.streamtheworld.com,direct
 HOST,156zy.suyunbo.tv,direct
@@ -7885,7 +7885,6 @@ HOST-SUFFIX,93913.com,direct
 HOST-SUFFIX,9396.net,direct
 HOST-SUFFIX,93966.com,direct
 HOST-SUFFIX,93bok.com,direct
-HOST-SUFFIX,93cg.com,direct
 HOST-SUFFIX,93eu.com,direct
 HOST-SUFFIX,93gaokao.com,direct
 HOST-SUFFIX,93hdw9.com,direct
@@ -8846,6 +8845,7 @@ HOST-SUFFIX,aduspot.com,direct
 HOST-SUFFIX,adutou.com,direct
 HOST-SUFFIX,advertcn.com,direct
 HOST-SUFFIX,advgbid.com,direct
+HOST-SUFFIX,advlion.com,direct
 HOST-SUFFIX,advuser.com,direct
 HOST-SUFFIX,adwangmai.com,direct
 HOST-SUFFIX,adwanji.com,direct
@@ -9378,6 +9378,7 @@ HOST-SUFFIX,airportcip.com,direct
 HOST-SUFFIX,airsavvi.com,direct
 HOST-SUFFIX,airspa.net,direct
 HOST-SUFFIX,airstar.com,direct
+HOST-SUFFIX,airstarfinance.net,direct
 HOST-SUFFIX,airsupportapp.com,direct
 HOST-SUFFIX,airtofly.com,direct
 HOST-SUFFIX,airtu.com,direct
@@ -11552,6 +11553,7 @@ HOST-SUFFIX,awsdns-cn-41.biz,direct
 HOST-SUFFIX,awsdns-cn-44.com,direct
 HOST-SUFFIX,awsdns-cn-44.net,direct
 HOST-SUFFIX,awsdns-cn-45.biz,direct
+HOST-SUFFIX,awsdns-cn-45.net,direct
 HOST-SUFFIX,awsdns-cn-46.com,direct
 HOST-SUFFIX,awsdns-cn-47.biz,direct
 HOST-SUFFIX,awsdns-cn-47.com,direct
@@ -16625,6 +16627,7 @@ HOST-SUFFIX,cfpsf.com,direct
 HOST-SUFFIX,cfscar.com,direct
 HOST-SUFFIX,cfsino.com,direct
 HOST-SUFFIX,cfsuper.com,direct
+HOST-SUFFIX,cftcredit.com,direct
 HOST-SUFFIX,cftea.com,direct
 HOST-SUFFIX,cftest7.com,direct
 HOST-SUFFIX,cftest8.com,direct
@@ -17994,6 +17997,7 @@ HOST-SUFFIX,chinawudang.com,direct
 HOST-SUFFIX,chinawutong.com,direct
 HOST-SUFFIX,chinawutong.net,direct
 HOST-SUFFIX,chinawuyuan.com,direct
+HOST-SUFFIX,chinaxdns.com,direct
 HOST-SUFFIX,chinaxiaokang.com,direct
 HOST-SUFFIX,chinaxinge.com,direct
 HOST-SUFFIX,chinaxinport.com,direct
@@ -19911,6 +19915,7 @@ HOST-SUFFIX,comebond.com,direct
 HOST-SUFFIX,comefilm.com,direct
 HOST-SUFFIX,comeken.com,direct
 HOST-SUFFIX,comercn.com,direct
+HOST-SUFFIX,comestuff.com,direct
 HOST-SUFFIX,comet.cc,direct
 HOST-SUFFIX,comeyes.com,direct
 HOST-SUFFIX,comiai.com,direct
@@ -21460,12 +21465,14 @@ HOST-SUFFIX,dancerspointewinchester.com,direct
 HOST-SUFFIX,dancf.com,direct
 HOST-SUFFIX,dancihu.com,direct
 HOST-SUFFIX,dancingcg.com,direct
+HOST-SUFFIX,dandan818.com,direct
 HOST-SUFFIX,dandang.org,direct
 HOST-SUFFIX,dandanjiang.tv,direct
 HOST-SUFFIX,dandanman.com,direct
 HOST-SUFFIX,dandanplay.com,direct
 HOST-SUFFIX,dandanplayer.com,direct
 HOST-SUFFIX,dandantang.com,direct
+HOST-SUFFIX,dandanvoice.com,direct
 HOST-SUFFIX,dandanz.com,direct
 HOST-SUFFIX,dandanzan.com,direct
 HOST-SUFFIX,dandinghuayi.com,direct
@@ -26751,6 +26758,7 @@ HOST-SUFFIX,ficochina.net,direct
 HOST-SUFFIX,fiehff.com,direct
 HOST-SUFFIX,fieldcommunicator.net,direct
 HOST-SUFFIX,fieldschina.com,direct
+HOST-SUFFIX,fifcm.app,direct
 HOST-SUFFIX,fifedu.com,direct
 HOST-SUFFIX,fifo.cc,direct
 HOST-SUFFIX,fifsky.com,direct
@@ -27364,6 +27372,7 @@ HOST-SUFFIX,freqchina.com,direct
 HOST-SUFFIX,fresh-ideas.cc,direct
 HOST-SUFFIX,freshhema.com,direct
 HOST-SUFFIX,freshippo.com,direct
+HOST-SUFFIX,freshippomarket.com,direct
 HOST-SUFFIX,freshnewsnet.com,direct
 HOST-SUFFIX,frhelper.com,direct
 HOST-SUFFIX,friendeye.com,direct
@@ -29247,6 +29256,7 @@ HOST-SUFFIX,glass-ciac.com,direct
 HOST-SUFFIX,glasseasy.com,direct
 HOST-SUFFIX,glawyer.net,direct
 HOST-SUFFIX,glb3.com,direct
+HOST-SUFFIX,glb4.com,direct
 HOST-SUFFIX,glb6.com,direct
 HOST-SUFFIX,glbdns.com,direct
 HOST-SUFFIX,glcanyin.net,direct
@@ -30712,7 +30722,6 @@ HOST-SUFFIX,gzrobots.com,direct
 HOST-SUFFIX,gzrtnet.com,direct
 HOST-SUFFIX,gzsd56.com,direct
 HOST-SUFFIX,gzshaudio.com,direct
-HOST-SUFFIX,gzshciw.com,direct
 HOST-SUFFIX,gzshuangbao.com,direct
 HOST-SUFFIX,gzshuangyue.com,direct
 HOST-SUFFIX,gzshuimh.com,direct
@@ -31583,6 +31592,7 @@ HOST-SUFFIX,hassbian.com,direct
 HOST-SUFFIX,hassfull.com,direct
 HOST-SUFFIX,hasstatic.com,direct
 HOST-SUFFIX,hatfav.com,direct
+HOST-SUFFIX,hatjedu.com,direct
 HOST-SUFFIX,hatlonely.com,direct
 HOST-SUFFIX,hatoem.com,direct
 HOST-SUFFIX,haval-global.com,direct
@@ -31865,6 +31875,7 @@ HOST-SUFFIX,hcdamai.com,direct
 HOST-SUFFIX,hcdata.xyz,direct
 HOST-SUFFIX,hcdyhr.com,direct
 HOST-SUFFIX,hceok.com,direct
+HOST-SUFFIX,hcepay.com,direct
 HOST-SUFFIX,hcfcc.com,direct
 HOST-SUFFIX,hcgroup.com,direct
 HOST-SUFFIX,hch518.com,direct
@@ -32230,6 +32241,7 @@ HOST-SUFFIX,helqc.com,direct
 HOST-SUFFIX,helunyun.com,direct
 HOST-SUFFIX,heluowenhua.net,direct
 HOST-SUFFIX,hemahuashi.com,direct
+HOST-SUFFIX,hemajs.com,direct
 HOST-SUFFIX,hemamax.com,direct
 HOST-SUFFIX,hemanc.com,direct
 HOST-SUFFIX,hemanzi.com,direct
@@ -32648,10 +32660,12 @@ HOST-SUFFIX,hiiibrand.com,direct
 HOST-SUFFIX,hiiyun.com,direct
 HOST-SUFFIX,hijiaoshi.com,direct
 HOST-SUFFIX,hijoys.com,direct
+HOST-SUFFIX,hik-cloud.com,direct
 HOST-SUFFIX,hikailink.com,direct
 HOST-SUFFIX,hikcreate.com,direct
 HOST-SUFFIX,hikerfans.com,direct
 HOST-SUFFIX,hiklife.com,direct
+HOST-SUFFIX,hikmall.com,direct
 HOST-SUFFIX,hikoon.com,direct
 HOST-SUFFIX,hikops.com,direct
 HOST-SUFFIX,hikparking.com,direct
@@ -38162,6 +38176,7 @@ HOST-SUFFIX,jewelryshanghai.com,direct
 HOST-SUFFIX,jexus.org,direct
 HOST-SUFFIX,jeyi.com,direct
 HOST-SUFFIX,jeywatch.com,direct
+HOST-SUFFIX,jeza-chen.com,direct
 HOST-SUFFIX,jf-biaotw.com,direct
 HOST-SUFFIX,jf1898.com,direct
 HOST-SUFFIX,jf258.com,direct
@@ -39653,6 +39668,7 @@ HOST-SUFFIX,joysung.com,direct
 HOST-SUFFIX,joytest.org,direct
 HOST-SUFFIX,joytrav.com,direct
 HOST-SUFFIX,joytraveller.com,direct
+HOST-SUFFIX,joytunescn.com,direct
 HOST-SUFFIX,joytype.com,direct
 HOST-SUFFIX,joyu.com,direct
 HOST-SUFFIX,joyuai.com,direct
@@ -40066,6 +40082,7 @@ HOST-SUFFIX,jufaanli.com,direct
 HOST-SUFFIX,jufair.com,direct
 HOST-SUFFIX,jufengcompany.com,direct
 HOST-SUFFIX,jufengshang.com,direct
+HOST-SUFFIX,jufengwuxi.com,direct
 HOST-SUFFIX,jufidc.com,direct
 HOST-SUFFIX,jufoinfo.com,direct
 HOST-SUFFIX,jugezi.com,direct
@@ -40470,6 +40487,7 @@ HOST-SUFFIX,jyepc.com,direct
 HOST-SUFFIX,jyfcyy.com,direct
 HOST-SUFFIX,jyfscl.com,direct
 HOST-SUFFIX,jyfund.com,direct
+HOST-SUFFIX,jyfwyun.com,direct
 HOST-SUFFIX,jyg-lighting.com,direct
 HOST-SUFFIX,jygame.net,direct
 HOST-SUFFIX,jygo.cc,direct
@@ -42244,6 +42262,7 @@ HOST-SUFFIX,kxjsys.com,direct
 HOST-SUFFIX,kxkzrcke.com,direct
 HOST-SUFFIX,kxll.com,direct
 HOST-SUFFIX,kxmas.com,direct
+HOST-SUFFIX,kxq520.com,direct
 HOST-SUFFIX,kxqo2ev.com,direct
 HOST-SUFFIX,kxscience.com,direct
 HOST-SUFFIX,kxstykrgx8z3.com,direct
@@ -43124,6 +43143,8 @@ HOST-SUFFIX,lenosoft.net,direct
 HOST-SUFFIX,lenovator.com,direct
 HOST-SUFFIX,lenovo-ibm.com,direct
 HOST-SUFFIX,lenovo.com,direct
+HOST-SUFFIX,lenovo.com.cdn.cloudflare.net,direct
+HOST-SUFFIX,lenovo.net,direct
 HOST-SUFFIX,lenovocloudos.com,direct
 HOST-SUFFIX,lenovoeservice.com,direct
 HOST-SUFFIX,lenovogame.com,direct
@@ -43359,6 +43380,7 @@ HOST-SUFFIX,lianaibiji.com,direct
 HOST-SUFFIX,lianaiwz.com,direct
 HOST-SUFFIX,lianchuang.com,direct
 HOST-SUFFIX,liancsoft.com,direct
+HOST-SUFFIX,lianda.fun,direct
 HOST-SUFFIX,liandaomobi.com,direct
 HOST-SUFFIX,liandaquan.com,direct
 HOST-SUFFIX,lianezs.com,direct
@@ -43702,6 +43724,7 @@ HOST-SUFFIX,lingjoin.com,direct
 HOST-SUFFIX,lingkaba.com,direct
 HOST-SUFFIX,lingki.net,direct
 HOST-SUFFIX,lingkou.com,direct
+HOST-SUFFIX,lingkou.xyz,direct
 HOST-SUFFIX,lingla.com,direct
 HOST-SUFFIX,linglingkaimen.com,direct
 HOST-SUFFIX,linglong.dev,direct
@@ -44848,6 +44871,7 @@ HOST-SUFFIX,lueyue.com,direct
 HOST-SUFFIX,luezhi.com,direct
 HOST-SUFFIX,lufangjia.com,direct
 HOST-SUFFIX,lufaxcdn.com,direct
+HOST-SUFFIX,lufengzhe.com,direct
 HOST-SUFFIX,luffycity.com,direct
 HOST-SUFFIX,lufunds.com,direct
 HOST-SUFFIX,lugangsoft.com,direct
@@ -45786,7 +45810,6 @@ HOST-SUFFIX,manyibaojie.vip,direct
 HOST-SUFFIX,manylaw.com,direct
 HOST-SUFFIX,manyoo.net,direct
 HOST-SUFFIX,manyoujing.net,direct
-HOST-SUFFIX,manyuanjinfu.com,direct
 HOST-SUFFIX,manyupay.com,direct
 HOST-SUFFIX,manzhan.com,direct
 HOST-SUFFIX,manzuo.com,direct
@@ -49903,6 +49926,7 @@ HOST-SUFFIX,nszmz.com,direct
 HOST-SUFFIX,nszxsyxx.com,direct
 HOST-SUFFIX,nt.app,direct
 HOST-SUFFIX,nt.cc,direct
+HOST-SUFFIX,nt1001.com,direct
 HOST-SUFFIX,nt7fck19y3.com,direct
 HOST-SUFFIX,ntaow.com,direct
 HOST-SUFFIX,ntce.com,direct
@@ -53693,7 +53717,6 @@ HOST-SUFFIX,qiti88.com,direct
 HOST-SUFFIX,qitian-tech.com,direct
 HOST-SUFFIX,qitiancom.com,direct
 HOST-SUFFIX,qitongxq.com,direct
-HOST-SUFFIX,qitoon.com,direct
 HOST-SUFFIX,qitxt.com,direct
 HOST-SUFFIX,qiu-ai.com,direct
 HOST-SUFFIX,qiubiaoqing.com,direct
@@ -54197,6 +54220,7 @@ HOST-SUFFIX,qu2345.com,direct
 HOST-SUFFIX,qu247.com,direct
 HOST-SUFFIX,qua.com,direct
 HOST-SUFFIX,qualcomm-challenge.com,direct
+HOST-SUFFIX,qualcomm.cn.cdn.cloudflare.net,direct
 HOST-SUFFIX,quan.mx,direct
 HOST-SUFFIX,quan007.com,direct
 HOST-SUFFIX,quan365.com,direct
@@ -55410,6 +55434,7 @@ HOST-SUFFIX,romzhijia.net,direct
 HOST-SUFFIX,romzj.com,direct
 HOST-SUFFIX,roncoo.com,direct
 HOST-SUFFIX,rondygroup.com,direct
+HOST-SUFFIX,rong-data.com,direct
 HOST-SUFFIX,rong-edge.com,direct
 HOST-SUFFIX,rong-rtc.com,direct
 HOST-SUFFIX,rong100.com,direct
@@ -57174,6 +57199,7 @@ HOST-SUFFIX,shang08.com,direct
 HOST-SUFFIX,shang0898.com,direct
 HOST-SUFFIX,shang168.com,direct
 HOST-SUFFIX,shang360.com,direct
+HOST-SUFFIX,shanganzixun.com,direct
 HOST-SUFFIX,shangbaolai.com,direct
 HOST-SUFFIX,shangbiao.com,direct
 HOST-SUFFIX,shangbiao.store,direct
@@ -59526,6 +59552,7 @@ HOST-SUFFIX,soozhu.com,direct
 HOST-SUFFIX,soozhuozhou.com,direct
 HOST-SUFFIX,sopaidea.com,direct
 HOST-SUFFIX,sophgo.com,direct
+HOST-SUFFIX,sophgo.vip,direct
 HOST-SUFFIX,sopowcore.net,direct
 HOST-SUFFIX,soq.com,direct
 HOST-SUFFIX,soqicrm.com,direct
@@ -68217,7 +68244,6 @@ HOST-SUFFIX,wogame.net,direct
 HOST-SUFFIX,wogoo.com,direct
 HOST-SUFFIX,wohenizaiyiqi.com,direct
 HOST-SUFFIX,wohst8.com,direct
-HOST-SUFFIX,wohuamanhua.com,direct
 HOST-SUFFIX,woi3d.com,direct
 HOST-SUFFIX,woiwrj.com,direct
 HOST-SUFFIX,woiyu.com,direct
@@ -72439,6 +72465,7 @@ HOST-SUFFIX,yatiku.com,direct
 HOST-SUFFIX,yatiwang.com,direct
 HOST-SUFFIX,yatsenglobal.com,direct
 HOST-SUFFIX,yatsoft.com,direct
+HOST-SUFFIX,yatspa.com,direct
 HOST-SUFFIX,yauuy.com,direct
 HOST-SUFFIX,yawancaiwu.com,direct
 HOST-SUFFIX,yawbbs.com,direct
@@ -75607,6 +75634,7 @@ HOST-SUFFIX,zabiur.com,direct
 HOST-SUFFIX,zablog.me,direct
 HOST-SUFFIX,zabunn.com,direct
 HOST-SUFFIX,zabveq.com,direct
+HOST-SUFFIX,zabxib.com,direct
 HOST-SUFFIX,zac1993.com,direct
 HOST-SUFFIX,zacaog.com,direct
 HOST-SUFFIX,zaceip.com,direct
@@ -85702,8 +85730,6 @@ IP-CIDR,27.99.128.0/17,direct,no-resolve
 IP-CIDR,3.2.35.128/26,direct,no-resolve
 IP-CIDR,3.5.214.0/23,direct,no-resolve
 IP-CIDR,31.42.183.48/32,direct,no-resolve
-IP-CIDR,31.56.114.0/23,direct,no-resolve
-IP-CIDR,31.56.116.0/24,direct,no-resolve
 IP-CIDR,35.71.107.0/24,direct,no-resolve
 IP-CIDR,36.0.0.0/22,direct,no-resolve
 IP-CIDR,36.0.128.0/17,direct,no-resolve
@@ -85754,6 +85780,7 @@ IP-CIDR,38.101.160.40/32,direct,no-resolve
 IP-CIDR,38.101.162.120/32,direct,no-resolve
 IP-CIDR,38.103.64.26/32,direct,no-resolve
 IP-CIDR,38.111.220.0/23,direct,no-resolve
+IP-CIDR,38.150.22.0/23,direct,no-resolve
 IP-CIDR,38.181.0.0/19,direct,no-resolve
 IP-CIDR,38.181.128.0/17,direct,no-resolve
 IP-CIDR,38.181.32.0/23,direct,no-resolve
@@ -85769,7 +85796,7 @@ IP-CIDR,38.181.35.224/27,direct,no-resolve
 IP-CIDR,38.181.36.0/22,direct,no-resolve
 IP-CIDR,38.181.40.0/21,direct,no-resolve
 IP-CIDR,38.181.48.0/20,direct,no-resolve
-IP-CIDR,38.182.96.0/19,direct,no-resolve
+IP-CIDR,38.182.123.0/24,direct,no-resolve
 IP-CIDR,38.249.0.0/16,direct,no-resolve
 IP-CIDR,38.47.192.0/20,direct,no-resolve
 IP-CIDR,38.47.208.0/21,direct,no-resolve
@@ -89247,6 +89274,8 @@ IP6-CIDR,2602:f9df:510::/47,direct,no-resolve
 IP6-CIDR,2602:f9df:515::/48,direct,no-resolve
 IP6-CIDR,2602:f9df:516::/48,direct,no-resolve
 IP6-CIDR,2602:f9f6:400::/44,direct,no-resolve
+IP6-CIDR,2602:faa8:451:131::/64,direct,no-resolve
+IP6-CIDR,2602:faa8:451:241::/64,direct,no-resolve
 IP6-CIDR,2602:fab0:11::/48,direct,no-resolve
 IP6-CIDR,2602:fbda:600::/48,direct,no-resolve
 IP6-CIDR,2602:fbda:660::/48,direct,no-resolve
@@ -89454,7 +89483,7 @@ IP6-CIDR,2a05:4140:319::/48,direct,no-resolve
 IP6-CIDR,2a05:dfc1:1600::/47,direct,no-resolve
 IP6-CIDR,2a05:dfc1:1602::/48,direct,no-resolve
 IP6-CIDR,2a05:dfc1:1606::/48,direct,no-resolve
-IP6-CIDR,2a05:dfc1:1609::/48,direct,no-resolve
+IP6-CIDR,2a05:dfc1:1608::/47,direct,no-resolve
 IP6-CIDR,2a05:dfc1:16ff::/48,direct,no-resolve
 IP6-CIDR,2a05:dfc1:5900::/41,direct,no-resolve
 IP6-CIDR,2a05:dfc1:5a00::/40,direct,no-resolve
@@ -89495,7 +89524,8 @@ IP6-CIDR,2a06:a005:1340::/43,direct,no-resolve
 IP6-CIDR,2a06:a005:13b0::/44,direct,no-resolve
 IP6-CIDR,2a06:a005:13c0::/43,direct,no-resolve
 IP6-CIDR,2a06:a005:13e0::/47,direct,no-resolve
-IP6-CIDR,2a06:a005:13eb::/48,direct,no-resolve
+IP6-CIDR,2a06:a005:13ea::/47,direct,no-resolve
+IP6-CIDR,2a06:a005:13ed::/48,direct,no-resolve
 IP6-CIDR,2a06:a005:1520::/44,direct,no-resolve
 IP6-CIDR,2a06:a005:1700::/44,direct,no-resolve
 IP6-CIDR,2a06:a005:1800::/48,direct,no-resolve
@@ -89530,72 +89560,75 @@ IP6-CIDR,2a06:a005:d22::/48,direct,no-resolve
 IP6-CIDR,2a06:a005:f80::/44,direct,no-resolve
 IP6-CIDR,2a06:de00:de04::/48,direct,no-resolve
 IP6-CIDR,2a06:de00:de0e::/47,direct,no-resolve
-IP6-CIDR,2a06:de01:80b::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:804::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:808::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:815::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:819::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:81a::/47,direct,no-resolve
+IP6-CIDR,2a06:de01:81b::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:81d::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:81f::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:832::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:83a::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:841::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:840::/47,direct,no-resolve
 IP6-CIDR,2a06:de01:844::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:84e::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:851::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:854::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:85b::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:863::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:867::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:86a::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:882::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:894::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:89d::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8a0::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8a7::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:8ab::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8ad::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:8b0::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8b3::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:8bb::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8bc::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8c6::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8d4::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:8d7::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:8dd::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:8de::/47,direct,no-resolve
-IP6-CIDR,2a06:de01:8f1::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:8f8::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:904::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:90b::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:912::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:910::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:91b::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:91c::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:920::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:925::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:929::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:92e::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:93f::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:942::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:950::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:944::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:956::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:95c::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:95f::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:964::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:96a::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:972::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:985::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:98b::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:98c::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:990::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:9a0::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:9a6::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:9a8::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:9b1::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:9b8::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:9bb::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:9bd::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:9bf::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:ace::/47,direct,no-resolve
 IP6-CIDR,2a06:de01:ad0::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:ad3::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:ad7::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:ae0::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:aea::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:ada::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:aed::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:aee::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:af1::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:afc::/48,direct,no-resolve
+IP6-CIDR,2a06:de01:b05::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:b0c::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:b13::/48,direct,no-resolve
-IP6-CIDR,2a06:de01:b19::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:b23::/48,direct,no-resolve
 IP6-CIDR,2a06:de01:b3b::/48,direct,no-resolve
 IP6-CIDR,2a06:e881:2509::/48,direct,no-resolve
@@ -90915,6 +90948,7 @@ IP6-CIDR,2a0e:b107:1a32:1000::/52,direct,no-resolve
 IP6-CIDR,2a0e:b107:1a34::/48,direct,no-resolve
 IP6-CIDR,2a0e:b107:1a40::/46,direct,no-resolve
 IP6-CIDR,2a0e:b107:1b60::/48,direct,no-resolve
+IP6-CIDR,2a0e:b107:1b6f::/48,direct,no-resolve
 IP6-CIDR,2a0e:b107:1c0::/48,direct,no-resolve
 IP6-CIDR,2a0e:b107:1d25::/48,direct,no-resolve
 IP6-CIDR,2a0e:b107:1e85::/48,direct,no-resolve
@@ -91029,8 +91063,7 @@ IP6-CIDR,2a13:a5c7:1200::/40,direct,no-resolve
 IP6-CIDR,2a13:a5c7:1500::/40,direct,no-resolve
 IP6-CIDR,2a13:a5c7:1600::/45,direct,no-resolve
 IP6-CIDR,2a13:a5c7:1608::/47,direct,no-resolve
-IP6-CIDR,2a13:a5c7:1610::/47,direct,no-resolve
-IP6-CIDR,2a13:a5c7:1612::/48,direct,no-resolve
+IP6-CIDR,2a13:a5c7:1610::/46,direct,no-resolve
 IP6-CIDR,2a13:a5c7:1801::/48,direct,no-resolve
 IP6-CIDR,2a13:a5c7:1803::/48,direct,no-resolve
 IP6-CIDR,2a13:aac4:f000::/44,direct,no-resolve
