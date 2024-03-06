@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-06 20:18:16
+# 更新时间： 2024-03-06 23:43:19
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -90,19 +90,41 @@ HOST-KEYWORD,wb_ad,direct
 HOST-KEYWORD,weather-adge.apple.com,direct
 HOST-KEYWORD,weather-edge.apple.com,direct
 HOST-SUFFIX,1password.com,direct
+HOST-SUFFIX,aaplimg.com,direct
+HOST-SUFFIX,apple-cloudkit.com,direct
+HOST-SUFFIX,apple-livephotoskit.com,direct
+HOST-SUFFIX,apple-mapkit.com,direct
+HOST-SUFFIX,apple-support.akadns.net,direct
+HOST-SUFFIX,apple.co,direct
+HOST-SUFFIX,apple.com,direct
+HOST-SUFFIX,apple.com.akadns.net,direct
+HOST-SUFFIX,apple.com.cn,direct
+HOST-SUFFIX,apple.com.edgekey.net,direct
+HOST-SUFFIX,applemusic.com,direct
+HOST-SUFFIX,appstore.com,direct
+HOST-SUFFIX,apzones.com,direct
 HOST-SUFFIX,baomitu.com,direct
 HOST-SUFFIX,bootcss.com,direct
 HOST-SUFFIX,byteimg.com,direct
+HOST-SUFFIX,cdn-apple.com,direct
 HOST-SUFFIX,dizhensubao.getui.com,direct
 HOST-SUFFIX,f.video.weibocdn.com,direct
 HOST-SUFFIX,fus.cdn.krcom.cn,direct
 HOST-SUFFIX,gitmirror.com,direct
 HOST-SUFFIX,gittu.me,direct
+HOST-SUFFIX,icloud-content.com,direct
+HOST-SUFFIX,icloud.com,direct
+HOST-SUFFIX,icloud.com.akadns.net,direct
+HOST-SUFFIX,icloud.com.cn,direct
+HOST-SUFFIX,itunes.com,direct
 HOST-SUFFIX,jiasule.com,direct
 HOST-SUFFIX,koodomobile.ca,direct
 HOST-SUFFIX,koodomobile.com,direct
 HOST-SUFFIX,likesto.me,direct
+HOST-SUFFIX,me.com,direct
+HOST-SUFFIX,mzstatic.com,direct
 HOST-SUFFIX,ol.epicgames.com,direct
+HOST-SUFFIX,smoot.apple.cn,direct
 HOST-SUFFIX,staticfile.org,direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,direct
 HOST-SUFFIX,upaiyun.com,direct

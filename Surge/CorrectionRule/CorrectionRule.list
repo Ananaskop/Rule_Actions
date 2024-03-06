@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-06 20:18:32
+# 更新时间： 2024-03-06 23:43:34
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -90,19 +90,41 @@ DOMAIN-KEYWORD,wb_ad
 DOMAIN-KEYWORD,weather-adge.apple.com
 DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple-support.akadns.net
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com.edgekey.net
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,dizhensubao.getui.com
 DOMAIN-SUFFIX,f.video.weibocdn.com
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
 DOMAIN-SUFFIX,gitmirror.com
 DOMAIN-SUFFIX,gittu.me
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.akadns.net
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,koodomobile.ca
 DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,likesto.me
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,ol.epicgames.com
+DOMAIN-SUFFIX,smoot.apple.cn
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 DOMAIN-SUFFIX,upaiyun.com
