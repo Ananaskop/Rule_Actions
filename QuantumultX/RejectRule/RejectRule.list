@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-07 06:49:03
+# 更新时间： 2024-03-07 06:56:39
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -40,9 +40,6 @@ HOST,credits2.bz.mgtv.com,reject
 HOST,credits3.bz.mgtv.com,reject
 HOST,dflow.bz.mgtv.com,reject
 HOST,dns.jd.com,reject
-HOST,dns.weibo.cn,reject
-HOST,dns.weixin.qq.com,reject
-HOST,dns.weixin.qq.com.cn,reject
 HOST,ems.youku.com,reject
 HOST,encounter.bz.mgtv.com,reject
 HOST,floor.bz.mgtv.com,reject
@@ -50,19 +47,6 @@ HOST,free-aos-cdn-image.amap.com,reject
 HOST,g.koowo.com,reject
 HOST,geo2.adobe.com,reject
 HOST,hdns.ksyun.com,reject
-HOST,httpdns-api.aliyuncs.com,reject
-HOST,httpdns-sc.aliyuncs.com,reject
-HOST,httpdns.alicdn.com,reject
-HOST,httpdns.baidu.com,reject
-HOST,httpdns.baidubce.com,reject
-HOST,httpdns.bilivideo.com,reject
-HOST,httpdns.c.cdnhwc2.com,reject
-HOST,httpdns.meituan.com,reject
-HOST,httpdns.music.163.com,reject
-HOST,httpdns.n.netease.com,reject
-HOST,httpdns.push.oppomobile.com,reject
-HOST,httpdns.volcengineapi.com,reject
-HOST,httpsdns.baidu.com,reject
 HOST,hudong.alicdn.com,reject
 HOST,huichuan-mc.sm.cn,reject
 HOST,huichuan.sm.cn,reject
@@ -87,11 +71,9 @@ HOST,ipv4.music.163.com,reject
 HOST,ipv6.music.163.com,reject
 HOST,is.snssdk.com,reject
 HOST,iyes.youku.com,reject
-HOST,kuaishou.httpdns.pro,reject
 HOST,launch.apple.com,reject
 HOST,layer.bz.mgtv.com,reject
 HOST,lc.map.baidu.com,reject
-HOST,lofter.httpdns.c.163.com,reject
 HOST,lookup.api.bsb.baidu.com,reject
 HOST,m-vali.cp31.ott.cibntv.net,reject
 HOST,m.adyounger.com,reject
@@ -105,7 +87,6 @@ HOST,mob.bz.mgtv.com,reject
 HOST,mobads.baidu.com,reject
 HOST,mobilead.kuwo.cn,reject
 HOST,mqtt.zhihu.com,reject
-HOST,music.httpdns.c.163.com,reject
 HOST,nbsdk-baichuan.alicdn.com,reject
 HOST,open.e.kuaishou.com,reject
 HOST,open.kuaishou.com,reject
@@ -360,7 +341,6 @@ HOST-SUFFIX,zryydi.com,reject
 HOST-SUFFIX,zunmi.cn,reject
 HOST-SUFFIX,zzd6.com,reject
 IP-CIDR,101.124.19.122/32,reject,no-resolve
-IP-CIDR,103.224.222.208/32,reject,no-resolve
 IP-CIDR,103.37.155.60/32,reject,no-resolve
 IP-CIDR,103.41.167.237/32,reject,no-resolve
 IP-CIDR,103.49.209.27/32,reject,no-resolve
@@ -370,14 +350,11 @@ IP-CIDR,111.175.220.164/32,reject,no-resolve
 IP-CIDR,114.119.160.0/21,reject,no-resolve
 IP-CIDR,114.247.28.96/32,reject,no-resolve
 IP-CIDR,115.182.16.79/32,reject,no-resolve
-IP-CIDR,115.236.121.195/32,reject,no-resolve
-IP-CIDR,115.236.121.51/32,reject,no-resolve
 IP-CIDR,116.62.220.39/32,reject,no-resolve
 IP-CIDR,118.144.88.126/32,reject,no-resolve
 IP-CIDR,118.144.88.215/32,reject,no-resolve
 IP-CIDR,118.144.88.216/32,reject,no-resolve
 IP-CIDR,118.89.204.198/32,reject,no-resolve
-IP-CIDR,119.29.29.98/31,reject,no-resolve
 IP-CIDR,119.4.249.166/32,reject,no-resolve
 IP-CIDR,120.240.95.37/32,reject,no-resolve
 IP-CIDR,120.27.235.201/32,reject,no-resolve
@@ -385,7 +362,6 @@ IP-CIDR,120.76.189.132/32,reject,no-resolve
 IP-CIDR,121.196.197.147/32,reject,no-resolve
 IP-CIDR,122.229.29.89/32,reject,no-resolve
 IP-CIDR,122.229.8.47/32,reject,no-resolve
-IP-CIDR,123.151.54.50/32,reject,no-resolve
 IP-CIDR,123.56.152.96/32,reject,no-resolve
 IP-CIDR,124.14.21.147/32,reject,no-resolve
 IP-CIDR,124.14.21.151/32,reject,no-resolve
@@ -394,11 +370,7 @@ IP-CIDR,175.6.223.15/32,reject,no-resolve
 IP-CIDR,180.166.52.24/32,reject,no-resolve
 IP-CIDR,180.76.76.112/32,reject,no-resolve
 IP-CIDR,180.76.76.200/32,reject,no-resolve
-IP-CIDR,182.254.116.117/32,reject,no-resolve
-IP-CIDR,182.254.118.119/32,reject,no-resolve
 IP-CIDR,183.59.53.237/32,reject,no-resolve
-IP-CIDR,186.76.76.200/32,reject,no-resolve
-IP-CIDR,203.107.1.0/24,reject,no-resolve
 IP-CIDR,203.107.1.1/24,reject,no-resolve
 IP-CIDR,211.161.101.106/32,reject,no-resolve
 IP-CIDR,211.161.101.110/32,reject,no-resolve
@@ -415,25 +387,15 @@ IP-CIDR,222.186.61.95/32,reject,no-resolve
 IP-CIDR,222.186.61.96/31,reject,no-resolve
 IP-CIDR,222.73.156.235/32,reject,no-resolve
 IP-CIDR,39.107.15.115/32,reject,no-resolve
-IP-CIDR,39.97.128.148/32,reject,no-resolve
-IP-CIDR,39.97.130.51/32,reject,no-resolve
-IP-CIDR,42.187.182.106/32,reject,no-resolve
-IP-CIDR,42.187.182.123/32,reject,no-resolve
-IP-CIDR,42.187.184.154/32,reject,no-resolve
-IP-CIDR,42.81.232.18/32,reject,no-resolve
 IP-CIDR,47.110.187.87/32,reject,no-resolve
 IP-CIDR,47.56.131.76/32,reject,no-resolve
 IP-CIDR,47.89.59.182/32,reject,no-resolve
 IP-CIDR,47.96.15.52/32,reject,no-resolve
 IP-CIDR,47.97.215.55/32,reject,no-resolve
 IP-CIDR,47.99.42.29/32,reject,no-resolve
-IP-CIDR,59.111.239.61/32,reject,no-resolve
-IP-CIDR,59.111.239.62/32,reject,no-resolve
 IP-CIDR,61.160.200.223/32,reject,no-resolve
 IP-CIDR,61.160.200.242/32,reject,no-resolve
 IP-CIDR,61.160.200.252/32,reject,no-resolve
 IP-CIDR,61.174.50.214/32,reject,no-resolve
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,reject,no-resolve
-IP6-CIDR,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,reject,no-resolve
 IP6-CIDR,2402:db40:5100:1011::5/128,reject,no-resolve
-IP6-CIDR,240e:928:1400:10::25/128,reject,no-resolve
