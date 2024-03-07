@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
-    (r',(?:DIRECT$|direct$|REJECT$|reject$|PROXY$|proxy$)', ''),
+    (r',(?:DIRECT$|direct$|REJECT$|reject$|PROXY$|proxy$|STREAMING$)', ''),
     (r'-suffix', '-SUFFIX'),
     (r'-keyword', '-KEYWORD'),
     (r'ip-cidr', 'IP-CIDR'),
@@ -45,6 +45,7 @@ RULES = {
     },
     "StreamingRule": {
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list",
+        "MyStreamingRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/StreamingRule.list",
     }
 }
 
