@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-07 08:35:34
+# 更新时间： 2024-03-07 11:07:35
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
@@ -139,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,bigbigchannel.com.hk
   - DOMAIN-SUFFIX,bigbigshop.com
   - DOMAIN-SUFFIX,biggggg.com
+  - DOMAIN-SUFFIX,bili.bili.rip
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,biliintl.com
   - DOMAIN-SUFFIX,bitmovin.com
@@ -690,6 +691,7 @@ payload:
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,ju.dog
   - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,kakao.co.kr
@@ -743,6 +745,7 @@ payload:
   - DOMAIN-SUFFIX,msnbc.com
   - DOMAIN-SUFFIX,mtvnservices.com
   - DOMAIN-SUFFIX,mudvod.tv
+  - DOMAIN-SUFFIX,mulgore.net
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,mushymush.tv
   - DOMAIN-SUFFIX,musical.ly
@@ -796,6 +799,7 @@ payload:
   - DOMAIN-SUFFIX,nbys.tv
   - DOMAIN-SUFFIX,nbys1.tv
   - DOMAIN-SUFFIX,nbyy.tv
+  - DOMAIN-SUFFIX,nebula-emby.com
   - DOMAIN-SUFFIX,nebula.app
   - DOMAIN-SUFFIX,netflix.ca
   - DOMAIN-SUFFIX,netflix.com

@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-07 08:35:41
+# 更新时间： 2024-03-07 11:07:42
 DOMAIN,api.minecraftservices.com
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
@@ -13,14 +13,12 @@ DOMAIN,cloud.oracle.com
 DOMAIN,cvws.icloud-content.com
 DOMAIN,developer.apple.com
 DOMAIN,discord.com
-DOMAIN,easyemby.com
 DOMAIN,haiwaikan.com
 DOMAIN,notion-api.splitbee.io
 DOMAIN,olemovienews.com
 DOMAIN,olevod.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
-DOMAIN,public.emby.ws
 DOMAIN,testflight.apple.com
 DOMAIN,themoviedb.org
 DOMAIN,thetvdb.com
@@ -604,7 +602,6 @@ DOMAIN-SUFFIX,bignews.org
 DOMAIN-SUFFIX,bigone.com
 DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bild.de
-DOMAIN-SUFFIX,bili.bili.rip
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,billypan.com
 DOMAIN-SUFFIX,binance.com
@@ -2743,7 +2740,6 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jshell.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,jubushoushen.com
 DOMAIN-SUFFIX,juhuaren.com
 DOMAIN-SUFFIX,jukujo-club.com
@@ -3307,7 +3303,6 @@ DOMAIN-SUFFIX,mthruf.com
 DOMAIN-SUFFIX,mtw.tl
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,muchosucko.com
-DOMAIN-SUFFIX,mulgore.net
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,multiply.com
 DOMAIN-SUFFIX,multiproxy.org
@@ -3427,7 +3422,6 @@ DOMAIN-SUFFIX,ncol.com
 DOMAIN-SUFFIX,nde.de
 DOMAIN-SUFFIX,ndi.org
 DOMAIN-SUFFIX,ndr.de
-DOMAIN-SUFFIX,nebula-emby.com
 DOMAIN-SUFFIX,ned.org
 DOMAIN-SUFFIX,nekoslovakia.net
 DOMAIN-SUFFIX,neo-miracle.com

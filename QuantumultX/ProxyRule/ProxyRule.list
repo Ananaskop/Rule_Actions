@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-07 08:35:27
+# 更新时间： 2024-03-07 11:07:28
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -14,7 +14,6 @@ HOST,cloud.oracle.com,proxy
 HOST,cvws.icloud-content.com,proxy
 HOST,developer.apple.com,proxy
 HOST,discord.com,proxy
-HOST,easyemby.com,proxy
 HOST,haiwaikan.com,proxy
 HOST,lens.l.google.com,proxy
 HOST,notion-api.splitbee.io,proxy
@@ -25,7 +24,6 @@ HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,proxy
 HOST,openaicomproductionae4b.blob.core.windows.net,proxy
 HOST,p16-tiktokcdn-com.akamaized.net,proxy
 HOST,production-openaicom-storage.azureedge.net,proxy
-HOST,public.emby.ws,proxy
 HOST,testflight.apple.com,proxy
 HOST,themoviedb.org,proxy
 HOST,thetvdb.com,proxy
@@ -624,7 +622,6 @@ HOST-SUFFIX,bignews.org,proxy
 HOST-SUFFIX,bigone.com,proxy
 HOST-SUFFIX,bigsound.org,proxy
 HOST-SUFFIX,bild.de,proxy
-HOST-SUFFIX,bili.bili.rip,proxy
 HOST-SUFFIX,biliworld.com,proxy
 HOST-SUFFIX,billypan.com,proxy
 HOST-SUFFIX,binance.com,proxy
@@ -3105,7 +3102,6 @@ HOST-SUFFIX,jsdelivr.net,proxy
 HOST-SUFFIX,jshell.net,proxy
 HOST-SUFFIX,jshint.com,proxy
 HOST-SUFFIX,jtvnw.net,proxy
-HOST-SUFFIX,ju.dog,proxy
 HOST-SUFFIX,jubushoushen.com,proxy
 HOST-SUFFIX,juhuaren.com,proxy
 HOST-SUFFIX,jukujo-club.com,proxy
@@ -3673,7 +3669,6 @@ HOST-SUFFIX,mthruf.com,proxy
 HOST-SUFFIX,mtw.tl,proxy
 HOST-SUFFIX,mubi.com,proxy
 HOST-SUFFIX,muchosucko.com,proxy
-HOST-SUFFIX,mulgore.net,proxy
 HOST-SUFFIX,mullvad.net,proxy
 HOST-SUFFIX,multiply.com,proxy
 HOST-SUFFIX,multiproxy.org,proxy
@@ -3793,7 +3788,6 @@ HOST-SUFFIX,ncol.com,proxy
 HOST-SUFFIX,nde.de,proxy
 HOST-SUFFIX,ndi.org,proxy
 HOST-SUFFIX,ndr.de,proxy
-HOST-SUFFIX,nebula-emby.com,proxy
 HOST-SUFFIX,ned.org,proxy
 HOST-SUFFIX,nekoslovakia.net,proxy
 HOST-SUFFIX,neo-miracle.com,proxy
