@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-14 02:11:54
+# 更新时间： 2024-03-14 08:42:59
 HOST,analytics.strava.com,direct
 HOST,asusrouter.com,direct
 HOST,blzddist1-a.akamaihd.net,direct
@@ -2687,9 +2687,6 @@ HOST-SUFFIX,pipaw.net,direct
 HOST-SUFFIX,pipix.com,direct
 HOST-SUFFIX,pkoplink.com,direct
 HOST-SUFFIX,pkulaw.com,direct
-HOST-SUFFIX,playstation.com,direct
-HOST-SUFFIX,playstation.net,direct
-HOST-SUFFIX,playstationnetwork.com,direct
 HOST-SUFFIX,plex.direct,direct
 HOST-SUFFIX,pmphmooc.com,direct
 HOST-SUFFIX,pn1waq.com,direct

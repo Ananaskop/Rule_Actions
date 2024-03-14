@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-14 02:12:07
+# 更新时间： 2024-03-14 08:43:13
 DOMAIN,api.minecraftservices.com
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
@@ -3891,6 +3891,9 @@ DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,playno1.com
 DOMAIN-SUFFIX,playpcesor.com
 DOMAIN-SUFFIX,plays.com.tw
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,plexvpn.pro
 DOMAIN-SUFFIX,plixi.com
 DOMAIN-SUFFIX,plm.org.hk

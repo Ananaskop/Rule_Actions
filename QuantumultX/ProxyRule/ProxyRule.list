@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-14 02:11:54
+# 更新时间： 2024-03-14 08:42:58
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -4263,6 +4263,9 @@ HOST-SUFFIX,player.fm,proxy
 HOST-SUFFIX,playno1.com,proxy
 HOST-SUFFIX,playpcesor.com,proxy
 HOST-SUFFIX,plays.com.tw,proxy
+HOST-SUFFIX,playstation.com,proxy
+HOST-SUFFIX,playstation.net,proxy
+HOST-SUFFIX,playstationnetwork.com,proxy
 HOST-SUFFIX,plexvpn.pro,proxy
 HOST-SUFFIX,plixi.com,proxy
 HOST-SUFFIX,plm.org.hk,proxy
