@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-14 20:18:18
+# 更新时间： 2024-03-14 20:39:05
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -102,6 +102,7 @@ HOST-KEYWORD,weather-adge.apple.com,direct
 HOST-KEYWORD,weather-edge.apple.com,direct
 HOST-SUFFIX,1password.com,direct
 HOST-SUFFIX,aaplimg.com,direct
+HOST-SUFFIX,amplitude.com
 HOST-SUFFIX,apple-cloudkit.com,direct
 HOST-SUFFIX,apple-livephotoskit.com,direct
 HOST-SUFFIX,apple-mapkit.com,direct
@@ -122,11 +123,13 @@ HOST-SUFFIX,cm.steampowered.com,direct
 HOST-SUFFIX,dizhensubao.getui.com,direct
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,direct
 HOST-SUFFIX,f.video.weibocdn.com,direct
+HOST-SUFFIX,firebaseio.com
 HOST-SUFFIX,flyert.com,direct
 HOST-SUFFIX,fus.cdn.krcom.cn,direct
 HOST-SUFFIX,gandi.net,direct
 HOST-SUFFIX,gitmirror.com,direct
 HOST-SUFFIX,gittu.me,direct
+HOST-SUFFIX,hockeyapp.net
 HOST-SUFFIX,icloud-content.com,direct
 HOST-SUFFIX,icloud.com,direct
 HOST-SUFFIX,icloud.com.akadns.net,direct
@@ -139,6 +142,8 @@ HOST-SUFFIX,likesto.me,direct
 HOST-SUFFIX,me.com,direct
 HOST-SUFFIX,mzstatic.com,direct
 HOST-SUFFIX,ol.epicgames.com,direct
+HOST-SUFFIX,readdle.com
+HOST-SUFFIX,smartmailcloud.com
 HOST-SUFFIX,smoot.apple.cn,direct
 HOST-SUFFIX,snapdrop.net,direct
 HOST-SUFFIX,staticfile.org,direct
