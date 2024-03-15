@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-15 08:28:43
+# 更新时间： 2024-03-15 08:35:17
 payload:
   - DOMAIN,api.minecraftservices.com
   - DOMAIN,api.mojang.com
@@ -712,6 +712,7 @@ payload:
   - DOMAIN-SUFFIX,braumeister.org
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,bravotube.net
+  - DOMAIN-SUFFIX,braze.eu
   - DOMAIN-SUFFIX,brazzers.com
   - DOMAIN-SUFFIX,breached.to
   - DOMAIN-SUFFIX,break.com

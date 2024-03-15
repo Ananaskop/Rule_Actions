@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-15 08:28:36
+# 更新时间： 2024-03-15 08:35:10
 HOST,api.minecraftservices.com,proxy
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
@@ -793,6 +793,7 @@ HOST-SUFFIX,brandonhutchinson.com,proxy
 HOST-SUFFIX,braumeister.org,proxy
 HOST-SUFFIX,brave.com,proxy
 HOST-SUFFIX,bravotube.net,proxy
+HOST-SUFFIX,braze.eu,proxy
 HOST-SUFFIX,brazzers.com,proxy
 HOST-SUFFIX,breached.to,proxy
 HOST-SUFFIX,break.com,proxy
