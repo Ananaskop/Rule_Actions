@@ -1,34 +1,20 @@
-# 更新时间： 2024-03-15 14:12:52
-HOST,api.minecraftservices.com,proxy
+# 更新时间： 2024-03-15 14:58:25
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
 HOST,aqi.aqicn.org,proxy
 HOST,assets-priconne-redive-us.akamaized.net,proxy
-HOST,bfvvs.com,proxy
-HOST,cdn.ceres9350.com,proxy
-HOST,cdn.efhie.com,proxy
-HOST,cdn.venus7202.com,proxy
 HOST,cdp.cloud.unity3d.com,proxy
 HOST,chat.openai.com.cdn.cloudflare.net,proxy
 HOST,cloud.oracle.com,proxy
 HOST,cvws.icloud-content.com,proxy
 HOST,developer.apple.com,proxy
-HOST,discord.com,proxy
-HOST,haiwaikan.com,proxy
 HOST,lens.l.google.com,proxy
-HOST,notion-api.splitbee.io,proxy
-HOST,olemovienews.com,proxy
-HOST,olevod.com,proxy
 HOST,openaiapi-site.azureedge.net,proxy
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,proxy
 HOST,openaicomproductionae4b.blob.core.windows.net,proxy
 HOST,p16-tiktokcdn-com.akamaized.net,proxy
 HOST,production-openaicom-storage.azureedge.net,proxy
 HOST,testflight.apple.com,proxy
-HOST,themoviedb.org,proxy
-HOST,thetvdb.com,proxy
-HOST,tmdb.org,proxy
-HOST,v1.mk,proxy
 HOST,voice.telephony.goog,proxy
 HOST-KEYWORD,1drv,proxy
 HOST-KEYWORD,1e100,proxy
@@ -3341,7 +3327,6 @@ HOST-SUFFIX,liuxiaotong.com,proxy
 HOST-SUFFIX,live.com,proxy
 HOST-SUFFIX,live.net,proxy
 HOST-SUFFIX,livecoin.net,proxy
-HOST-SUFFIX,livednow.com,proxy
 HOST-SUFFIX,livedoor.jp,proxy
 HOST-SUFFIX,livefilestore.com,proxy
 HOST-SUFFIX,liveleak.com,proxy
@@ -4016,7 +4001,6 @@ HOST-SUFFIX,ok.ru,proxy
 HOST-SUFFIX,okayfreedom.com,proxy
 HOST-SUFFIX,okex.com,proxy
 HOST-SUFFIX,okk.tw,proxy
-HOST-SUFFIX,oklink.com,proxy
 HOST-SUFFIX,okx.com,proxy
 HOST-SUFFIX,olabloga.pl,proxy
 HOST-SUFFIX,old-cat.net,proxy

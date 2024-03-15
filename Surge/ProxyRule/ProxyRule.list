@@ -1,29 +1,15 @@
-# 更新时间： 2024-03-15 14:13:06
-DOMAIN,api.minecraftservices.com
+# 更新时间： 2024-03-15 14:58:39
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
-DOMAIN,bfvvs.com
-DOMAIN,cdn.ceres9350.com
-DOMAIN,cdn.efhie.com
-DOMAIN,cdn.venus7202.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,cloud.oracle.com
 DOMAIN,cvws.icloud-content.com
 DOMAIN,developer.apple.com
-DOMAIN,discord.com
-DOMAIN,haiwaikan.com
-DOMAIN,notion-api.splitbee.io
-DOMAIN,olemovienews.com
-DOMAIN,olevod.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,testflight.apple.com
-DOMAIN,themoviedb.org
-DOMAIN,thetvdb.com
-DOMAIN,tmdb.org
-DOMAIN,v1.mk
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
@@ -2975,7 +2961,6 @@ DOMAIN-SUFFIX,liuxiaotong.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livecoin.net
-DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livedoor.jp
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,liveleak.com
@@ -3649,7 +3634,6 @@ DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okayfreedom.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okk.tw
-DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,olabloga.pl
 DOMAIN-SUFFIX,old-cat.net

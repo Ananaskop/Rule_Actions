@@ -1,20 +1,26 @@
-# 更新时间： 2024-03-15 14:12:52
+# 更新时间： 2024-03-15 14:58:25
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,STREAMING
 HOST,api.okzy.tv,STREAMING
 HOST,apm-misaka.biliapi.net,STREAMING
 HOST,apple.comscoreresearch.com,STREAMING
 HOST,bcbolt446c5271-a.akamaihd.net,STREAMING
+HOST,bfvvs.com,STREAMING
 HOST,cache.video.iqiyi.com,STREAMING
+HOST,cdn.ceres9350.com,STREAMING
+HOST,cdn.efhie.com,STREAMING
+HOST,cdn.venus7202.com,STREAMING
 HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,STREAMING
 HOST,cs428.wpc.edgecastcdn.net,STREAMING
 HOST,dashasiafox.akamaized.netflix,STREAMING
 HOST,daznfeeds.com.edgekey.net,STREAMING
 HOST,dca-lm-livedazn.secure.footprint.net,STREAMING
+HOST,discord.com,STREAMING
 HOST,e13252.dscg.akamaiedge.net,STREAMING
 HOST,edge.cwtv-vod-ext.top.comcast.net,STREAMING
 HOST,gspe1-ssl.ls.apple.com,STREAMING
 HOST,h-dazn.online-metrix.net,STREAMING
 HOST,h-netflix.online-metrix.net,STREAMING
+HOST,haiwaikan.com,STREAMING
 HOST,hamifans.emome.net,STREAMING
 HOST,hulu.com.c.footprint.net,STREAMING
 HOST,hulu.map.fastly.net,STREAMING
@@ -24,9 +30,16 @@ HOST,ktpx.amazon.com,STREAMING
 HOST,news-client.apple.com,STREAMING
 HOST,news-edge.apple.com,STREAMING
 HOST,news-events.apple.com,STREAMING
+HOST,notion-api.splitbee.io,STREAMING
 HOST,ocvideo.apple.com,STREAMING
+HOST,olemovienews.com,STREAMING
+HOST,olevod.com,STREAMING
 HOST,rpg.pic-imges.com,STREAMING
 HOST,rthklive2-lh.akamaihd.net,STREAMING
+HOST,themoviedb.org,STREAMING
+HOST,thetvdb.com,STREAMING
+HOST,tmdb.org,STREAMING
+HOST,v1.mk,STREAMING
 HOST-KEYWORD,-spotify-,STREAMING
 HOST-KEYWORD,abematv.akamaized.net,STREAMING
 HOST-KEYWORD,apiproxy-device-prod-nlb-,STREAMING
@@ -690,7 +703,6 @@ HOST-SUFFIX,joinmaidez.com,STREAMING
 HOST-SUFFIX,joox.com,STREAMING
 HOST-SUFFIX,js-agent.newrelic.com,STREAMING
 HOST-SUFFIX,jtvnw.net,STREAMING
-HOST-SUFFIX,ju.dog,STREAMING
 HOST-SUFFIX,jwpcdn.com,STREAMING
 HOST-SUFFIX,jwplayer.com,STREAMING
 HOST-SUFFIX,kakao.co.kr,STREAMING
@@ -744,7 +756,6 @@ HOST-SUFFIX,moviesanywhere.com,STREAMING
 HOST-SUFFIX,msnbc.com,STREAMING
 HOST-SUFFIX,mtvnservices.com,STREAMING
 HOST-SUFFIX,mudvod.tv,STREAMING
-HOST-SUFFIX,mulgore.net,STREAMING
 HOST-SUFFIX,muscdn.com,STREAMING
 HOST-SUFFIX,mushymush.tv,STREAMING
 HOST-SUFFIX,musical.ly,STREAMING

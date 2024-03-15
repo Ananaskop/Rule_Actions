@@ -1,21 +1,27 @@
-# 更新时间： 2024-03-15 14:12:59
+# 更新时间： 2024-03-15 14:58:32
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
+  - DOMAIN,bfvvs.com
   - DOMAIN,cache.video.iqiyi.com
+  - DOMAIN,cdn.ceres9350.com
+  - DOMAIN,cdn.efhie.com
+  - DOMAIN,cdn.venus7202.com
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,cs428.wpc.edgecastcdn.net
   - DOMAIN,dashasiafox.akamaized.netflix
   - DOMAIN,daznfeeds.com.edgekey.net
   - DOMAIN,dca-lm-livedazn.secure.footprint.net
+  - DOMAIN,discord.com
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,edge.cwtv-vod-ext.top.comcast.net
   - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN,h-dazn.online-metrix.net
   - DOMAIN,h-netflix.online-metrix.net
+  - DOMAIN,haiwaikan.com
   - DOMAIN,hamifans.emome.net
   - DOMAIN,hulu.com.c.footprint.net
   - DOMAIN,hulu.map.fastly.net
@@ -25,9 +31,16 @@ payload:
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
+  - DOMAIN,notion-api.splitbee.io
   - DOMAIN,ocvideo.apple.com
+  - DOMAIN,olemovienews.com
+  - DOMAIN,olevod.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
+  - DOMAIN,themoviedb.org
+  - DOMAIN,thetvdb.com
+  - DOMAIN,tmdb.org
+  - DOMAIN,v1.mk
   - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
@@ -691,7 +704,6 @@ payload:
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,jtvnw.net
-  - DOMAIN-SUFFIX,ju.dog
   - DOMAIN-SUFFIX,jwpcdn.com
   - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,kakao.co.kr
@@ -745,7 +757,6 @@ payload:
   - DOMAIN-SUFFIX,msnbc.com
   - DOMAIN-SUFFIX,mtvnservices.com
   - DOMAIN-SUFFIX,mudvod.tv
-  - DOMAIN-SUFFIX,mulgore.net
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,mushymush.tv
   - DOMAIN-SUFFIX,musical.ly
