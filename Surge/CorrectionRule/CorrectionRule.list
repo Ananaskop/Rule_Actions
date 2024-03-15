@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-15 02:12:17
+# 更新时间： 2024-03-15 08:28:51
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -102,7 +102,6 @@ DOMAIN-KEYWORD,weather-adge.apple.com
 DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
@@ -123,13 +122,11 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,dizhensubao.getui.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,f.video.weibocdn.com
-DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,fus.cdn.krcom.cn
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,gitmirror.com
 DOMAIN-SUFFIX,gittu.me
-DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.akadns.net
@@ -142,8 +139,6 @@ DOMAIN-SUFFIX,likesto.me
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,ol.epicgames.com
-DOMAIN-SUFFIX,readdle.com
-DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,smoot.apple.cn
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,staticfile.org
