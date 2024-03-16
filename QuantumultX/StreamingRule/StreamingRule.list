@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-16 20:18:07
+# 更新时间： 2024-03-16 20:30:42
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,STREAMING
 HOST,api.okzy.tv,STREAMING
 HOST,apm-misaka.biliapi.net,STREAMING
@@ -362,6 +362,7 @@ HOST-SUFFIX,edgedatg.com,STREAMING
 HOST-SUFFIX,ehgt.org,STREAMING
 HOST-SUFFIX,ehwiki.org,STREAMING
 HOST-SUFFIX,eluniverso.com,STREAMING
+HOST-SUFFIX,emby.ws,STREAMING
 HOST-SUFFIX,encoretvb.com,STREAMING
 HOST-SUFFIX,eonline.com,STREAMING
 HOST-SUFFIX,espn.co.uk,STREAMING
