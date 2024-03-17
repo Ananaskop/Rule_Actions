@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-17 14:11:39
+# 更新时间： 2024-03-17 20:16:46
 payload:
   - DOMAIN,aaid.uyunad.com
   - DOMAIN,acdn.adnxs.com
@@ -44,7 +44,6 @@ payload:
   - DOMAIN,ems.youku.com
   - DOMAIN,encounter.bz.mgtv.com
   - DOMAIN,floor.bz.mgtv.com
-  - DOMAIN,free-aos-cdn-image.amap.com
   - DOMAIN,g.koowo.com
   - DOMAIN,geo2.adobe.com
   - DOMAIN,hdns.ksyun.com

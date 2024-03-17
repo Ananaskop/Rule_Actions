@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-17 14:11:32
+# 更新时间： 2024-03-17 20:16:40
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -43,7 +43,6 @@ HOST,dns.jd.com,reject
 HOST,ems.youku.com,reject
 HOST,encounter.bz.mgtv.com,reject
 HOST,floor.bz.mgtv.com,reject
-HOST,free-aos-cdn-image.amap.com,reject
 HOST,g.koowo.com,reject
 HOST,geo2.adobe.com,reject
 HOST,hdns.ksyun.com,reject
