@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-21 14:12:40
+# 更新时间： 2024-03-21 20:17:00
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,STREAMING
 HOST,api.okzy.tv,STREAMING
 HOST,apm-misaka.biliapi.net,STREAMING
@@ -192,6 +192,7 @@ HOST-SUFFIX,cbssvideo.com,STREAMING
 HOST-SUFFIX,cbstelevisioncity.com,STREAMING
 HOST-SUFFIX,cdn.optimizely.com,STREAMING
 HOST-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,STREAMING
+HOST-SUFFIX,challenges.cloudflare.com,STREAMING
 HOST-SUFFIX,channel4.com,STREAMING
 HOST-SUFFIX,channel5.com,STREAMING
 HOST-SUFFIX,chocotv.com.tw,STREAMING

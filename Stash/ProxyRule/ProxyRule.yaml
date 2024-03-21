@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-21 14:12:47
+# 更新时间： 2024-03-21 20:17:07
 payload:
   - DOMAIN,api.mojang.com
   - DOMAIN,api.waqi.info
@@ -1589,6 +1589,7 @@ payload:
   - DOMAIN-SUFFIX,ezua.com
   - DOMAIN-SUFFIX,f8.com
   - DOMAIN-SUFFIX,fa.gov.tw
+  - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,faceless.me
   - DOMAIN-SUFFIX,facesofnyfw.com
   - DOMAIN-SUFFIX,facesoftibetanselfimmolators.info

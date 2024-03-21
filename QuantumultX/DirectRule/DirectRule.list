@@ -1,24 +1,29 @@
-# 更新时间： 2024-03-21 14:12:40
+# 更新时间： 2024-03-21 20:17:00
 HOST,analytics.strava.com,direct
 HOST,asusrouter.com,direct
 HOST,blzddist1-a.akamaihd.net,direct
 HOST,cdn.angruo.com,direct
-HOST,cdp.cloud.unity3d.com,direct
 HOST,client.amplifi.com,direct
 HOST,cp.cloudflare.com,direct
 HOST,detectportal.firefox.com,direct
 HOST,download.jetbrains.com,direct
+HOST,download.microsoft.com,direct
 HOST,images-cn.ssl-images-amazon.com,direct
 HOST,instant.arubanetworks.com,direct
+HOST,ip.bjango.com,direct
 HOST,ip.istatmenus.app,direct
 HOST,kc.kexinshe.com,direct
+HOST,ntservicepack.microsoft.com,direct
 HOST,origin-a.akamaihd.ne,direct
 HOST,origin-a.akamaihd.net,direct
+HOST,outlook.office365.com,direct
 HOST,router.asus.com,direct
 HOST,setmeup.arubanetworks.com,direct
 HOST,sms.imagetasks.com,direct
+HOST,smtp-mail.outlook.com,direct
+HOST,smtp.office365.com,direct
 HOST,speed.dler.io,direct
-HOST,steamcommunity-a.akamaihd.net,direct
+HOST,wustat.windows.com,direct
 HOST,www.asusrouter.com,direct
 HOST,www.libvideo.com,direct
 HOST,www.yxssp.com,direct

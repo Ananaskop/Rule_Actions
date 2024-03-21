@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-21 14:12:40
+# 更新时间： 2024-03-21 20:17:00
 HOST,ai.google.dev,US
 HOST,alkalimakersuite-pa.clients6.google.com,US
 HOST,browser-intake-datadoghq.com,US
@@ -59,7 +59,7 @@ HOST-SUFFIX,cash2.com,US
 HOST-SUFFIX,cashify.com,US
 HOST-SUFFIX,cashify.net,US
 HOST-SUFFIX,cdn.cloudflare.net,US
-HOST-SUFFIX,challenges.cloudflare.com,US
+HOST-SUFFIX,chatgpt.com,US
 HOST-SUFFIX,chatgpt.livekit.cloud,US
 HOST-SUFFIX,claude.ai,US
 HOST-SUFFIX,client-api.arkoselabs.com,US

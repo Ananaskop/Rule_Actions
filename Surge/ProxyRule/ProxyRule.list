@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-21 14:12:54
+# 更新时间： 2024-03-21 20:17:14
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -1588,6 +1588,7 @@ DOMAIN-SUFFIX,ezpeer.com
 DOMAIN-SUFFIX,ezua.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fa.gov.tw
+DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,faceless.me
 DOMAIN-SUFFIX,facesofnyfw.com
 DOMAIN-SUFFIX,facesoftibetanselfimmolators.info

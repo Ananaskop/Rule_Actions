@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-21 14:12:39
+# 更新时间： 2024-03-21 20:17:00
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
 HOST,aqi.aqicn.org,proxy
@@ -1689,6 +1689,7 @@ HOST-SUFFIX,ezpeer.com,proxy
 HOST-SUFFIX,ezua.com,proxy
 HOST-SUFFIX,f8.com,proxy
 HOST-SUFFIX,fa.gov.tw,proxy
+HOST-SUFFIX,fabric.io,proxy
 HOST-SUFFIX,facebook.br,proxy
 HOST-SUFFIX,facebook.com,proxy
 HOST-SUFFIX,facebook.design,proxy
