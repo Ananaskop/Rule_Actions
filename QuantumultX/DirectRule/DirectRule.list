@@ -1,11 +1,15 @@
-# 更新时间： 2024-03-22 14:12:35
+# 更新时间： 2024-03-22 14:14:22
 HOST,analytics.strava.com,direct
+HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,direct
 HOST,asusrouter.com,direct
 HOST,blzddist1-a.akamaihd.net,direct
+HOST,btrace.qq.com,direct
 HOST,cdn.angruo.com,direct
 HOST,client.amplifi.com,direct
 HOST,cp.cloudflare.com,direct
 HOST,detectportal.firefox.com,direct
+HOST,dl.wechat.com,direct
+HOST,dldir1.qq.com,direct
 HOST,download.jetbrains.com,direct
 HOST,download.microsoft.com,direct
 HOST,images-cn.ssl-images-amazon.com,direct
@@ -19,14 +23,28 @@ HOST,origin-a.akamaihd.net,direct
 HOST,outlook.office365.com,direct
 HOST,router.asus.com,direct
 HOST,setmeup.arubanetworks.com,direct
+HOST,sgfindershort.wechat.com,direct
+HOST,sgilinkshort.wechat.com,direct
+HOST,sglong.wechat.com,direct
+HOST,sgminorshort.wechat.com,direct
+HOST,sgquic.wechat.com,direct
+HOST,sgshort.wechat.com,direct
+HOST,slife.xy-asia.com,direct
 HOST,sms.imagetasks.com,direct
 HOST,smtp-mail.outlook.com,direct
 HOST,smtp.office365.com,direct
+HOST,soup.v.qq.com,direct
 HOST,speed.dler.io,direct
+HOST,tencentmap.wechat.com,direct
+HOST,vweixinf.tc.qq.com,direct
+HOST,weixin110.qq.com,direct
+HOST,wup.imtt.qq.com,direct
 HOST,wustat.windows.com,direct
 HOST,www.asusrouter.com,direct
 HOST,www.libvideo.com,direct
 HOST,www.yxssp.com,direct
+HOST,wx.tenpay.com,direct
+HOST,wxapp.tc.qq.com,direct
 HOST-KEYWORD,.tmall.com,direct
 HOST-KEYWORD,alicdn,direct
 HOST-KEYWORD,alipay,direct
@@ -1901,6 +1919,7 @@ HOST-SUFFIX,infoqstatic.com,direct
 HOST-SUFFIX,inftab.com,direct
 HOST-SUFFIX,intltencentcos.com,direct
 HOST-SUFFIX,iop.org,direct
+HOST-SUFFIX,iot-tencent.com,direct
 HOST-SUFFIX,ip-cdn.com,direct
 HOST-SUFFIX,ip.la,direct
 HOST-SUFFIX,ip138.com,direct
@@ -2255,6 +2274,7 @@ HOST-SUFFIX,lascn.net,direct
 HOST-SUFFIX,lawxp.com,direct
 HOST-SUFFIX,lawyee.org,direct
 HOST-SUFFIX,lazada.com,direct
+HOST-SUFFIX,lbs.gtimg.com,direct
 HOST-SUFFIX,lczq.com,direct
 HOST-SUFFIX,ld246.com,direct
 HOST-SUFFIX,ldmnq.com,direct
@@ -2382,6 +2402,7 @@ HOST-SUFFIX,maoyan.com,direct
 HOST-SUFFIX,maoyun.com,direct
 HOST-SUFFIX,maoyun.tv,direct
 HOST-SUFFIX,maoyuncloud.com,direct
+HOST-SUFFIX,map.qq.com,direct
 HOST-SUFFIX,mapbar.com,direct
 HOST-SUFFIX,material.istreamsche.com,direct
 HOST-SUFFIX,matpool.com,direct
@@ -2800,8 +2821,10 @@ HOST-SUFFIX,qiyi.com,direct
 HOST-SUFFIX,qiyipic.com,direct
 HOST-SUFFIX,qiyukf.com,direct
 HOST-SUFFIX,qizuang.com,direct
+HOST-SUFFIX,qlogo.cn,direct
 HOST-SUFFIX,qnsdk.com,direct
 HOST-SUFFIX,qnssl.com,direct
+HOST-SUFFIX,qpic.cn,direct
 HOST-SUFFIX,qq.cn.com,direct
 HOST-SUFFIX,qq.com,direct
 HOST-SUFFIX,qq.design,direct
@@ -3346,6 +3369,7 @@ HOST-SUFFIX,uoj.ac,direct
 HOST-SUFFIX,uoko.com,direct
 HOST-SUFFIX,uonline-sh.com,direct
 HOST-SUFFIX,uonline-sh.net,direct
+HOST-SUFFIX,up-hl.3g.qq.com,direct
 HOST-SUFFIX,upai.com,direct
 HOST-SUFFIX,upaiyun.com,direct
 HOST-SUFFIX,upcdn.net,direct
@@ -3398,6 +3422,7 @@ HOST-SUFFIX,volceapplog.com,direct
 HOST-SUFFIX,volces.com,direct
 HOST-SUFFIX,volcvod.com,direct
 HOST-SUFFIX,vpgame.com,direct
+HOST-SUFFIX,vweixinthumb.tc.qq.com,direct
 HOST-SUFFIX,vxo7tu.com,direct
 HOST-SUFFIX,vzuu.com,direct
 HOST-SUFFIX,wallstcn.com,direct
@@ -3428,6 +3453,9 @@ HOST-SUFFIX,webofknowledge.com,direct
 HOST-SUFFIX,webqxs.com,direct
 HOST-SUFFIX,webterren.com,direct
 HOST-SUFFIX,wechat.com,direct
+HOST-SUFFIX,wechatlegal.net,direct
+HOST-SUFFIX,wechatos.net,direct
+HOST-SUFFIX,wechatpay.com,direct
 HOST-SUFFIX,wegame.com,direct
 HOST-SUFFIX,wegamedeveloper.com,direct
 HOST-SUFFIX,wegameplus.com,direct
@@ -3440,8 +3468,11 @@ HOST-SUFFIX,weilaicaijing.com,direct
 HOST-SUFFIX,weilaiyunxiao.com,direct
 HOST-SUFFIX,weiphone.com,direct
 HOST-SUFFIX,weiphone.net,direct
+HOST-SUFFIX,weixin.com,direct
+HOST-SUFFIX,weixin.qq.com,direct
 HOST-SUFFIX,weixinbridge.com,direct
 HOST-SUFFIX,weixing.com,direct
+HOST-SUFFIX,weixinsxy.com,direct
 HOST-SUFFIX,weiyangx.com,direct
 HOST-SUFFIX,weiyun.com,direct
 HOST-SUFFIX,welltrend-edu.com,direct
@@ -3511,6 +3542,10 @@ HOST-SUFFIX,wuliujie.com,direct
 HOST-SUFFIX,wumii.com,direct
 HOST-SUFFIX,wuming.com,direct
 HOST-SUFFIX,wuximediaglobal.com,direct
+HOST-SUFFIX,wx.gtimg.com,direct
+HOST-SUFFIX,wx.qq.com,direct
+HOST-SUFFIX,wxapp.tc.qq.com,direct
+HOST-SUFFIX,wxs.qq.com,direct
 HOST-SUFFIX,wxsbank.com,direct
 HOST-SUFFIX,wxzq.com,direct
 HOST-SUFFIX,wywyx.com,direct
@@ -3708,6 +3743,7 @@ HOST-SUFFIX,yuantiku.com,direct
 HOST-SUFFIX,yuewen.com,direct
 HOST-SUFFIX,yufuid.com,direct
 HOST-SUFFIX,yufuid.net,direct
+HOST-SUFFIX,yun-hl.3g.qq.com,direct
 HOST-SUFFIX,yunaq.com,direct
 HOST-SUFFIX,yunba.io,direct
 HOST-SUFFIX,yundaex.com,direct
@@ -3839,6 +3875,7 @@ HOST-SUFFIX,zybang.com,direct
 HOST-SUFFIX,zyh365.com,direct
 HOST-SUFFIX,zzdtec.com,direct
 HOST-WILDCARD,windows-*.net,direct
+IP-ASN,132203,direct,no-resolve
 IP-CIDR,0.0.0.0/8,direct,no-resolve
 IP-CIDR,1.255.62.0/24,direct,no-resolve
 IP-CIDR,10.0.0.0/8,direct,no-resolve
