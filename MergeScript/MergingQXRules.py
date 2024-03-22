@@ -12,7 +12,7 @@ replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
     (r',(?:GlobalMedia)$', ',STREAMING'),
-    (r',(?:China|Direct|Speedtest|Apple|Lan|Microsoft)$', ',direct'),
+    (r',(?:China|Direct|Speedtest|Apple|Lan|Microsoft|WeChat)$', ',direct'),
     (r',(?:Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy|Global)$', ',proxy'),
     (r',(?:OpenAI|PayPal|Google|Bing|Anthropic|Gemini)$', ',US'),
@@ -42,6 +42,7 @@ RULES = {
         "Lan": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Lan/Lan.list",
         "Speedtest": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Speedtest/Speedtest.list",
         "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list",
+        "WeChat": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list",
     },
     "USRule": {
         "OpenAI": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list",
