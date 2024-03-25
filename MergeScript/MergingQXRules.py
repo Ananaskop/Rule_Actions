@@ -15,7 +15,7 @@ replacements = [
     (r',(?:China|Direct|Speedtest|Apple|Lan|Microsoft|WeChat)$', ',direct'),
     (r',(?:Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy|Global)$', ',proxy'),
-    (r',(?:OpenAI|PayPal|Google|Bing|Anthropic|Gemini)$', ',US'),
+    (r',(?:OpenAI|PayPal|Google|Bing|Anthropic|Google)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
     (r'-suffix', '-SUFFIX'),
     (r'-keyword', '-KEYWORD'),
@@ -49,7 +49,7 @@ RULES = {
         "PayPal": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/PayPal/PayPal.list",
         "Bing": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Bing/Bing.list",
         "Anthropic": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Anthropic/Anthropic.list",
-        "Gemini": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Gemini/Gemini.list",
+        "Google": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list",
     },
     "StreamingRule": {
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list",
