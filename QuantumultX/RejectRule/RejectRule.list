@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-25 10:33:35
+# 更新时间： 2024-03-25 14:13:32
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -112,7 +112,6 @@ HOST,tmead.y.qq.com,reject
 HOST,tmeadbak.y.qq.com,reject
 HOST,tmeadcomm.y.qq.com,reject
 HOST,tpns.qq.com,reject
-HOST,tysdk.95516.com,reject
 HOST,vali-g1.cp31.ott.cibntv.net,reject
 HOST,vali-ugc.cp31.ott.cibntv.net,reject
 HOST,vip.bz.mgtv.com,reject
