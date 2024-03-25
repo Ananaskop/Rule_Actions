@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-25 09:59:10
+# 更新时间： 2024-03-25 10:33:35
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
 HOST,aqi.aqicn.org,proxy
@@ -5034,6 +5034,7 @@ HOST-SUFFIX,suprememastertv.com,proxy
 HOST-SUFFIX,surfeasy.com,proxy
 HOST-SUFFIX,surfeasy.com.au,proxy
 HOST-SUFFIX,surfshark.com,proxy
+HOST-SUFFIX,surfsharkdns.com,proxy
 HOST-SUFFIX,surge.run,proxy
 HOST-SUFFIX,suroot.com,proxy
 HOST-SUFFIX,surrenderat20.net,proxy

@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-25 09:59:17
+# 更新时间： 2024-03-25 10:33:43
 payload:
   - DOMAIN,api.mojang.com
   - DOMAIN,api.waqi.info
@@ -4633,6 +4633,7 @@ payload:
   - DOMAIN-SUFFIX,surfeasy.com
   - DOMAIN-SUFFIX,surfeasy.com.au
   - DOMAIN-SUFFIX,surfshark.com
+  - DOMAIN-SUFFIX,surfsharkdns.com
   - DOMAIN-SUFFIX,surge.run
   - DOMAIN-SUFFIX,suroot.com
   - DOMAIN-SUFFIX,surrenderat20.net
