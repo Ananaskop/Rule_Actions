@@ -1,7 +1,13 @@
-# 更新时间： 2024-03-27 08:48:15
+# 更新时间： 2024-03-27 10:34:25
+HOST,ai.google.dev,US
+HOST,alkalimakersuite-pa.clients6.google.com,US
 HOST,browser-intake-datadoghq.com,US
+HOST,makersuite.google.com,US
 HOST,servd-anthropic-website.b-cdn.net,US
 HOST,static.cloudflareinsights.com,US
+HOST-KEYWORD,colab,US
+HOST-KEYWORD,developerprofiles,US
+HOST-KEYWORD,generativelanguage,US
 HOST-KEYWORD,openai,US
 HOST-KEYWORD,paypal,US
 HOST-SUFFIX,account-paypal.info,US
@@ -17,7 +23,9 @@ HOST-SUFFIX,anfutong.com,US
 HOST-SUFFIX,anfutong.com.cn,US
 HOST-SUFFIX,anthropic.com,US
 HOST-SUFFIX,api.statsig.com,US
+HOST-SUFFIX,apis.google.com,US
 HOST-SUFFIX,auth0.com,US
+HOST-SUFFIX,bard.google.com,US
 HOST-SUFFIX,beibao.cn,US
 HOST-SUFFIX,beibao.com,US
 HOST-SUFFIX,beibao.com.cn,US
@@ -55,12 +63,16 @@ HOST-SUFFIX,chatgpt.com,US
 HOST-SUFFIX,chatgpt.livekit.cloud,US
 HOST-SUFFIX,claude.ai,US
 HOST-SUFFIX,client-api.arkoselabs.com,US
+HOST-SUFFIX,deepmind.com,US
+HOST-SUFFIX,deepmind.google,US
 HOST-SUFFIX,devtools-paypal.com,US
 HOST-SUFFIX,events.statsigapi.net,US
 HOST-SUFFIX,experiencebillmelater.com,US
 HOST-SUFFIX,featuregates.org,US
 HOST-SUFFIX,filipino-music.net,US
 HOST-SUFFIX,fundpaypal.com,US
+HOST-SUFFIX,gemini.google.com,US
+HOST-SUFFIX,generativeai.google,US
 HOST-SUFFIX,getbraintree.com,US
 HOST-SUFFIX,gmoney.org,US
 HOST-SUFFIX,host.livekit.cloud,US
@@ -245,6 +257,7 @@ HOST-SUFFIX,poe.com,US
 HOST-SUFFIX,pp-soc.com,US
 HOST-SUFFIX,ppaypal.com,US
 HOST-SUFFIX,pppds.com,US
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,US
 HOST-SUFFIX,pypl.com,US
 HOST-SUFFIX,pypl.info,US
 HOST-SUFFIX,pypl.net,US

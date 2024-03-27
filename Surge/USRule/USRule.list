@@ -1,7 +1,13 @@
-# 更新时间： 2024-03-27 08:48:30
+# 更新时间： 2024-03-27 10:34:40
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,makersuite.google.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,static.cloudflareinsights.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,account-paypal.info
@@ -17,7 +23,9 @@ DOMAIN-SUFFIX,anfutong.com
 DOMAIN-SUFFIX,anfutong.com.cn
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,beibao.cn
 DOMAIN-SUFFIX,beibao.com
 DOMAIN-SUFFIX,beibao.com.cn
@@ -55,12 +63,16 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,devtools-paypal.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,experiencebillmelater.com
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,filipino-music.net
 DOMAIN-SUFFIX,fundpaypal.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,getbraintree.com
 DOMAIN-SUFFIX,gmoney.org
 DOMAIN-SUFFIX,host.livekit.cloud
@@ -245,6 +257,7 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,pp-soc.com
 DOMAIN-SUFFIX,ppaypal.com
 DOMAIN-SUFFIX,pppds.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,pypl.com
 DOMAIN-SUFFIX,pypl.info
 DOMAIN-SUFFIX,pypl.net
