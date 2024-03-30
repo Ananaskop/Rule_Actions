@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-30 02:12:21
+# 更新时间： 2024-03-30 08:42:32
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -393,6 +393,7 @@ DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
+DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archive.today
@@ -769,6 +770,7 @@ DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,c-spanvideo.org
 DOMAIN-SUFFIX,c100tibet.org
 DOMAIN-SUFFIX,c2cx.com
+DOMAIN-SUFFIX,cableav.tv
 DOMAIN-SUFFIX,cablegatesearch.net
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,cachinese.com
@@ -986,6 +988,7 @@ DOMAIN-SUFFIX,chubold.com
 DOMAIN-SUFFIX,chubun.com
 DOMAIN-SUFFIX,churchinhongkong.org
 DOMAIN-SUFFIX,chushigangdrug.ch
+DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,cienen.com
 DOMAIN-SUFFIX,cineastentreff.de
 DOMAIN-SUFFIX,cipfg.org
@@ -1115,6 +1118,7 @@ DOMAIN-SUFFIX,costco.com
 DOMAIN-SUFFIX,cotweet.com
 DOMAIN-SUFFIX,counter.social
 DOMAIN-SUFFIX,coursehero.com
+DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,cpj.org
 DOMAIN-SUFFIX,cq99.us
 DOMAIN-SUFFIX,crackle.com

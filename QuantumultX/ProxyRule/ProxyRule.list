@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-30 02:12:07
+# 更新时间： 2024-03-30 08:42:18
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
 HOST,aqi.aqicn.org,proxy
@@ -411,6 +411,7 @@ HOST-SUFFIX,arcgis.com,proxy
 HOST-SUFFIX,archive.fo,proxy
 HOST-SUFFIX,archive.is,proxy
 HOST-SUFFIX,archive.li,proxy
+HOST-SUFFIX,archive.md,proxy
 HOST-SUFFIX,archive.org,proxy
 HOST-SUFFIX,archive.ph,proxy
 HOST-SUFFIX,archive.today,proxy
@@ -851,6 +852,7 @@ HOST-SUFFIX,c-span.org,proxy
 HOST-SUFFIX,c-spanvideo.org,proxy
 HOST-SUFFIX,c100tibet.org,proxy
 HOST-SUFFIX,c2cx.com,proxy
+HOST-SUFFIX,cableav.tv,proxy
 HOST-SUFFIX,cablegatesearch.net,proxy
 HOST-SUFFIX,cachefly.net,proxy
 HOST-SUFFIX,cachinese.com,proxy
@@ -1072,6 +1074,7 @@ HOST-SUFFIX,chubold.com,proxy
 HOST-SUFFIX,chubun.com,proxy
 HOST-SUFFIX,churchinhongkong.org,proxy
 HOST-SUFFIX,chushigangdrug.ch,proxy
+HOST-SUFFIX,ciciai.com,proxy
 HOST-SUFFIX,cienen.com,proxy
 HOST-SUFFIX,cineastentreff.de,proxy
 HOST-SUFFIX,cipfg.org,proxy
@@ -1202,6 +1205,7 @@ HOST-SUFFIX,costco.com,proxy
 HOST-SUFFIX,cotweet.com,proxy
 HOST-SUFFIX,counter.social,proxy
 HOST-SUFFIX,coursehero.com,proxy
+HOST-SUFFIX,coze.com,proxy
 HOST-SUFFIX,cpj.org,proxy
 HOST-SUFFIX,cq99.us,proxy
 HOST-SUFFIX,crackle.com,proxy
