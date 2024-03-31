@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-31 02:13:03
+# 更新时间： 2024-03-31 08:49:59
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -59,7 +59,6 @@ payload:
   - DOMAIN-SUFFIX,cash2.com
   - DOMAIN-SUFFIX,cashify.com
   - DOMAIN-SUFFIX,cashify.net
-  - DOMAIN-SUFFIX,cdn.cloudflare.net
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,claude.ai

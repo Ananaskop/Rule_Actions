@@ -1,4 +1,4 @@
-# 更新时间： 2024-03-31 02:13:10
+# 更新时间： 2024-03-31 08:50:06
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,browser-intake-datadoghq.com
@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,card.io
 DOMAIN-SUFFIX,cash2.com
 DOMAIN-SUFFIX,cashify.com
 DOMAIN-SUFFIX,cashify.net
-DOMAIN-SUFFIX,cdn.cloudflare.net
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,claude.ai
