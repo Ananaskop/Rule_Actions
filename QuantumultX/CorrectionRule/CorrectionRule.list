@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-05 08:44:36
+# 更新时间： 2024-04-05 14:12:48
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -125,7 +125,6 @@ HOST-SUFFIX,f.video.weibocdn.com,direct
 HOST-SUFFIX,flyert.com,direct
 HOST-SUFFIX,fus.cdn.krcom.cn,direct
 HOST-SUFFIX,gandi.net,direct
-HOST-SUFFIX,gitmirror.com,direct
 HOST-SUFFIX,gittu.me,direct
 HOST-SUFFIX,icloud-content.com,direct
 HOST-SUFFIX,icloud.com,direct

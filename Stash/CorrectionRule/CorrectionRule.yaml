@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-05 08:44:43
+# 更新时间： 2024-04-05 14:12:55
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -126,7 +126,6 @@ payload:
   - DOMAIN-SUFFIX,flyert.com
   - DOMAIN-SUFFIX,fus.cdn.krcom.cn
   - DOMAIN-SUFFIX,gandi.net
-  - DOMAIN-SUFFIX,gitmirror.com
   - DOMAIN-SUFFIX,gittu.me
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud.com
