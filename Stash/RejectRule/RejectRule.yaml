@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-07 20:16:13
+# 更新时间： 2024-04-08 02:12:00
 payload:
   - DOMAIN,aaid.uyunad.com
   - DOMAIN,acdn.adnxs.com
@@ -43,6 +43,8 @@ payload:
   - DOMAIN,dns.jd.com
   - DOMAIN,ems.youku.com
   - DOMAIN,encounter.bz.mgtv.com
+  - DOMAIN,finderks.video.qq.com
+  - DOMAIN,finderv1.video.qq.com
   - DOMAIN,floor.bz.mgtv.com
   - DOMAIN,g.koowo.com
   - DOMAIN,geo2.adobe.com
@@ -117,6 +119,8 @@ payload:
   - DOMAIN,vali-ugc.cp31.ott.cibntv.net
   - DOMAIN,vip.bz.mgtv.com
   - DOMAIN,www.googleadservices.com
+  - DOMAIN,wxsnsdy.wxs.qq.com
+  - DOMAIN,wxsnsdythumb.wxs.qq.com
   - DOMAIN,yandexmetrica.com
   - DOMAIN,yk-ssp.ad.youku.com
   - DOMAIN,ykad-data.youku.com
