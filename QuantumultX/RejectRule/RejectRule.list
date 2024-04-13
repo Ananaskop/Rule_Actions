@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-13 14:10:19
+# 更新时间： 2024-04-13 20:13:57
 HOST,aaid.uyunad.com,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
@@ -42,8 +42,6 @@ HOST,dflow.bz.mgtv.com,reject
 HOST,dns.jd.com,reject
 HOST,ems.youku.com,reject
 HOST,encounter.bz.mgtv.com,reject
-HOST,finderks.video.qq.com,reject
-HOST,finderv1.video.qq.com,reject
 HOST,floor.bz.mgtv.com,reject
 HOST,g.koowo.com,reject
 HOST,geo2.adobe.com,reject
