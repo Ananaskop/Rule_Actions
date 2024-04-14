@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-14 02:10:13
+# 更新时间： 2024-04-14 09:00:20
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
@@ -1027,6 +1027,7 @@ payload:
   - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktok.us
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,timestalks.com
