@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-17 02:12:39
+# 更新时间： 2024-04-17 08:45:37
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.okzy.tv
 DOMAIN,apm-misaka.biliapi.net
@@ -1029,6 +1029,8 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktok.us
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.com
 DOMAIN-SUFFIX,timestalks.com
 DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,ttvnw.net
