@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-18 02:12:47
+# 更新时间： 2024-04-18 08:44:00
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,asusrouter.com
@@ -2487,6 +2487,7 @@ payload:
   - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,mscbsc.com
   - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,mshare.cc

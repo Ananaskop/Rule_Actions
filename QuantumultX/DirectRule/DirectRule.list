@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-18 02:12:40
+# 更新时间： 2024-04-18 08:43:53
 HOST,analytics.strava.com,direct
 HOST,asusrouter.com,direct
 HOST,blzddist1-a.akamaihd.net,direct
@@ -2487,6 +2487,7 @@ HOST-SUFFIX,msanjia.com,direct
 HOST-SUFFIX,msauth.net,direct
 HOST-SUFFIX,mscbsc.com,direct
 HOST-SUFFIX,msecnd.net,direct
+HOST-SUFFIX,msedge.net,direct
 HOST-SUFFIX,msftconnecttest.com,direct
 HOST-SUFFIX,msftncsi.com,direct
 HOST-SUFFIX,mshare.cc,direct

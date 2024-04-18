@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-18 02:12:54
+# 更新时间： 2024-04-18 08:44:07
 DOMAIN,analytics.strava.com
 DOMAIN,asusrouter.com
 DOMAIN,blzddist1-a.akamaihd.net
@@ -2486,6 +2486,7 @@ DOMAIN-SUFFIX,msanjia.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,mscbsc.com
 DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,mshare.cc
