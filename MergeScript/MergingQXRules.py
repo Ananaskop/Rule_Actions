@@ -27,7 +27,7 @@ replacements = [
 RULES = {
     "CorrectionRule": {
         "fenliuxiuzheng": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list",
-        "MyCorrectionRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/CorrectionRule.list",
+        "MyCorrectionRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/CorrectionRule.list",
     },
     "RejectRule": {
         "Hijacking": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Hijacking/Hijacking.list",
@@ -36,7 +36,7 @@ RULES = {
     },
     "ProxyRule": {
         "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Proxy/Proxy.list",
-        "MyProxyRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/ProxyRule.list",
+        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/ProxyRule.list",
     },
     "DirectRule": {
         "Lan": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Lan/Lan.list",
@@ -51,7 +51,7 @@ RULES = {
     },
     "StreamingRule": {
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list",
-        "MyStreamingRule": "https://raw.githubusercontent.com/GiveYou32Likes/Profile/main/QuantumultX/Rule/StreamingRule.list",
+        "MyStreamingRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/StreamingRule.list",
     }
 }
 
