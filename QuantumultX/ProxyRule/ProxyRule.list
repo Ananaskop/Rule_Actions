@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-19 02:12:55
+# 更新时间： 2024-04-19 08:44:48
 HOST,api.mojang.com,proxy
 HOST,api.waqi.info,proxy
 HOST,aqi.aqicn.org,proxy
@@ -292,6 +292,7 @@ HOST-SUFFIX,alljackpotscasino.com,proxy
 HOST-SUFFIX,allmovie.com,proxy
 HOST-SUFFIX,allowed.org,proxy
 HOST-SUFFIX,almasdarnews.com,proxy
+HOST-SUFFIX,almostmy.com,proxy
 HOST-SUFFIX,alphaporno.com,proxy
 HOST-SUFFIX,alternate-tools.com,proxy
 HOST-SUFFIX,alternativeto.net,proxy
@@ -1102,6 +1103,7 @@ HOST-SUFFIX,classicalguitarblog.net,proxy
 HOST-SUFFIX,claude.ai,proxy
 HOST-SUFFIX,clb.org.hk,proxy
 HOST-SUFFIX,cleansite.biz,proxy
+HOST-SUFFIX,cleansite.info,proxy
 HOST-SUFFIX,cleansite.us,proxy
 HOST-SUFFIX,clearharmony.net,proxy
 HOST-SUFFIX,clearsurance.com,proxy
@@ -1218,6 +1220,7 @@ HOST-SUFFIX,creativelab5.com,proxy
 HOST-SUFFIX,crisisresponse.google,proxy
 HOST-SUFFIX,crisp.chat,proxy
 HOST-SUFFIX,cristyli.com,proxy
+HOST-SUFFIX,crittercism.com,proxy
 HOST-SUFFIX,crocotube.com,proxy
 HOST-SUFFIX,crossfire.co.kr,proxy
 HOST-SUFFIX,crossthewall.net,proxy
@@ -1559,6 +1562,7 @@ HOST-SUFFIX,edgekey.net,proxy
 HOST-SUFFIX,edgesuite.net,proxy
 HOST-SUFFIX,edicypages.com,proxy
 HOST-SUFFIX,edmontonservice.com,proxy
+HOST-SUFFIX,edns.biz,proxy
 HOST-SUFFIX,edoors.com,proxy
 HOST-SUFFIX,edubridge.com,proxy
 HOST-SUFFIX,edupro.org,proxy
@@ -1689,6 +1693,7 @@ HOST-SUFFIX,ezpeer.com,proxy
 HOST-SUFFIX,ezua.com,proxy
 HOST-SUFFIX,f8.com,proxy
 HOST-SUFFIX,fa.gov.tw,proxy
+HOST-SUFFIX,fabric.io,proxy
 HOST-SUFFIX,facebook.br,proxy
 HOST-SUFFIX,facebook.com,proxy
 HOST-SUFFIX,facebook.design,proxy
@@ -2542,6 +2547,7 @@ HOST-SUFFIX,hdzog.com,proxy
 HOST-SUFFIX,he.net,proxy
 HOST-SUFFIX,heartyit.com,proxy
 HOST-SUFFIX,heavy-r.com,proxy
+HOST-SUFFIX,hec.su,proxy
 HOST-SUFFIX,hecaitou.net,proxy
 HOST-SUFFIX,hechaji.com,proxy
 HOST-SUFFIX,heeact.edu.tw,proxy
@@ -2672,6 +2678,7 @@ HOST-SUFFIX,hnntube.com,proxy
 HOST-SUFFIX,hockeyapp.net,proxy
 HOST-SUFFIX,hojemacau.com.mo,proxy
 HOST-SUFFIX,hola.com,proxy
+HOST-SUFFIX,hola.org,proxy
 HOST-SUFFIX,holymountaincn.com,proxy
 HOST-SUFFIX,holyspiritspeaks.org,proxy
 HOST-SUFFIX,home.sina.com,proxy
@@ -2981,6 +2988,7 @@ HOST-SUFFIX,itemdb.com,proxy
 HOST-SUFFIX,itemfix.com,proxy
 HOST-SUFFIX,itgonglun.com,proxy
 HOST-SUFFIX,ithome.com.tw,proxy
+HOST-SUFFIX,itsaol.com,proxy
 HOST-SUFFIX,itshidden.com,proxy
 HOST-SUFFIX,itsky.it,proxy
 HOST-SUFFIX,itun.es,proxy
@@ -3644,6 +3652,7 @@ HOST-SUFFIX,mrface.com,proxy
 HOST-SUFFIX,mrslove.com,proxy
 HOST-SUFFIX,mrtweet.com,proxy
 HOST-SUFFIX,msa-it.org,proxy
+HOST-SUFFIX,msedge.net,proxy
 HOST-SUFFIX,msguancha.com,proxy
 HOST-SUFFIX,msha.gov,proxy
 HOST-SUFFIX,msn.com,proxy
@@ -3707,6 +3716,7 @@ HOST-SUFFIX,mylftv.com,proxy
 HOST-SUFFIX,mymaji.com,proxy
 HOST-SUFFIX,mymediarom.com,proxy
 HOST-SUFFIX,mymoe.moe,proxy
+HOST-SUFFIX,mymom.info,proxy
 HOST-SUFFIX,mymusic.net.tw,proxy
 HOST-SUFFIX,mynetav.net,proxy
 HOST-SUFFIX,mynetav.org,proxy
@@ -4134,6 +4144,7 @@ HOST-SUFFIX,parse.com,proxy
 HOST-SUFFIX,parsevideo.com,proxy
 HOST-SUFFIX,passion.com,proxy
 HOST-SUFFIX,passiontimes.hk,proxy
+HOST-SUFFIX,paste.ee,proxy
 HOST-SUFFIX,pastebin.com,proxy
 HOST-SUFFIX,pastie.org,proxy
 HOST-SUFFIX,pathtosharepoint.com,proxy
@@ -4398,6 +4409,7 @@ HOST-SUFFIX,pythonic.life,proxy
 HOST-SUFFIX,pytorch.org,proxy
 HOST-SUFFIX,qanote.com,proxy
 HOST-SUFFIX,qgirl.com.tw,proxy
+HOST-SUFFIX,qhigh.com,proxy
 HOST-SUFFIX,qi-gong.me,proxy
 HOST-SUFFIX,qianbai.tw,proxy
 HOST-SUFFIX,qiandao.today,proxy
@@ -5372,6 +5384,7 @@ HOST-SUFFIX,to-porno.com,proxy
 HOST-SUFFIX,todoist.com,proxy
 HOST-SUFFIX,togetter.com,proxy
 HOST-SUFFIX,toggleable.com,proxy
+HOST-SUFFIX,toh.info,proxy
 HOST-SUFFIX,tokyo-247.com,proxy
 HOST-SUFFIX,tokyo-hot.com,proxy
 HOST-SUFFIX,tokyo-porn-tube.com,proxy
@@ -6179,6 +6192,7 @@ HOST-SUFFIX,xvideos.com,proxy
 HOST-SUFFIX,xvideos.es,proxy
 HOST-SUFFIX,xvinlink.com,proxy
 HOST-SUFFIX,xxbbx.com,proxy
+HOST-SUFFIX,xxlmovies.com,proxy
 HOST-SUFFIX,xxuz.com,proxy
 HOST-SUFFIX,xxx.com,proxy
 HOST-SUFFIX,xxx.xxx,proxy

@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-19 02:13:02
+# 更新时间： 2024-04-19 08:44:55
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
@@ -1030,8 +1030,6 @@ payload:
   - DOMAIN-SUFFIX,tiktok.us
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,tiktokv.us
-  - DOMAIN-SUFFIX,tiktokw.com
   - DOMAIN-SUFFIX,timestalks.com
   - DOMAIN-SUFFIX,tospotify.com
   - DOMAIN-SUFFIX,ttvnw.net
@@ -2250,18 +2248,6 @@ payload:
   - IP-CIDR6,2620:120:e000::/40,no-resolve
   - IP-CIDR6,2a00:86c0::/32,no-resolve
   - IP-CIDR6,2a03:5640::/32,no-resolve
-  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
-  - PROCESS-NAME,com.bstar.intl
-  - PROCESS-NAME,com.hktve.viutv
-  - PROCESS-NAME,com.hulu.plus
-  - PROCESS-NAME,com.linecorp.linetv
-  - PROCESS-NAME,com.netflix.mediaclient
-  - PROCESS-NAME,com.tencent.ibg.joox
-  - PROCESS-NAME,com.twgood.android
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
   - PROCESS-NAME,com.vuclip.viu
-  - PROCESS-NAME,com.wbd.stream
-  - PROCESS-NAME,music
-  - PROCESS-NAME,tv
-  - PROCESS-NAME,tv.twitch.android.app
