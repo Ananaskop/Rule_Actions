@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-19 14:13:41
+# 更新时间： 2024-04-19 20:17:40
 HOST,1010pic.com,reject
 HOST,123.56.23.22,reject
 HOST,182.254.116.116,reject
@@ -110,6 +110,7 @@ HOST,afd.baidu.com,reject
 HOST,afdconf.baidu.com,reject
 HOST,afs.googlesyndication.com,reject
 HOST,ali-ad.a.yximgs.com,reject
+HOST,alog.umeng.com,reject
 HOST,amap-aos-info-nogw.amap.com,reject
 HOST,amdc.m.youku.com,reject
 HOST,amdcopen.m.taobao.com,reject
@@ -124,6 +125,7 @@ HOST,analytics.rayjump.com,reject
 HOST,analytics.tiktok.com,reject
 HOST,analytics.woozooo.com,reject
 HOST,analyze.lemurbrowser.com,reject
+HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 HOST,api-access.pangolin-sdk-toutiao.com,reject
 HOST,api-access.pangolin-sdk-toutiao1.com,reject
 HOST,api-access.pangolin-sdk-toutiao2.com,reject
@@ -197,6 +199,8 @@ HOST,collect.kugou.com,reject
 HOST,collector.clue.run,reject
 HOST,commdata.v.qq.com,reject
 HOST,config.chsmarttv.com,reject
+HOST,conn-service-cn-04.allawntech.com,reject
+HOST,conn-service-cn-05.allawntech.com,reject
 HOST,crash2.zhihu.com,reject
 HOST,crashlytics.com,reject
 HOST,crashlyticsreports-pa.googleapis.com,reject
@@ -209,7 +213,6 @@ HOST,data.chsmarttv.com,reject
 HOST,data.mistat.india.xiaomi.com,reject
 HOST,data.mistat.rus.xiaomi.com,reject
 HOST,data.mistat.xiaomi.com,reject
-HOST,dataflow.biliapi.com,reject
 HOST,dflow.bz.mgtv.com,reject
 HOST,diagnosis.ad.xiaomi.com,reject
 HOST,dig.bdurl.net,reject
@@ -261,6 +264,7 @@ HOST,gromore.pangolin-sdk-toutiao.com,reject
 HOST,grs.dbankcloud.com,reject
 HOST,grs.hicloud.com,reject
 HOST,grs.platform.dbankcloud.ru,reject
+HOST,gslb.hpplay.cn,reject
 HOST,h-adashx.ut.taobao.com,reject
 HOST,h.trace.qq.com,reject
 HOST,hdns.ksyun.com,reject
@@ -324,6 +328,7 @@ HOST,ipv4.music.163.com,reject
 HOST,ipv6.music.163.com,reject
 HOST,irc.qubiankeji.com,reject
 HOST,is.snssdk.com,reject
+HOST,itv2-up.openspeech.cn,reject
 HOST,ixav-cse.avlyun.com,reject
 HOST,iyes.youku.com,reject
 HOST,iyfbodn.com,reject
@@ -360,6 +365,7 @@ HOST,log-upload-os.hoyoverse.com,reject
 HOST,log-upload.mihoyo.com,reject
 HOST,log.ad.xiaomi.com,reject
 HOST,log.aispeech.com,reject
+HOST,log.amemv.com,reject
 HOST,log.appstore3.huan.tv,reject
 HOST,log.avlyun.com,reject
 HOST,log.avlyun.sec.intl.miui.com,reject
@@ -392,6 +398,7 @@ HOST,masdkv6.3g.qq.com,reject
 HOST,mazu.m.qq.com,reject
 HOST,mc.atm.youku.com,reject
 HOST,md-i-s.apptimize.com,reject
+HOST,mdp-appconf-in.heytapdl.com,reject
 HOST,mdp-usertrace-cn.heytapmobi.com,reject
 HOST,mediation.adnxs.com,reject
 HOST,metok.sys.miui.com,reject
@@ -403,6 +410,7 @@ HOST,metrics.mzstatic.com,reject
 HOST,metrics2.data.hicloud.com,reject
 HOST,mi.gdt.qq.com,reject
 HOST,miav-cse.avlyun.com,reject
+HOST,mime.baidu.com,reject
 HOST,mine.baidu.com,reject
 HOST,mission-pub.smart-tv.cn,reject
 HOST,miui-fxcse.avlyun.com,reject
@@ -462,6 +470,7 @@ HOST,pagead2.googlesyndication.com,reject
 HOST,pageviewp.icbc.com.cn,reject
 HOST,panglelog.gz.bcebos.com,reject
 HOST,pangolin-sdk-toutiao-b.com,reject
+HOST,pay.sboot.cn,reject
 HOST,pgdt.gtimg.cn,reject
 HOST,pgdt.ugdtimg.com,reject
 HOST,pglstatp-toutiao.com,reject
@@ -485,6 +494,7 @@ HOST,review.gdtimg.com,reject
 HOST,rich.kuwo.cn,reject
 HOST,rms-drcn.platform.dbankcloud.cn,reject
 HOST,roi.soulapp.cn,reject
+HOST,rp.hpplay.cn,reject
 HOST,rprain.bz.mgtv.com,reject
 HOST,rprain.log.mgtv.com,reject
 HOST,rpt.gdt.qq.com,reject
@@ -497,12 +507,14 @@ HOST,samsungads.com,reject
 HOST,sanme2.taisantech.com,reject
 HOST,saveu5-normal-lq.zijieapi.com,reject
 HOST,scdown.qq.com,reject
+HOST,scs.openspeech.cn,reject
 HOST,sdk-ab-config.qquanquan.com,reject
 HOST,sdk-cache.video.ptqy.gitv.tv,reject
 HOST,sdk.beizi.biz,reject
 HOST,sdk.e.qq.com,reject
 HOST,sdk.hzsanjiaomao.com,reject
 HOST,sdk.mobads.adwangmai.com,reject
+HOST,sdkauth.hpplay.cn,reject
 HOST,sdkconf.avlyun.com,reject
 HOST,sdkconfig.ad.intl.xiaomi.com,reject
 HOST,sdkconfig.ad.xiaomi.com,reject
@@ -526,6 +538,7 @@ HOST,sigmob.com,reject
 HOST,sin3-ib.adnxs.com,reject
 HOST,skdisplay.jd.com,reject
 HOST,slb-p2p.vcloud.ks-live.com,reject
+HOST,smart-tv.cn,reject
 HOST,smartad.10010.com,reject
 HOST,smetrics.samsung.com,reject
 HOST,sms.ads.oppomobile.com,reject
@@ -546,6 +559,7 @@ HOST,syh-imp.cdnjtzy.com,reject
 HOST,t-dsp.pinduoduo.com,reject
 HOST,t.l.qq.com,reject
 HOST,t.track.ad.xiaomi.com,reject
+HOST,t002.ottcn.com,reject
 HOST,t1.a.market.xiaomi.com,reject
 HOST,t2.a.market.xiaomi.com,reject
 HOST,t3.a.market.xiaomi.com,reject
@@ -585,6 +599,7 @@ HOST,tracker.ai.xiaomi.com,reject
 HOST,tracker.gitee.com,reject
 HOST,tracking.miui.com,reject
 HOST,tracking.rus.miui.com,reject
+HOST,tvapp.hpplay.cn,reject
 HOST,tvuser-ch.cedock.com,reject
 HOST,tx-ad.a.yximgs.com,reject
 HOST,tx-kmpaudio.pull.yximgs.com,reject
@@ -613,6 +628,7 @@ HOST,vali-g1.cp31.ott.cibntv.net,reject
 HOST,vali-ugc.cp31.ott.cibntv.net,reject
 HOST,video-dsp.pddpic.com,reject
 HOST,vip.bz.mgtv.com,reject
+HOST,virusinfo-cloudscan-cn.heytapmobi.com,reject
 HOST,vlive.qqvideo.tc.qq.com,reject
 HOST,vungle.com,reject
 HOST,w.l.qq.com,reject

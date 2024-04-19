@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-19 14:13:48
+# 更新时间： 2024-04-19 20:17:48
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,123.56.23.22
@@ -111,6 +111,7 @@ payload:
   - DOMAIN,afdconf.baidu.com
   - DOMAIN,afs.googlesyndication.com
   - DOMAIN,ali-ad.a.yximgs.com
+  - DOMAIN,alog.umeng.com
   - DOMAIN,amap-aos-info-nogw.amap.com
   - DOMAIN,amdc.m.youku.com
   - DOMAIN,amdcopen.m.taobao.com
@@ -125,6 +126,7 @@ payload:
   - DOMAIN,analytics.tiktok.com
   - DOMAIN,analytics.woozooo.com
   - DOMAIN,analyze.lemurbrowser.com
+  - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN,api-access.pangolin-sdk-toutiao.com
   - DOMAIN,api-access.pangolin-sdk-toutiao1.com
   - DOMAIN,api-access.pangolin-sdk-toutiao2.com
@@ -198,6 +200,8 @@ payload:
   - DOMAIN,collector.clue.run
   - DOMAIN,commdata.v.qq.com
   - DOMAIN,config.chsmarttv.com
+  - DOMAIN,conn-service-cn-04.allawntech.com
+  - DOMAIN,conn-service-cn-05.allawntech.com
   - DOMAIN,crash2.zhihu.com
   - DOMAIN,crashlytics.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
@@ -210,7 +214,6 @@ payload:
   - DOMAIN,data.mistat.india.xiaomi.com
   - DOMAIN,data.mistat.rus.xiaomi.com
   - DOMAIN,data.mistat.xiaomi.com
-  - DOMAIN,dataflow.biliapi.com
   - DOMAIN,dflow.bz.mgtv.com
   - DOMAIN,diagnosis.ad.xiaomi.com
   - DOMAIN,dig.bdurl.net
@@ -262,6 +265,7 @@ payload:
   - DOMAIN,grs.dbankcloud.com
   - DOMAIN,grs.hicloud.com
   - DOMAIN,grs.platform.dbankcloud.ru
+  - DOMAIN,gslb.hpplay.cn
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,h.trace.qq.com
   - DOMAIN,hdns.ksyun.com
@@ -325,6 +329,7 @@ payload:
   - DOMAIN,ipv6.music.163.com
   - DOMAIN,irc.qubiankeji.com
   - DOMAIN,is.snssdk.com
+  - DOMAIN,itv2-up.openspeech.cn
   - DOMAIN,ixav-cse.avlyun.com
   - DOMAIN,iyes.youku.com
   - DOMAIN,iyfbodn.com
@@ -361,6 +366,7 @@ payload:
   - DOMAIN,log-upload.mihoyo.com
   - DOMAIN,log.ad.xiaomi.com
   - DOMAIN,log.aispeech.com
+  - DOMAIN,log.amemv.com
   - DOMAIN,log.appstore3.huan.tv
   - DOMAIN,log.avlyun.com
   - DOMAIN,log.avlyun.sec.intl.miui.com
@@ -393,6 +399,7 @@ payload:
   - DOMAIN,mazu.m.qq.com
   - DOMAIN,mc.atm.youku.com
   - DOMAIN,md-i-s.apptimize.com
+  - DOMAIN,mdp-appconf-in.heytapdl.com
   - DOMAIN,mdp-usertrace-cn.heytapmobi.com
   - DOMAIN,mediation.adnxs.com
   - DOMAIN,metok.sys.miui.com
@@ -404,6 +411,7 @@ payload:
   - DOMAIN,metrics2.data.hicloud.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,miav-cse.avlyun.com
+  - DOMAIN,mime.baidu.com
   - DOMAIN,mine.baidu.com
   - DOMAIN,mission-pub.smart-tv.cn
   - DOMAIN,miui-fxcse.avlyun.com
@@ -463,6 +471,7 @@ payload:
   - DOMAIN,pageviewp.icbc.com.cn
   - DOMAIN,panglelog.gz.bcebos.com
   - DOMAIN,pangolin-sdk-toutiao-b.com
+  - DOMAIN,pay.sboot.cn
   - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,pgdt.ugdtimg.com
   - DOMAIN,pglstatp-toutiao.com
@@ -486,6 +495,7 @@ payload:
   - DOMAIN,rich.kuwo.cn
   - DOMAIN,rms-drcn.platform.dbankcloud.cn
   - DOMAIN,roi.soulapp.cn
+  - DOMAIN,rp.hpplay.cn
   - DOMAIN,rprain.bz.mgtv.com
   - DOMAIN,rprain.log.mgtv.com
   - DOMAIN,rpt.gdt.qq.com
@@ -498,12 +508,14 @@ payload:
   - DOMAIN,sanme2.taisantech.com
   - DOMAIN,saveu5-normal-lq.zijieapi.com
   - DOMAIN,scdown.qq.com
+  - DOMAIN,scs.openspeech.cn
   - DOMAIN,sdk-ab-config.qquanquan.com
   - DOMAIN,sdk-cache.video.ptqy.gitv.tv
   - DOMAIN,sdk.beizi.biz
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,sdk.hzsanjiaomao.com
   - DOMAIN,sdk.mobads.adwangmai.com
+  - DOMAIN,sdkauth.hpplay.cn
   - DOMAIN,sdkconf.avlyun.com
   - DOMAIN,sdkconfig.ad.intl.xiaomi.com
   - DOMAIN,sdkconfig.ad.xiaomi.com
@@ -527,6 +539,7 @@ payload:
   - DOMAIN,sin3-ib.adnxs.com
   - DOMAIN,skdisplay.jd.com
   - DOMAIN,slb-p2p.vcloud.ks-live.com
+  - DOMAIN,smart-tv.cn
   - DOMAIN,smartad.10010.com
   - DOMAIN,smetrics.samsung.com
   - DOMAIN,sms.ads.oppomobile.com
@@ -547,6 +560,7 @@ payload:
   - DOMAIN,t-dsp.pinduoduo.com
   - DOMAIN,t.l.qq.com
   - DOMAIN,t.track.ad.xiaomi.com
+  - DOMAIN,t002.ottcn.com
   - DOMAIN,t1.a.market.xiaomi.com
   - DOMAIN,t2.a.market.xiaomi.com
   - DOMAIN,t3.a.market.xiaomi.com
@@ -586,6 +600,7 @@ payload:
   - DOMAIN,tracker.gitee.com
   - DOMAIN,tracking.miui.com
   - DOMAIN,tracking.rus.miui.com
+  - DOMAIN,tvapp.hpplay.cn
   - DOMAIN,tvuser-ch.cedock.com
   - DOMAIN,tx-ad.a.yximgs.com
   - DOMAIN,tx-kmpaudio.pull.yximgs.com
@@ -614,6 +629,7 @@ payload:
   - DOMAIN,vali-ugc.cp31.ott.cibntv.net
   - DOMAIN,video-dsp.pddpic.com
   - DOMAIN,vip.bz.mgtv.com
+  - DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
   - DOMAIN,vlive.qqvideo.tc.qq.com
   - DOMAIN,vungle.com
   - DOMAIN,w.l.qq.com
