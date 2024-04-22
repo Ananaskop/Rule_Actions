@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-22 20:19:14
+# 更新时间： 2024-04-23 02:12:05
 HOST,1010pic.com,reject
 HOST,123.56.23.22,reject
 HOST,182.254.116.116,reject
@@ -565,7 +565,6 @@ HOST,t2.a.market.xiaomi.com,reject
 HOST,t3.a.market.xiaomi.com,reject
 HOST,tangram.e.qq.com,reject
 HOST,tdc.qq.com,reject
-HOST,tdid.m.qq.com,reject
 HOST,tdsdk.cpatrk.net,reject
 HOST,tdsdk.xdrig.com,reject
 HOST,terms-drcn.platform.dbankcloud.cn,reject

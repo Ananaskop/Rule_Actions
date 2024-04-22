@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-22 20:19:21
+# 更新时间： 2024-04-23 02:12:13
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,123.56.23.22
@@ -566,7 +566,6 @@ payload:
   - DOMAIN,t3.a.market.xiaomi.com
   - DOMAIN,tangram.e.qq.com
   - DOMAIN,tdc.qq.com
-  - DOMAIN,tdid.m.qq.com
   - DOMAIN,tdsdk.cpatrk.net
   - DOMAIN,tdsdk.xdrig.com
   - DOMAIN,terms-drcn.platform.dbankcloud.cn
