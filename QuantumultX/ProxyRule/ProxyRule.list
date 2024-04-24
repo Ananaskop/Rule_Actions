@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-24 02:12:26
+# 更新时间： 2024-04-24 08:44:56
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -1534,8 +1534,6 @@ HOST-SUFFIX,akadeem.net,proxy
 HOST-SUFFIX,akademiye.org,proxy
 HOST-SUFFIX,akadns.com,proxy
 HOST-SUFFIX,akadns6.net,proxy
-HOST-SUFFIX,akadns88.net,proxy
-HOST-SUFFIX,akadns99.net,proxy
 HOST-SUFFIX,akaeai.com,proxy
 HOST-SUFFIX,akafms.net,proxy
 HOST-SUFFIX,akagtm.org,proxy
@@ -7318,7 +7316,6 @@ HOST-SUFFIX,edgecastcdn.net,proxy
 HOST-SUFFIX,edgedatg.com,proxy
 HOST-SUFFIX,edgefonts.net,proxy
 HOST-SUFFIX,edgekey.net,proxy
-HOST-SUFFIX,edgekey88.net,proxy
 HOST-SUFFIX,edgemeplease.com,proxy
 HOST-SUFFIX,edgesuite.net,proxy
 HOST-SUFFIX,edicypages.com,proxy
@@ -8524,6 +8521,7 @@ HOST-SUFFIX,firstpelvicexam.com,proxy
 HOST-SUFFIX,firstpost.com,proxy
 HOST-SUFFIX,firstrade.com,proxy
 HOST-SUFFIX,fishmpegs.com,proxy
+HOST-SUFFIX,fitgirl-repacks.site,proxy
 HOST-SUFFIX,fitnakedgirls.com,proxy
 HOST-SUFFIX,fivestarpornsites.com,proxy
 HOST-SUFFIX,fixtracking.com,proxy
