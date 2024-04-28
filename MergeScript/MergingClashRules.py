@@ -54,7 +54,7 @@ RULES = {
 
 
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
-TYPES = "Stash"
+TYPES = "Clash"
 file_paths = [TYPES + "/" + rule for rule in RULES.keys()]
 
 def download_and_save_file(url, target_path):
