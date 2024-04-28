@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-28 20:17:44
+# 更新时间： 2024-04-29 02:11:51
 HOST,1010pic.com,reject
 HOST,123.56.23.22,reject
 HOST,182.254.116.116,reject
@@ -551,7 +551,6 @@ HOST,staticsns.cdn.bcebos.com,reject
 HOST,stats.qiumibao.com,reject
 HOST,statsigapi.net,reject
 HOST,stg-data.ads.heytapmobi.com,reject
-HOST,storage.moegirl.org.cn,reject
 HOST,success.ctobsnssdk.com,reject
 HOST,sugar.zhihu.com,reject
 HOST,switch.cup.com.cn,reject
