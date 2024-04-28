@@ -26,7 +26,7 @@ replacements = [
 
 RULES = {
     "CorrectionRule": {
-        "fenliuxiuzheng": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list",
+        "Direct": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Direct/Direct.list",
         "MyCorrectionRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/CorrectionRule.list",
     },
     "RejectRule": {
