@@ -46,10 +46,10 @@ https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/QuantumultX/ProxyR
 ## Stash 使用
 ```
 rule-providers:
-  CorrectionRule: {!!merge <<: *c, path: ./rule_provider/CorrectionRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Stash/CorrectionRule/CorrectionRule.yaml'}
-  RejectRule: {!!merge <<: *c, path: ./rule_provider/RejectRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Stash/RejectRule/RejectRule.yaml'}
-  StreamingRule: {!!merge <<: *c, path: ./rule_provider/StreamingRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Stash/StreamingRule/StreamingRule.yaml'}
-  USRule: {!!merge <<: *c, path: ./rule_provider/USRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Stash/USRule/USRule.yaml'}  
-  ProxyRule: {!!merge <<: *c, path: ./rule_provider/ProxyRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Stash/ProxyRule/ProxyRule.yaml'}
-  DirectRule: {!!merge <<: *c, path: ./rule_provider/DirectRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Stash/DirectRule/DirectRule.yaml'}
+  CorrectionRule: {!!merge <<: *c, path: ./rule_provider/CorrectionRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Clash/CorrectionRule/CorrectionRule.yaml'}
+  RejectRule: {!!merge <<: *c, path: ./rule_provider/RejectRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Clash/RejectRule/RejectRule.yaml'}
+  StreamingRule: {!!merge <<: *c, path: ./rule_provider/StreamingRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Clash/StreamingRule/StreamingRule.yaml'}
+  USRule: {!!merge <<: *c, path: ./rule_provider/USRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Clash/USRule/USRule.yaml'}  
+  ProxyRule: {!!merge <<: *c, path: ./rule_provider/ProxyRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Clash/ProxyRule/ProxyRule.yaml'}
+  DirectRule: {!!merge <<: *c, path: ./rule_provider/DirectRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Clash/DirectRule/DirectRule.yaml'}
 ```
