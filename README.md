@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/QuantumultX/USRule
 https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/QuantumultX/DirectRule/DirectRule.list, tag=DirectRule, force-policy=direct, update-interval=86400, opt-parser=true, inserted-resource=true, enabled=true
 https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/QuantumultX/ProxyRule/ProxyRule.list, tag=ProxyRule, force-policy=proxy, update-interval=172800, opt-parser=false, inserted-resource=true, enabled=true
 ```
-## Stash 使用
+## Clash 使用
 ```
 rule-providers:
   CorrectionRule: {!!merge <<: *c, path: ./rule_provider/CorrectionRule.yaml, url: 'https://raw.githubusercontent.com/Ananaskop/Rule_Actions/main/Clash/CorrectionRule/CorrectionRule.yaml'}
