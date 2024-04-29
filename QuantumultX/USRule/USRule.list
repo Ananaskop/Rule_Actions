@@ -1,10 +1,11 @@
-# 更新时间： 2024-04-29 08:46:56
+# 更新时间： 2024-04-29 14:13:53
 HOST,ai.google.dev,US
 HOST,alkalimakersuite-pa.clients6.google.com,US
 HOST,browser-intake-datadoghq.com,US
 HOST,makersuite.google.com,US
 HOST,servd-anthropic-website.b-cdn.net,US
 HOST,static.cloudflareinsights.com,US
+HOST,www.paypal-mktg.com,US
 HOST-KEYWORD,colab,US
 HOST-KEYWORD,developerprofiles,US
 HOST-KEYWORD,generativelanguage,US
@@ -252,7 +253,6 @@ HOST-SUFFIX,paypaly.com,US
 HOST-SUFFIX,payppal.com,US
 HOST-SUFFIX,payypal.com,US
 HOST-SUFFIX,pdncommunity.com,US
-HOST-SUFFIX,poe.com,US
 HOST-SUFFIX,pp-soc.com,US
 HOST-SUFFIX,ppaypal.com,US
 HOST-SUFFIX,pppds.com,US

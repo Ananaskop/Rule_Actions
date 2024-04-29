@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-29 08:47:04
+# 更新时间： 2024-04-29 14:14:02
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -253,7 +253,6 @@ payload:
   - DOMAIN-SUFFIX,payppal.com
   - DOMAIN-SUFFIX,payypal.com
   - DOMAIN-SUFFIX,pdncommunity.com
-  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,pp-soc.com
   - DOMAIN-SUFFIX,ppaypal.com
   - DOMAIN-SUFFIX,pppds.com
@@ -297,5 +296,6 @@ payload:
   - DOMAIN-SUFFIX,xoom.net.cn
   - DOMAIN-SUFFIX,xoom.us
   - DOMAIN-SUFFIX,xoomcom.com
+  - IP-ASN,20473,no-resolve
   - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,64.23.132.171/32,no-resolve

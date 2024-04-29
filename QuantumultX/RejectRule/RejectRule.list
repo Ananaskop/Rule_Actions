@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-29 08:46:54
+# 更新时间： 2024-04-29 14:13:52
 HOST,1010pic.com,reject
 HOST,123.56.23.22,reject
 HOST,182.254.116.116,reject
@@ -199,8 +199,6 @@ HOST,collect.kugou.com,reject
 HOST,collector.clue.run,reject
 HOST,commdata.v.qq.com,reject
 HOST,config.chsmarttv.com,reject
-HOST,conn-service-cn-04.allawntech.com,reject
-HOST,conn-service-cn-05.allawntech.com,reject
 HOST,crash2.zhihu.com,reject
 HOST,crashlytics.com,reject
 HOST,crashlyticsreports-pa.googleapis.com,reject
@@ -281,7 +279,6 @@ HOST,httpdns.baidubce.com,reject
 HOST,httpdns.bcelive.com,reject
 HOST,httpdns.bilivideo.com,reject
 HOST,httpdns.c.cdnhwc2.com,reject
-HOST,httpdns.huaweicloud.com,reject
 HOST,httpdns.meituan.com,reject
 HOST,httpdns.music.163.com,reject
 HOST,httpdns.n.netease.com,reject
@@ -398,8 +395,6 @@ HOST,masdkv6.3g.qq.com,reject
 HOST,mazu.m.qq.com,reject
 HOST,mc.atm.youku.com,reject
 HOST,md-i-s.apptimize.com,reject
-HOST,mdp-appconf-in.heytapdl.com,reject
-HOST,mdp-usertrace-cn.heytapmobi.com,reject
 HOST,mediation.adnxs.com,reject
 HOST,metok.sys.miui.com,reject
 HOST,metrics-picture.d.meituan.net,reject

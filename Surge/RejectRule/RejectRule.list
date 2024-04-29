@@ -1,4 +1,4 @@
-# 更新时间： 2024-04-29 08:47:12
+# 更新时间： 2024-04-29 14:14:09
 DOMAIN,1010pic.com
 DOMAIN,123.56.23.22
 DOMAIN,182.254.116.116
@@ -199,8 +199,6 @@ DOMAIN,collect.kugou.com
 DOMAIN,collector.clue.run
 DOMAIN,commdata.v.qq.com
 DOMAIN,config.chsmarttv.com
-DOMAIN,conn-service-cn-04.allawntech.com
-DOMAIN,conn-service-cn-05.allawntech.com
 DOMAIN,crash2.zhihu.com
 DOMAIN,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
@@ -281,7 +279,6 @@ DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.bilivideo.com
 DOMAIN,httpdns.c.cdnhwc2.com
-DOMAIN,httpdns.huaweicloud.com
 DOMAIN,httpdns.meituan.com
 DOMAIN,httpdns.music.163.com
 DOMAIN,httpdns.n.netease.com
@@ -398,8 +395,6 @@ DOMAIN,masdkv6.3g.qq.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mc.atm.youku.com
 DOMAIN,md-i-s.apptimize.com
-DOMAIN,mdp-appconf-in.heytapdl.com
-DOMAIN,mdp-usertrace-cn.heytapmobi.com
 DOMAIN,mediation.adnxs.com
 DOMAIN,metok.sys.miui.com
 DOMAIN,metrics-picture.d.meituan.net
