@@ -1,9 +1,10 @@
-# 更新时间： 2024-05-02 08:45:19
+# 更新时间： 2024-05-02 14:13:26
 HOST,1010pic.com,reject
 HOST,123.56.23.22,reject
 HOST,182.254.116.116,reject
 HOST,203.205.137.89,reject
 HOST,8le8le.com,reject
+HOST,a.cpic.com.cn,reject
 HOST,a0.app.xiaomi.com,reject
 HOST,aaid.umeng.com,reject
 HOST,aaid.uyunad.com,reject
@@ -320,6 +321,7 @@ HOST,img.adnyg.com.w.kunlungr.com,reject
 HOST,imtmp.net,reject
 HOST,info4.video.qq.com,reject
 HOST,info6.video.qq.com,reject
+HOST,init.supersonicads.com,reject
 HOST,ios.video.mpush.qq.com,reject
 HOST,ipv4.music.163.com,reject
 HOST,ipv6.music.163.com,reject
@@ -659,6 +661,7 @@ HOST,win.gdt.qq.com,reject
 HOST,wn.x.jd.com,reject
 HOST,ws-keyboard.shouji.sogou.com,reject
 HOST,ws.sj.qq.com,reject
+HOST,ws.tapjoyads.com,reject
 HOST,www.googleadservices.com,reject
 HOST,www42.zskwai.com,reject
 HOST,wxa.wxs.qq.com,reject
@@ -737,6 +740,8 @@ HOST-SUFFIX,advp.apple.com,reject
 HOST-SUFFIX,akuai.top,reject
 HOST-SUFFIX,alienskins.cn,reject
 HOST-SUFFIX,anydeskchina.cn,reject
+HOST-SUFFIX,appsflyer.com,reject
+HOST-SUFFIX,appsflyersdk.com,reject
 HOST-SUFFIX,atplay.cn,reject
 HOST-SUFFIX,baiwanchuangyi.com,reject
 HOST-SUFFIX,bartender.cc,reject
