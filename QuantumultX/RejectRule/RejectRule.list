@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-02 14:13:26
+# 更新时间： 2024-05-02 20:18:41
 HOST,1010pic.com,reject
 HOST,123.56.23.22,reject
 HOST,182.254.116.116,reject
@@ -20,7 +20,6 @@ HOST,ad.12306.cn,reject
 HOST,ad.51wnl.com,reject
 HOST,ad.bwton.com,reject
 HOST,ad.cyapi.cn,reject
-HOST,ad.flurry.com,reject
 HOST,ad.partner.gifshow.com,reject
 HOST,ad.qingting.fm,reject
 HOST,ad.qq.com,reject
@@ -46,7 +45,6 @@ HOST,adfilter.imtt.qq.com,reject
 HOST,adjust.cn,reject
 HOST,adkwai.com,reject
 HOST,adlink-api.huan.tv,reject
-HOST,adlog.flurry.com,reject
 HOST,ads-api-o.api.leiniao.com,reject
 HOST,ads-api.tiktok.com,reject
 HOST,ads-api.twitter.com,reject
@@ -54,7 +52,6 @@ HOST,ads-img-qc.xhscdn.com,reject
 HOST,ads-video-al.xhscdn.com,reject
 HOST,ads-video-qc.xhscdn.com,reject
 HOST,ads.95516.com,reject
-HOST,ads.flurry.com,reject
 HOST,ads.google.cn,reject
 HOST,ads.heytapmobi.com,reject
 HOST,ads.huan.tv,reject
@@ -465,7 +462,6 @@ HOST,pagead2.googleadservices.com,reject
 HOST,pagead2.googlesyndication-cn.com,reject
 HOST,pagead2.googlesyndication.com,reject
 HOST,pageviewp.icbc.com.cn,reject
-HOST,panglelog.gz.bcebos.com,reject
 HOST,pangolin-sdk-toutiao-b.com,reject
 HOST,pay.sboot.cn,reject
 HOST,pgdt.gtimg.cn,reject

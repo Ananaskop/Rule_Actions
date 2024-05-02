@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-02 14:13:35
+# 更新时间： 2024-05-02 20:18:50
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,123.56.23.22
@@ -21,7 +21,6 @@ payload:
   - DOMAIN,ad.51wnl.com
   - DOMAIN,ad.bwton.com
   - DOMAIN,ad.cyapi.cn
-  - DOMAIN,ad.flurry.com
   - DOMAIN,ad.partner.gifshow.com
   - DOMAIN,ad.qingting.fm
   - DOMAIN,ad.qq.com
@@ -47,7 +46,6 @@ payload:
   - DOMAIN,adjust.cn
   - DOMAIN,adkwai.com
   - DOMAIN,adlink-api.huan.tv
-  - DOMAIN,adlog.flurry.com
   - DOMAIN,ads-api-o.api.leiniao.com
   - DOMAIN,ads-api.tiktok.com
   - DOMAIN,ads-api.twitter.com
@@ -55,7 +53,6 @@ payload:
   - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
   - DOMAIN,ads.95516.com
-  - DOMAIN,ads.flurry.com
   - DOMAIN,ads.google.cn
   - DOMAIN,ads.heytapmobi.com
   - DOMAIN,ads.huan.tv
@@ -466,7 +463,6 @@ payload:
   - DOMAIN,pagead2.googlesyndication-cn.com
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,pageviewp.icbc.com.cn
-  - DOMAIN,panglelog.gz.bcebos.com
   - DOMAIN,pangolin-sdk-toutiao-b.com
   - DOMAIN,pay.sboot.cn
   - DOMAIN,pgdt.gtimg.cn
