@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-03 20:17:32
+# 更新时间： 2024-05-04 02:12:48
 HOST,1010pic.com,reject
 HOST,123.56.23.22,reject
 HOST,182.254.116.116,reject
@@ -651,7 +651,6 @@ HOST,w1.yskwai.com,reject
 HOST,w1.zskwai.com,reject
 HOST,weather-analytics-events.apple.com,reject
 HOST,weather-community-drcn.weather.dbankcloud.cn,reject
-HOST,weather-drcn.music.dbankcloud.cn,reject
 HOST,webstat.qiumibao.com,reject
 HOST,win.gdt.qq.com,reject
 HOST,wn.x.jd.com,reject

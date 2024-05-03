@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-03 20:17:41
+# 更新时间： 2024-05-04 02:12:56
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,123.56.23.22
@@ -652,7 +652,6 @@ payload:
   - DOMAIN,w1.zskwai.com
   - DOMAIN,weather-analytics-events.apple.com
   - DOMAIN,weather-community-drcn.weather.dbankcloud.cn
-  - DOMAIN,weather-drcn.music.dbankcloud.cn
   - DOMAIN,webstat.qiumibao.com
   - DOMAIN,win.gdt.qq.com
   - DOMAIN,wn.x.jd.com
