@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-05 20:17:10
+# 更新时间： 2024-05-06 00:17:02
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -19,6 +19,7 @@ HOST,app.appsflyer.com,direct
 HOST,app.chat.xiaomi.net,direct
 HOST,appsflyer.com,direct
 HOST,bdtj.tagtic.cn,direct
+HOST,boxer.baidu.com,direct
 HOST,cdn.jsdelivr.net,direct
 HOST,clientservices.googleapis.com,direct
 HOST,cm.emby.ws,direct
