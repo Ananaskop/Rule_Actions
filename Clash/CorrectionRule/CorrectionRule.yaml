@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-09 02:13:52
+# 更新时间： 2024-05-09 07:16:37
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -19,6 +19,7 @@ payload:
   - DOMAIN,app.appsflyer.com
   - DOMAIN,app.chat.xiaomi.net
   - DOMAIN,appsflyer.com
+  - DOMAIN,baikebcs.bdimg.com
   - DOMAIN,bdtj.tagtic.cn
   - DOMAIN,boxer.baidu.com
   - DOMAIN,cdn.jsdelivr.net
