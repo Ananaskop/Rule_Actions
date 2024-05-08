@@ -8,8 +8,13 @@ import requests
 from concurrent.futures import ThreadPoolExecutor
 
 def count_non_comment_lines(file_path):
+    non_comment_lines = 0
     with open(file_path, 'r') as f:
-        return sum(1 for line in f if not line.strip().startswith('#'))
+        for line in f:
+            if not line.strip().startswith('#'):
+                non_comment_lines += 1
+    return non_comment_lines
+
 
 # 正则表达式替换规则
 replacements = [
