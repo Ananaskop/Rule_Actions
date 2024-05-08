@@ -7,14 +7,6 @@ import time
 import requests
 from concurrent.futures import ThreadPoolExecutor
 
-def count_non_comment_lines(file_path):
-    non_comment_lines = 0
-    with open(file_path, 'r') as f:
-        for line in f:
-                non_comment_lines += 1
-    return non_comment_lines
-
-
 # 正则表达式替换规则
 replacements = [
     (r'\s+', ''),
@@ -113,11 +105,9 @@ def merge_and_deduplicate_files(path):
     output_file_path = os.path.join(path, f"{os.path.basename(path)}.yaml")
     with open(output_file_path, 'w', encoding='utf8') as out_f:
         # 插入当前时间行
-        non_comment_lines = count_non_comment_lines(output_file_path)
         china_timezone = pytz.timezone('Asia/Shanghai')
         current_time = datetime.datetime.now(china_timezone).strftime("%Y-%m-%d %H:%M:%S")
         out_f.write(f"# 更新时间： {current_time}\n")
-        out_f.write(f"# 行数： {non_comment_lines}\n")
         data_set = set()  # 使用集合去重
         for file_name in os.listdir(path):
             file_path = os.path.join(path, file_name)
