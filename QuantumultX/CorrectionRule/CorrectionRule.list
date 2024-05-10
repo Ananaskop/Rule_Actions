@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-10 08:46:51
+# 更新时间： 2024-05-10 08:50:02
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -22,6 +22,7 @@ HOST,baikebcs.bdimg.com,direct
 HOST,bdtj.tagtic.cn,direct
 HOST,boxer.baidu.com,direct
 HOST,cdn.jsdelivr.net,direct
+HOST,click.simba.taobao.com,direct
 HOST,clientservices.googleapis.com,direct
 HOST,cm.emby.ws,direct
 HOST,ct.emby.ws,direct

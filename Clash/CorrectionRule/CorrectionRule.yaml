@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-10 08:46:59
+# 更新时间： 2024-05-10 08:50:09
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -23,6 +23,7 @@ payload:
   - DOMAIN,bdtj.tagtic.cn
   - DOMAIN,boxer.baidu.com
   - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,click.simba.taobao.com
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,cm.emby.ws
   - DOMAIN,ct.emby.ws
