@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-10 20:18:18
+# 更新时间： 2024-05-11 02:13:35
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,1010pic.com
@@ -119,6 +119,7 @@ DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 DOMAIN,ads.youtube.com
 DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal-lf.zijieapi.com
 DOMAIN,ads3-normal-lq.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
@@ -249,7 +250,6 @@ DOMAIN,ata-sdk-uuid-report.dreport.meituan.net
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,audid-api.taobao.com
 DOMAIN,audid.umeng.com
-DOMAIN,authenticate.chiq-cloud.com
 DOMAIN,azr.footprintdns.com
 DOMAIN,b1-data.ads.heytapmobi.com
 DOMAIN,baichuan-sdk.alicdn.com
@@ -288,6 +288,7 @@ DOMAIN,cdn.adapi.fotoable.com
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cfg.imtt.qq.com
 DOMAIN,chat1.jd.com
+DOMAIN,chiq-cloud.com
 DOMAIN,ck.ads.oppomobile.com
 DOMAIN,clog.miguvideo.com
 DOMAIN,cm-10-138.getui.com
@@ -398,7 +399,6 @@ DOMAIN,gromore.pangolin-sdk-toutiao.com
 DOMAIN,grs.dbankcloud.com
 DOMAIN,grs.hicloud.com
 DOMAIN,grs.platform.dbankcloud.ru
-DOMAIN,gslb.hpplay.cn
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.trace.qq.com
 DOMAIN,hdns.ksyun.com
@@ -408,6 +408,7 @@ DOMAIN,hiboard-drcn.ai.dbankcloud.cn
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,holmeshelptest.uc.cn
+DOMAIN,hpplay.cn
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
 DOMAIN,httpdns.alicdn.com
@@ -487,7 +488,6 @@ DOMAIN,ixav-cse.avlyun.com
 DOMAIN,iyes.youku.com
 DOMAIN,iyfbodn.com
 DOMAIN,janapi.jd.com
-DOMAIN,jfapi.chiq-cloud.com
 DOMAIN,jiguang.cn
 DOMAIN,jpush.cn
 DOMAIN,jpush.html5.qq.com
@@ -565,6 +565,7 @@ DOMAIN,mazu.m.qq.com
 DOMAIN,mc.51.la
 DOMAIN,mc.atm.youku.com
 DOMAIN,mc.viglink.com
+DOMAIN,mcdn.bilivideo.cn
 DOMAIN,mcs.snssdk.com
 DOMAIN,md-i-s.apptimize.com
 DOMAIN,mdrecv.app.cntvwb.cn
@@ -727,7 +728,6 @@ DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.hzsanjiaomao.com
 DOMAIN,sdk.mobads.adwangmai.com
 DOMAIN,sdk.open.talk.getui.net
-DOMAIN,sdkauth.hpplay.cn
 DOMAIN,sdkconf.avlyun.com
 DOMAIN,sdkconfig.ad.intl.xiaomi.com
 DOMAIN,sdkconfig.ad.xiaomi.com
@@ -834,7 +834,6 @@ DOMAIN,tracking.miui.com
 DOMAIN,tracking.rus.miui.com
 DOMAIN,tracklog.58.com
 DOMAIN,tunion-api.m.taobao.com
-DOMAIN,tvapp.hpplay.cn
 DOMAIN,tvuser-ch.cedock.com
 DOMAIN,tx-ad.a.yximgs.com
 DOMAIN,tx-kmpaudio.pull.yximgs.com
@@ -843,10 +842,8 @@ DOMAIN,tz.sec.xiaomi.com
 DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,u51.me
 DOMAIN,uapi.ads.heytapmobi.com
-DOMAIN,uapi.chiq-cloud.com
 DOMAIN,uc.ucweb.com
 DOMAIN,ucdc-upaas.uc.cn
-DOMAIN,ucstat.baidu.com
 DOMAIN,ulog-sdk.gifshow.com
 DOMAIN,ulogjs.gifshow.com
 DOMAIN,ulogs.umeng.com

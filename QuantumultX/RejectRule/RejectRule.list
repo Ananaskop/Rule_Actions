@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-10 20:18:03
+# 更新时间： 2024-05-11 02:13:20
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -119,6 +119,7 @@ HOST,ads.yahoo.com,reject
 HOST,ads.yahoo.de,reject
 HOST,ads.youtube.com,reject
 HOST,ads3-normal-hl.zijieapi.com,reject
+HOST,ads3-normal-lf.zijieapi.com,reject
 HOST,ads3-normal-lq.zijieapi.com,reject
 HOST,ads3-normal.zijieapi.com,reject
 HOST,ads5-normal-hl.zijieapi.com,reject
@@ -249,7 +250,6 @@ HOST,ata-sdk-uuid-report.dreport.meituan.net,reject
 HOST,atrace.chelaile.net.cn,reject
 HOST,audid-api.taobao.com,reject
 HOST,audid.umeng.com,reject
-HOST,authenticate.chiq-cloud.com,reject
 HOST,azr.footprintdns.com,reject
 HOST,b1-data.ads.heytapmobi.com,reject
 HOST,baichuan-sdk.alicdn.com,reject
@@ -288,6 +288,7 @@ HOST,cdn.adapi.fotoable.com,reject
 HOST,cdn.ynuf.aliapp.org,reject
 HOST,cfg.imtt.qq.com,reject
 HOST,chat1.jd.com,reject
+HOST,chiq-cloud.com,reject
 HOST,ck.ads.oppomobile.com,reject
 HOST,clog.miguvideo.com,reject
 HOST,cm-10-138.getui.com,reject
@@ -398,7 +399,6 @@ HOST,gromore.pangolin-sdk-toutiao.com,reject
 HOST,grs.dbankcloud.com,reject
 HOST,grs.hicloud.com,reject
 HOST,grs.platform.dbankcloud.ru,reject
-HOST,gslb.hpplay.cn,reject
 HOST,h-adashx.ut.taobao.com,reject
 HOST,h.trace.qq.com,reject
 HOST,hdns.ksyun.com,reject
@@ -408,6 +408,7 @@ HOST,hiboard-drcn.ai.dbankcloud.cn,reject
 HOST,hm.baidu.com,reject
 HOST,hmma.baidu.com,reject
 HOST,holmeshelptest.uc.cn,reject
+HOST,hpplay.cn,reject
 HOST,httpdns-api.aliyuncs.com,reject
 HOST,httpdns-sc.aliyuncs.com,reject
 HOST,httpdns.alicdn.com,reject
@@ -487,7 +488,6 @@ HOST,ixav-cse.avlyun.com,reject
 HOST,iyes.youku.com,reject
 HOST,iyfbodn.com,reject
 HOST,janapi.jd.com,reject
-HOST,jfapi.chiq-cloud.com,reject
 HOST,jiguang.cn,reject
 HOST,jpush.cn,reject
 HOST,jpush.html5.qq.com,reject
@@ -565,6 +565,7 @@ HOST,mazu.m.qq.com,reject
 HOST,mc.51.la,reject
 HOST,mc.atm.youku.com,reject
 HOST,mc.viglink.com,reject
+HOST,mcdn.bilivideo.cn,reject
 HOST,mcs.snssdk.com,reject
 HOST,md-i-s.apptimize.com,reject
 HOST,mdrecv.app.cntvwb.cn,reject
@@ -727,7 +728,6 @@ HOST,sdk.e.qq.com,reject
 HOST,sdk.hzsanjiaomao.com,reject
 HOST,sdk.mobads.adwangmai.com,reject
 HOST,sdk.open.talk.getui.net,reject
-HOST,sdkauth.hpplay.cn,reject
 HOST,sdkconf.avlyun.com,reject
 HOST,sdkconfig.ad.intl.xiaomi.com,reject
 HOST,sdkconfig.ad.xiaomi.com,reject
@@ -834,7 +834,6 @@ HOST,tracking.miui.com,reject
 HOST,tracking.rus.miui.com,reject
 HOST,tracklog.58.com,reject
 HOST,tunion-api.m.taobao.com,reject
-HOST,tvapp.hpplay.cn,reject
 HOST,tvuser-ch.cedock.com,reject
 HOST,tx-ad.a.yximgs.com,reject
 HOST,tx-kmpaudio.pull.yximgs.com,reject
@@ -843,10 +842,8 @@ HOST,tz.sec.xiaomi.com,reject
 HOST,u1.img.mobile.sina.cn,reject
 HOST,u51.me,reject
 HOST,uapi.ads.heytapmobi.com,reject
-HOST,uapi.chiq-cloud.com,reject
 HOST,uc.ucweb.com,reject
 HOST,ucdc-upaas.uc.cn,reject
-HOST,ucstat.baidu.com,reject
 HOST,ulog-sdk.gifshow.com,reject
 HOST,ulogjs.gifshow.com,reject
 HOST,ulogs.umeng.com,reject

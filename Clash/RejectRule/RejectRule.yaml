@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-10 20:18:10
+# 更新时间： 2024-05-11 02:13:27
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -120,6 +120,7 @@ payload:
   - DOMAIN,ads.yahoo.de
   - DOMAIN,ads.youtube.com
   - DOMAIN,ads3-normal-hl.zijieapi.com
+  - DOMAIN,ads3-normal-lf.zijieapi.com
   - DOMAIN,ads3-normal-lq.zijieapi.com
   - DOMAIN,ads3-normal.zijieapi.com
   - DOMAIN,ads5-normal-hl.zijieapi.com
@@ -250,7 +251,6 @@ payload:
   - DOMAIN,atrace.chelaile.net.cn
   - DOMAIN,audid-api.taobao.com
   - DOMAIN,audid.umeng.com
-  - DOMAIN,authenticate.chiq-cloud.com
   - DOMAIN,azr.footprintdns.com
   - DOMAIN,b1-data.ads.heytapmobi.com
   - DOMAIN,baichuan-sdk.alicdn.com
@@ -289,6 +289,7 @@ payload:
   - DOMAIN,cdn.ynuf.aliapp.org
   - DOMAIN,cfg.imtt.qq.com
   - DOMAIN,chat1.jd.com
+  - DOMAIN,chiq-cloud.com
   - DOMAIN,ck.ads.oppomobile.com
   - DOMAIN,clog.miguvideo.com
   - DOMAIN,cm-10-138.getui.com
@@ -399,7 +400,6 @@ payload:
   - DOMAIN,grs.dbankcloud.com
   - DOMAIN,grs.hicloud.com
   - DOMAIN,grs.platform.dbankcloud.ru
-  - DOMAIN,gslb.hpplay.cn
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,h.trace.qq.com
   - DOMAIN,hdns.ksyun.com
@@ -409,6 +409,7 @@ payload:
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
   - DOMAIN,holmeshelptest.uc.cn
+  - DOMAIN,hpplay.cn
   - DOMAIN,httpdns-api.aliyuncs.com
   - DOMAIN,httpdns-sc.aliyuncs.com
   - DOMAIN,httpdns.alicdn.com
@@ -488,7 +489,6 @@ payload:
   - DOMAIN,iyes.youku.com
   - DOMAIN,iyfbodn.com
   - DOMAIN,janapi.jd.com
-  - DOMAIN,jfapi.chiq-cloud.com
   - DOMAIN,jiguang.cn
   - DOMAIN,jpush.cn
   - DOMAIN,jpush.html5.qq.com
@@ -566,6 +566,7 @@ payload:
   - DOMAIN,mc.51.la
   - DOMAIN,mc.atm.youku.com
   - DOMAIN,mc.viglink.com
+  - DOMAIN,mcdn.bilivideo.cn
   - DOMAIN,mcs.snssdk.com
   - DOMAIN,md-i-s.apptimize.com
   - DOMAIN,mdrecv.app.cntvwb.cn
@@ -728,7 +729,6 @@ payload:
   - DOMAIN,sdk.hzsanjiaomao.com
   - DOMAIN,sdk.mobads.adwangmai.com
   - DOMAIN,sdk.open.talk.getui.net
-  - DOMAIN,sdkauth.hpplay.cn
   - DOMAIN,sdkconf.avlyun.com
   - DOMAIN,sdkconfig.ad.intl.xiaomi.com
   - DOMAIN,sdkconfig.ad.xiaomi.com
@@ -835,7 +835,6 @@ payload:
   - DOMAIN,tracking.rus.miui.com
   - DOMAIN,tracklog.58.com
   - DOMAIN,tunion-api.m.taobao.com
-  - DOMAIN,tvapp.hpplay.cn
   - DOMAIN,tvuser-ch.cedock.com
   - DOMAIN,tx-ad.a.yximgs.com
   - DOMAIN,tx-kmpaudio.pull.yximgs.com
@@ -844,10 +843,8 @@ payload:
   - DOMAIN,u1.img.mobile.sina.cn
   - DOMAIN,u51.me
   - DOMAIN,uapi.ads.heytapmobi.com
-  - DOMAIN,uapi.chiq-cloud.com
   - DOMAIN,uc.ucweb.com
   - DOMAIN,ucdc-upaas.uc.cn
-  - DOMAIN,ucstat.baidu.com
   - DOMAIN,ulog-sdk.gifshow.com
   - DOMAIN,ulogjs.gifshow.com
   - DOMAIN,ulogs.umeng.com
