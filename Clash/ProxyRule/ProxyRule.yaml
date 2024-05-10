@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-10 02:12:00
+# 更新时间： 2024-05-10 08:46:59
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -3275,6 +3275,7 @@ payload:
   - DOMAIN-SUFFIX,betterwithautodesk.com
   - DOMAIN-SUFFIX,bettween.com
   - DOMAIN-SUFFIX,betvictor.com
+  - DOMAIN-SUFFIX,between-legs.com
   - DOMAIN-SUFFIX,beurettesvideo.com
   - DOMAIN-SUFFIX,bewww.net
   - DOMAIN-SUFFIX,bexjt5wz.xyz
@@ -12456,6 +12457,7 @@ payload:
   - DOMAIN-SUFFIX,javynow.com
   - DOMAIN-SUFFIX,javzoo.com
   - DOMAIN-SUFFIX,jayspov.net
+  - DOMAIN-SUFFIX,jb.gg
   - DOMAIN-SUFFIX,jb22.lol
   - DOMAIN-SUFFIX,jbe-platform.com
   - DOMAIN-SUFFIX,jbtalks.cc
@@ -16255,7 +16257,6 @@ payload:
   - DOMAIN-SUFFIX,oizoblog.com
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,ok.xxx
-  - DOMAIN-SUFFIX,okaapps.com
   - DOMAIN-SUFFIX,okayfreedom.com
   - DOMAIN-SUFFIX,okazudouga.tokyo
   - DOMAIN-SUFFIX,okex.com

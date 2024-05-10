@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-10 02:11:52
+# 更新时间： 2024-05-10 08:46:51
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -3682,6 +3682,7 @@ HOST-SUFFIX,bettervpn.com,proxy
 HOST-SUFFIX,betterwithautodesk.com,proxy
 HOST-SUFFIX,bettween.com,proxy
 HOST-SUFFIX,betvictor.com,proxy
+HOST-SUFFIX,between-legs.com,proxy
 HOST-SUFFIX,beurettesvideo.com,proxy
 HOST-SUFFIX,bewww.net,proxy
 HOST-SUFFIX,bexjt5wz.xyz,proxy
@@ -12881,6 +12882,7 @@ HOST-SUFFIX,javxxx.me,proxy
 HOST-SUFFIX,javynow.com,proxy
 HOST-SUFFIX,javzoo.com,proxy
 HOST-SUFFIX,jayspov.net,proxy
+HOST-SUFFIX,jb.gg,proxy
 HOST-SUFFIX,jb22.lol,proxy
 HOST-SUFFIX,jbe-platform.com,proxy
 HOST-SUFFIX,jbtalks.cc,proxy
@@ -16682,7 +16684,6 @@ HOST-SUFFIX,oiobbs.com,proxy
 HOST-SUFFIX,oizoblog.com,proxy
 HOST-SUFFIX,ok.ru,proxy
 HOST-SUFFIX,ok.xxx,proxy
-HOST-SUFFIX,okaapps.com,proxy
 HOST-SUFFIX,okayfreedom.com,proxy
 HOST-SUFFIX,okazudouga.tokyo,proxy
 HOST-SUFFIX,okex.com,proxy
