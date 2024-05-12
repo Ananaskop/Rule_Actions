@@ -1,11 +1,8 @@
-# 更新时间： 2024-05-12 02:13:01
+# 更新时间： 2024-05-12 08:52:03
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,1010pic.com
 DOMAIN,118.89.204.198
-DOMAIN,123.56.23.22
-DOMAIN,182.254.116.116
-DOMAIN,203.205.137.89
 DOMAIN,39d83s.com
 DOMAIN,8le8le.com
 DOMAIN,a-remad.qm989.com
@@ -10452,6 +10449,7 @@ IP-CIDR,123.125.111.0/24,no-resolve
 IP-CIDR,123.139.154.201/24,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
 IP-CIDR,123.56.152.96/32,no-resolve
+IP-CIDR,123.56.23.22,no-resolve
 IP-CIDR,123.57.162.39/32,no-resolve
 IP-CIDR,123.57.94.184/32,no-resolve
 IP-CIDR,123.59.152.170/32,no-resolve
@@ -10480,6 +10478,7 @@ IP-CIDR,180.76.181.213/32,no-resolve
 IP-CIDR,180.76.76.112/32,no-resolve
 IP-CIDR,180.76.76.200/32,no-resolve
 IP-CIDR,180.96.2.114/32,no-resolve
+IP-CIDR,182.254.116.116,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
 IP-CIDR,182.254.118.119/32,no-resolve
 IP-CIDR,182.92.81.104/32,no-resolve
@@ -10495,6 +10494,7 @@ IP-CIDR,202.105.165.202/32,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,203.107.1.1/24,no-resolve
 IP-CIDR,203.107.63.154/32,no-resolve
+IP-CIDR,203.205.137.89,no-resolve
 IP-CIDR,205.209.138.102/32,no-resolve
 IP-CIDR,211.103.159.32/32,no-resolve
 IP-CIDR,211.137.132.89/32,no-resolve
