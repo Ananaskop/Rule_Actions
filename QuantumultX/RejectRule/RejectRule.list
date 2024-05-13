@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-13 14:14:29
+# 更新时间： 2024-05-13 20:19:18
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -91,8 +91,11 @@ HOST,ads-api-o.api.leiniao.com,reject
 HOST,ads-api.tiktok.com,reject
 HOST,ads-api.twitter.com,reject
 HOST,ads-img-qc.xhscdn.com,reject
+HOST,ads-jp.tiktok.com,reject
 HOST,ads-marketing-vivofs.vivo.com.cn,reject
+HOST,ads-sg.tiktok.com,reject
 HOST,ads-shopping.shouqianba.com,reject
+HOST,ads-us.tiktok.com,reject
 HOST,ads-video-al.xhscdn.com,reject
 HOST,ads-video-qc.xhscdn.com,reject
 HOST,ads.95516.com,reject
@@ -109,6 +112,7 @@ HOST,ads.mojicdn.com,reject
 HOST,ads.music.126.net,reject
 HOST,ads.nicovideo.jp,reject
 HOST,ads.oppomobile.com,reject
+HOST,ads.pinterest.com,reject
 HOST,ads.pubmatic.com,reject
 HOST,ads.service.kugou.com,reject
 HOST,ads.snapchat.com,reject
@@ -193,6 +197,7 @@ HOST,analytics.126.net,reject
 HOST,analytics.95516.com,reject
 HOST,analytics.google.com,reject
 HOST,analytics.pinterest.com,reject
+HOST,analytics.query.yahoo.com,reject
 HOST,analytics.rayjump.com,reject
 HOST,analytics.slashdotmedia.com,reject
 HOST,analytics.tiktok.com,reject
@@ -371,6 +376,7 @@ HOST,game.loveota.com,reject
 HOST,gdfp.gifshow.com,reject
 HOST,gecko-pangle-lf.snssdk.com,reject
 HOST,gemini.yahoo.com,reject
+HOST,geo.yahoo.com,reject
 HOST,geo2.adobe.com,reject
 HOST,ggc.cmvideo.cn,reject
 HOST,ggic03.miguvideo.com,reject
@@ -532,6 +538,7 @@ HOST,log.avlyun.sec.intl.miui.com,reject
 HOST,log.byteoversea.com,reject
 HOST,log.fc.yahoo.com,reject
 HOST,log.kuwo.cn,reject
+HOST,log.pinterest.com,reject
 HOST,log.snssdk.com,reject
 HOST,log.stat.kugou.com,reject
 HOST,log.tagtic.cn,reject
@@ -574,6 +581,7 @@ HOST,metrics.data.hicloud.com,reject
 HOST,metrics.icloud.com,reject
 HOST,metrics.mzstatic.com,reject
 HOST,metrics2.data.hicloud.com,reject
+HOST,metrika.yandex.ru,reject
 HOST,mi.gdt.qq.com,reject
 HOST,miav-cse.avlyun.com,reject
 HOST,mime.baidu.com,reject
@@ -840,6 +848,8 @@ HOST,u51.me,reject
 HOST,uapi.ads.heytapmobi.com,reject
 HOST,uc.ucweb.com,reject
 HOST,ucdc-upaas.uc.cn,reject
+HOST,udc.yahoo.com,reject
+HOST,udcm.yahoo.com,reject
 HOST,ulog-sdk.gifshow.com,reject
 HOST,ulogjs.gifshow.com,reject
 HOST,ulogs.umeng.com,reject
@@ -910,6 +920,7 @@ HOST,weather-community-drcn.weather.dbankcloud.cn,reject
 HOST,webproxy-advp.iad-apple.com,reject
 HOST,webproxy-advp.iad-apple.com.akadns.net,reject
 HOST,webstat.qiumibao.com,reject
+HOST,widgets.pinterest.com,reject
 HOST,win.gdt.qq.com,reject
 HOST,wn.x.jd.com,reject
 HOST,wolong-dsp.sm.cn,reject

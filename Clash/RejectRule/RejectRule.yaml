@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-13 14:14:36
+# 更新时间： 2024-05-13 20:19:25
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -92,8 +92,11 @@ payload:
   - DOMAIN,ads-api.tiktok.com
   - DOMAIN,ads-api.twitter.com
   - DOMAIN,ads-img-qc.xhscdn.com
+  - DOMAIN,ads-jp.tiktok.com
   - DOMAIN,ads-marketing-vivofs.vivo.com.cn
+  - DOMAIN,ads-sg.tiktok.com
   - DOMAIN,ads-shopping.shouqianba.com
+  - DOMAIN,ads-us.tiktok.com
   - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
   - DOMAIN,ads.95516.com
@@ -110,6 +113,7 @@ payload:
   - DOMAIN,ads.music.126.net
   - DOMAIN,ads.nicovideo.jp
   - DOMAIN,ads.oppomobile.com
+  - DOMAIN,ads.pinterest.com
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,ads.service.kugou.com
   - DOMAIN,ads.snapchat.com
@@ -194,6 +198,7 @@ payload:
   - DOMAIN,analytics.95516.com
   - DOMAIN,analytics.google.com
   - DOMAIN,analytics.pinterest.com
+  - DOMAIN,analytics.query.yahoo.com
   - DOMAIN,analytics.rayjump.com
   - DOMAIN,analytics.slashdotmedia.com
   - DOMAIN,analytics.tiktok.com
@@ -372,6 +377,7 @@ payload:
   - DOMAIN,gdfp.gifshow.com
   - DOMAIN,gecko-pangle-lf.snssdk.com
   - DOMAIN,gemini.yahoo.com
+  - DOMAIN,geo.yahoo.com
   - DOMAIN,geo2.adobe.com
   - DOMAIN,ggc.cmvideo.cn
   - DOMAIN,ggic03.miguvideo.com
@@ -533,6 +539,7 @@ payload:
   - DOMAIN,log.byteoversea.com
   - DOMAIN,log.fc.yahoo.com
   - DOMAIN,log.kuwo.cn
+  - DOMAIN,log.pinterest.com
   - DOMAIN,log.snssdk.com
   - DOMAIN,log.stat.kugou.com
   - DOMAIN,log.tagtic.cn
@@ -575,6 +582,7 @@ payload:
   - DOMAIN,metrics.icloud.com
   - DOMAIN,metrics.mzstatic.com
   - DOMAIN,metrics2.data.hicloud.com
+  - DOMAIN,metrika.yandex.ru
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,miav-cse.avlyun.com
   - DOMAIN,mime.baidu.com
@@ -841,6 +849,8 @@ payload:
   - DOMAIN,uapi.ads.heytapmobi.com
   - DOMAIN,uc.ucweb.com
   - DOMAIN,ucdc-upaas.uc.cn
+  - DOMAIN,udc.yahoo.com
+  - DOMAIN,udcm.yahoo.com
   - DOMAIN,ulog-sdk.gifshow.com
   - DOMAIN,ulogjs.gifshow.com
   - DOMAIN,ulogs.umeng.com
@@ -911,6 +921,7 @@ payload:
   - DOMAIN,webproxy-advp.iad-apple.com
   - DOMAIN,webproxy-advp.iad-apple.com.akadns.net
   - DOMAIN,webstat.qiumibao.com
+  - DOMAIN,widgets.pinterest.com
   - DOMAIN,win.gdt.qq.com
   - DOMAIN,wn.x.jd.com
   - DOMAIN,wolong-dsp.sm.cn
