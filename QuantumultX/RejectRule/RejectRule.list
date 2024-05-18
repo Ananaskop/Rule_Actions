@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-18 08:46:58
+# 更新时间： 2024-05-18 14:12:59
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -329,6 +329,7 @@ HOST,dispatcher.360in.com,reject
 HOST,dl.zuimeitianqi.com,reject
 HOST,dlogs.bwton.com,reject
 HOST,dm.toutiao.com,reject
+HOST,dns.alidns.com,reject
 HOST,dns.jd.com,reject
 HOST,dns.weibo.cn,reject
 HOST,dns.weixin.qq.com,reject
@@ -568,7 +569,6 @@ HOST,mazu.m.qq.com,reject
 HOST,mc.51.la,reject
 HOST,mc.atm.youku.com,reject
 HOST,mc.viglink.com,reject
-HOST,mcdn.bilivideo.cn,reject
 HOST,mcs.snssdk.com,reject
 HOST,md-i-s.apptimize.com,reject
 HOST,mdrecv.app.cntvwb.cn,reject
@@ -2271,6 +2271,7 @@ HOST-SUFFIX,ads.service.kugou.com,reject
 HOST-SUFFIX,ads.sohu.com,reject
 HOST-SUFFIX,ads.superad.cc,reject
 HOST-SUFFIX,ads.uc.cn,reject
+HOST-SUFFIX,ads.vungle.com,reject
 HOST-SUFFIX,ads.weilitoutiao.net,reject
 HOST-SUFFIX,ads1.lfengmobile.com,reject
 HOST-SUFFIX,ads1.msads.net,reject
@@ -9359,6 +9360,7 @@ HOST-SUFFIX,unionsy.com,reject
 HOST-SUFFIX,unipaydl.wostore.cn,reject
 HOST-SUFFIX,unipayupg.wostore.cn,reject
 HOST-SUFFIX,unitacs.m.taobao.com,reject
+HOST-SUFFIX,unityads.unity3d.com,reject
 HOST-SUFFIX,unjs.jfcdns.com,reject
 HOST-SUFFIX,unlitui.com,reject
 HOST-SUFFIX,unreshiramor.com,reject
