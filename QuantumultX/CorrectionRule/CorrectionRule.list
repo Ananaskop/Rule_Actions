@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-21 14:15:03
+# 更新时间： 2024-05-21 20:19:05
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -74,6 +74,7 @@ HOST,sms.imagetasks.com,direct
 HOST,smtp-mail.outlook.com,direct
 HOST,smtp.office365.com,direct
 HOST,static.jssp.tv,direct
+HOST,staticsns.cdn.bcebos.com,direct
 HOST,sycm.mmstat.com,direct
 HOST,tiao.cjkypo.com,direct
 HOST,time.apple.com,direct
