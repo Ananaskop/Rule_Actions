@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-25 08:46:52
+# 更新时间： 2024-05-25 09:00:36
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -294,6 +294,19 @@ HOST-SUFFIX,windowsupdate.com,direct
 HOST-SUFFIX,windowsupdate.microsoft.com,direct
 HOST-SUFFIX,xunlei.com,direct
 HOST-SUFFIX,yonghuivip.com,direct
+HOST-SUFFIX,zoho.com,direct
+HOST-SUFFIX,zoho.com.au,direct
+HOST-SUFFIX,zoho.eu,direct
+HOST-SUFFIX,zoho.in,direct
+HOST-SUFFIX,zohocdn.com,direct
+HOST-SUFFIX,zohomeetups.com,direct
+HOST-SUFFIX,zohomerchandise.com,direct
+HOST-SUFFIX,zohopublic.com,direct
+HOST-SUFFIX,zohoschools.com,direct
+HOST-SUFFIX,zohostatic.com,direct
+HOST-SUFFIX,zohostatic.in,direct
+HOST-SUFFIX,zohouniversity.com,direct
+HOST-SUFFIX,zohowebstatic.com,direct
 IP-CIDR,182.254.116.0/24,direct,no-resolve
 IP-CIDR,203.205.238.0/23,direct,no-resolve
 IP-CIDR,203.205.254.0/23,direct,no-resolve

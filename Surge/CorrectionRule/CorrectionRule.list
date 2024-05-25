@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-25 08:47:07
+# 更新时间： 2024-05-25 09:00:50
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -294,6 +294,19 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,yonghuivip.com
+DOMAIN-SUFFIX,zoho.com
+DOMAIN-SUFFIX,zoho.com.au
+DOMAIN-SUFFIX,zoho.eu
+DOMAIN-SUFFIX,zoho.in
+DOMAIN-SUFFIX,zohocdn.com
+DOMAIN-SUFFIX,zohomeetups.com
+DOMAIN-SUFFIX,zohomerchandise.com
+DOMAIN-SUFFIX,zohopublic.com
+DOMAIN-SUFFIX,zohoschools.com
+DOMAIN-SUFFIX,zohostatic.com
+DOMAIN-SUFFIX,zohostatic.in
+DOMAIN-SUFFIX,zohouniversity.com
+DOMAIN-SUFFIX,zohowebstatic.com
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
