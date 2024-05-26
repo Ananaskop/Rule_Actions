@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-26 14:13:28
+# 更新时间： 2024-05-26 17:58:32
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,asusrouter.com
@@ -30,7 +30,6 @@ payload:
   - DOMAIN-KEYWORD,beplay
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,officecdn
-  - DOMAIN-KEYWORD,speedtest
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
   - DOMAIN-SUFFIX,0.in-addr.arpa
@@ -1418,7 +1417,6 @@ payload:
   - DOMAIN-SUFFIX,fanli.com
   - DOMAIN-SUFFIX,fanqienovel.com
   - DOMAIN-SUFFIX,fanxian.com
-  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,fastapi.net
   - DOMAIN-SUFFIX,fastcdn.com
   - DOMAIN-SUFFIX,fbank.com
@@ -3002,8 +3000,6 @@ payload:
   - DOMAIN-SUFFIX,spcdntipbak.com
   - DOMAIN-SUFFIX,spcloudhw.com
   - DOMAIN-SUFFIX,spcloudhw.net
-  - DOMAIN-SUFFIX,speed.cloudflare.com
-  - DOMAIN-SUFFIX,speed.dler.io
   - DOMAIN-SUFFIX,speedws.info
   - DOMAIN-SUFFIX,speedws.org
   - DOMAIN-SUFFIX,speiyou.com

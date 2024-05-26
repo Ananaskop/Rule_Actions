@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-26 14:13:20
+# 更新时间： 2024-05-26 17:58:25
 HOST,analytics.strava.com,direct
 HOST,asusrouter.com,direct
 HOST,blzddist1-a.akamaihd.net,direct
@@ -16,7 +16,6 @@ HOST,origin-a.akamaihd.net,direct
 HOST,router.asus.com,direct
 HOST,setmeup.arubanetworks.com,direct
 HOST,sms.imagetasks.com,direct
-HOST,speed.dler.io,direct
 HOST,steamcommunity-a.akamaihd.net,direct
 HOST,weixin.com,direct
 HOST,www.asusrouter.com,direct
@@ -30,7 +29,6 @@ HOST-KEYWORD,baidu,direct
 HOST-KEYWORD,beplay,direct
 HOST-KEYWORD,microsoft,direct
 HOST-KEYWORD,officecdn,direct
-HOST-KEYWORD,speedtest,direct
 HOST-KEYWORD,taobao,direct
 HOST-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,direct
 HOST-SUFFIX,0.in-addr.arpa,direct
@@ -1418,7 +1416,6 @@ HOST-SUFFIX,fangxiaoer.com,direct
 HOST-SUFFIX,fanli.com,direct
 HOST-SUFFIX,fanqienovel.com,direct
 HOST-SUFFIX,fanxian.com,direct
-HOST-SUFFIX,fast.com,direct
 HOST-SUFFIX,fastapi.net,direct
 HOST-SUFFIX,fastcdn.com,direct
 HOST-SUFFIX,fbank.com,direct
@@ -3002,8 +2999,6 @@ HOST-SUFFIX,spcdntip.com,direct
 HOST-SUFFIX,spcdntipbak.com,direct
 HOST-SUFFIX,spcloudhw.com,direct
 HOST-SUFFIX,spcloudhw.net,direct
-HOST-SUFFIX,speed.cloudflare.com,direct
-HOST-SUFFIX,speed.dler.io,direct
 HOST-SUFFIX,speedws.info,direct
 HOST-SUFFIX,speedws.org,direct
 HOST-SUFFIX,speiyou.com,direct
@@ -3890,7 +3885,6 @@ USER-AGENT,Moke*,direct
 USER-AGENT,NeteaseMusic*,direct
 USER-AGENT,QQ*,direct
 USER-AGENT,RemotePlay*,direct
-USER-AGENT,SpeedTest*,direct
 USER-AGENT,TIM*,direct
 USER-AGENT,TeamViewer*,direct
 USER-AGENT,WeChat*,direct
