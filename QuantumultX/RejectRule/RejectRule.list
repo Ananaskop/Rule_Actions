@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-27 08:49:53
+# 更新时间： 2024-05-27 14:15:45
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -511,7 +511,6 @@ HOST,launcher.smart-tv.cn,reject
 HOST,launcherimg.smart-tv.cn,reject
 HOST,layer.bz.mgtv.com,reject
 HOST,lc.map.baidu.com,reject
-HOST,lf1-cdn-tos.bytegoofy.com,reject
 HOST,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
 HOST,lf9-cdn-tos.bytegecko.com,reject
 HOST,liveats-vod.video.ptqy.gitv.tv,reject

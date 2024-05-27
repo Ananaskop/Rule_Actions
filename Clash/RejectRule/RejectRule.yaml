@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-27 08:50:01
+# 更新时间： 2024-05-27 14:15:52
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -512,7 +512,6 @@ payload:
   - DOMAIN,launcherimg.smart-tv.cn
   - DOMAIN,layer.bz.mgtv.com
   - DOMAIN,lc.map.baidu.com
-  - DOMAIN,lf1-cdn-tos.bytegoofy.com
   - DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
   - DOMAIN,lf9-cdn-tos.bytegecko.com
   - DOMAIN,liveats-vod.video.ptqy.gitv.tv
