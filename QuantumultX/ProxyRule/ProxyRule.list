@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-30 02:13:13
+# 更新时间： 2024-05-30 08:48:48
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -38,6 +38,7 @@ HOST,anime-rule34-world.b-cdn.net,proxy
 HOST,aod-pod-uk-live.akamaized.net,proxy
 HOST,api-p.videomarket.jp,proxy
 HOST,api.mojang.com,proxy
+HOST,api.msn.com,proxy
 HOST,api.viu.now.com,proxy
 HOST,api.waqi.info,proxy
 HOST,apl-hamivideo.cdn.hinet.net,proxy
@@ -50,6 +51,7 @@ HOST,as-dash-uk-live.akamaized.net,proxy
 HOST,as-hls-uk-live.akamaized.net,proxy
 HOST,asahishimbun.sc.omtrdc.net,proxy
 HOST,assets-priconne-redive-us.akamaized.net,proxy
+HOST,assets.msn.com,proxy
 HOST,assets.ppy.sh,proxy
 HOST,assets1.xboxlive.com,proxy
 HOST,assets2.xboxlive.com,proxy
@@ -97,6 +99,7 @@ HOST,cloud-cdn-digitalocean-com.global.ssl.fastly.net,proxy
 HOST,cloud.oracle.com,proxy
 HOST,cloudsync-prod.s3.amazonaws.com,proxy
 HOST,clubhouse.pubnubapi.com,proxy
+HOST,copilot.microsoft.com,proxy
 HOST,courier-push-apple.com.akadns.net,proxy
 HOST,crl.microsoft.com,proxy
 HOST,crl.versign.net,proxy
@@ -193,6 +196,7 @@ HOST,live-patreon-marketing.pantheonsite.io,proxy
 HOST,lm.licenses.adobe.com,proxy
 HOST,lmlicenses.wip4.adobe.com,proxy
 HOST,location.microsoft.com,proxy
+HOST,login.microsoftonline.com,proxy
 HOST,lolstatic-a.akamaihd.net,proxy
 HOST,lookup-api.apple.com,proxy
 HOST,m1.ppy.sh,proxy
@@ -331,6 +335,7 @@ HOST,scholar.google.sk,proxy
 HOST,scholar.googleusercontent.com,proxy
 HOST,scholar.l.google.com,proxy
 HOST,search.yahoo.co.jp,proxy
+HOST,self.events.data.microsoft.com,proxy
 HOST,sentry.ppy.sh,proxy
 HOST,sni1dcb6gl.wpc.edgecastcdn.net,proxy
 HOST,spectator.ppy.sh,proxy

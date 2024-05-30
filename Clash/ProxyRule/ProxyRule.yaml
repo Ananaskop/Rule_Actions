@@ -1,4 +1,4 @@
-# 更新时间： 2024-05-30 02:13:20
+# 更新时间： 2024-05-30 08:48:55
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -54,6 +54,7 @@ payload:
   - DOMAIN,linkedin.sc.omtrdc.net
   - DOMAIN,live-patreon-marketing.pantheonsite.io
   - DOMAIN,location.microsoft.com
+  - DOMAIN,login.microsoftonline.com
   - DOMAIN,mdn.mozillademos.org
   - DOMAIN,medone-education.thieme.com
   - DOMAIN,mscrl.microsoft.com
@@ -70,6 +71,7 @@ payload:
   - DOMAIN,public-us-pingsx.api.clonoth.com
   - DOMAIN,push-apple.com.akadns.net
   - DOMAIN,qualcomm.sc.omtrdc.net
+  - DOMAIN,self.events.data.microsoft.com
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,vmware.tt.omtrdc.net
   - DOMAIN,vscode.search.windows.net
