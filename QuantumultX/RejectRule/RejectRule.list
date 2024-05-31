@@ -1,8 +1,11 @@
-# 更新时间： 2024-05-31 14:14:47
+# 更新时间： 2024-05-31 20:19:15
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
 HOST,118.89.204.198,reject
+HOST,3117kc.saigmpl.com,reject
+HOST,314240585f1fb7266kcc.fwxhvvd.com,reject
+HOST,314240585f1fb7266kg.oiocklg.com,reject
 HOST,39d83s.com,reject
 HOST,8le8le.com,reject
 HOST,a-remad.qm989.com,reject
@@ -819,6 +822,7 @@ HOST,tnc3-bjlgy.toutiaoapi.com,reject
 HOST,tnc3-bjlgy.zijieapi.com,reject
 HOST,toblog.ctobsnssdk.com,reject
 HOST,token.safebrowsing.apple,reject
+HOST,tong.8888888888.bid,reject
 HOST,tpns.qq.com,reject
 HOST,trace.qq.com,reject
 HOST,tracelog-debug.qquanquan.com,reject
