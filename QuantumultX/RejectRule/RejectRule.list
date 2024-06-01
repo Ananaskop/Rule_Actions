@@ -1,11 +1,8 @@
-# 更新时间： 2024-06-01 14:13:54
+# 更新时间： 2024-06-01 20:18:22
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
 HOST,118.89.204.198,reject
-HOST,3117kc.saigmpl.com,reject
-HOST,314240585f1fb7266kcc.fwxhvvd.com,reject
-HOST,314240585f1fb7266kg.oiocklg.com,reject
 HOST,39d83s.com,reject
 HOST,8le8le.com,reject
 HOST,a-remad.qm989.com,reject
@@ -1088,8 +1085,11 @@ HOST-KEYWORD,in-page-push,reject
 HOST-KEYWORD,insurance.lianwifi.com,reject
 HOST-KEYWORD,js.union-wifi.com,reject
 HOST-KEYWORD,juruigj,reject
+HOST-KEYWORD,kc.saigmpl.com,reject
+HOST-KEYWORD,kcc.fwxhvvd.com,reject
 HOST-KEYWORD,kepler.jd.com,reject
 HOST-KEYWORD,keplerapi.jd.com,reject
+HOST-KEYWORD,kg.oiocklg.com,reject
 HOST-KEYWORD,kgipadstat.kugou.com,reject
 HOST-KEYWORD,kgipadstatbak.kugou.com,reject
 HOST-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com,reject

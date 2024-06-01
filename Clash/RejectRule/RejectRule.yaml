@@ -1,12 +1,9 @@
-# 更新时间： 2024-06-01 14:14:02
+# 更新时间： 2024-06-01 20:18:30
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
   - DOMAIN,1010pic.com
   - DOMAIN,118.89.204.198
-  - DOMAIN,3117kc.saigmpl.com
-  - DOMAIN,314240585f1fb7266kcc.fwxhvvd.com
-  - DOMAIN,314240585f1fb7266kg.oiocklg.com
   - DOMAIN,39d83s.com
   - DOMAIN,8le8le.com
   - DOMAIN,a-remad.qm989.com
@@ -1089,8 +1086,11 @@ payload:
   - DOMAIN-KEYWORD,insurance.lianwifi.com
   - DOMAIN-KEYWORD,js.union-wifi.com
   - DOMAIN-KEYWORD,juruigj
+  - DOMAIN-KEYWORD,kc.saigmpl.com
+  - DOMAIN-KEYWORD,kcc.fwxhvvd.com
   - DOMAIN-KEYWORD,kepler.jd.com
   - DOMAIN-KEYWORD,keplerapi.jd.com
+  - DOMAIN-KEYWORD,kg.oiocklg.com
   - DOMAIN-KEYWORD,kgipadstat.kugou.com
   - DOMAIN-KEYWORD,kgipadstatbak.kugou.com
   - DOMAIN-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com
