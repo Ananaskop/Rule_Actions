@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-02 02:13:12
+# 更新时间： 2024-06-02 08:52:58
 HOST,analytics.strava.com,direct
 HOST,asusrouter.com,direct
 HOST,blzddist1-a.akamaihd.net,direct
@@ -1265,6 +1265,7 @@ HOST-SUFFIX,discuz.org,direct
 HOST-SUFFIX,diyiyou.com,direct
 HOST-SUFFIX,dj99.com,direct
 HOST-SUFFIX,dl-vip.pcfaster.baidu.co.th,direct
+HOST-SUFFIX,dler.cloud,direct
 HOST-SUFFIX,dlgslb.net,direct
 HOST-SUFFIX,dlnel.com,direct
 HOST-SUFFIX,dlnel.org,direct
