@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-03 02:14:16
+# 更新时间： 2024-06-03 08:50:38
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -18015,6 +18015,7 @@ payload:
   - DOMAIN-SUFFIX,qattdh1.cc
   - DOMAIN-SUFFIX,qattdh2.cc
   - DOMAIN-SUFFIX,qattdh6.top
+  - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-SUFFIX,qbmengmei6.mom
   - DOMAIN-SUFFIX,qckprn.com
   - DOMAIN-SUFFIX,qcmod.xyz

@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-03 02:14:09
+# 更新时间： 2024-06-03 08:50:31
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -18447,6 +18447,7 @@ HOST-SUFFIX,qattdh.top,proxy
 HOST-SUFFIX,qattdh1.cc,proxy
 HOST-SUFFIX,qattdh2.cc,proxy
 HOST-SUFFIX,qattdh6.top,proxy
+HOST-SUFFIX,qbittorrent.org,proxy
 HOST-SUFFIX,qbmengmei6.mom,proxy
 HOST-SUFFIX,qckprn.com,proxy
 HOST-SUFFIX,qcmod.xyz,proxy
