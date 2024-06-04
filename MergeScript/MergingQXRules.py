@@ -42,7 +42,6 @@ RULES = {
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/ProxyRule.list",
     },
     "DirectRule": {
-        "Lan": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Lan/Lan.list",
         "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list",    
     },
     "USRule": {
