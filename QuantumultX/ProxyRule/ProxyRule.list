@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-04 08:50:19
+# 更新时间： 2024-06-04 09:20:10
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -347,6 +347,14 @@ HOST,static-hamivideo.cdn.hinet.net,proxy
 HOST,statics-marketingsites-eas-ms-com.akamaized.net,proxy
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,proxy
 HOST,statics-marketingsites-wcus-ms-com.akamaized.net,proxy
+HOST,steambroadcast.akamaized.net,proxy
+HOST,steamcdn-a.akamaihd.net,proxy
+HOST,steamcommunity-a.akamaihd.net,proxy
+HOST,steammobile.akamaized.net,proxy
+HOST,steampipe.akamaized.net,proxy
+HOST,steamstore-a.akamaihd.net,proxy
+HOST,steamusercontent-a.akamaihd.net,proxy
+HOST,steamuserimages-a.akamaihd.net,proxy
 HOST,t21.nikkei.co.jp,proxy
 HOST,t21ipau.nikkei.co.jp,proxy
 HOST,teamviewer.com.cdn.cloudflare.net,proxy
@@ -516,6 +524,9 @@ HOST-KEYWORD,porn,proxy
 HOST-KEYWORD,sci-hub,proxy
 HOST-KEYWORD,skydrive,proxy
 HOST-KEYWORD,spotify,proxy
+HOST-KEYWORD,steambroadcast,proxy
+HOST-KEYWORD,steamstore,proxy
+HOST-KEYWORD,steamuserimages,proxy
 HOST-KEYWORD,telegram,proxy
 HOST-KEYWORD,tiktok,proxy
 HOST-KEYWORD,ttvnw,proxy
@@ -5263,8 +5274,11 @@ HOST-SUFFIX,cdig.info,proxy
 HOST-SUFFIX,cdjp.org,proxy
 HOST-SUFFIX,cdkworkshop.com,proxy
 HOST-SUFFIX,cdmatech.com,proxy
+HOST-SUFFIX,cdn-ali.content.steamchina.com,proxy
+HOST-SUFFIX,cdn-qc.content.steamchina.com,proxy
 HOST-SUFFIX,cdn-telegram.org,proxy
 HOST-SUFFIX,cdn-terapeak.com,proxy
+HOST-SUFFIX,cdn-ws.content.steamchina.com,proxy
 HOST-SUFFIX,cdn.angruo.com,proxy
 HOST-SUFFIX,cdn.segment.com,proxy
 HOST-SUFFIX,cdn77.com,proxy
@@ -6116,6 +6130,7 @@ HOST-SUFFIX,cs4hs.com,proxy
 HOST-SUFFIX,csakporno.hu,proxy
 HOST-SUFFIX,csdparty.com,proxy
 HOST-SUFFIX,csgfnmdb.com,proxy
+HOST-SUFFIX,csgo.wmsj.cn,proxy
 HOST-SUFFIX,cshive.com,proxy
 HOST-SUFFIX,csifund.org,proxy
 HOST-SUFFIX,csis.org,proxy
@@ -6831,6 +6846,8 @@ HOST-SUFFIX,dkr.com,proxy
 HOST-SUFFIX,dkrecttv.com,proxy
 HOST-SUFFIX,dl-iphone.com,proxy
 HOST-SUFFIX,dl-laby.jp,proxy
+HOST-SUFFIX,dl.steam.clngaa.com,proxy
+HOST-SUFFIX,dl.steam.ksyna.com,proxy
 HOST-SUFFIX,dlap001.xyz,proxy
 HOST-SUFFIX,dlap301.com,proxy
 HOST-SUFFIX,dldlinks.com,proxy
@@ -6982,6 +6999,7 @@ HOST-SUFFIX,dorjeshugden.com,proxy
 HOST-SUFFIX,doseofporn.com,proxy
 HOST-SUFFIX,dot-mac.de,proxy
 HOST-SUFFIX,dot.net,proxy
+HOST-SUFFIX,dota2.wmsj.cn,proxy
 HOST-SUFFIX,dotcernpilot.info,proxy
 HOST-SUFFIX,dotdeb.org,proxy
 HOST-SUFFIX,dotfacebook.com,proxy
@@ -20394,6 +20412,9 @@ HOST-SUFFIX,sstmlt.net,proxy
 HOST-SUFFIX,ssttest.net,proxy
 HOST-SUFFIX,ssx3.com,proxy
 HOST-SUFFIX,st.com,proxy
+HOST-SUFFIX,st.dl.bscstorage.net,proxy
+HOST-SUFFIX,st.dl.eccdnx.com,proxy
+HOST-SUFFIX,st.dl.pinyuncloud.com,proxy
 HOST-SUFFIX,st.luluku.pw,proxy
 HOST-SUFFIX,stackage.org,proxy
 HOST-SUFFIX,stackapps.com,proxy
@@ -20527,6 +20548,25 @@ HOST-SUFFIX,stc-server.com,proxy
 HOST-SUFFIX,stc.com.sa,proxy
 HOST-SUFFIX,stcroixmosquito.com,proxy
 HOST-SUFFIX,stcroixmosquitoproject.com,proxy
+HOST-SUFFIX,steam-api.com,proxy
+HOST-SUFFIX,steam-chat.com,proxy
+HOST-SUFFIX,steambroadcast.akamaized.net,proxy
+HOST-SUFFIX,steamcdn-a.akamaihd.net,proxy
+HOST-SUFFIX,steamcommunity-a.akamaihd.net,proxy
+HOST-SUFFIX,steamcommunity.com,proxy
+HOST-SUFFIX,steamcontent.tnkjmec.com,proxy
+HOST-SUFFIX,steamgames.com,proxy
+HOST-SUFFIX,steampipe.akamaized.net,proxy
+HOST-SUFFIX,steampowered.com,proxy
+HOST-SUFFIX,steampowered.com.8686c.com,proxy
+HOST-SUFFIX,steamstat.us,proxy
+HOST-SUFFIX,steamstatic.com,proxy
+HOST-SUFFIX,steamstatic.com.8686c.com,proxy
+HOST-SUFFIX,steamstore-a.akamaihd.net,proxy
+HOST-SUFFIX,steamunlocked.net,proxy
+HOST-SUFFIX,steamusercontent-a.akamaihd.net,proxy
+HOST-SUFFIX,steamuserimages-a.akamaihd.net,proxy
+HOST-SUFFIX,steamvideo-a.akamaihd.net,proxy
 HOST-SUFFIX,steel-storm.com,proxy
 HOST-SUFFIX,steelbrick.com,proxy
 HOST-SUFFIX,steemit.com,proxy
@@ -23675,6 +23715,7 @@ HOST-SUFFIX,wm18s.buzz,proxy
 HOST-SUFFIX,wmcloud.org,proxy
 HOST-SUFFIX,wmflabs.org,proxy
 HOST-SUFFIX,wmfusercontent.org,proxy
+HOST-SUFFIX,wmsjsteam.com,proxy
 HOST-SUFFIX,wmt.co,proxy
 HOST-SUFFIX,wn.com,proxy
 HOST-SUFFIX,wnacg.com,proxy
