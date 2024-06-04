@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-04 02:14:40
+# 更新时间： 2024-06-04 08:50:26
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -17169,6 +17169,7 @@ payload:
   - DOMAIN-SUFFIX,pixanalytics.com
   - DOMAIN-SUFFIX,pixapp.net
   - DOMAIN-SUFFIX,pixate.com
+  - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,pixelmator.com
   - DOMAIN-SUFFIX,pixelqi.com
   - DOMAIN-SUFFIX,pixfs.net
@@ -24579,6 +24580,7 @@ payload:
   - DOMAIN-SUFFIX,yyfb.cyou
   - DOMAIN-SUFFIX,yyii.org
   - DOMAIN-SUFFIX,yyjlymb.xyz
+  - DOMAIN-SUFFIX,yysub.net
   - DOMAIN-SUFFIX,yzld188.top
   - DOMAIN-SUFFIX,yzzk.com
   - DOMAIN-SUFFIX,z-lib.org
