@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-05 02:14:06
+# 更新时间： 2024-06-05 08:49:27
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -5377,6 +5377,7 @@ HOST-SUFFIX,charlestonroadregistry.com,proxy
 HOST-SUFFIX,charlotte-anime.jp,proxy
 HOST-SUFFIX,charmescorts.com,proxy
 HOST-SUFFIX,charticulator.com,proxy
+HOST-SUFFIX,chat.lmsys.org,proxy
 HOST-SUFFIX,chatango.com,proxy
 HOST-SUFFIX,chatgpt.com,proxy
 HOST-SUFFIX,chatgptvideo.xyz,proxy
@@ -18608,6 +18609,7 @@ HOST-SUFFIX,radeon.com,proxy
 HOST-SUFFIX,radian6.com,proxy
 HOST-SUFFIX,radicalparty.org,proxy
 HOST-SUFFIX,radiko.jp,proxy
+HOST-SUFFIX,radio-canada.ca,proxy
 HOST-SUFFIX,radio.garden,proxy
 HOST-SUFFIX,radioaustralia.net.au,proxy
 HOST-SUFFIX,radiofarda.com,proxy
@@ -20909,6 +20911,7 @@ HOST-SUFFIX,taiolongdh.sbs,proxy
 HOST-SUFFIX,taipei.gov.tw,proxy
 HOST-SUFFIX,taipeisociety.org,proxy
 HOST-SUFFIX,taipeitimes.com,proxy
+HOST-SUFFIX,taisounds.com,proxy
 HOST-SUFFIX,taiwan-sex.com,proxy
 HOST-SUFFIX,taiwanadultexpo.com,proxy
 HOST-SUFFIX,taiwanbible.com,proxy

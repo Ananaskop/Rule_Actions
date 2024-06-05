@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-05 02:14:14
+# 更新时间： 2024-06-05 08:49:36
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -4966,6 +4966,7 @@ payload:
   - DOMAIN-SUFFIX,charlotte-anime.jp
   - DOMAIN-SUFFIX,charmescorts.com
   - DOMAIN-SUFFIX,charticulator.com
+  - DOMAIN-SUFFIX,chat.lmsys.org
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgptvideo.xyz
@@ -18176,6 +18177,7 @@ payload:
   - DOMAIN-SUFFIX,radian6.com
   - DOMAIN-SUFFIX,radicalparty.org
   - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,radio-canada.ca
   - DOMAIN-SUFFIX,radio.garden
   - DOMAIN-SUFFIX,radioaustralia.net.au
   - DOMAIN-SUFFIX,radiofarda.com
@@ -20471,6 +20473,7 @@ payload:
   - DOMAIN-SUFFIX,taipei.gov.tw
   - DOMAIN-SUFFIX,taipeisociety.org
   - DOMAIN-SUFFIX,taipeitimes.com
+  - DOMAIN-SUFFIX,taisounds.com
   - DOMAIN-SUFFIX,taiwan-sex.com
   - DOMAIN-SUFFIX,taiwanadultexpo.com
   - DOMAIN-SUFFIX,taiwanbible.com
