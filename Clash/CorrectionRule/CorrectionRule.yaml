@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-07 15:46:03
+# 更新时间： 2024-06-07 16:34:50
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -94,7 +94,6 @@ payload:
   - DOMAIN,www.4khdr.cn
   - DOMAIN,www.m3u8.tv.jiexi.8old.cn
   - DOMAIN,zh188.net
-  - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,anti-ad.net
   - DOMAIN-KEYWORD,api-adservices.apple.com
   - DOMAIN-KEYWORD,api.smoot.apple.cn
@@ -115,12 +114,10 @@ payload:
   - DOMAIN-KEYWORD,ls.apple.com
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,o.lencr.org
-  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,pkulaw
   - DOMAIN-KEYWORD,push.apple.com
   - DOMAIN-KEYWORD,readcube
   - DOMAIN-KEYWORD,sciencedirect
-  - DOMAIN-KEYWORD,skydrive
   - DOMAIN-KEYWORD,ssl.apple.com
   - DOMAIN-KEYWORD,trip.com
   - DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc

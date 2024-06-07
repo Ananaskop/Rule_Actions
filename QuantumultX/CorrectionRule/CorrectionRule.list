@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-07 15:45:56
+# 更新时间： 2024-06-07 16:34:43
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -93,7 +93,6 @@ HOST,wustat.windows.com,direct
 HOST,www.4khdr.cn,direct
 HOST,www.m3u8.tv.jiexi.8old.cn,direct
 HOST,zh188.net,direct
-HOST-KEYWORD,1drv,direct
 HOST-KEYWORD,anti-ad.net,direct
 HOST-KEYWORD,api-adservices.apple.com,direct
 HOST-KEYWORD,api.smoot.apple.cn,direct
@@ -114,12 +113,10 @@ HOST-KEYWORD,icloud.com,direct
 HOST-KEYWORD,ls.apple.com,direct
 HOST-KEYWORD,lz-cdn,direct
 HOST-KEYWORD,o.lencr.org,direct
-HOST-KEYWORD,onedrive,direct
 HOST-KEYWORD,pkulaw,direct
 HOST-KEYWORD,push.apple.com,direct
 HOST-KEYWORD,readcube,direct
 HOST-KEYWORD,sciencedirect,direct
-HOST-KEYWORD,skydrive,direct
 HOST-KEYWORD,ssl.apple.com,direct
 HOST-KEYWORD,trip.com,direct
 HOST-KEYWORD,ttcdn-tos.kkimg.cc,direct
