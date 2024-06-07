@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-07 15:42:50
+# 更新时间： 2024-06-07 15:45:56
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -261,7 +261,6 @@ HOST-SUFFIX,npupt.com,direct
 HOST-SUFFIX,ol.epicgames.com,direct
 HOST-SUFFIX,oneclient.sfx.ms,direct
 HOST-SUFFIX,onedrive.com,direct
-HOST-SUFFIX,onedrive.live.com,direct
 HOST-SUFFIX,open.cd,direct
 HOST-SUFFIX,oppaiti.me,direct
 HOST-SUFFIX,orpheus.network,direct
@@ -269,7 +268,6 @@ HOST-SUFFIX,osapublishing.org,direct
 HOST-SUFFIX,oup.com,direct
 HOST-SUFFIX,ourbits.club,direct
 HOST-SUFFIX,passthepopcorn.me,direct
-HOST-SUFFIX,photos.live.com,direct
 HOST-SUFFIX,pornbits.net,direct
 HOST-SUFFIX,privatehd.to,direct
 HOST-SUFFIX,pterclub.com,direct
@@ -293,7 +291,6 @@ HOST-SUFFIX,springernature.com,direct
 HOST-SUFFIX,springsunday.net,direct
 HOST-SUFFIX,staticfile.org,direct
 HOST-SUFFIX,steamserver.net,direct
-HOST-SUFFIX,storage.live.com,direct
 HOST-SUFFIX,storage.msn.com,direct
 HOST-SUFFIX,tjupt.org,direct
 HOST-SUFFIX,totheglory.im,direct
