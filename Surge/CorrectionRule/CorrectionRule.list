@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-07 16:34:57
+# 更新时间： 2024-06-07 16:42:12
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -357,8 +357,6 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
 USER-AGENT,%E8%BF%85%E9%9B%B7
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
 USER-AGENT,archero*
 USER-AGENT,coffee%20corp*
 USER-AGENT,coffeecorp*

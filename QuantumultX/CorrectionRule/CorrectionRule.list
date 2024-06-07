@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-07 16:34:43
+# 更新时间： 2024-06-07 16:41:57
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -321,8 +321,6 @@ IP-CIDR,182.254.116.0/24,direct,no-resolve
 IP-CIDR,203.205.238.0/23,direct,no-resolve
 IP-CIDR,203.205.254.0/23,direct,no-resolve
 USER-AGENT,%E8%BF%85%E9%9B%B7,direct
-USER-AGENT,OneDrive*,direct
-USER-AGENT,OneDriveiOSApp*,direct
 USER-AGENT,archero*,direct
 USER-AGENT,coffee%20corp*,direct
 USER-AGENT,coffeecorp*,direct
