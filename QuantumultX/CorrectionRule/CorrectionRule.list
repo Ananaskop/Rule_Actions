@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-07 14:15:48
+# 更新时间： 2024-06-07 15:42:50
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -64,6 +64,7 @@ HOST,mtalk.google.com,direct
 HOST,new-api.meiqia.com,direct
 HOST,ntservicepack.microsoft.com,direct
 HOST,ok.zuidapic.com,direct
+HOST,oneclient.sfx.ms,direct
 HOST,origin-a.akamaihd.ne,direct
 HOST,origin-a.akamaihd.net,direct
 HOST,outlook.office365.com,direct
@@ -92,6 +93,7 @@ HOST,wustat.windows.com,direct
 HOST,www.4khdr.cn,direct
 HOST,www.m3u8.tv.jiexi.8old.cn,direct
 HOST,zh188.net,direct
+HOST-KEYWORD,1drv,direct
 HOST-KEYWORD,anti-ad.net,direct
 HOST-KEYWORD,api-adservices.apple.com,direct
 HOST-KEYWORD,api.smoot.apple.cn,direct
@@ -112,10 +114,12 @@ HOST-KEYWORD,icloud.com,direct
 HOST-KEYWORD,ls.apple.com,direct
 HOST-KEYWORD,lz-cdn,direct
 HOST-KEYWORD,o.lencr.org,direct
+HOST-KEYWORD,onedrive,direct
 HOST-KEYWORD,pkulaw,direct
 HOST-KEYWORD,push.apple.com,direct
 HOST-KEYWORD,readcube,direct
 HOST-KEYWORD,sciencedirect,direct
+HOST-KEYWORD,skydrive,direct
 HOST-KEYWORD,ssl.apple.com,direct
 HOST-KEYWORD,trip.com,direct
 HOST-KEYWORD,ttcdn-tos.kkimg.cc,direct
@@ -128,6 +132,7 @@ HOST-KEYWORD,wb_ad,direct
 HOST-KEYWORD,weather-adge.apple.com,direct
 HOST-KEYWORD,weather-edge.apple.com,direct
 HOST-KEYWORD,westlawchina,direct
+HOST-SUFFIX,1drv.com,direct
 HOST-SUFFIX,1password.com,direct
 HOST-SUFFIX,52pt.site,direct
 HOST-SUFFIX,aaplimg.com,direct
@@ -237,6 +242,7 @@ HOST-SUFFIX,koodomobile.ca,direct
 HOST-SUFFIX,koodomobile.com,direct
 HOST-SUFFIX,leaguehd.com,direct
 HOST-SUFFIX,likesto.me,direct
+HOST-SUFFIX,livefilestore.com,direct
 HOST-SUFFIX,lztr.me,direct
 HOST-SUFFIX,m-team.cc,direct
 HOST-SUFFIX,madsrevolution.net,direct
@@ -253,6 +259,9 @@ HOST-SUFFIX,nebulance.io,direct
 HOST-SUFFIX,nicept.net,direct
 HOST-SUFFIX,npupt.com,direct
 HOST-SUFFIX,ol.epicgames.com,direct
+HOST-SUFFIX,oneclient.sfx.ms,direct
+HOST-SUFFIX,onedrive.com,direct
+HOST-SUFFIX,onedrive.live.com,direct
 HOST-SUFFIX,open.cd,direct
 HOST-SUFFIX,oppaiti.me,direct
 HOST-SUFFIX,orpheus.network,direct
@@ -260,6 +269,7 @@ HOST-SUFFIX,osapublishing.org,direct
 HOST-SUFFIX,oup.com,direct
 HOST-SUFFIX,ourbits.club,direct
 HOST-SUFFIX,passthepopcorn.me,direct
+HOST-SUFFIX,photos.live.com,direct
 HOST-SUFFIX,pornbits.net,direct
 HOST-SUFFIX,privatehd.to,direct
 HOST-SUFFIX,pterclub.com,direct
@@ -270,15 +280,21 @@ HOST-SUFFIX,researchgate.net,direct
 HOST-SUFFIX,sciencemag.org,direct
 HOST-SUFFIX,scopus.com,direct
 HOST-SUFFIX,sdbits.org,direct
+HOST-SUFFIX,sharepoint.com,direct
+HOST-SUFFIX,sharepointonline.com,direct
+HOST-SUFFIX,skydrive.wns.windows.com,direct
 HOST-SUFFIX,skyey2.com,direct
 HOST-SUFFIX,smoot.apple.cn,direct
 HOST-SUFFIX,snapdrop.net,direct
 HOST-SUFFIX,soulvoice.club,direct
+HOST-SUFFIX,spoprod-a.akamaihd.net,direct
 HOST-SUFFIX,springer.com,direct
 HOST-SUFFIX,springernature.com,direct
 HOST-SUFFIX,springsunday.net,direct
 HOST-SUFFIX,staticfile.org,direct
 HOST-SUFFIX,steamserver.net,direct
+HOST-SUFFIX,storage.live.com,direct
+HOST-SUFFIX,storage.msn.com,direct
 HOST-SUFFIX,tjupt.org,direct
 HOST-SUFFIX,totheglory.im,direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,direct
@@ -311,6 +327,8 @@ IP-CIDR,182.254.116.0/24,direct,no-resolve
 IP-CIDR,203.205.238.0/23,direct,no-resolve
 IP-CIDR,203.205.254.0/23,direct,no-resolve
 USER-AGENT,%E8%BF%85%E9%9B%B7,direct
+USER-AGENT,OneDrive*,direct
+USER-AGENT,OneDriveiOSApp*,direct
 USER-AGENT,archero*,direct
 USER-AGENT,coffee%20corp*,direct
 USER-AGENT,coffeecorp*,direct
