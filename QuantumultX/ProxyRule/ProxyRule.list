@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-07 02:13:46
+# 更新时间： 2024-06-07 08:52:01
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -6569,6 +6569,7 @@ HOST-SUFFIX,devopsms.com,proxy
 HOST-SUFFIX,devpn.com,proxy
 HOST-SUFFIX,devsitetest.how,proxy
 HOST-SUFFIX,devtools-paypal.com,proxy
+HOST-SUFFIX,devv.ai,proxy
 HOST-SUFFIX,dewitwithdurex.com,proxy
 HOST-SUFFIX,dexterhorn.com,proxy
 HOST-SUFFIX,dezyred.com,proxy
