@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-09 02:12:59
+# 更新时间： 2024-06-09 08:54:56
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -13218,6 +13218,7 @@ payload:
   - DOMAIN-SUFFIX,liberal.org.hk
   - DOMAIN-SUFFIX,liberapay.com
   - DOMAIN-SUFFIX,liberapay.org
+  - DOMAIN-SUFFIX,libertysculpturepark.com
   - DOMAIN-SUFFIX,libertytimes.com.tw
   - DOMAIN-SUFFIX,libgen.fun
   - DOMAIN-SUFFIX,libgen.is
@@ -23376,6 +23377,7 @@ payload:
   - DOMAIN-SUFFIX,wrchina.org
   - DOMAIN-SUFFIX,wrenchead.com
   - DOMAIN-SUFFIX,wretch.cc
+  - DOMAIN-SUFFIX,writesonic.com
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.jobs
   - DOMAIN-SUFFIX,wsj.net
