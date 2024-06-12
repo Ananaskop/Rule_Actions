@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-12 08:51:00
+# 更新时间： 2024-06-12 14:14:47
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -64,7 +64,6 @@ HOST,mtalk.google.com,direct
 HOST,new-api.meiqia.com,direct
 HOST,ntservicepack.microsoft.com,direct
 HOST,ok.zuidapic.com,direct
-HOST,oneclient.sfx.ms,direct
 HOST,origin-a.akamaihd.ne,direct
 HOST,origin-a.akamaihd.net,direct
 HOST,outlook.office365.com,direct
@@ -129,7 +128,6 @@ HOST-KEYWORD,wb_ad,direct
 HOST-KEYWORD,weather-adge.apple.com,direct
 HOST-KEYWORD,weather-edge.apple.com,direct
 HOST-KEYWORD,westlawchina,direct
-HOST-SUFFIX,1drv.com,direct
 HOST-SUFFIX,1password.com,direct
 HOST-SUFFIX,52pt.site,direct
 HOST-SUFFIX,aaplimg.com,direct
@@ -239,7 +237,6 @@ HOST-SUFFIX,koodomobile.ca,direct
 HOST-SUFFIX,koodomobile.com,direct
 HOST-SUFFIX,leaguehd.com,direct
 HOST-SUFFIX,likesto.me,direct
-HOST-SUFFIX,livefilestore.com,direct
 HOST-SUFFIX,lztr.me,direct
 HOST-SUFFIX,m-team.cc,direct
 HOST-SUFFIX,madsrevolution.net,direct
@@ -256,8 +253,6 @@ HOST-SUFFIX,nebulance.io,direct
 HOST-SUFFIX,nicept.net,direct
 HOST-SUFFIX,npupt.com,direct
 HOST-SUFFIX,ol.epicgames.com,direct
-HOST-SUFFIX,oneclient.sfx.ms,direct
-HOST-SUFFIX,onedrive.com,direct
 HOST-SUFFIX,open.cd,direct
 HOST-SUFFIX,oppaiti.me,direct
 HOST-SUFFIX,orpheus.network,direct
@@ -275,20 +270,15 @@ HOST-SUFFIX,researchgate.net,direct
 HOST-SUFFIX,sciencemag.org,direct
 HOST-SUFFIX,scopus.com,direct
 HOST-SUFFIX,sdbits.org,direct
-HOST-SUFFIX,sharepoint.com,direct
-HOST-SUFFIX,sharepointonline.com,direct
-HOST-SUFFIX,skydrive.wns.windows.com,direct
 HOST-SUFFIX,skyey2.com,direct
 HOST-SUFFIX,smoot.apple.cn,direct
 HOST-SUFFIX,snapdrop.net,direct
 HOST-SUFFIX,soulvoice.club,direct
-HOST-SUFFIX,spoprod-a.akamaihd.net,direct
 HOST-SUFFIX,springer.com,direct
 HOST-SUFFIX,springernature.com,direct
 HOST-SUFFIX,springsunday.net,direct
 HOST-SUFFIX,staticfile.org,direct
 HOST-SUFFIX,steamserver.net,direct
-HOST-SUFFIX,storage.msn.com,direct
 HOST-SUFFIX,tjupt.org,direct
 HOST-SUFFIX,totheglory.im,direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,direct
