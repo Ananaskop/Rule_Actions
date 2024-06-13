@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-13 20:20:11
+# 更新时间： 2024-06-14 02:15:10
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -962,7 +962,6 @@ payload:
   - DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN-KEYWORD,-lm.adkwai.com
   - DOMAIN-KEYWORD,-normal-lq.zijieapi.com
-  - DOMAIN-KEYWORD,-tos.pstatp.com
   - DOMAIN-KEYWORD,..shouji.sogou.com
   - DOMAIN-KEYWORD,.a.market.xiaomi.com
   - DOMAIN-KEYWORD,.data.hicloud.com
@@ -1163,6 +1162,7 @@ payload:
   - DOMAIN-KEYWORD,stunninglover
   - DOMAIN-KEYWORD,talk.bz.getui.com
   - DOMAIN-KEYWORD,toateeli
+  - DOMAIN-KEYWORD,tos.pstatp.com
   - DOMAIN-KEYWORD,tosv.boe.byted.org
   - DOMAIN-KEYWORD,tosv.byted.org
   - DOMAIN-KEYWORD,trace.qq.com

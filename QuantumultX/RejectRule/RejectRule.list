@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-13 20:20:03
+# 更新时间： 2024-06-14 02:14:59
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -961,7 +961,6 @@ HOST-KEYWORD,-adsystem.com,reject
 HOST-KEYWORD,-be-pack-sign.pglstatp-toutiao.com,reject
 HOST-KEYWORD,-lm.adkwai.com,reject
 HOST-KEYWORD,-normal-lq.zijieapi.com,reject
-HOST-KEYWORD,-tos.pstatp.com,reject
 HOST-KEYWORD,..shouji.sogou.com,reject
 HOST-KEYWORD,.a.market.xiaomi.com,reject
 HOST-KEYWORD,.data.hicloud.com,reject
@@ -1162,6 +1161,7 @@ HOST-KEYWORD,stsdk.vivoglobal.com,reject
 HOST-KEYWORD,stunninglover,reject
 HOST-KEYWORD,talk.bz.getui.com,reject
 HOST-KEYWORD,toateeli,reject
+HOST-KEYWORD,tos.pstatp.com,reject
 HOST-KEYWORD,tosv.boe.byted.org,reject
 HOST-KEYWORD,tosv.byted.org,reject
 HOST-KEYWORD,trace.qq.com,reject
