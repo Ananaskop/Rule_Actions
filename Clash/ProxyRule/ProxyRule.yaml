@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-13 14:15:07
+# 更新时间： 2024-06-13 16:56:55
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,angle.com.tw
@@ -88,6 +88,9 @@ payload:
   - DOMAIN,widgets.stripst.com
   - DOMAIN,wrds-www.wharton.upenn.edu
   - DOMAIN,www-cdn.icloud.com.akadns.net
+  - DOMAIN,zh.1lib.sk
+  - DOMAIN,zh.singlelogin.se
+  - DOMAIN,zh.z-library.se
   - DOMAIN,ztedevices.com
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,1e100

@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-13 14:15:00
+# 更新时间： 2024-06-13 16:56:47
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -496,6 +496,9 @@ HOST,wwis-dubc1-vip98.adobe.com,proxy
 HOST,wwis-dubc1-vip99.adobe.com,proxy
 HOST,www-cdn.icloud.com.akadns.net,proxy
 HOST,zeenews-fonts.s3.amazonaws.com,proxy
+HOST,zh.1lib.sk,proxy
+HOST,zh.singlelogin.se,proxy
+HOST,zh.z-library.se,proxy
 HOST,ztedevices.com,proxy
 HOST-KEYWORD,1drv,proxy
 HOST-KEYWORD,1e100,proxy
