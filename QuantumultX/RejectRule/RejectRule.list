@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-15 20:18:53
+# 更新时间： 2024-06-16 02:14:09
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -1161,7 +1161,6 @@ HOST-KEYWORD,stsdk.vivoglobal.com,reject
 HOST-KEYWORD,stunninglover,reject
 HOST-KEYWORD,talk.bz.getui.com,reject
 HOST-KEYWORD,toateeli,reject
-HOST-KEYWORD,tos.pstatp.com,reject
 HOST-KEYWORD,tosv.boe.byted.org,reject
 HOST-KEYWORD,tosv.byted.org,reject
 HOST-KEYWORD,trace.qq.com,reject
@@ -1835,6 +1834,7 @@ HOST-SUFFIX,ad-plus.cn,reject
 HOST-SUFFIX,ad-scope.com,reject
 HOST-SUFFIX,ad-scope.com.cn,reject
 HOST-SUFFIX,ad-sdk.huxiu.com,reject
+HOST-SUFFIX,ad-sign.byteimg.com,reject
 HOST-SUFFIX,ad-specs.guoshipartners.com,reject
 HOST-SUFFIX,ad-stat.ksosoft.com,reject
 HOST-SUFFIX,ad-stir.com,reject
@@ -5024,6 +5024,7 @@ HOST-SUFFIX,geryi.com,reject
 HOST-SUFFIX,get.thefile.me,reject
 HOST-SUFFIX,get3.adobe.com,reject
 HOST-SUFFIX,getnormalizedurl.com,reject
+HOST-SUFFIX,getui.com,reject
 HOST-SUFFIX,gewuwen.com,reject
 HOST-SUFFIX,gf108.com,reject
 HOST-SUFFIX,gf1352.com,reject
@@ -7560,6 +7561,7 @@ HOST-SUFFIX,panda.kdnet.net,reject
 HOST-SUFFIX,pangle.io,reject
 HOST-SUFFIX,panglelog.gz.bcebos.com,reject
 HOST-SUFFIX,pangolin-sdk-toutiao-b.com,reject
+HOST-SUFFIX,pangolin.snssdk.com,reject
 HOST-SUFFIX,pangu.cc,reject
 HOST-SUFFIX,panoramio.com,reject
 HOST-SUFFIX,paopao.iqiyi.com,reject
@@ -9125,6 +9127,7 @@ HOST-SUFFIX,top.h.qhimg.com,reject
 HOST-SUFFIX,top.h.qhmsg.com,reject
 HOST-SUFFIX,top267.com,reject
 HOST-SUFFIX,topitme.com,reject
+HOST-SUFFIX,tos.pstatp.com,reject
 HOST-SUFFIX,total.xinmin.cn,reject
 HOST-SUFFIX,touclick.com,reject
 HOST-SUFFIX,toutiao.2haha.com,reject
@@ -9502,6 +9505,7 @@ HOST-SUFFIX,vichc.com,reject
 HOST-SUFFIX,victorjx.com,reject
 HOST-SUFFIX,vid.applovin.com,reject
 HOST-SUFFIX,video-ad-stats.googlesyndication.com,reject
+HOST-SUFFIX,video-cn.snssdk.com,reject
 HOST-SUFFIX,video-dsp.pddpic.com,reject
 HOST-SUFFIX,video.cooguo.com,reject
 HOST-SUFFIX,video.ureport.push.qq.com,reject

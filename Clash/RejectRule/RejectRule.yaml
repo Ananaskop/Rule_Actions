@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-15 20:19:00
+# 更新时间： 2024-06-16 02:14:16
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -1162,7 +1162,6 @@ payload:
   - DOMAIN-KEYWORD,stunninglover
   - DOMAIN-KEYWORD,talk.bz.getui.com
   - DOMAIN-KEYWORD,toateeli
-  - DOMAIN-KEYWORD,tos.pstatp.com
   - DOMAIN-KEYWORD,tosv.boe.byted.org
   - DOMAIN-KEYWORD,tosv.byted.org
   - DOMAIN-KEYWORD,trace.qq.com
@@ -1836,6 +1835,7 @@ payload:
   - DOMAIN-SUFFIX,ad-scope.com
   - DOMAIN-SUFFIX,ad-scope.com.cn
   - DOMAIN-SUFFIX,ad-sdk.huxiu.com
+  - DOMAIN-SUFFIX,ad-sign.byteimg.com
   - DOMAIN-SUFFIX,ad-specs.guoshipartners.com
   - DOMAIN-SUFFIX,ad-stat.ksosoft.com
   - DOMAIN-SUFFIX,ad-stir.com
@@ -5025,6 +5025,7 @@ payload:
   - DOMAIN-SUFFIX,get.thefile.me
   - DOMAIN-SUFFIX,get3.adobe.com
   - DOMAIN-SUFFIX,getnormalizedurl.com
+  - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,gewuwen.com
   - DOMAIN-SUFFIX,gf108.com
   - DOMAIN-SUFFIX,gf1352.com
@@ -7561,6 +7562,7 @@ payload:
   - DOMAIN-SUFFIX,pangle.io
   - DOMAIN-SUFFIX,panglelog.gz.bcebos.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,pangu.cc
   - DOMAIN-SUFFIX,panoramio.com
   - DOMAIN-SUFFIX,paopao.iqiyi.com
@@ -9126,6 +9128,7 @@ payload:
   - DOMAIN-SUFFIX,top.h.qhmsg.com
   - DOMAIN-SUFFIX,top267.com
   - DOMAIN-SUFFIX,topitme.com
+  - DOMAIN-SUFFIX,tos.pstatp.com
   - DOMAIN-SUFFIX,total.xinmin.cn
   - DOMAIN-SUFFIX,touclick.com
   - DOMAIN-SUFFIX,toutiao.2haha.com
@@ -9503,6 +9506,7 @@ payload:
   - DOMAIN-SUFFIX,victorjx.com
   - DOMAIN-SUFFIX,vid.applovin.com
   - DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
+  - DOMAIN-SUFFIX,video-cn.snssdk.com
   - DOMAIN-SUFFIX,video-dsp.pddpic.com
   - DOMAIN-SUFFIX,video.cooguo.com
   - DOMAIN-SUFFIX,video.ureport.push.qq.com
