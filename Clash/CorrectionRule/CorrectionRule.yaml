@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-16 02:14:16
+# 更新时间： 2024-06-16 08:54:35
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -46,13 +46,11 @@ payload:
   - DOMAIN,img.kuaikanzy.net
   - DOMAIN,img.liangzipic.com
   - DOMAIN,init.ess.apple.com
-  - DOMAIN,injections.adguard.org
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,itunes.apple.com
   - DOMAIN,kczybf.com
   - DOMAIN,lain.bgm.tv
   - DOMAIN,livew.l.qq.com
-  - DOMAIN,local.adguard.org
   - DOMAIN,log.mmstat.com
   - DOMAIN,m3u8.255tv.tk
   - DOMAIN,m3u8.mstopq.com
