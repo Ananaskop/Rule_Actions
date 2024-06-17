@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-17 20:20:16
+# 更新时间： 2024-06-18 02:14:06
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -59,6 +59,7 @@ HOST,adbehavior.ximalaya.com,reject
 HOST,adc.hpplay.cn,reject
 HOST,adcdn.hpplay.cn,reject
 HOST,adcdn.tencentmusic.com,reject
+HOST,adcdn6.tencentmusic.com,reject
 HOST,adclick.tencentmusic.com,reject
 HOST,adcolony.com,reject
 HOST,adeng.hpplay.cn,reject
