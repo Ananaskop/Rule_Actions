@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-20 14:15:15
+# 更新时间： 2024-06-20 20:20:04
 payload:
   - DOMAIN,api.mojang.com
   - DOMAIN,api.waqi.info
@@ -427,6 +427,7 @@ payload:
   - DOMAIN-SUFFIX,army.mil
   - DOMAIN-SUFFIX,art4tibet1998.org
   - DOMAIN-SUFFIX,arte.tv
+  - DOMAIN-SUFFIX,articles.sk
   - DOMAIN-SUFFIX,artofpeacefoundation.org
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,artsy.net
@@ -4427,6 +4428,7 @@ payload:
   - DOMAIN-SUFFIX,sinchew.com.my
   - DOMAIN-SUFFIX,singaporepools.com.sg
   - DOMAIN-SUFFIX,singfortibet.com
+  - DOMAIN-SUFFIX,singlelogin.rs
   - DOMAIN-SUFFIX,singpao.com.hk
   - DOMAIN-SUFFIX,singtao.ca
   - DOMAIN-SUFFIX,singtao.com

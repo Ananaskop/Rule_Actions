@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-20 14:15:07
+# 更新时间： 2024-06-20 20:19:57
 HOST,api.mojang.com,proxy
 HOST,api.msn.com,proxy
 HOST,api.waqi.info,proxy
@@ -446,6 +446,7 @@ HOST-SUFFIX,armorgames.com,proxy
 HOST-SUFFIX,army.mil,proxy
 HOST-SUFFIX,art4tibet1998.org,proxy
 HOST-SUFFIX,arte.tv,proxy
+HOST-SUFFIX,articles.sk,proxy
 HOST-SUFFIX,artofpeacefoundation.org,proxy
 HOST-SUFFIX,artstation.com,proxy
 HOST-SUFFIX,artsy.net,proxy
@@ -4826,6 +4827,7 @@ HOST-SUFFIX,sina.com.tw,proxy
 HOST-SUFFIX,sinchew.com.my,proxy
 HOST-SUFFIX,singaporepools.com.sg,proxy
 HOST-SUFFIX,singfortibet.com,proxy
+HOST-SUFFIX,singlelogin.rs,proxy
 HOST-SUFFIX,singpao.com.hk,proxy
 HOST-SUFFIX,singtao.ca,proxy
 HOST-SUFFIX,singtao.com,proxy
