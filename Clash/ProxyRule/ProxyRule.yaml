@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-20 09:47:49
+# 更新时间： 2024-06-20 11:27:14
 payload:
   - DOMAIN,api.mojang.com
   - DOMAIN,api.waqi.info
@@ -24,9 +24,6 @@ payload:
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,testflight.apple.com
   - DOMAIN,voice.telephony.goog
-  - DOMAIN,zh.1lib.sk
-  - DOMAIN,zh.singlelogin.se
-  - DOMAIN,zh.z-library.se
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
@@ -96,6 +93,7 @@ payload:
   - DOMAIN-SUFFIX,1bao.org
   - DOMAIN-SUFFIX,1dumb.com
   - DOMAIN-SUFFIX,1eew.com
+  - DOMAIN-SUFFIX,1lib.sk
   - DOMAIN-SUFFIX,1mobile.com
   - DOMAIN-SUFFIX,1mobile.tw
   - DOMAIN-SUFFIX,1password.com

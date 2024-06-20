@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-20 09:47:42
+# 更新时间： 2024-06-20 11:27:07
 HOST,api.mojang.com,proxy
 HOST,api.msn.com,proxy
 HOST,api.waqi.info,proxy
@@ -30,9 +30,6 @@ HOST,steamusercontent-a.akamaihd.net,proxy
 HOST,steamuserimages-a.akamaihd.net,proxy
 HOST,testflight.apple.com,proxy
 HOST,voice.telephony.goog,proxy
-HOST,zh.1lib.sk,proxy
-HOST,zh.singlelogin.se,proxy
-HOST,zh.z-library.se,proxy
 HOST-KEYWORD,1drv,proxy
 HOST-KEYWORD,1e100,proxy
 HOST-KEYWORD,abema,proxy
@@ -103,6 +100,7 @@ HOST-SUFFIX,1bao.org,proxy
 HOST-SUFFIX,1dumb.com,proxy
 HOST-SUFFIX,1e100.net,proxy
 HOST-SUFFIX,1eew.com,proxy
+HOST-SUFFIX,1lib.sk,proxy
 HOST-SUFFIX,1mobile.com,proxy
 HOST-SUFFIX,1mobile.tw,proxy
 HOST-SUFFIX,1password.com,proxy
