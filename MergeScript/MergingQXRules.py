@@ -15,7 +15,7 @@ replacements = [
     (r',(?:China|ChinaMax|Direct|Speedtest|Apple|Lan|Microsoft|WeChat)$', ',direct'),
     (r',(?:Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy|Global)$', ',proxy'),
-    (r',(?:OpenAI|PayPal|Bing|Anthropic|Gemini)$', ',US'),
+    (r',(?:OpenAI|PayPal|Bing|Anthropic|Gemini|Facebook)$', ',US'),
     (r'^(?:host|domain|DOMAIN)', 'HOST'),
     (r'-suffix', '-SUFFIX'),
     (r'-keyword', '-KEYWORD'),
@@ -50,6 +50,8 @@ RULES = {
         "Bing": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Bing/Bing.list",
         "Anthropic": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Anthropic/Anthropic.list",
         "Gemini": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Gemini/Gemini.list",
+        "Facebook": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Facebook/Facebook.list",
+
     },
     "MediaRule": {
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list",
