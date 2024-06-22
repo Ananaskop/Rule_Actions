@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-22 16:44:13
+# 更新时间： 2024-06-22 20:18:32
 DOMAIN,*default.ixigua.com
 DOMAIN,*novelapp.ixigua.com
 DOMAIN,1010pic.com
@@ -17,6 +17,7 @@ DOMAIN,acdn.adnxs.com
 DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,activity-ag.awemeughun.com
 DOMAIN,ad-analysis.pconline.com.cn
+DOMAIN,ad-cache.dopool.com
 DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-h5-cdn.soulapp.cn
 DOMAIN,ad-h5-station-cdn.soulapp.cn
@@ -34,6 +35,7 @@ DOMAIN,ad.51wnl.com
 DOMAIN,ad.api.moji.com
 DOMAIN,ad.bn.netease.com
 DOMAIN,ad.bwton.com
+DOMAIN,ad.cctv.com
 DOMAIN,ad.chelaile.net.cn
 DOMAIN,ad.cyapi.cn
 DOMAIN,ad.hpplay.cn
@@ -67,6 +69,7 @@ DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextra.51wnl-cq.com
 DOMAIN,adfile.wifi8.com
 DOMAIN,adfilter.imtt.qq.com
+DOMAIN,adguanggao.eee114.com
 DOMAIN,adimg.uve.weibo.com
 DOMAIN,adimg.vue.weibo.com
 DOMAIN,adjust.cn
@@ -76,6 +79,7 @@ DOMAIN,adlaunch.qingting.fm
 DOMAIN,adlink-api.huan.tv
 DOMAIN,adlog.vivo.com.cn
 DOMAIN,adm.10jqka.com.cn
+DOMAIN,adm.funshion.com
 DOMAIN,adm0.autoimg.cn
 DOMAIN,adm1.autoimg.cn
 DOMAIN,adm2.autoimg.cn
@@ -149,6 +153,8 @@ DOMAIN,adsmind.ugdtimg.com
 DOMAIN,adsp.xunlei.com
 DOMAIN,adsstatic.vivo.com.cn
 DOMAIN,adstats.tencentmusic.com
+DOMAIN,adstore-1252524079.file.myqcloud.com
+DOMAIN,adstore-index-1252524079.file.myqcloud.com
 DOMAIN,adtago.s3.amazonaws.com
 DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
@@ -158,6 +164,7 @@ DOMAIN,adui.tg.meitu.com
 DOMAIN,adukwai.com
 DOMAIN,adv-adlog.variflight.com
 DOMAIN,adv-ads.variflight.com
+DOMAIN,adv.fjtv.net
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,advertise.baicizhan.com
@@ -174,6 +181,7 @@ DOMAIN,adx-ad.smart-tv.cn
 DOMAIN,adx-api.hupu.com
 DOMAIN,adx-cn.anythinktech.com
 DOMAIN,adx-drcn.op.dbankcloud.cn
+DOMAIN,adx-open-service.youku.com
 DOMAIN,adx.ads.heytapmobi.com
 DOMAIN,adx.ads.oppomobile.com
 DOMAIN,adx.hupu.com
@@ -181,10 +189,12 @@ DOMAIN,adx.yiche.com
 DOMAIN,adxlog-adnet.vivo.com.cn
 DOMAIN,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 DOMAIN,adxlog.vivo.com.cn
+DOMAIN,adxserver.ad.cmvideo.cn
 DOMAIN,afd.baidu.com
 DOMAIN,afdconf.baidu.com
 DOMAIN,afs.googlesyndication.com
 DOMAIN,aid.m.taobao.com
+DOMAIN,aiseet.aa.atianqi.com
 DOMAIN,al.autohome.com.cn
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,alog.umeng.com
@@ -206,6 +216,7 @@ DOMAIN,analytics.slashdotmedia.com
 DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.woozooo.com
 DOMAIN,analyze.lemurbrowser.com
+DOMAIN,andrqd.play.aiseet.atianqi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao1.com
@@ -286,6 +297,7 @@ DOMAIN,cad.youku.com
 DOMAIN,cartoonapi.uc.cn
 DOMAIN,catalog.fjwhcbsh.com
 DOMAIN,ccs.umeng.com
+DOMAIN,cctv.adsunion.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn-new-ad.wtzw.com
 DOMAIN,cdn.ad.xiaomi.com
@@ -314,6 +326,7 @@ DOMAIN,credits.bz.mgtv.com
 DOMAIN,credits2.bz.mgtv.com
 DOMAIN,credits3.bz.mgtv.com
 DOMAIN,csjplatform.com
+DOMAIN,cws-cctv.conviva.com
 DOMAIN,cwx.lianwangtech.com
 DOMAIN,dagonghuzhu.com
 DOMAIN,data-hoisin.coocaa.com
@@ -387,6 +400,7 @@ DOMAIN,ggic03.miguvideo.com
 DOMAIN,ggmk.miguvideo.com
 DOMAIN,ggv.cmvideo.cn
 DOMAIN,ggx.cmvideo.cn
+DOMAIN,ggx01.miguvideo.com
 DOMAIN,ggx03.miguvideo.com
 DOMAIN,gj.applog.uc.cn
 DOMAIN,gj.track.uc.cn
@@ -460,6 +474,7 @@ DOMAIN,iadsdk.apple.com
 DOMAIN,iadworkbench.apple.com
 DOMAIN,icloud-amap.com
 DOMAIN,id.hadron.ad.gt
+DOMAIN,ifacelog.iqiyi.com
 DOMAIN,ifengad.3g.ifeng.com
 DOMAIN,ifs.tanx.com
 DOMAIN,image-ad.sm.cn
@@ -518,7 +533,10 @@ DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,lf9-cdn-tos.bytegecko.com
 DOMAIN,liveats-vod.video.ptqy.gitv.tv
 DOMAIN,livemonitor.huan.tv
+DOMAIN,livep.l.aiseet.atianqi.com
 DOMAIN,livep.l.t002.ottcn.com
+DOMAIN,lives.l.aiseet.atianqi.com
+DOMAIN,lives.l.ott.video.qq.com
 DOMAIN,livewebbs2.msstatic.com
 DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,lm10111.jtrincc.cn
@@ -561,6 +579,7 @@ DOMAIN,logupdate.avlyun.sec.miui.com
 DOMAIN,lookup.api.bsb.baidu.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
 DOMAIN,m.adyounger.com
+DOMAIN,m.atm.youku.com
 DOMAIN,m.kubiqq.com
 DOMAIN,m1.ad.10010.com
 DOMAIN,mapi.apptimize.com
@@ -568,6 +587,7 @@ DOMAIN,mapi.m.jd.com
 DOMAIN,maplocatesdksnapshot.d.meituan.net
 DOMAIN,masdkv6.3g.qq.com
 DOMAIN,mazu.m.qq.com
+DOMAIN,mbdlog.iqiyi.com
 DOMAIN,mc.51.la
 DOMAIN,mc.atm.youku.com
 DOMAIN,mc.viglink.com
@@ -605,6 +625,7 @@ DOMAIN,mobilelog.upqzfile.com
 DOMAIN,mobileservice.cn
 DOMAIN,mon.zijieapi.com
 DOMAIN,monitor-ads-test.huan.tv
+DOMAIN,monitor-uu.play.aiseet.atianqi.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,monitor.uu.qq.com
 DOMAIN,monsetting.toutiao.com
@@ -634,6 +655,7 @@ DOMAIN,o2o-ad-log-gateway.alibaba.com
 DOMAIN,o2o.api.xiaomi.com
 DOMAIN,oauth-login-drcn.platform.dbankcloud.com
 DOMAIN,offerwall.yandex.net
+DOMAIN,omgmta.play.aiseet.atianqi.com
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
 DOMAIN,open.kuaishou.com
@@ -648,6 +670,7 @@ DOMAIN,ossgw.alicdn.com
 DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,oth.str.mdt.qq.com
 DOMAIN,otheve.beacon.qq.com
+DOMAIN,otheve.play.aiseet.atianqi.com
 DOMAIN,p.l.qq.com
 DOMAIN,p.s.360.cn
 DOMAIN,p1-be-pack-sign.pglstatp-toutiao.com
@@ -730,6 +753,7 @@ DOMAIN,sdk-ab-config.qquanquan.com
 DOMAIN,sdk-cache.video.ptqy.gitv.tv
 DOMAIN,sdk-conf.getui.com
 DOMAIN,sdk.beizi.biz
+DOMAIN,sdk.cferw.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.hzsanjiaomao.com
 DOMAIN,sdk.mobads.adwangmai.com
@@ -737,6 +761,7 @@ DOMAIN,sdk.open.talk.getui.net
 DOMAIN,sdkconf.avlyun.com
 DOMAIN,sdkconfig.ad.intl.xiaomi.com
 DOMAIN,sdkconfig.ad.xiaomi.com
+DOMAIN,sdkconfig.play.aiseet.atianqi.com
 DOMAIN,sdkconfig.video.qq.com
 DOMAIN,sdkoptedge.chinanetcenter.com
 DOMAIN,sdktmp.hubcloud.com.cn
@@ -797,6 +822,7 @@ DOMAIN,tdc.qq.com
 DOMAIN,tdsdk.cpatrk.net
 DOMAIN,tdsdk.xdrig.com
 DOMAIN,tempest.services.disqus.com
+DOMAIN,tencent-dtv.m.cn.miaozhen.com
 DOMAIN,terms-drcn.platform.dbankcloud.cn
 DOMAIN,test.ad.xiaomi.com
 DOMAIN,test.e.ad.xiaomi.com
@@ -880,6 +906,7 @@ DOMAIN,vali-g1.cp31.ott.cibntv.net
 DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,vcardsdkservice.vivo.com.cn
 DOMAIN,vdapprecv.app.cntvwb.cn
+DOMAIN,video-ad.sm.cn
 DOMAIN,video-dsp.pddpic.com
 DOMAIN,video.da.mgtv.com
 DOMAIN,vip.bz.mgtv.com
@@ -935,9 +962,11 @@ DOMAIN,www.googleadservices.com
 DOMAIN,www42.zskwai.com
 DOMAIN,wxa.wxs.qq.com
 DOMAIN,wxsmsdy.video.qq.com
+DOMAIN,wxsnsad.tc.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,xc.gdt.qq.com
+DOMAIN,xiaomi-dtv.m.cn.miaozhen.com
 DOMAIN,xlivrdr.com
 DOMAIN,xlmzc.cnjp-exp.com
 DOMAIN,xlog.jd.com
@@ -946,6 +975,7 @@ DOMAIN,xlviirdr.com
 DOMAIN,yandexmetrica.com
 DOMAIN,yk-ssp.ad.youku.com
 DOMAIN,ykad-data.youku.com
+DOMAIN,ykad-gateway.youku.com
 DOMAIN,ynuf.aliapp.org
 DOMAIN,youku-acs.m.taobao.com
 DOMAIN,youxi.kugou.com
