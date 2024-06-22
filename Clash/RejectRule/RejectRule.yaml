@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-22 11:11:11
+# 更新时间： 2024-06-22 14:14:49
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -134,6 +134,7 @@ payload:
   - DOMAIN,adsense.google.cn
   - DOMAIN,adservice.google.cn
   - DOMAIN,adservice.google.com
+  - DOMAIN,adservice.sigmob.cn
   - DOMAIN,adserviceretry.kugou.com
   - DOMAIN,adsfile.bssdlbig.kugou.com
   - DOMAIN,adsfilebssdlbig.ali.kugou.com
@@ -152,6 +153,7 @@ payload:
   - DOMAIN,adtago.s3.amazonaws.com
   - DOMAIN,adtech.yahooinc.com
   - DOMAIN,adtrack.quark.cn
+  - DOMAIN,adtracker.adfunlink.com
   - DOMAIN,adttrackingprd.hwwt8.com
   - DOMAIN,adui.tg.meitu.com
   - DOMAIN,adukwai.com

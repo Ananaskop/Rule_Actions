@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-22 11:11:04
+# 更新时间： 2024-06-22 14:14:42
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -133,6 +133,7 @@ HOST,adsdk.vivo.com.cn,reject
 HOST,adsense.google.cn,reject
 HOST,adservice.google.cn,reject
 HOST,adservice.google.com,reject
+HOST,adservice.sigmob.cn,reject
 HOST,adserviceretry.kugou.com,reject
 HOST,adsfile.bssdlbig.kugou.com,reject
 HOST,adsfilebssdlbig.ali.kugou.com,reject
@@ -151,6 +152,7 @@ HOST,adstats.tencentmusic.com,reject
 HOST,adtago.s3.amazonaws.com,reject
 HOST,adtech.yahooinc.com,reject
 HOST,adtrack.quark.cn,reject
+HOST,adtracker.adfunlink.com,reject
 HOST,adttrackingprd.hwwt8.com,reject
 HOST,adui.tg.meitu.com,reject
 HOST,adukwai.com,reject
