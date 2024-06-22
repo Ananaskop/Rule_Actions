@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-22 14:14:42
+# 更新时间： 2024-06-22 16:39:40
 HOST,api.mojang.com,proxy
 HOST,api.msn.com,proxy
 HOST,api.waqi.info,proxy
@@ -4961,6 +4961,7 @@ HOST-SUFFIX,soylentnews.org,proxy
 HOST-SUFFIX,spankbang.com,proxy
 HOST-SUFFIX,spankingtube.com,proxy
 HOST-SUFFIX,spankwire.com,proxy
+HOST-SUFFIX,sparkmailapp.com,proxy
 HOST-SUFFIX,spb.com,proxy
 HOST-SUFFIX,speakerdeck.com,proxy
 HOST-SUFFIX,speedify.com,proxy

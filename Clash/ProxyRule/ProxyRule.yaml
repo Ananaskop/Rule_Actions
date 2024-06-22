@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-22 14:14:49
+# 更新时间： 2024-06-22 16:39:47
 payload:
   - DOMAIN,api.mojang.com
   - DOMAIN,api.waqi.info
@@ -4561,6 +4561,7 @@ payload:
   - DOMAIN-SUFFIX,spankbang.com
   - DOMAIN-SUFFIX,spankingtube.com
   - DOMAIN-SUFFIX,spankwire.com
+  - DOMAIN-SUFFIX,sparkmailapp.com
   - DOMAIN-SUFFIX,spb.com
   - DOMAIN-SUFFIX,speakerdeck.com
   - DOMAIN-SUFFIX,speedify.com
