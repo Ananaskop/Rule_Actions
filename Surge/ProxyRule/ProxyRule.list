@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-22 16:39:54
+# 更新时间： 2024-06-22 16:44:13
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -44,6 +44,7 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,sparkmail
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore

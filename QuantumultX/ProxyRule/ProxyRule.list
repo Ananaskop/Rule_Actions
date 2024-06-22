@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-22 16:39:40
+# 更新时间： 2024-06-22 16:43:58
 HOST,api.mojang.com,proxy
 HOST,api.msn.com,proxy
 HOST,api.waqi.info,proxy
@@ -51,6 +51,7 @@ HOST-KEYWORD,paypal,proxy
 HOST-KEYWORD,porn,proxy
 HOST-KEYWORD,sci-hub,proxy
 HOST-KEYWORD,skydrive,proxy
+HOST-KEYWORD,sparkmail,proxy
 HOST-KEYWORD,spotify,proxy
 HOST-KEYWORD,steambroadcast,proxy
 HOST-KEYWORD,steamstore,proxy
