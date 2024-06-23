@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-23 02:13:13
+# 更新时间： 2024-06-23 08:54:02
 payload:
   - DOMAIN,*default.ixigua.com
   - DOMAIN,*novelapp.ixigua.com
@@ -986,24 +986,24 @@ payload:
   - DOMAIN,zeus.ad.xiaomi.com
   - DOMAIN,zgsdk.zhugeio.com
   - DOMAIN,zxid-m.mobileservice.cn
-  - DOMAIN-KEYWORD,-ad-.byteimg.com
   - DOMAIN-KEYWORD,-ad-sign.byteimg.com
-  - DOMAIN-KEYWORD,-ad.sm.cn
-  - DOMAIN-KEYWORD,-ad.video.yximgs.com
-  - DOMAIN-KEYWORD,-ad.wtzw.com
   - DOMAIN-KEYWORD,-adsystem.com
-  - DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
-  - DOMAIN-KEYWORD,-lm.adkwai.com
-  - DOMAIN-KEYWORD,-normal-lq.zijieapi.com
   - DOMAIN-KEYWORD,..shouji.sogou.com
+  - DOMAIN-KEYWORD,.[a-zA-Z0-9.-]skwai.com
   - DOMAIN-KEYWORD,.a.market.xiaomi.com
   - DOMAIN-KEYWORD,.data.hicloud.com
   - DOMAIN-KEYWORD,.log.aliyuncs.com
   - DOMAIN-KEYWORD,.shouji.sogou.com
-  - DOMAIN-KEYWORD,.skwai.com
-  - DOMAIN-KEYWORD,.zskwai.com
   - DOMAIN-KEYWORD,112wan
   - DOMAIN-KEYWORD,789htbet
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.sm.cn
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.video.yximgs.com
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.wtzw.com
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-be-pack-sign.pglstatp-toutiao.com
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-lm.adkwai.com
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal-[a-zA-Z0-9.-].zijieapi.com
+  - DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal.zijieapi.com
   - DOMAIN-KEYWORD,a.9game.cn
   - DOMAIN-KEYWORD,a.wkanx.com
   - DOMAIN-KEYWORD,a3.bytecdn.cn
@@ -1021,8 +1021,6 @@ payload:
   - DOMAIN-KEYWORD,adp.atm.youku.com
   - DOMAIN-KEYWORD,adproxy.autohome.com
   - DOMAIN-KEYWORD,ads-d.viber.com
-  - DOMAIN-KEYWORD,ads-normal-.zijieapi.com
-  - DOMAIN-KEYWORD,ads-normal.zijieapi.com
   - DOMAIN-KEYWORD,ads.aws.viber.com
   - DOMAIN-KEYWORD,ads.g.doubleclick
   - DOMAIN-KEYWORD,ads.viber.com
@@ -1069,9 +1067,7 @@ payload:
   - DOMAIN-KEYWORD,clickc.admaster.com
   - DOMAIN-KEYWORD,client-dmp.suishenyun.cn
   - DOMAIN-KEYWORD,clk.gentags.net
-  - DOMAIN-KEYWORD,cloud-inject-global.oss-cn-hongkong.aliyuncs.com
-  - DOMAIN-KEYWORD,cloudinject-dev..--.amazonaws.com
-  - DOMAIN-KEYWORD,cloudinject-dev.s3.ap-northoreast-1.amazonaws.com
+  - DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]-dev..[a-zA-Z0-9.-]-[a-zA-Z0-9.-]-[a-zA-Z0-9.-].amazonaws.com
   - DOMAIN-KEYWORD,cm-10-134.getui.com
   - DOMAIN-KEYWORD,cm-10-35.getui.com
   - DOMAIN-KEYWORD,collectionpv.che168.com

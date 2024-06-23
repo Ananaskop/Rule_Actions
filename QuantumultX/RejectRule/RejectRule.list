@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-23 02:13:06
+# 更新时间： 2024-06-23 08:53:55
 HOST,*default.ixigua.com,reject
 HOST,*novelapp.ixigua.com,reject
 HOST,1010pic.com,reject
@@ -985,24 +985,24 @@ HOST,yt-adp.ws.126.net,reject
 HOST,zeus.ad.xiaomi.com,reject
 HOST,zgsdk.zhugeio.com,reject
 HOST,zxid-m.mobileservice.cn,reject
-HOST-KEYWORD,-ad-.byteimg.com,reject
 HOST-KEYWORD,-ad-sign.byteimg.com,reject
-HOST-KEYWORD,-ad.sm.cn,reject
-HOST-KEYWORD,-ad.video.yximgs.com,reject
-HOST-KEYWORD,-ad.wtzw.com,reject
 HOST-KEYWORD,-adsystem.com,reject
-HOST-KEYWORD,-be-pack-sign.pglstatp-toutiao.com,reject
-HOST-KEYWORD,-lm.adkwai.com,reject
-HOST-KEYWORD,-normal-lq.zijieapi.com,reject
 HOST-KEYWORD,..shouji.sogou.com,reject
+HOST-KEYWORD,.[a-zA-Z0-9.-]skwai.com,reject
 HOST-KEYWORD,.a.market.xiaomi.com,reject
 HOST-KEYWORD,.data.hicloud.com,reject
 HOST-KEYWORD,.log.aliyuncs.com,reject
 HOST-KEYWORD,.shouji.sogou.com,reject
-HOST-KEYWORD,.skwai.com,reject
-HOST-KEYWORD,.zskwai.com,reject
 HOST-KEYWORD,112wan,reject
 HOST-KEYWORD,789htbet,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-ad.sm.cn,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-ad.video.yximgs.com,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-ad.wtzw.com,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-be-pack-sign.pglstatp-toutiao.com,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-lm.adkwai.com,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-normal-[a-zA-Z0-9.-].zijieapi.com,reject
+HOST-KEYWORD,[a-zA-Z0-9.-]-normal.zijieapi.com,reject
 HOST-KEYWORD,a.9game.cn,reject
 HOST-KEYWORD,a.wkanx.com,reject
 HOST-KEYWORD,a3.bytecdn.cn,reject
@@ -1020,8 +1020,6 @@ HOST-KEYWORD,adm3.autoimg.cn,reject
 HOST-KEYWORD,adp.atm.youku.com,reject
 HOST-KEYWORD,adproxy.autohome.com,reject
 HOST-KEYWORD,ads-d.viber.com,reject
-HOST-KEYWORD,ads-normal-.zijieapi.com,reject
-HOST-KEYWORD,ads-normal.zijieapi.com,reject
 HOST-KEYWORD,ads.aws.viber.com,reject
 HOST-KEYWORD,ads.g.doubleclick,reject
 HOST-KEYWORD,ads.viber.com,reject
@@ -1068,9 +1066,7 @@ HOST-KEYWORD,click.uve.weibo.com,reject
 HOST-KEYWORD,clickc.admaster.com,reject
 HOST-KEYWORD,client-dmp.suishenyun.cn,reject
 HOST-KEYWORD,clk.gentags.net,reject
-HOST-KEYWORD,cloud-inject-global.oss-cn-hongkong.aliyuncs.com,reject
-HOST-KEYWORD,cloudinject-dev..--.amazonaws.com,reject
-HOST-KEYWORD,cloudinject-dev.s3.ap-northoreast-1.amazonaws.com,reject
+HOST-KEYWORD,cloudinject[a-zA-Z0-9.-]-dev..[a-zA-Z0-9.-]-[a-zA-Z0-9.-]-[a-zA-Z0-9.-].amazonaws.com,reject
 HOST-KEYWORD,cm-10-134.getui.com,reject
 HOST-KEYWORD,cm-10-35.getui.com,reject
 HOST-KEYWORD,collectionpv.che168.com,reject
