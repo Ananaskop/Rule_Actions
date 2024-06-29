@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-29 20:19:35
+# 更新时间： 2024-06-30 02:13:06
 HOST,1010pic.com,reject
 HOST,8le8le.com,reject
 HOST,a.cpic.com.cn,reject
@@ -41,6 +41,7 @@ HOST,adexpo.tencentmusic.com,reject
 HOST,adfilter.imtt.qq.com,reject
 HOST,adguanggao.eee114.com,reject
 HOST,adjust.cn,reject
+HOST,adjust.com,reject
 HOST,adkwai.com,reject
 HOST,adlink-api.huan.tv,reject
 HOST,adm.funshion.com,reject
@@ -101,6 +102,8 @@ HOST,adv.sec.intl.miui.com,reject
 HOST,adv.sec.miui.com,reject
 HOST,advertiseonbing.azureedge.net,reject
 HOST,advertising-api-eu.amazon.com,reject
+HOST,advertising-api-fe.amazon.com,reject
+HOST,advertising-api.amazon.com,reject
 HOST,advertising.apple.com,reject
 HOST,advertising.yahoo.com,reject
 HOST,advertising.yandex.ru,reject
@@ -138,6 +141,8 @@ HOST,analytics.woozooo.com,reject
 HOST,analyze.lemurbrowser.com,reject
 HOST,andrqd.play.aiseet.atianqi.com,reject
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
+HOST,apd-pcdnwxnat.teg.tencent-cloud.net,reject
+HOST,apd-pcdnwxstat.teg.tencent-cloud.net,reject
 HOST,api-access.pangolin-sdk-toutiao.com,reject
 HOST,api-access.pangolin-sdk-toutiao1.com,reject
 HOST,api-access.pangolin-sdk-toutiao2.com,reject
@@ -183,12 +188,14 @@ HOST,beacon-api.aliyuncs.com,reject
 HOST,beacon.qq.com,reject
 HOST,beacons.gvt2.com,reject
 HOST,beizi.biz,reject
+HOST,bianxian.com,reject
 HOST,bingads.microsoft.com,reject
 HOST,bj.ad.track.66mobi.com,reject
 HOST,books-analytics-events.apple.com,reject
 HOST,brahe.apptimize.com,reject
 HOST,bugly.qq.com,reject
 HOST,business-api.tiktok.com,reject
+HOST,c.bidtoolads.com,reject
 HOST,c.evidon.com,reject
 HOST,c.gj.qq.com,reject
 HOST,c.kuaiduizuoye.com,reject
@@ -211,6 +218,12 @@ HOST,collect.kugou.com,reject
 HOST,collector.clue.run,reject
 HOST,commdata.v.qq.com,reject
 HOST,config.chsmarttv.com,reject
+HOST,conn-service-cn-03.allawntech.com,reject
+HOST,conn-service-cn-04.allawntech.com,reject
+HOST,conn-service-cn-05.allawntech.com,reject
+HOST,conn-service-in-03.allawnos.com,reject
+HOST,conn-service-in-04.allawnos.com,reject
+HOST,conn-service-in-05.allawnos.com,reject
 HOST,crash2.zhihu.com,reject
 HOST,crashlytics.com,reject
 HOST,crashlyticsreports-pa.googleapis.com,reject
@@ -282,6 +295,7 @@ HOST,grs.hicloud.com,reject
 HOST,grs.platform.dbankcloud.ru,reject
 HOST,h-adashx.ut.taobao.com,reject
 HOST,h.trace.qq.com,reject
+HOST,hanlanad.com,reject
 HOST,hdns.ksyun.com,reject
 HOST,henzanapp.com,reject
 HOST,hexagon-analytics.com,reject
@@ -367,6 +381,7 @@ HOST,launcherimg.smart-tv.cn,reject
 HOST,layer.bz.mgtv.com,reject
 HOST,lc.map.baidu.com,reject
 HOST,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
+HOST,litchiads.com,reject
 HOST,liveats-vod.video.ptqy.gitv.tv,reject
 HOST,livemonitor.huan.tv,reject
 HOST,livep.l.aiseet.atianqi.com,reject
@@ -537,6 +552,7 @@ HOST,sdk.beizi.biz,reject
 HOST,sdk.cferw.com,reject
 HOST,sdk.e.qq.com,reject
 HOST,sdk.hzsanjiaomao.com,reject
+HOST,sdk.markmedia.com.cn,reject
 HOST,sdk.mobads.adwangmai.com,reject
 HOST,sdkconf.avlyun.com,reject
 HOST,sdkconfig.ad.intl.xiaomi.com,reject
@@ -624,6 +640,7 @@ HOST,tracker.ai.xiaomi.com,reject
 HOST,tracker.gitee.com,reject
 HOST,tracking.miui.com,reject
 HOST,tracking.rus.miui.com,reject
+HOST,tsvrv.com,reject
 HOST,tvuser-ch.cedock.com,reject
 HOST,tx-ad.a.yximgs.com,reject
 HOST,tx-kmpaudio.pull.yximgs.com,reject
@@ -695,6 +712,7 @@ HOST,ws.tapjoyads.com,reject
 HOST,www.googleadservices.com,reject
 HOST,www42.zskwai.com,reject
 HOST,wxa.wxs.qq.com,reject
+HOST,wximg.wxs.qq.com,reject
 HOST,wxsnsad.tc.qq.com,reject
 HOST,wxsnsdy.wxs.qq.com,reject
 HOST,wxsnsdythumb.wxs.qq.com,reject

@@ -1,4 +1,4 @@
-# 更新时间： 2024-06-29 20:19:50
+# 更新时间： 2024-06-30 02:13:21
 DOMAIN,1010pic.com
 DOMAIN,8le8le.com
 DOMAIN,a.cpic.com.cn
@@ -41,6 +41,7 @@ DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adfilter.imtt.qq.com
 DOMAIN,adguanggao.eee114.com
 DOMAIN,adjust.cn
+DOMAIN,adjust.com
 DOMAIN,adkwai.com
 DOMAIN,adlink-api.huan.tv
 DOMAIN,adm.funshion.com
@@ -101,6 +102,8 @@ DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,advertiseonbing.azureedge.net
 DOMAIN,advertising-api-eu.amazon.com
+DOMAIN,advertising-api-fe.amazon.com
+DOMAIN,advertising-api.amazon.com
 DOMAIN,advertising.apple.com
 DOMAIN,advertising.yahoo.com
 DOMAIN,advertising.yandex.ru
@@ -138,6 +141,8 @@ DOMAIN,analytics.woozooo.com
 DOMAIN,analyze.lemurbrowser.com
 DOMAIN,andrqd.play.aiseet.atianqi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
+DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
 DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-access.pangolin-sdk-toutiao1.com
 DOMAIN,api-access.pangolin-sdk-toutiao2.com
@@ -183,12 +188,14 @@ DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beacon.qq.com
 DOMAIN,beacons.gvt2.com
 DOMAIN,beizi.biz
+DOMAIN,bianxian.com
 DOMAIN,bingads.microsoft.com
 DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,books-analytics-events.apple.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,bugly.qq.com
 DOMAIN,business-api.tiktok.com
+DOMAIN,c.bidtoolads.com
 DOMAIN,c.evidon.com
 DOMAIN,c.gj.qq.com
 DOMAIN,c.kuaiduizuoye.com
@@ -211,6 +218,12 @@ DOMAIN,collect.kugou.com
 DOMAIN,collector.clue.run
 DOMAIN,commdata.v.qq.com
 DOMAIN,config.chsmarttv.com
+DOMAIN,conn-service-cn-03.allawntech.com
+DOMAIN,conn-service-cn-04.allawntech.com
+DOMAIN,conn-service-cn-05.allawntech.com
+DOMAIN,conn-service-in-03.allawnos.com
+DOMAIN,conn-service-in-04.allawnos.com
+DOMAIN,conn-service-in-05.allawnos.com
 DOMAIN,crash2.zhihu.com
 DOMAIN,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
@@ -282,6 +295,7 @@ DOMAIN,grs.hicloud.com
 DOMAIN,grs.platform.dbankcloud.ru
 DOMAIN,h-adashx.ut.taobao.com
 DOMAIN,h.trace.qq.com
+DOMAIN,hanlanad.com
 DOMAIN,hdns.ksyun.com
 DOMAIN,henzanapp.com
 DOMAIN,hexagon-analytics.com
@@ -367,6 +381,7 @@ DOMAIN,launcherimg.smart-tv.cn
 DOMAIN,layer.bz.mgtv.com
 DOMAIN,lc.map.baidu.com
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
+DOMAIN,litchiads.com
 DOMAIN,liveats-vod.video.ptqy.gitv.tv
 DOMAIN,livemonitor.huan.tv
 DOMAIN,livep.l.aiseet.atianqi.com
@@ -537,6 +552,7 @@ DOMAIN,sdk.beizi.biz
 DOMAIN,sdk.cferw.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.hzsanjiaomao.com
+DOMAIN,sdk.markmedia.com.cn
 DOMAIN,sdk.mobads.adwangmai.com
 DOMAIN,sdkconf.avlyun.com
 DOMAIN,sdkconfig.ad.intl.xiaomi.com
@@ -624,6 +640,7 @@ DOMAIN,tracker.ai.xiaomi.com
 DOMAIN,tracker.gitee.com
 DOMAIN,tracking.miui.com
 DOMAIN,tracking.rus.miui.com
+DOMAIN,tsvrv.com
 DOMAIN,tvuser-ch.cedock.com
 DOMAIN,tx-ad.a.yximgs.com
 DOMAIN,tx-kmpaudio.pull.yximgs.com
@@ -695,6 +712,7 @@ DOMAIN,ws.tapjoyads.com
 DOMAIN,www.googleadservices.com
 DOMAIN,www42.zskwai.com
 DOMAIN,wxa.wxs.qq.com
+DOMAIN,wximg.wxs.qq.com
 DOMAIN,wxsnsad.tc.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
