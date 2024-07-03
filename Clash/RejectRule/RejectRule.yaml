@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-03 14:16:56
+# 更新时间： 2024-07-03 20:20:53
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,8le8le.com
@@ -307,8 +307,6 @@ payload:
   - DOMAIN,httpdns-api.aliyuncs.com
   - DOMAIN,httpdns-sc.aliyuncs.com
   - DOMAIN,httpdns.alicdn.com
-  - DOMAIN,httpdns.baidu.com
-  - DOMAIN,httpdns.baidubce.com
   - DOMAIN,httpdns.bcelive.com
   - DOMAIN,httpdns.bilivideo.com
   - DOMAIN,httpdns.c.cdnhwc2.com
@@ -318,7 +316,7 @@ payload:
   - DOMAIN,httpdns.ocloud.oppomobile.com
   - DOMAIN,httpdns.push.oppomobile.com
   - DOMAIN,httpdns.volcengineapi.com
-  - DOMAIN,httpsdns.baidu.com
+  - DOMAIN,httpdns.yunxindns.com
   - DOMAIN,hudong.alicdn.com
   - DOMAIN,hugelog.fcbox.com
   - DOMAIN,huichuan-mc.sm.cn
@@ -1074,10 +1072,13 @@ payload:
   - DOMAIN-SUFFIX,hiboard-drcn.ai.dbankcloud.cn
   - DOMAIN-SUFFIX,hm.baidu.com
   - DOMAIN-SUFFIX,hmma.baidu.com
+  - DOMAIN-SUFFIX,httpdns.baidu.com
+  - DOMAIN-SUFFIX,httpdns.baidubce.com
   - DOMAIN-SUFFIX,httpdns.bcelive.com
   - DOMAIN-SUFFIX,httpdns.huaweicloud.com
   - DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
   - DOMAIN-SUFFIX,httpdns.push.oppomobile.com
+  - DOMAIN-SUFFIX,httpsdns.baidu.com
   - DOMAIN-SUFFIX,hugelog.fcbox.com
   - DOMAIN-SUFFIX,huishenghuiying.com.cn
   - DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
@@ -1511,6 +1512,8 @@ payload:
   - DOMAIN-SUFFIX,zunmi.cn
   - DOMAIN-SUFFIX,zzd6.com
   - IP-CIDR,101.124.19.122/32,no-resolve
+  - IP-CIDR,101.91.140.124/32,no-resolve
+  - IP-CIDR,101.91.140.224/32,no-resolve
   - IP-CIDR,103.224.222.208/32,no-resolve
   - IP-CIDR,103.37.155.60/32,no-resolve
   - IP-CIDR,103.41.167.237/32,no-resolve
@@ -1518,12 +1521,19 @@ payload:
   - IP-CIDR,106.75.231.48/32,no-resolve
   - IP-CIDR,111.175.220.163/32,no-resolve
   - IP-CIDR,111.175.220.164/32,no-resolve
+  - IP-CIDR,112.64.218.119/32,no-resolve
+  - IP-CIDR,112.65.200.117/32,no-resolve
+  - IP-CIDR,114.116.215.110/32,no-resolve
   - IP-CIDR,114.119.160.0/21,no-resolve
   - IP-CIDR,114.247.28.96/32,no-resolve
   - IP-CIDR,115.182.16.79/32,no-resolve
   - IP-CIDR,115.236.121.195/32,no-resolve
   - IP-CIDR,115.236.121.51/32,no-resolve
   - IP-CIDR,116.62.220.39/32,no-resolve
+  - IP-CIDR,116.63.10.135/32,no-resolve
+  - IP-CIDR,116.63.10.31/32,no-resolve
+  - IP-CIDR,117.144.238.29/32,no-resolve
+  - IP-CIDR,117.185.228.108/32,no-resolve
   - IP-CIDR,118.144.88.126/32,no-resolve
   - IP-CIDR,118.144.88.215/32,no-resolve
   - IP-CIDR,118.144.88.216/32,no-resolve
@@ -1532,10 +1542,15 @@ payload:
   - IP-CIDR,119.4.249.166/32,no-resolve
   - IP-CIDR,120.240.95.37/32,no-resolve
   - IP-CIDR,120.27.235.201/32,no-resolve
+  - IP-CIDR,120.46.169.234/32,no-resolve
   - IP-CIDR,120.76.189.132/32,no-resolve
   - IP-CIDR,121.196.197.147/32,no-resolve
+  - IP-CIDR,121.36.72.124/32,no-resolve
   - IP-CIDR,122.229.29.89/32,no-resolve
   - IP-CIDR,122.229.8.47/32,no-resolve
+  - IP-CIDR,122.9.13.79/32,no-resolve
+  - IP-CIDR,122.9.15.129/32,no-resolve
+  - IP-CIDR,122.9.7.134/32,no-resolve
   - IP-CIDR,123.151.54.50/32,no-resolve
   - IP-CIDR,123.56.152.96/32,no-resolve
   - IP-CIDR,123.56.23.22/32,no-resolve
@@ -1575,6 +1590,8 @@ payload:
   - IP-CIDR,42.187.182.123/32,no-resolve
   - IP-CIDR,42.187.184.154/32,no-resolve
   - IP-CIDR,42.81.232.18/32,no-resolve
+  - IP-CIDR,47.100.123.169/32,no-resolve
+  - IP-CIDR,47.101.175.206/32,no-resolve
   - IP-CIDR,47.110.187.87/32,no-resolve
   - IP-CIDR,47.56.131.76/32,no-resolve
   - IP-CIDR,47.89.59.182/32,no-resolve

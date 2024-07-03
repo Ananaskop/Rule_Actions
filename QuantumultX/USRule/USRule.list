@@ -1,10 +1,17 @@
-# 更新时间： 2024-07-03 14:16:49
+# 更新时间： 2024-07-03 20:20:45
 HOST,ai.google.dev,US
 HOST,alkalimakersuite-pa.clients6.google.com,US
 HOST,browser-intake-datadoghq.com,US
+HOST,chat.openai.com.cdn.cloudflare.net,US
+HOST,gemini.google.com,US
 HOST,makersuite.google.com,US
+HOST,openai-api.arkoselabs.com,US
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,US
+HOST,openaicomproductionae4b.blob.core.windows.net,US
+HOST,production-openaicom-storage.azureedge.net,US
 HOST,servd-anthropic-website.b-cdn.net,US
 HOST,static.cloudflareinsights.com,US
+HOST,www.paypal-mktg.com,US
 HOST-KEYWORD,colab,US
 HOST-KEYWORD,developerprofiles,US
 HOST-KEYWORD,generativelanguage,US
@@ -89,6 +96,9 @@ HOST-SUFFIX,mywaytopay.net,US
 HOST-SUFFIX,oaistatic.com,US
 HOST-SUFFIX,oaiusercontent.com,US
 HOST-SUFFIX,observeit.net,US
+HOST-SUFFIX,openai.com,US
+HOST-SUFFIX,openaiapi-site.azureedge.net,US
+HOST-SUFFIX,openaicom.imgix.net,US
 HOST-SUFFIX,pa9pal.com,US
 HOST-SUFFIX,paaypal.com,US
 HOST-SUFFIX,paily.net,US

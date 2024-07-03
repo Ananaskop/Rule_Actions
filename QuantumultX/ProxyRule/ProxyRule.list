@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-03 14:16:49
+# 更新时间： 2024-07-03 20:20:45
 HOST,api.mojang.com,proxy
 HOST,api.msn.com,proxy
 HOST,api.waqi.info,proxy
@@ -6,7 +6,6 @@ HOST,aqi.aqicn.org,proxy
 HOST,assets-priconne-redive-us.akamaized.net,proxy
 HOST,assets.msn.com,proxy
 HOST,cdp.cloud.unity3d.com,proxy
-HOST,chat.openai.com.cdn.cloudflare.net,proxy
 HOST,cloud.oracle.com,proxy
 HOST,copilot.microsoft.com,proxy
 HOST,cvws.icloud-content.com,proxy
@@ -15,10 +14,7 @@ HOST,lens.l.google.com,proxy
 HOST,location.microsoft.com,proxy
 HOST,login.microsoftonline.com,proxy
 HOST,openaiapi-site.azureedge.net,proxy
-HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,proxy
-HOST,openaicomproductionae4b.blob.core.windows.net,proxy
 HOST,p16-tiktokcdn-com.akamaized.net,proxy
-HOST,production-openaicom-storage.azureedge.net,proxy
 HOST,self.events.data.microsoft.com,proxy
 HOST,steambroadcast.akamaized.net,proxy
 HOST,steamcdn-a.akamaihd.net,proxy
@@ -41,7 +37,6 @@ HOST-KEYWORD,dlercloud,proxy
 HOST-KEYWORD,dropbox,proxy
 HOST-KEYWORD,facebook,proxy
 HOST-KEYWORD,fbcdn,proxy
-HOST-KEYWORD,github,proxy
 HOST-KEYWORD,gmail,proxy
 HOST-KEYWORD,google,proxy
 HOST-KEYWORD,instagram,proxy
@@ -999,6 +994,7 @@ HOST-SUFFIX,changsa.net,proxy
 HOST-SUFFIX,channelnewsasia.com,proxy
 HOST-SUFFIX,chaoex.com,proxy
 HOST-SUFFIX,chapm25.com,proxy
+HOST-SUFFIX,chat.openai.com,proxy
 HOST-SUFFIX,chatnook.com,proxy
 HOST-SUFFIX,chaturbate.com,proxy
 HOST-SUFFIX,checkgfw.com,proxy

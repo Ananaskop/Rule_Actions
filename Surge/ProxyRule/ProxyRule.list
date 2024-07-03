@@ -1,17 +1,14 @@
-# 更新时间： 2024-07-03 14:17:04
+# 更新时间： 2024-07-03 20:21:00
 DOMAIN,api.mojang.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
-DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,cloud.oracle.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,cvws.icloud-content.com
 DOMAIN,developer.apple.com
 DOMAIN,location.microsoft.com
 DOMAIN,login.microsoftonline.com
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
@@ -34,7 +31,6 @@ DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,instagram
@@ -912,6 +908,7 @@ DOMAIN-SUFFIX,changsa.net
 DOMAIN-SUFFIX,channelnewsasia.com
 DOMAIN-SUFFIX,chaoex.com
 DOMAIN-SUFFIX,chapm25.com
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatnook.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,checkgfw.com

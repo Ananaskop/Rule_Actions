@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-03 14:16:57
+# 更新时间： 2024-07-03 20:20:53
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -613,7 +613,6 @@ payload:
   - DOMAIN-SUFFIX,bohejiasuqi.com
   - DOMAIN-SUFFIX,bojianger.com
   - DOMAIN-SUFFIX,bokecc.com
-  - DOMAIN-SUFFIX,booking.com
   - DOMAIN-SUFFIX,boosj.com
   - DOMAIN-SUFFIX,bootcdn.net
   - DOMAIN-SUFFIX,bootcss.com
