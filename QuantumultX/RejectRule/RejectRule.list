@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-04 14:15:37
+# 更新时间： 2024-07-04 20:20:09
 HOST,1010pic.com,reject
 HOST,8le8le.com,reject
 HOST,a.cpic.com.cn,reject
@@ -179,6 +179,7 @@ HOST,audid-api.taobao.com,reject
 HOST,audid.umeng.com,reject
 HOST,azr.footprintdns.com,reject
 HOST,b1-data.ads.heytapmobi.com,reject
+HOST,badjs.weixinbridge.com,reject
 HOST,baichuan-sdk.alicdn.com,reject
 HOST,banners.itunes.apple.com,reject
 HOST,bdapi-ads.realmemobile.com,reject
@@ -737,6 +738,7 @@ HOST-KEYWORD,.a.market.xiaomi.com,reject
 HOST-KEYWORD,.data.hicloud.com,reject
 HOST-KEYWORD,.log.aliyuncs.com,reject
 HOST-KEYWORD,.shouji.sogou.com,reject
+HOST-KEYWORD,4240585f1fb7266,reject
 HOST-KEYWORD,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com,reject
 HOST-KEYWORD,[a-zA-Z0-9.-]-ad.sm.cn,reject
 HOST-KEYWORD,[a-zA-Z0-9.-]-ad.video.yximgs.com,reject
@@ -751,9 +753,6 @@ HOST-KEYWORD,asiad.byteactivity,reject
 HOST-KEYWORD,cloudinject[a-zA-Z0-9.-]-dev..[a-zA-Z0-9.-]-[a-zA-Z0-9.-]-[a-zA-Z0-9.-].amazonaws.com,reject
 HOST-KEYWORD,httpdns-,reject
 HOST-KEYWORD,httpdns.,reject
-HOST-KEYWORD,kc.saigmpl.com,reject
-HOST-KEYWORD,kcc.fwxhvvd.com,reject
-HOST-KEYWORD,kg.oiocklg.com,reject
 HOST-KEYWORD,pangolin-sdk-toutiao,reject
 HOST-KEYWORD,pangolin.snssdk.com,reject
 HOST-KEYWORD,pglstatp-toutiao,reject
@@ -1540,10 +1539,8 @@ IP-CIDR,118.89.204.198/32,reject,no-resolve
 IP-CIDR,119.29.29.98/31,reject,no-resolve
 IP-CIDR,119.4.249.166/32,reject,no-resolve
 IP-CIDR,120.240.95.37/32,reject,no-resolve
-IP-CIDR,120.27.235.201/32,reject,no-resolve
 IP-CIDR,120.46.169.234/32,reject,no-resolve
 IP-CIDR,120.76.189.132/32,reject,no-resolve
-IP-CIDR,121.196.197.147/32,reject,no-resolve
 IP-CIDR,121.36.72.124/32,reject,no-resolve
 IP-CIDR,122.229.29.89/32,reject,no-resolve
 IP-CIDR,122.229.8.47/32,reject,no-resolve
@@ -1592,11 +1589,8 @@ IP-CIDR,42.81.232.18/32,reject,no-resolve
 IP-CIDR,47.100.123.169/32,reject,no-resolve
 IP-CIDR,47.101.175.206/32,reject,no-resolve
 IP-CIDR,47.110.187.87/32,reject,no-resolve
-IP-CIDR,47.56.131.76/32,reject,no-resolve
 IP-CIDR,47.89.59.182/32,reject,no-resolve
 IP-CIDR,47.96.15.52/32,reject,no-resolve
-IP-CIDR,47.97.215.55/32,reject,no-resolve
-IP-CIDR,47.99.42.29/32,reject,no-resolve
 IP-CIDR,59.111.239.61/32,reject,no-resolve
 IP-CIDR,59.111.239.62/32,reject,no-resolve
 IP-CIDR,61.160.200.223/32,reject,no-resolve
