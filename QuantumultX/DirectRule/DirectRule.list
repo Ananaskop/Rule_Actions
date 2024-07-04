@@ -1,23 +1,17 @@
-# 更新时间： 2024-07-04 02:14:00
+# 更新时间： 2024-07-04 08:51:11
 HOST,analytics.strava.com,direct
 HOST,blzddist1-a.akamaihd.net,direct
 HOST,cdn.angruo.com,direct
 HOST,client.amplifi.com,direct
 HOST,download.jetbrains.com,direct
-HOST,download.microsoft.com,direct
 HOST,images-cn.ssl-images-amazon.com,direct
-HOST,ip.bjango.com,direct
 HOST,ip.istatmenus.app,direct
 HOST,kc.kexinshe.com,direct
-HOST,ntservicepack.microsoft.com,direct
 HOST,origin-a.akamaihd.ne,direct
 HOST,origin-a.akamaihd.net,direct
-HOST,outlook.office365.com,direct
 HOST,sms.imagetasks.com,direct
-HOST,smtp-mail.outlook.com,direct
-HOST,smtp.office365.com,direct
+HOST,steamcommunity-a.akamaihd.net,direct
 HOST,weixin.com,direct
-HOST,wustat.windows.com,direct
 HOST,www.libvideo.com,direct
 HOST,www.yxssp.com,direct
 HOST-KEYWORD,.tmall.com,direct
