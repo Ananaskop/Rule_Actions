@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-05 08:50:57
+# 更新时间： 2024-07-05 11:53:09
 HOST,api.mojang.com,proxy
 HOST,api.msn.com,proxy
 HOST,api.waqi.info,proxy
@@ -37,6 +37,7 @@ HOST-KEYWORD,dlercloud,proxy
 HOST-KEYWORD,dropbox,proxy
 HOST-KEYWORD,facebook,proxy
 HOST-KEYWORD,fbcdn,proxy
+HOST-KEYWORD,github,proxy
 HOST-KEYWORD,gmail,proxy
 HOST-KEYWORD,google,proxy
 HOST-KEYWORD,instagram,proxy
@@ -477,6 +478,7 @@ HOST-SUFFIX,athenaeizou.com,proxy
 HOST-SUFFIX,atlanta168.com,proxy
 HOST-SUFFIX,atlaspost.com,proxy
 HOST-SUFFIX,atnext.com,proxy
+HOST-SUFFIX,atom.io,proxy
 HOST-SUFFIX,att.com,proxy
 HOST-SUFFIX,audionow.com,proxy
 HOST-SUFFIX,autodraw.com,proxy
@@ -1370,6 +1372,7 @@ HOST-SUFFIX,delcamp.net,proxy
 HOST-SUFFIX,delicious.com,proxy
 HOST-SUFFIX,democrats.org,proxy
 HOST-SUFFIX,demosisto.hk,proxy
+HOST-SUFFIX,dependabot.com,proxy
 HOST-SUFFIX,depositphotos.com,proxy
 HOST-SUFFIX,derekhsu.homeip.net,proxy
 HOST-SUFFIX,desc.se,proxy
@@ -2152,11 +2155,21 @@ HOST-SUFFIX,git.io,proxy
 HOST-SUFFIX,gitbook.com,proxy
 HOST-SUFFIX,gitbooks.io,proxy
 HOST-SUFFIX,githack.com,proxy
+HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,proxy
+HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,proxy
+HOST-SUFFIX,github-cloud.s3.amazonaws.com,proxy
 HOST-SUFFIX,github.blog,proxy
 HOST-SUFFIX,github.com,proxy
+HOST-SUFFIX,github.community,proxy
+HOST-SUFFIX,github.dev,proxy
 HOST-SUFFIX,github.io,proxy
 HOST-SUFFIX,githubapp.com,proxy
 HOST-SUFFIX,githubassets.com,proxy
+HOST-SUFFIX,githubhackathon.com,proxy
+HOST-SUFFIX,githubnext.com,proxy
+HOST-SUFFIX,githubpreview.dev,proxy
+HOST-SUFFIX,githubstatus.com,proxy
+HOST-SUFFIX,githubuniverse.com,proxy
 HOST-SUFFIX,githubusercontent.com,proxy
 HOST-SUFFIX,gitlab.com,proxy
 HOST-SUFFIX,gitlab.io,proxy
@@ -3754,6 +3767,7 @@ HOST-SUFFIX,mymusic.net.tw,proxy
 HOST-SUFFIX,mynetav.net,proxy
 HOST-SUFFIX,mynetav.org,proxy
 HOST-SUFFIX,mynumber.org,proxy
+HOST-SUFFIX,myoctocat.com,proxy
 HOST-SUFFIX,myparagliding.com,proxy
 HOST-SUFFIX,mypicture.info,proxy
 HOST-SUFFIX,mypikpak.com,proxy
@@ -3947,7 +3961,10 @@ HOST-SUFFIX,noxinfluencer.com,proxy
 HOST-SUFFIX,noypf.com,proxy
 HOST-SUFFIX,npa.go.jp,proxy
 HOST-SUFFIX,npa.gov.tw,proxy
+HOST-SUFFIX,npm.community,proxy
 HOST-SUFFIX,npm.gov.tw,proxy
+HOST-SUFFIX,npmjs.com,proxy
+HOST-SUFFIX,npmjs.org,proxy
 HOST-SUFFIX,npnt.me,proxy
 HOST-SUFFIX,nps.gov,proxy
 HOST-SUFFIX,npsboost.com,proxy
@@ -4089,6 +4106,7 @@ HOST-SUFFIX,openid.net,proxy
 HOST-SUFFIX,openleaks.org,proxy
 HOST-SUFFIX,opensea.io,proxy
 HOST-SUFFIX,opensource.google,proxy
+HOST-SUFFIX,opensource.guide,proxy
 HOST-SUFFIX,openstreetmap.org,proxy
 HOST-SUFFIX,opentech.fund,proxy
 HOST-SUFFIX,openvpn.net,proxy
@@ -4563,6 +4581,7 @@ HOST-SUFFIX,releaseinternational.org,proxy
 HOST-SUFFIX,religionnews.com,proxy
 HOST-SUFFIX,religioustolerance.org,proxy
 HOST-SUFFIX,renyurenquan.org,proxy
+HOST-SUFFIX,repo.new,proxy
 HOST-SUFFIX,rerouted.org,proxy
 HOST-SUFFIX,research.google,proxy
 HOST-SUFFIX,resilio.com,proxy
@@ -5275,6 +5294,7 @@ HOST-SUFFIX,thefacebook.com,proxy
 HOST-SUFFIX,thefrontier.hk,proxy
 HOST-SUFFIX,thegay.com,proxy
 HOST-SUFFIX,thegioitinhoc.vn,proxy
+HOST-SUFFIX,thegithubshop.com,proxy
 HOST-SUFFIX,thegly.com,proxy
 HOST-SUFFIX,theguardian.com,proxy
 HOST-SUFFIX,thehots.info,proxy

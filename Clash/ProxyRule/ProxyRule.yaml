@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-05 08:51:05
+# 更新时间： 2024-07-05 11:53:16
 payload:
   - DOMAIN,api.mojang.com
   - DOMAIN,api.waqi.info
@@ -32,6 +32,7 @@ payload:
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,instagram
@@ -459,6 +460,7 @@ payload:
   - DOMAIN-SUFFIX,atlanta168.com
   - DOMAIN-SUFFIX,atlaspost.com
   - DOMAIN-SUFFIX,atnext.com
+  - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,att.com
   - DOMAIN-SUFFIX,audionow.com
   - DOMAIN-SUFFIX,autodraw.com
@@ -1281,6 +1283,7 @@ payload:
   - DOMAIN-SUFFIX,delicious.com
   - DOMAIN-SUFFIX,democrats.org
   - DOMAIN-SUFFIX,demosisto.hk
+  - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,depositphotos.com
   - DOMAIN-SUFFIX,derekhsu.homeip.net
   - DOMAIN-SUFFIX,desc.se
@@ -2034,6 +2037,22 @@ payload:
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbooks.io
   - DOMAIN-SUFFIX,githack.com
+  - DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+  - DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+  - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.community
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubnext.com
+  - DOMAIN-SUFFIX,githubpreview.dev
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,githubuniverse.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,gizlen.net
@@ -3388,6 +3407,7 @@ payload:
   - DOMAIN-SUFFIX,mynetav.net
   - DOMAIN-SUFFIX,mynetav.org
   - DOMAIN-SUFFIX,mynumber.org
+  - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,myparagliding.com
   - DOMAIN-SUFFIX,mypicture.info
   - DOMAIN-SUFFIX,mypikpak.com
@@ -3580,7 +3600,10 @@ payload:
   - DOMAIN-SUFFIX,noypf.com
   - DOMAIN-SUFFIX,npa.go.jp
   - DOMAIN-SUFFIX,npa.gov.tw
+  - DOMAIN-SUFFIX,npm.community
   - DOMAIN-SUFFIX,npm.gov.tw
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,npnt.me
   - DOMAIN-SUFFIX,nps.gov
   - DOMAIN-SUFFIX,npsboost.com
@@ -3719,6 +3742,7 @@ payload:
   - DOMAIN-SUFFIX,openid.net
   - DOMAIN-SUFFIX,openleaks.org
   - DOMAIN-SUFFIX,opensea.io
+  - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,openstreetmap.org
   - DOMAIN-SUFFIX,opentech.fund
   - DOMAIN-SUFFIX,openvpn.net
@@ -4124,6 +4148,7 @@ payload:
   - DOMAIN-SUFFIX,rateyourmusic.com
   - DOMAIN-SUFFIX,rationalwiki.org
   - DOMAIN-SUFFIX,rawgit.com
+  - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,raxcdn.com
   - DOMAIN-SUFFIX,razyboard.com
   - DOMAIN-SUFFIX,rcinet.ca
@@ -4168,6 +4193,7 @@ payload:
   - DOMAIN-SUFFIX,religionnews.com
   - DOMAIN-SUFFIX,religioustolerance.org
   - DOMAIN-SUFFIX,renyurenquan.org
+  - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,rerouted.org
   - DOMAIN-SUFFIX,resilio.com
   - DOMAIN-SUFFIX,resistchina.org
@@ -4865,6 +4891,7 @@ payload:
   - DOMAIN-SUFFIX,thefrontier.hk
   - DOMAIN-SUFFIX,thegay.com
   - DOMAIN-SUFFIX,thegioitinhoc.vn
+  - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-SUFFIX,thegly.com
   - DOMAIN-SUFFIX,theguardian.com
   - DOMAIN-SUFFIX,thehots.info
