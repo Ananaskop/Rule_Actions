@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-06 08:49:45
+# 更新时间： 2024-07-06 14:14:03
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -24,10 +24,7 @@ HOST,boxer.baidu.com,direct
 HOST,cdn.jsdelivr.net,direct
 HOST,click.simba.taobao.com,direct
 HOST,clientservices.googleapis.com,direct
-HOST,cm.emby.ws,direct
-HOST,ct.emby.ws,direct
 HOST,ctyunxs.cn,direct
-HOST,cu.emby.ws,direct
 HOST,cz.cz01.site,direct
 HOST,ddys.art,direct
 HOST,deo.shopeemobile.com,direct
@@ -177,7 +174,6 @@ HOST-SUFFIX,cinemageddon.net,direct
 HOST-SUFFIX,cinematik.net,direct
 HOST-SUFFIX,cinemaz.to,direct
 HOST-SUFFIX,classix-unlimited.co.uk,direct
-HOST-SUFFIX,cm.steampowered.com,direct
 HOST-SUFFIX,comicat.org,direct
 HOST-SUFFIX,concertos.live,direct
 HOST-SUFFIX,dicmusic.club,direct
@@ -289,7 +285,6 @@ HOST-SUFFIX,springer.com,direct
 HOST-SUFFIX,springernature.com,direct
 HOST-SUFFIX,springsunday.net,direct
 HOST-SUFFIX,staticfile.org,direct
-HOST-SUFFIX,steamserver.net,direct
 HOST-SUFFIX,storage.live.com,direct
 HOST-SUFFIX,storage.msn.com,direct
 HOST-SUFFIX,tjupt.org,direct
@@ -320,9 +315,6 @@ HOST-SUFFIX,zohostatic.com,direct
 HOST-SUFFIX,zohostatic.in,direct
 HOST-SUFFIX,zohouniversity.com,direct
 HOST-SUFFIX,zohowebstatic.com,direct
-IP-CIDR,182.254.116.0/24,direct,no-resolve
-IP-CIDR,203.205.238.0/23,direct,no-resolve
-IP-CIDR,203.205.254.0/23,direct,no-resolve
 USER-AGENT,%E8%BF%85%E9%9B%B7,direct
 USER-AGENT,OneDrive*,direct
 USER-AGENT,OneDriveiOSApp*,direct

@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-06 08:49:52
+# 更新时间： 2024-07-06 14:14:10
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,8le8le.com
@@ -712,7 +712,9 @@ payload:
   - DOMAIN,www.googleadservices.com
   - DOMAIN,www42.zskwai.com
   - DOMAIN,wxa.wxs.qq.com
+  - DOMAIN,wxapp.tc.qq.com
   - DOMAIN,wximg.wxs.qq.com
+  - DOMAIN,wxsmw.wxs.qq.com
   - DOMAIN,wxsnsad.tc.qq.com
   - DOMAIN,wxsnsdy.wxs.qq.com
   - DOMAIN,wxsnsdythumb.wxs.qq.com

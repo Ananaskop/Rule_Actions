@@ -1,26 +1,26 @@
-# 更新时间： 2024-07-06 08:49:53
+# 更新时间： 2024-07-06 14:14:11
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
   - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
-  - DOMAIN,bfvvs.com,Media
-  - DOMAIN,cdn.ceres9350.com,Media
-  - DOMAIN,cdn.efhie.com,Media
-  - DOMAIN,cdn.venus7202.com,Media
+  - DOMAIN,bfvvs.com
+  - DOMAIN,cdn.ceres9350.com
+  - DOMAIN,cdn.efhie.com
+  - DOMAIN,cdn.venus7202.com
   - DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,cs428.wpc.edgecastcdn.net
   - DOMAIN,dashasiafox.akamaized.netflix
   - DOMAIN,daznfeeds.com.edgekey.net
   - DOMAIN,dca-lm-livedazn.secure.footprint.net
-  - DOMAIN,discord.com,Media
+  - DOMAIN,discord.com
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,edge.cwtv-vod-ext.top.comcast.net
   - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN,h-dazn.online-metrix.net
   - DOMAIN,h-netflix.online-metrix.net
-  - DOMAIN,haiwaikan.com,Media
+  - DOMAIN,haiwaikan.com
   - DOMAIN,hamifans.emome.net
   - DOMAIN,hulu.com.c.footprint.net
   - DOMAIN,hulu.map.fastly.net
@@ -30,16 +30,16 @@ payload:
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
-  - DOMAIN,notion-api.splitbee.io,Media
+  - DOMAIN,notion-api.splitbee.io
   - DOMAIN,ocvideo.apple.com
-  - DOMAIN,olemovienews.com,Media
-  - DOMAIN,olevod.com,Media
+  - DOMAIN,olemovienews.com
+  - DOMAIN,olevod.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
-  - DOMAIN,themoviedb.org,Media
-  - DOMAIN,thetvdb.com,Media
-  - DOMAIN,tmdb.org,Media
-  - DOMAIN,v1.mk,Media
+  - DOMAIN,themoviedb.org
+  - DOMAIN,thetvdb.com
+  - DOMAIN,tmdb.org
+  - DOMAIN,v1.mk
   - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,abematv.akamaized.net
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
@@ -151,7 +151,7 @@ payload:
   - DOMAIN-SUFFIX,bigbigchannel.com.hk
   - DOMAIN-SUFFIX,bigbigshop.com
   - DOMAIN-SUFFIX,biggggg.com
-  - DOMAIN-SUFFIX,bili.bili.rip,Media
+  - DOMAIN-SUFFIX,bili.bili.rip
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,biliintl.com
   - DOMAIN-SUFFIX,bitmovin.com
@@ -363,7 +363,7 @@ payload:
   - DOMAIN-SUFFIX,ehgt.org
   - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,eluniverso.com
-  - DOMAIN-SUFFIX,emby.ws,Media
+  - DOMAIN-SUFFIX,emby.ws
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,eonline.com
   - DOMAIN-SUFFIX,espn.co.uk
@@ -811,7 +811,7 @@ payload:
   - DOMAIN-SUFFIX,nbys.tv
   - DOMAIN-SUFFIX,nbys1.tv
   - DOMAIN-SUFFIX,nbyy.tv
-  - DOMAIN-SUFFIX,nebula-emby.com,Media
+  - DOMAIN-SUFFIX,nebula-emby.com
   - DOMAIN-SUFFIX,nebula.app
   - DOMAIN-SUFFIX,netflix.ca
   - DOMAIN-SUFFIX,netflix.com

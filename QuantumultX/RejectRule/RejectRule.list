@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-06 08:49:45
+# 更新时间： 2024-07-06 14:14:03
 HOST,1010pic.com,reject
 HOST,8le8le.com,reject
 HOST,a.cpic.com.cn,reject
@@ -711,7 +711,9 @@ HOST,ws.tapjoyads.com,reject
 HOST,www.googleadservices.com,reject
 HOST,www42.zskwai.com,reject
 HOST,wxa.wxs.qq.com,reject
+HOST,wxapp.tc.qq.com,reject
 HOST,wximg.wxs.qq.com,reject
+HOST,wxsmw.wxs.qq.com,reject
 HOST,wxsnsad.tc.qq.com,reject
 HOST,wxsnsdy.wxs.qq.com,reject
 HOST,wxsnsdythumb.wxs.qq.com,reject
