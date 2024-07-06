@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-06 02:14:29
+# 更新时间： 2024-07-06 08:50:00
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -27,10 +27,12 @@ DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,cdn.js7k.com
 DOMAIN,cisco.evergage.com
+DOMAIN,clientservices.googleapis.com
 DOMAIN,cloud.oracle.com
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,courier-push-apple.com.akadns.net
 DOMAIN,crl.microsoft.com
+DOMAIN,crl.pki.goog
 DOMAIN,crl.versign.net
 DOMAIN,databank.worldbank.org
 DOMAIN,default.exp-tas.com
@@ -45,10 +47,13 @@ DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN,faronics.kayako.com
 DOMAIN,firstsearch.oclc.org
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
 DOMAIN,gog.qtlglb.com
 DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,i.jeded.com
 DOMAIN,imperial.insendi.com
+DOMAIN,lens.l.google.com
 DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
@@ -57,10 +62,12 @@ DOMAIN,login.microsoftonline.com
 DOMAIN,mdn.mozillademos.org
 DOMAIN,medone-education.thieme.com
 DOMAIN,mscrl.microsoft.com
+DOMAIN,mtalk.google.com
 DOMAIN,muse.jhu.edu
 DOMAIN,nationalaustraliaban.tt.omtrdc.net
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ocsp.microsoft.com
+DOMAIN,ocsp.pki.goog
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,ood.opsource.net
 DOMAIN,practivate.adobe
@@ -70,6 +77,10 @@ DOMAIN,practivate.adobe.ntp
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,qualcomm.sc.omtrdc.net
+DOMAIN,redirector.c.bigcache.googleapis.com
+DOMAIN,redirector.gvt1.com
+DOMAIN,safebrowsing-cache.google.com
+DOMAIN,safebrowsing.googleapis.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
@@ -80,20 +91,24 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,tesla-cdn.thron.com
+DOMAIN,translate.googleapis.com
 DOMAIN,translomatic.foxfortmobile.com
 DOMAIN,vmware.tt.omtrdc.net
+DOMAIN,voice.telephony.goog
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,wetv.qq.com
 DOMAIN,widgets.stripst.com
 DOMAIN,wrds-www.wharton.upenn.edu
 DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN,www.googleapis.com
 DOMAIN,ztedevices.com
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,bbcfmt
@@ -113,6 +128,7 @@ DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,recaptcha
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,sparkmail
@@ -905,6 +921,7 @@ DOMAIN-SUFFIX,adidas.se
 DOMAIN-SUFFIX,adinst.com
 DOMAIN-SUFFIX,admeld.com
 DOMAIN-SUFFIX,admob-cn.com
+DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adobe-aemassets-value.com
 DOMAIN-SUFFIX,adobe-audience-finder.com
 DOMAIN-SUFFIX,adobe-video-partner-finder.com
@@ -1091,6 +1108,7 @@ DOMAIN-SUFFIX,ahvideosexe.com
 DOMAIN-SUFFIX,ahxxx.club
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
+DOMAIN-SUFFIX,ai.ytimg.com
 DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiasahi.jp
@@ -1755,6 +1773,7 @@ DOMAIN-SUFFIX,aporntv.com
 DOMAIN-SUFFIX,apornvideo.com
 DOMAIN-SUFFIX,app-dynamics.com
 DOMAIN-SUFFIX,app-measurement-cn.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,app-store.wang
 DOMAIN-SUFFIX,app0le.com
@@ -2089,6 +2108,7 @@ DOMAIN-SUFFIX,applle.com
 DOMAIN-SUFFIX,applw.com
 DOMAIN-SUFFIX,appmediagroup.com
 DOMAIN-SUFFIX,approvedusedbmw.com
+DOMAIN-SUFFIX,apps5.oingo.com
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
@@ -2893,6 +2913,9 @@ DOMAIN-SUFFIX,bdsmtubexxx.com
 DOMAIN-SUFFIX,bdsmtv.cc
 DOMAIN-SUFFIX,bdsmvideos.net
 DOMAIN-SUFFIX,beaconevents.com
+DOMAIN-SUFFIX,beacons.gvt2.com
+DOMAIN-SUFFIX,beacons2.gvt2.com
+DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,beascoremodel.com
 DOMAIN-SUFFIX,beastiegals.com
 DOMAIN-SUFFIX,beastysexlinks.com
@@ -3557,6 +3580,7 @@ DOMAIN-SUFFIX,blockless.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blog.de
 DOMAIN-SUFFIX,blog.descargasgay.com
+DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,blog.jp
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogcatalog.com
@@ -4942,6 +4966,7 @@ DOMAIN-SUFFIX,ceramics-cadcam.com
 DOMAIN-SUFFIX,cerdas.com
 DOMAIN-SUFFIX,cern.ch
 DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,certificate-transparency.dev
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,certinomis.com
 DOMAIN-SUFFIX,certinomis.fr
@@ -4984,6 +5009,7 @@ DOMAIN-SUFFIX,charlestonroadregistry.com
 DOMAIN-SUFFIX,charlotte-anime.jp
 DOMAIN-SUFFIX,charmescorts.com
 DOMAIN-SUFFIX,charticulator.com
+DOMAIN-SUFFIX,chat.gle
 DOMAIN-SUFFIX,chatango.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgptvideo.xyz
@@ -5662,6 +5688,7 @@ DOMAIN-SUFFIX,crabporn.com
 DOMAIN-SUFFIX,crackle.com
 DOMAIN-SUFFIX,craigslist.org
 DOMAIN-SUFFIX,crankplayer.com
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,crazy-amateurs.com
 DOMAIN-SUFFIX,crazyav.xyz
@@ -6219,6 +6246,7 @@ DOMAIN-SUFFIX,digital-anime.com
 DOMAIN-SUFFIX,digital-id.ch
 DOMAIN-SUFFIX,digital-rb.com
 DOMAIN-SUFFIX,digitalassetlinks.org
+DOMAIN-SUFFIX,digitalattackmap.com
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,digitaldesire.com
 DOMAIN-SUFFIX,digitalhub.com
@@ -6621,6 +6649,8 @@ DOMAIN-SUFFIX,dotvpn.com
 DOMAIN-SUFFIX,doub.io
 DOMAIN-SUFFIX,doubibackup.com
 DOMAIN-SUFFIX,doubleclick-cn.net
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,doublethinklab.org
 DOMAIN-SUFFIX,doubmirror.cf
 DOMAIN-SUFFIX,doufurufabu.xyz
@@ -9100,6 +9130,7 @@ DOMAIN-SUFFIX,g-technology.com
 DOMAIN-SUFFIX,g-tun.com
 DOMAIN-SUFFIX,g-tvapp.com
 DOMAIN-SUFFIX,g-xxxhub.com
+DOMAIN-SUFFIX,g.cn
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.page
@@ -9251,6 +9282,7 @@ DOMAIN-SUFFIX,gclooney.com
 DOMAIN-SUFFIX,gclubs.com
 DOMAIN-SUFFIX,gcmasia.com
 DOMAIN-SUFFIX,gcolle.net
+DOMAIN-SUFFIX,gcp.gvt2.com
 DOMAIN-SUFFIX,gcpnews.com
 DOMAIN-SUFFIX,gcpnode.com
 DOMAIN-SUFFIX,gcr.io
@@ -9518,6 +9550,7 @@ DOMAIN-SUFFIX,givemebuzzsaw.com
 DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gizmoxxx.com
 DOMAIN-SUFFIX,gjczz.com
+DOMAIN-SUFFIX,gkecnapps.cn
 DOMAIN-SUFFIX,gladporn.com
 DOMAIN-SUFFIX,glam0ur.com
 DOMAIN-SUFFIX,glamourtits.com
@@ -9705,6 +9738,7 @@ DOMAIN-SUFFIX,google.ch
 DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
+DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,google.co
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
@@ -9883,6 +9917,7 @@ DOMAIN-SUFFIX,googleadservices-cn.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googleapis-cn.com
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapps-cn.com
 DOMAIN-SUFFIX,googleapps.com
@@ -9893,7 +9928,9 @@ DOMAIN-SUFFIX,googlebot.com
 DOMAIN-SUFFIX,googlecapital.com
 DOMAIN-SUFFIX,googlecert.net
 DOMAIN-SUFFIX,googlechinawebmaster.com
+DOMAIN-SUFFIX,googlecnapps.cn
 DOMAIN-SUFFIX,googlecode.com
+DOMAIN-SUFFIX,googlecommerce.com
 DOMAIN-SUFFIX,googlecompare.co.uk
 DOMAIN-SUFFIX,googledanmark.com
 DOMAIN-SUFFIX,googledomains.com
@@ -9919,15 +9956,18 @@ DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,googleplex.com
 DOMAIN-SUFFIX,googleplus.com
+DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlescholar.comusa
 DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googlestore.com
 DOMAIN-SUFFIX,googlesverige.com
 DOMAIN-SUFFIX,googlesyndication-cn.com
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager-cn.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices-cn.com
+DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices-cn.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -10052,7 +10092,9 @@ DOMAIN-SUFFIX,gsearch.media
 DOMAIN-SUFFIX,gslink.us
 DOMAIN-SUFFIX,gsrc.io
 DOMAIN-SUFFIX,gstatic-cn.com
+DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gstaticcnapps.cn
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN-SUFFIX,gt536.top
 DOMAIN-SUFFIX,gtm.oasisfeng.com
@@ -10522,6 +10564,7 @@ DOMAIN-SUFFIX,hexieshe.com
 DOMAIN-SUFFIX,hexieshe.xyz
 DOMAIN-SUFFIX,hexxeh.net
 DOMAIN-SUFFIX,hey.boo
+DOMAIN-SUFFIX,hey.gle
 DOMAIN-SUFFIX,heydoga.com
 DOMAIN-SUFFIX,heydouga.com
 DOMAIN-SUFFIX,heyuedi.com
@@ -15569,6 +15612,7 @@ DOMAIN-SUFFIX,neulion.com
 DOMAIN-SUFFIX,neuralink.com
 DOMAIN-SUFFIX,neurology.org
 DOMAIN-SUFFIX,neverforget8964.org
+DOMAIN-SUFFIX,neverware.com
 DOMAIN-SUFFIX,nevex.com
 DOMAIN-SUFFIX,new-3lunch.net
 DOMAIN-SUFFIX,new-akiba.com
@@ -16285,6 +16329,7 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oanda.com
 DOMAIN-SUFFIX,oanencore.com
 DOMAIN-SUFFIX,oann.com
+DOMAIN-SUFFIX,oasisfeng.com
 DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,oauth.net
@@ -16353,6 +16398,7 @@ DOMAIN-SUFFIX,oikos.com.tw
 DOMAIN-SUFFIX,oiktv.com
 DOMAIN-SUFFIX,oiobbs.com
 DOMAIN-SUFFIX,oizoblog.com
+DOMAIN-SUFFIX,ok.gle
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,ok.xxx
 DOMAIN-SUFFIX,okayfreedom.com
@@ -16749,6 +16795,7 @@ DOMAIN-SUFFIX,pandora.com
 DOMAIN-SUFFIX,pandora.tv
 DOMAIN-SUFFIX,pankwire.com
 DOMAIN-SUFFIX,panluan.net
+DOMAIN-SUFFIX,panoramio.com
 DOMAIN-SUFFIX,pantswalker.net
 DOMAIN-SUFFIX,pao-pao.net
 DOMAIN-SUFFIX,paofu.cloud
@@ -17936,6 +17983,9 @@ DOMAIN-SUFFIX,privilege.tw
 DOMAIN-SUFFIX,privoxy.org
 DOMAIN-SUFFIX,procopytips.com
 DOMAIN-SUFFIX,proctoscopeexam.com
+DOMAIN-SUFFIX,prod-controlbe.floonet.goog
+DOMAIN-SUFFIX,prod-databe.floonet.goog
+DOMAIN-SUFFIX,prod.databe.floonet.goog
 DOMAIN-SUFFIX,prodrive-japan.com
 DOMAIN-SUFFIX,product.co.jp
 DOMAIN-SUFFIX,profilemaster.com
@@ -18486,6 +18536,10 @@ DOMAIN-SUFFIX,redhat.org
 DOMAIN-SUFFIX,redhdtube.xxx
 DOMAIN-SUFFIX,redhotlabs.com
 DOMAIN-SUFFIX,redino.tw
+DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com
+DOMAIN-SUFFIX,redirector.gvt1.com
+DOMAIN-SUFFIX,redirector.offline-maps.gvt1.com
+DOMAIN-SUFFIX,redirector.snap.gvt1.com
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redislabs.com
 DOMAIN-SUFFIX,redkix.com
@@ -18517,6 +18571,7 @@ DOMAIN-SUFFIX,regex101.com
 DOMAIN-SUFFIX,regiongold.com
 DOMAIN-SUFFIX,registerhulu.com
 DOMAIN-SUFFIX,registeridm.com
+DOMAIN-SUFFIX,registry.google
 DOMAIN-SUFFIX,reiporno.com
 DOMAIN-SUFFIX,relateiq.com
 DOMAIN-SUFFIX,relaxbbs.com
@@ -20092,6 +20147,9 @@ DOMAIN-SUFFIX,stacyvandenbergboobs.com
 DOMAIN-SUFFIX,stadia.dev
 DOMAIN-SUFFIX,staffhub.ms
 DOMAIN-SUFFIX,stage64.hk
+DOMAIN-SUFFIX,staging-controlbe.floonet.goog
+DOMAIN-SUFFIX,staging-databe.floonet.goog
+DOMAIN-SUFFIX,staging.databe.floonet.goog
 DOMAIN-SUFFIX,standardsuniversity.org
 DOMAIN-SUFFIX,standupfortibet.org
 DOMAIN-SUFFIX,standwithhk.org
@@ -25002,6 +25060,7 @@ IP-CIDR,158.85.224.160/27,no-resolve
 IP-CIDR,158.85.46.128/27,no-resolve
 IP-CIDR,158.85.5.192/27,no-resolve
 IP-CIDR,169.45.248.118/32,no-resolve
+IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,173.192.222.160/27,no-resolve
 IP-CIDR,173.192.231.32/27,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
@@ -25033,6 +25092,7 @@ IP-CIDR,203.208.43.0/24,no-resolve
 IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 IP-CIDR,208.43.0.0/16,no-resolve
+IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
@@ -25080,8 +25140,11 @@ IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2620:120:e000::/40,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 PROCESS-NAME,LookupViewService
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+USER-AGENT,*com.google.Drive*
 USER-AGENT,AbemaTV*
 USER-AGENT,All4*
 USER-AGENT,Anime*
@@ -25092,6 +25155,7 @@ USER-AGENT,Deezer*
 USER-AGENT,Disney+*
 USER-AGENT,Duolingo*
 USER-AGENT,FOX%20NOW*
+USER-AGENT,Google.Drive*
 USER-AGENT,HBO%20GO%20PROD%20HKG*
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HWTVMobile*

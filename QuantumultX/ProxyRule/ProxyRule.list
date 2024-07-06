@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-06 02:14:14
+# 更新时间： 2024-07-06 08:49:45
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -94,6 +94,7 @@ HOST,cisco.evergage.com,proxy
 HOST,ciscolivehls-i.akamaihd.net,proxy
 HOST,client-teamviewer-com.trafficmanager.net,proxy
 HOST,clients1.google.com,proxy
+HOST,clientservices.googleapis.com,proxy
 HOST,cloud-cdn-digitalocean-com.global.ssl.fastly.net,proxy
 HOST,cloud.oracle.com,proxy
 HOST,cloudsync-prod.s3.amazonaws.com,proxy
@@ -101,6 +102,7 @@ HOST,clubhouse.pubnubapi.com,proxy
 HOST,copilot.microsoft.com,proxy
 HOST,courier-push-apple.com.akadns.net,proxy
 HOST,crl.microsoft.com,proxy
+HOST,crl.pki.goog,proxy
 HOST,crl.versign.net,proxy
 HOST,csis-prod.s3.amazonaws.com,proxy
 HOST,cvws.icloud-content.com,proxy
@@ -158,6 +160,8 @@ HOST,firebaselogging.googleapis.com,proxy
 HOST,firebaseperusertopics-pa.googleapis.com,proxy
 HOST,firebaseremoteconfig.googleapis.com,proxy
 HOST,firstsearch.oclc.org,proxy
+HOST,fonts.googleapis.com,proxy
+HOST,fonts.gstatic.com,proxy
 HOST,fontshop-prod-responsive-images.s3.amazonaws.com,proxy
 HOST,foxnewsplayer-a.akamaihd.net,proxy
 HOST,gamedownloads-rockstargames-com.akamaized.net,proxy
@@ -223,6 +227,7 @@ HOST,nvidia.tt.omtrdc.net,proxy
 HOST,nytimes.map.fastly.net,proxy
 HOST,ocsp.int-x3.letsencrypt.org,proxy
 HOST,ocsp.microsoft.com,proxy
+HOST,ocsp.pki.goog,proxy
 HOST,officecdn-microsoft-com.akamaized.net,proxy
 HOST,onekey.zendesk.com,proxy
 HOST,oneocsp.microsoft.com,proxy
@@ -255,11 +260,15 @@ HOST,push-apple.com.akadns.net,proxy
 HOST,pvr-hamivideo.cdn.hinet.net,proxy
 HOST,qualcomm.sc.omtrdc.net,proxy
 HOST,reddit.map.fastly.net,proxy
+HOST,redirector.c.bigcache.googleapis.com,proxy
+HOST,redirector.gvt1.com,proxy
 HOST,rink.hockeyapp.net,proxy
 HOST,rtm.tnt-ea.com,proxy
 HOST,s3-ap-northeast-1.amazonaws.com,proxy
 HOST,s3-ap-southeast-2.amazonaws.com,proxy
 HOST,sa78gs.wpc.edgecastcdn.net,proxy
+HOST,safebrowsing-cache.google.com,proxy
+HOST,safebrowsing.googleapis.com,proxy
 HOST,scc.ott.hinet.net,proxy
 HOST,scholar.google.ae,proxy
 HOST,scholar.google.at,proxy
@@ -362,6 +371,7 @@ HOST,t21ipau.nikkei.co.jp,proxy
 HOST,teamviewer.com.cdn.cloudflare.net,proxy
 HOST,tesla-cdn.thron.com,proxy
 HOST,testflight.apple.com,proxy
+HOST,translate.googleapis.com,proxy
 HOST,translomatic.foxfortmobile.com,proxy
 HOST,tv.apple.com,proxy
 HOST,tvcastlive-hamivideo.cdn.hinet.net,proxy
@@ -498,6 +508,7 @@ HOST,wwis-dubc1-vip97.adobe.com,proxy
 HOST,wwis-dubc1-vip98.adobe.com,proxy
 HOST,wwis-dubc1-vip99.adobe.com,proxy
 HOST,www-cdn.icloud.com.akadns.net,proxy
+HOST,www.googleapis.com,proxy
 HOST,zeenews-fonts.s3.amazonaws.com,proxy
 HOST,ztedevices.com,proxy
 HOST-KEYWORD,1drv,proxy
@@ -505,6 +516,7 @@ HOST-KEYWORD,1e100,proxy
 HOST-KEYWORD,abema,proxy
 HOST-KEYWORD,amazon,proxy
 HOST-KEYWORD,appledaily,proxy
+HOST-KEYWORD,appspot,proxy
 HOST-KEYWORD,avoddashs,proxy
 HOST-KEYWORD,avtb,proxy
 HOST-KEYWORD,bbcfmt,proxy
@@ -524,6 +536,7 @@ HOST-KEYWORD,onedrive,proxy
 HOST-KEYWORD,paypal,proxy
 HOST-KEYWORD,pinterest,proxy
 HOST-KEYWORD,porn,proxy
+HOST-KEYWORD,recaptcha,proxy
 HOST-KEYWORD,sci-hub,proxy
 HOST-KEYWORD,skydrive,proxy
 HOST-KEYWORD,sparkmail,proxy
@@ -1317,6 +1330,7 @@ HOST-SUFFIX,adidas.se,proxy
 HOST-SUFFIX,adinst.com,proxy
 HOST-SUFFIX,admeld.com,proxy
 HOST-SUFFIX,admob-cn.com,proxy
+HOST-SUFFIX,admob.com,proxy
 HOST-SUFFIX,adobe-aemassets-value.com,proxy
 HOST-SUFFIX,adobe-audience-finder.com,proxy
 HOST-SUFFIX,adobe-video-partner-finder.com,proxy
@@ -1504,6 +1518,7 @@ HOST-SUFFIX,ahxxx.club,proxy
 HOST-SUFFIX,ai-kan.net,proxy
 HOST-SUFFIX,ai-wen.net,proxy
 HOST-SUFFIX,ai.google,proxy
+HOST-SUFFIX,ai.ytimg.com,proxy
 HOST-SUFFIX,ai7995.site,proxy
 HOST-SUFFIX,ai91porn.cc,proxy
 HOST-SUFFIX,aiasahi.jp,proxy
@@ -2168,6 +2183,7 @@ HOST-SUFFIX,aporntv.com,proxy
 HOST-SUFFIX,apornvideo.com,proxy
 HOST-SUFFIX,app-dynamics.com,proxy
 HOST-SUFFIX,app-measurement-cn.com,proxy
+HOST-SUFFIX,app-measurement.com,proxy
 HOST-SUFFIX,app-measurement.net,proxy
 HOST-SUFFIX,app-store.wang,proxy
 HOST-SUFFIX,app0le.com,proxy
@@ -2502,6 +2518,7 @@ HOST-SUFFIX,applle.com,proxy
 HOST-SUFFIX,applw.com,proxy
 HOST-SUFFIX,appmediagroup.com,proxy
 HOST-SUFFIX,approvedusedbmw.com,proxy
+HOST-SUFFIX,apps5.oingo.com,proxy
 HOST-SUFFIX,appsflayer.com,proxy
 HOST-SUFFIX,appshopper.com,proxy
 HOST-SUFFIX,appsocks.net,proxy
@@ -3306,6 +3323,9 @@ HOST-SUFFIX,bdsmtubexxx.com,proxy
 HOST-SUFFIX,bdsmtv.cc,proxy
 HOST-SUFFIX,bdsmvideos.net,proxy
 HOST-SUFFIX,beaconevents.com,proxy
+HOST-SUFFIX,beacons.gvt2.com,proxy
+HOST-SUFFIX,beacons2.gvt2.com,proxy
+HOST-SUFFIX,beacons3.gvt2.com,proxy
 HOST-SUFFIX,beascoremodel.com,proxy
 HOST-SUFFIX,beastiegals.com,proxy
 HOST-SUFFIX,beastysexlinks.com,proxy
@@ -5356,6 +5376,7 @@ HOST-SUFFIX,ceramics-cadcam.com,proxy
 HOST-SUFFIX,cerdas.com,proxy
 HOST-SUFFIX,cern.ch,proxy
 HOST-SUFFIX,certificat2.com,proxy
+HOST-SUFFIX,certificate-transparency.dev,proxy
 HOST-SUFFIX,certificate-transparency.org,proxy
 HOST-SUFFIX,certinomis.com,proxy
 HOST-SUFFIX,certinomis.fr,proxy
@@ -5398,6 +5419,7 @@ HOST-SUFFIX,charlestonroadregistry.com,proxy
 HOST-SUFFIX,charlotte-anime.jp,proxy
 HOST-SUFFIX,charmescorts.com,proxy
 HOST-SUFFIX,charticulator.com,proxy
+HOST-SUFFIX,chat.gle,proxy
 HOST-SUFFIX,chatango.com,proxy
 HOST-SUFFIX,chatgpt.com,proxy
 HOST-SUFFIX,chatgptvideo.xyz,proxy
@@ -6078,6 +6100,7 @@ HOST-SUFFIX,crabporn.com,proxy
 HOST-SUFFIX,crackle.com,proxy
 HOST-SUFFIX,craigslist.org,proxy
 HOST-SUFFIX,crankplayer.com,proxy
+HOST-SUFFIX,crashlytics.com,proxy
 HOST-SUFFIX,crates.io,proxy
 HOST-SUFFIX,crazy-amateurs.com,proxy
 HOST-SUFFIX,crazyav.xyz,proxy
@@ -6637,6 +6660,7 @@ HOST-SUFFIX,digital-anime.com,proxy
 HOST-SUFFIX,digital-id.ch,proxy
 HOST-SUFFIX,digital-rb.com,proxy
 HOST-SUFFIX,digitalassetlinks.org,proxy
+HOST-SUFFIX,digitalattackmap.com,proxy
 HOST-SUFFIX,digitalcertvalidation.com,proxy
 HOST-SUFFIX,digitaldesire.com,proxy
 HOST-SUFFIX,digitalhub.com,proxy
@@ -7041,6 +7065,8 @@ HOST-SUFFIX,dotvpn.com,proxy
 HOST-SUFFIX,doub.io,proxy
 HOST-SUFFIX,doubibackup.com,proxy
 HOST-SUFFIX,doubleclick-cn.net,proxy
+HOST-SUFFIX,doubleclick.com,proxy
+HOST-SUFFIX,doubleclick.net,proxy
 HOST-SUFFIX,doublethinklab.org,proxy
 HOST-SUFFIX,doubmirror.cf,proxy
 HOST-SUFFIX,doufurufabu.xyz,proxy
@@ -9521,6 +9547,7 @@ HOST-SUFFIX,g-technology.com,proxy
 HOST-SUFFIX,g-tun.com,proxy
 HOST-SUFFIX,g-tvapp.com,proxy
 HOST-SUFFIX,g-xxxhub.com,proxy
+HOST-SUFFIX,g.cn,proxy
 HOST-SUFFIX,g.co,proxy
 HOST-SUFFIX,g.dev,proxy
 HOST-SUFFIX,g.page,proxy
@@ -9672,6 +9699,7 @@ HOST-SUFFIX,gclooney.com,proxy
 HOST-SUFFIX,gclubs.com,proxy
 HOST-SUFFIX,gcmasia.com,proxy
 HOST-SUFFIX,gcolle.net,proxy
+HOST-SUFFIX,gcp.gvt2.com,proxy
 HOST-SUFFIX,gcpnews.com,proxy
 HOST-SUFFIX,gcpnode.com,proxy
 HOST-SUFFIX,gcr.io,proxy
@@ -9939,6 +9967,7 @@ HOST-SUFFIX,givemebuzzsaw.com,proxy
 HOST-SUFFIX,gizlen.net,proxy
 HOST-SUFFIX,gizmoxxx.com,proxy
 HOST-SUFFIX,gjczz.com,proxy
+HOST-SUFFIX,gkecnapps.cn,proxy
 HOST-SUFFIX,gladporn.com,proxy
 HOST-SUFFIX,glam0ur.com,proxy
 HOST-SUFFIX,glamourtits.com,proxy
@@ -10129,6 +10158,7 @@ HOST-SUFFIX,google.ch,proxy
 HOST-SUFFIX,google.ci,proxy
 HOST-SUFFIX,google.cl,proxy
 HOST-SUFFIX,google.cm,proxy
+HOST-SUFFIX,google.cn,proxy
 HOST-SUFFIX,google.co,proxy
 HOST-SUFFIX,google.co.ao,proxy
 HOST-SUFFIX,google.co.bw,proxy
@@ -10313,6 +10343,7 @@ HOST-SUFFIX,googleadservices-cn.com,proxy
 HOST-SUFFIX,googleadservices.com,proxy
 HOST-SUFFIX,googleanalytics.com,proxy
 HOST-SUFFIX,googleapis-cn.com,proxy
+HOST-SUFFIX,googleapis.cn,proxy
 HOST-SUFFIX,googleapis.com,proxy
 HOST-SUFFIX,googleapps-cn.com,proxy
 HOST-SUFFIX,googleapps.com,proxy
@@ -10323,7 +10354,9 @@ HOST-SUFFIX,googlebot.com,proxy
 HOST-SUFFIX,googlecapital.com,proxy
 HOST-SUFFIX,googlecert.net,proxy
 HOST-SUFFIX,googlechinawebmaster.com,proxy
+HOST-SUFFIX,googlecnapps.cn,proxy
 HOST-SUFFIX,googlecode.com,proxy
+HOST-SUFFIX,googlecommerce.com,proxy
 HOST-SUFFIX,googlecompare.co.uk,proxy
 HOST-SUFFIX,googledanmark.com,proxy
 HOST-SUFFIX,googledomains.com,proxy
@@ -10349,15 +10382,18 @@ HOST-SUFFIX,googlephotos.com,proxy
 HOST-SUFFIX,googleplay.com,proxy
 HOST-SUFFIX,googleplex.com,proxy
 HOST-SUFFIX,googleplus.com,proxy
+HOST-SUFFIX,googlescholar.com,proxy
 HOST-SUFFIX,googlescholar.comusa,proxy
 HOST-SUFFIX,googlesile.com,proxy
 HOST-SUFFIX,googlesource.com,proxy
 HOST-SUFFIX,googlestore.com,proxy
 HOST-SUFFIX,googlesverige.com,proxy
 HOST-SUFFIX,googlesyndication-cn.com,proxy
+HOST-SUFFIX,googlesyndication.com,proxy
 HOST-SUFFIX,googletagmanager-cn.com,proxy
 HOST-SUFFIX,googletagmanager.com,proxy
 HOST-SUFFIX,googletagservices-cn.com,proxy
+HOST-SUFFIX,googletagservices.com,proxy
 HOST-SUFFIX,googletraveladservices-cn.com,proxy
 HOST-SUFFIX,googletraveladservices.com,proxy
 HOST-SUFFIX,googleusercontent.com,proxy
@@ -10483,7 +10519,9 @@ HOST-SUFFIX,gsearch.media,proxy
 HOST-SUFFIX,gslink.us,proxy
 HOST-SUFFIX,gsrc.io,proxy
 HOST-SUFFIX,gstatic-cn.com,proxy
+HOST-SUFFIX,gstatic.cn,proxy
 HOST-SUFFIX,gstatic.com,proxy
+HOST-SUFFIX,gstaticcnapps.cn,proxy
 HOST-SUFFIX,gsuite.com,proxy
 HOST-SUFFIX,gt536.top,proxy
 HOST-SUFFIX,gtm.oasisfeng.com,proxy
@@ -10953,6 +10991,7 @@ HOST-SUFFIX,hexieshe.com,proxy
 HOST-SUFFIX,hexieshe.xyz,proxy
 HOST-SUFFIX,hexxeh.net,proxy
 HOST-SUFFIX,hey.boo,proxy
+HOST-SUFFIX,hey.gle,proxy
 HOST-SUFFIX,heydoga.com,proxy
 HOST-SUFFIX,heydouga.com,proxy
 HOST-SUFFIX,heyuedi.com,proxy
@@ -16001,6 +16040,7 @@ HOST-SUFFIX,neulion.com,proxy
 HOST-SUFFIX,neuralink.com,proxy
 HOST-SUFFIX,neurology.org,proxy
 HOST-SUFFIX,neverforget8964.org,proxy
+HOST-SUFFIX,neverware.com,proxy
 HOST-SUFFIX,nevex.com,proxy
 HOST-SUFFIX,new-3lunch.net,proxy
 HOST-SUFFIX,new-akiba.com,proxy
@@ -16718,6 +16758,7 @@ HOST-SUFFIX,oaiusercontent.com,proxy
 HOST-SUFFIX,oanda.com,proxy
 HOST-SUFFIX,oanencore.com,proxy
 HOST-SUFFIX,oann.com,proxy
+HOST-SUFFIX,oasisfeng.com,proxy
 HOST-SUFFIX,oath.cloud,proxy
 HOST-SUFFIX,oath.com,proxy
 HOST-SUFFIX,oauth.net,proxy
@@ -16786,6 +16827,7 @@ HOST-SUFFIX,oikos.com.tw,proxy
 HOST-SUFFIX,oiktv.com,proxy
 HOST-SUFFIX,oiobbs.com,proxy
 HOST-SUFFIX,oizoblog.com,proxy
+HOST-SUFFIX,ok.gle,proxy
 HOST-SUFFIX,ok.ru,proxy
 HOST-SUFFIX,ok.xxx,proxy
 HOST-SUFFIX,okayfreedom.com,proxy
@@ -17183,6 +17225,7 @@ HOST-SUFFIX,pandora.com,proxy
 HOST-SUFFIX,pandora.tv,proxy
 HOST-SUFFIX,pankwire.com,proxy
 HOST-SUFFIX,panluan.net,proxy
+HOST-SUFFIX,panoramio.com,proxy
 HOST-SUFFIX,pantswalker.net,proxy
 HOST-SUFFIX,pao-pao.net,proxy
 HOST-SUFFIX,paofu.cloud,proxy
@@ -18371,6 +18414,9 @@ HOST-SUFFIX,privilege.tw,proxy
 HOST-SUFFIX,privoxy.org,proxy
 HOST-SUFFIX,procopytips.com,proxy
 HOST-SUFFIX,proctoscopeexam.com,proxy
+HOST-SUFFIX,prod-controlbe.floonet.goog,proxy
+HOST-SUFFIX,prod-databe.floonet.goog,proxy
+HOST-SUFFIX,prod.databe.floonet.goog,proxy
 HOST-SUFFIX,prodrive-japan.com,proxy
 HOST-SUFFIX,product.co.jp,proxy
 HOST-SUFFIX,profilemaster.com,proxy
@@ -18921,6 +18967,10 @@ HOST-SUFFIX,redhat.org,proxy
 HOST-SUFFIX,redhdtube.xxx,proxy
 HOST-SUFFIX,redhotlabs.com,proxy
 HOST-SUFFIX,redino.tw,proxy
+HOST-SUFFIX,redirector.gcpcdn.gvt1.com,proxy
+HOST-SUFFIX,redirector.gvt1.com,proxy
+HOST-SUFFIX,redirector.offline-maps.gvt1.com,proxy
+HOST-SUFFIX,redirector.snap.gvt1.com,proxy
 HOST-SUFFIX,redis.io,proxy
 HOST-SUFFIX,redislabs.com,proxy
 HOST-SUFFIX,redkix.com,proxy
@@ -20531,6 +20581,9 @@ HOST-SUFFIX,stacyvandenbergboobs.com,proxy
 HOST-SUFFIX,stadia.dev,proxy
 HOST-SUFFIX,staffhub.ms,proxy
 HOST-SUFFIX,stage64.hk,proxy
+HOST-SUFFIX,staging-controlbe.floonet.goog,proxy
+HOST-SUFFIX,staging-databe.floonet.goog,proxy
+HOST-SUFFIX,staging.databe.floonet.goog,proxy
 HOST-SUFFIX,standardsuniversity.org,proxy
 HOST-SUFFIX,standupfortibet.org,proxy
 HOST-SUFFIX,standwithhk.org,proxy
@@ -25444,6 +25497,7 @@ IP-CIDR,158.85.224.160/27,proxy,no-resolve
 IP-CIDR,158.85.46.128/27,proxy,no-resolve
 IP-CIDR,158.85.5.192/27,proxy,no-resolve
 IP-CIDR,169.45.248.118/32,proxy,no-resolve
+IP-CIDR,172.110.32.0/21,proxy,no-resolve
 IP-CIDR,173.192.222.160/27,proxy,no-resolve
 IP-CIDR,173.192.231.32/27,proxy,no-resolve
 IP-CIDR,173.194.0.0/16,proxy,no-resolve
@@ -25475,6 +25529,7 @@ IP-CIDR,203.208.43.0/24,proxy,no-resolve
 IP-CIDR,203.208.50.0/24,proxy,no-resolve
 IP-CIDR,204.15.20.0/22,proxy,no-resolve
 IP-CIDR,208.43.0.0/16,proxy,no-resolve
+IP-CIDR,216.73.80.0/20,proxy,no-resolve
 IP-CIDR,220.181.174.162/32,proxy,no-resolve
 IP-CIDR,220.181.174.226/32,proxy,no-resolve
 IP-CIDR,220.181.174.34/32,proxy,no-resolve
@@ -25522,7 +25577,10 @@ IP-CIDR,91.108.0.0/16,proxy,no-resolve
 IP6-CIDR,2001:67c:4e8::/48,proxy,no-resolve
 IP6-CIDR,2001:b28:f23c::/47,proxy,no-resolve
 IP6-CIDR,2001:b28:f23f::/48,proxy,no-resolve
+IP6-CIDR,2620:120:e000::/40,proxy,no-resolve
 IP6-CIDR,2a0a:f280::/32,proxy,no-resolve
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,proxy
+USER-AGENT,*com.google.Drive*,proxy
 USER-AGENT,AbemaTV*,proxy
 USER-AGENT,All4*,proxy
 USER-AGENT,Anime*,proxy
@@ -25533,6 +25591,7 @@ USER-AGENT,Deezer*,proxy
 USER-AGENT,Disney+*,proxy
 USER-AGENT,Duolingo*,proxy
 USER-AGENT,FOX%20NOW*,proxy
+USER-AGENT,Google.Drive*,proxy
 USER-AGENT,HBO%20GO%20PROD%20HKG*,proxy
 USER-AGENT,HBO%20NOW*,proxy
 USER-AGENT,HWTVMobile*,proxy
