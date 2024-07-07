@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-07 14:15:15
+# 更新时间： 2024-07-07 20:10:34
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -21,6 +21,7 @@ payload:
   - DOMAIN,appsflyer.com
   - DOMAIN,baikebcs.bdimg.com
   - DOMAIN,bdtj.tagtic.cn
+  - DOMAIN,bili.bili.rip
   - DOMAIN,boxer.baidu.com
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,click.simba.taobao.com
