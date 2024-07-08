@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-08 08:53:04
+# 更新时间： 2024-07-08 09:42:42
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -1378,6 +1378,7 @@ HOST-SUFFIX,adpl.org.hk,proxy
 HOST-SUFFIX,adporn.cc,proxy
 HOST-SUFFIX,adpornu.xyz,proxy
 HOST-SUFFIX,ads-pixiv.net,proxy
+HOST-SUFFIX,ads-twitter.com,proxy
 HOST-SUFFIX,adsense.com,proxy
 HOST-SUFFIX,adsensecustomsearchads.com,proxy
 HOST-SUFFIX,adsenseformobileapps.com,proxy
@@ -21249,6 +21250,7 @@ HOST-SUFFIX,telesco.pe,proxy
 HOST-SUFFIX,telesec.de,proxy
 HOST-SUFFIX,telesell.com,proxy
 HOST-SUFFIX,telex.cc,proxy
+HOST-SUFFIX,tellapart.com,proxy
 HOST-SUFFIX,tellme.pw,proxy
 HOST-SUFFIX,tellmewhygame.com,proxy
 HOST-SUFFIX,temetube.xyz,proxy
@@ -25529,9 +25531,13 @@ IP-CIDR,180.163.151.34/32,proxy,no-resolve
 IP-CIDR,184.173.128.0/17,proxy,no-resolve
 IP-CIDR,185.60.216.0/22,proxy,no-resolve
 IP-CIDR,185.76.151.0/24,proxy,no-resolve
+IP-CIDR,192.133.76.0/22,proxy,no-resolve
 IP-CIDR,192.173.64.0/18,proxy,no-resolve
 IP-CIDR,198.38.96.0/19,proxy,no-resolve
 IP-CIDR,198.45.48.0/20,proxy,no-resolve
+IP-CIDR,199.59.148.0/22,proxy,no-resolve
+IP-CIDR,199.96.56.0/21,proxy,no-resolve
+IP-CIDR,202.160.128.0/22,proxy,no-resolve
 IP-CIDR,203.104.103.0/24,proxy,no-resolve
 IP-CIDR,203.104.128.0/19,proxy,no-resolve
 IP-CIDR,203.174.66.64/26,proxy,no-resolve
@@ -25542,6 +25548,7 @@ IP-CIDR,203.208.43.0/24,proxy,no-resolve
 IP-CIDR,203.208.50.0/24,proxy,no-resolve
 IP-CIDR,204.15.20.0/22,proxy,no-resolve
 IP-CIDR,208.43.0.0/16,proxy,no-resolve
+IP-CIDR,209.237.192.0/19,proxy,no-resolve
 IP-CIDR,216.73.80.0/20,proxy,no-resolve
 IP-CIDR,220.181.174.162/32,proxy,no-resolve
 IP-CIDR,220.181.174.226/32,proxy,no-resolve
@@ -25580,6 +25587,7 @@ IP-CIDR,67.220.91.15/32,proxy,no-resolve
 IP-CIDR,67.220.91.18/32,proxy,no-resolve
 IP-CIDR,67.220.91.23/32,proxy,no-resolve
 IP-CIDR,69.171.224.0/19,proxy,no-resolve
+IP-CIDR,69.195.160.0/19,proxy,no-resolve
 IP-CIDR,69.63.176.0/20,proxy,no-resolve
 IP-CIDR,69.65.19.160/32,proxy,no-resolve
 IP-CIDR,72.52.81.22/32,proxy,no-resolve
