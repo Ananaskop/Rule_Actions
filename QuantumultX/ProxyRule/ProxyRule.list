@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-08 02:13:14
+# 更新时间： 2024-07-08 08:29:43
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -8638,6 +8638,7 @@ HOST-SUFFIX,fbacebook.com,proxy
 HOST-SUFFIX,fbaddins.com,proxy
 HOST-SUFFIX,fbbmarket.com,proxy
 HOST-SUFFIX,fbboostyourbusiness.com,proxy
+HOST-SUFFIX,fbcdn-a.akamaihd.net,proxy
 HOST-SUFFIX,fbcdn.com,proxy
 HOST-SUFFIX,fbcdn.net,proxy
 HOST-SUFFIX,fbf8.com,proxy
@@ -12488,6 +12489,7 @@ HOST-SUFFIX,iownyour.org,proxy
 HOST-SUFFIX,ip-api.com,proxy
 HOST-SUFFIX,ip.gs,proxy
 HOST-SUFFIX,ip.sb,proxy
+HOST-SUFFIX,ip6.static.sl-reverse.com,proxy
 HOST-SUFFIX,ip73.com,proxy
 HOST-SUFFIX,ipa-iphone.net,proxy
 HOST-SUFFIX,ipad.co.kr,proxy
@@ -23709,6 +23711,7 @@ HOST-SUFFIX,whatisworkspaceone.com,proxy
 HOST-SUFFIX,whatsapp-plus.info,proxy
 HOST-SUFFIX,whatsapp-plus.me,proxy
 HOST-SUFFIX,whatsapp-plus.net,proxy
+HOST-SUFFIX,whatsapp.biz,proxy
 HOST-SUFFIX,whatsapp.cc,proxy
 HOST-SUFFIX,whatsapp.com,proxy
 HOST-SUFFIX,whatsapp.info,proxy
@@ -25460,6 +25463,7 @@ HOST-SUFFIX,zzgays.com,proxy
 HOST-SUFFIX,zzitube.com,proxy
 HOST-SUFFIX,zzux.com,proxy
 HOST-SUFFIX,zzycdz.com,proxy
+IP-ASN,32934,proxy,no-resolve
 IP-CIDR,1.201.0.0/24,proxy,no-resolve
 IP-CIDR,101.32.118.0/23,proxy,no-resolve
 IP-CIDR,101.32.96.0/20,proxy,no-resolve
@@ -25467,12 +25471,21 @@ IP-CIDR,103.2.28.0/22,proxy,no-resolve
 IP-CIDR,103.246.56.0/22,proxy,no-resolve
 IP-CIDR,103.27.148.0/22,proxy,no-resolve
 IP-CIDR,103.4.96.0/22,proxy,no-resolve
+IP-CIDR,108.168.176.192/26,proxy,no-resolve
+IP-CIDR,108.168.177.0/27,proxy,no-resolve
+IP-CIDR,108.168.180.96/27,proxy,no-resolve
+IP-CIDR,108.168.254.65/32,proxy,no-resolve
+IP-CIDR,108.168.255.224/32,proxy,no-resolve
+IP-CIDR,108.168.255.227/32,proxy,no-resolve
 IP-CIDR,108.175.32.0/20,proxy,no-resolve
+IP-CIDR,108.177.8.0/21,proxy,no-resolve
 IP-CIDR,109.239.140.0/24,proxy,no-resolve
 IP-CIDR,110.76.140.0/22,proxy,no-resolve
 IP-CIDR,113.61.104.0/22,proxy,no-resolve
 IP-CIDR,119.235.224.0/21,proxy,no-resolve
+IP-CIDR,119.235.224.0/24,proxy,no-resolve
 IP-CIDR,119.235.232.0/23,proxy,no-resolve
+IP-CIDR,119.235.232.0/24,proxy,no-resolve
 IP-CIDR,119.235.235.0/24,proxy,no-resolve
 IP-CIDR,119.235.236.0/23,proxy,no-resolve
 IP-CIDR,120.232.181.162/32,proxy,no-resolve
@@ -25547,6 +25560,7 @@ IP-CIDR,45.64.40.0/22,proxy,no-resolve
 IP-CIDR,50.22.198.204/30,proxy,no-resolve
 IP-CIDR,52.200.0.0/13,proxy,no-resolve
 IP-CIDR,52.58.0.0/15,proxy,no-resolve
+IP-CIDR,52.58.209.134/32,proxy,no-resolve
 IP-CIDR,52.74.0.0/16,proxy,no-resolve
 IP-CIDR,52.77.0.0/16,proxy,no-resolve
 IP-CIDR,52.84.0.0/15,proxy,no-resolve
@@ -25558,6 +25572,7 @@ IP-CIDR,54.230.156.0/22,proxy,no-resolve
 IP-CIDR,54.235.23.242/32,proxy,no-resolve
 IP-CIDR,54.242.0.0/15,proxy,no-resolve
 IP-CIDR,54.93.0.0/16,proxy,no-resolve
+IP-CIDR,54.93.124.31/32,proxy,no-resolve
 IP-CIDR,64.120.128.0/17,proxy,no-resolve
 IP-CIDR,66.197.128.0/17,proxy,no-resolve
 IP-CIDR,66.220.144.0/20,proxy,no-resolve

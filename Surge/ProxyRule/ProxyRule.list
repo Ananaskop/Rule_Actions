@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-08 02:13:28
+# 更新时间： 2024-07-08 08:29:57
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -8221,6 +8221,7 @@ DOMAIN-SUFFIX,fbacebook.com
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbbmarket.com
 DOMAIN-SUFFIX,fbboostyourbusiness.com
+DOMAIN-SUFFIX,fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbf8.com
@@ -12061,6 +12062,7 @@ DOMAIN-SUFFIX,iownyour.org
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.gs
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip6.static.sl-reverse.com
 DOMAIN-SUFFIX,ip73.com
 DOMAIN-SUFFIX,ipa-iphone.net
 DOMAIN-SUFFIX,ipad.co.kr
@@ -23272,6 +23274,7 @@ DOMAIN-SUFFIX,whatisworkspaceone.com
 DOMAIN-SUFFIX,whatsapp-plus.info
 DOMAIN-SUFFIX,whatsapp-plus.me
 DOMAIN-SUFFIX,whatsapp-plus.net
+DOMAIN-SUFFIX,whatsapp.biz
 DOMAIN-SUFFIX,whatsapp.cc
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.info
@@ -25023,6 +25026,7 @@ DOMAIN-SUFFIX,zzgays.com
 DOMAIN-SUFFIX,zzitube.com
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,zzycdz.com
+IP-ASN,32934,no-resolve
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,101.32.96.0/20,no-resolve
@@ -25030,12 +25034,21 @@ IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
 IP-CIDR,103.27.148.0/22,no-resolve
 IP-CIDR,103.4.96.0/22,no-resolve
+IP-CIDR,108.168.176.192/26,no-resolve
+IP-CIDR,108.168.177.0/27,no-resolve
+IP-CIDR,108.168.180.96/27,no-resolve
+IP-CIDR,108.168.254.65/32,no-resolve
+IP-CIDR,108.168.255.224/32,no-resolve
+IP-CIDR,108.168.255.227/32,no-resolve
 IP-CIDR,108.175.32.0/20,no-resolve
+IP-CIDR,108.177.8.0/21,no-resolve
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,110.76.140.0/22,no-resolve
 IP-CIDR,113.61.104.0/22,no-resolve
 IP-CIDR,119.235.224.0/21,no-resolve
+IP-CIDR,119.235.224.0/24,no-resolve
 IP-CIDR,119.235.232.0/23,no-resolve
+IP-CIDR,119.235.232.0/24,no-resolve
 IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,120.232.181.162/32,no-resolve
@@ -25110,6 +25123,7 @@ IP-CIDR,45.64.40.0/22,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
 IP-CIDR,52.200.0.0/13,no-resolve
 IP-CIDR,52.58.0.0/15,no-resolve
+IP-CIDR,52.58.209.134/32,no-resolve
 IP-CIDR,52.74.0.0/16,no-resolve
 IP-CIDR,52.77.0.0/16,no-resolve
 IP-CIDR,52.84.0.0/15,no-resolve
@@ -25121,6 +25135,7 @@ IP-CIDR,54.230.156.0/22,no-resolve
 IP-CIDR,54.235.23.242/32,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 IP-CIDR,54.93.0.0/16,no-resolve
+IP-CIDR,54.93.124.31/32,no-resolve
 IP-CIDR,64.120.128.0/17,no-resolve
 IP-CIDR,66.197.128.0/17,no-resolve
 IP-CIDR,66.220.144.0/20,no-resolve
