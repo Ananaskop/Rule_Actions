@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-08 15:06:05
+# 更新时间： 2024-07-08 15:09:43
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -1128,7 +1128,6 @@ payload:
   - DOMAIN-SUFFIX,zohouniversity.com
   - DOMAIN-SUFFIX,zohowebstatic.com
   - DOMAIN-SUFFIX,zte.home
-  - DOMAIN-WILDCARD,onedrive.*
   - IP-CIDR,0.0.0.0/8,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve

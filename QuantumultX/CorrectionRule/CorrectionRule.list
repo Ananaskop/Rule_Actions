@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-08 15:05:56
+# 更新时间： 2024-07-08 15:09:34
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -1127,7 +1127,6 @@ HOST-SUFFIX,zohostatic.in,direct
 HOST-SUFFIX,zohouniversity.com,direct
 HOST-SUFFIX,zohowebstatic.com,direct
 HOST-SUFFIX,zte.home,direct
-HOST-WILDCARD,onedrive.*,direct
 IP-CIDR,0.0.0.0/8,direct,no-resolve
 IP-CIDR,10.0.0.0/8,direct,no-resolve
 IP-CIDR,100.64.0.0/10,direct,no-resolve
