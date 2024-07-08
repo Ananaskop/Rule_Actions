@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-08 14:29:02
+# 更新时间： 2024-07-08 14:49:07
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -33,7 +33,6 @@ HOST,dig.bdurl.net,direct
 HOST,dl.google.com,direct
 HOST,dl.l.google.com,direct
 HOST,download.jetbrains.com,direct
-HOST,download.microsoft.com,direct
 HOST,eco-push-api-client.meiqia.com,direct
 HOST,errlog.umeng.com,direct
 HOST,fairplay.l.qq.com,direct
@@ -58,7 +57,6 @@ HOST,msg.umeng.com,direct
 HOST,msg.umengcloud.com,direct
 HOST,mtalk.google.com,direct
 HOST,new-api.meiqia.com,direct
-HOST,ntservicepack.microsoft.com,direct
 HOST,ok.zuidapic.com,direct
 HOST,origin-a.akamaihd.ne,direct
 HOST,origin-a.akamaihd.net,direct
@@ -180,7 +178,6 @@ HOST-SUFFIX,concertos.live,direct
 HOST-SUFFIX,dicmusic.club,direct
 HOST-SUFFIX,discfan.net,direct
 HOST-SUFFIX,dizhensubao.getui.com,direct
-HOST-SUFFIX,dl.delivery.mp.microsoft.com,direct
 HOST-SUFFIX,doi.org,direct
 HOST-SUFFIX,dxdhd.com,direct
 HOST-SUFFIX,eastgame.org,direct
@@ -241,6 +238,7 @@ HOST-SUFFIX,lztr.me,direct
 HOST-SUFFIX,m-team.cc,direct
 HOST-SUFFIX,madsrevolution.net,direct
 HOST-SUFFIX,me.com,direct
+HOST-SUFFIX,microsoft.com,direct
 HOST-SUFFIX,moecat.best,direct
 HOST-SUFFIX,morethan.tv,direct
 HOST-SUFFIX,msg.vg,direct
@@ -294,13 +292,11 @@ HOST-SUFFIX,tracking-protection.cdn.mozilla.net,direct
 HOST-SUFFIX,trontv.com,direct
 HOST-SUFFIX,uhdbits.org,direct
 HOST-SUFFIX,upaiyun.com,direct
-HOST-SUFFIX,update.microsoft.com,direct
 HOST-SUFFIX,weather-analytics-events.apple.com,direct
 HOST-SUFFIX,weather-data.apple.com,direct
 HOST-SUFFIX,weather-map.apple.com,direct
 HOST-SUFFIX,wiley.com,direct
 HOST-SUFFIX,windowsupdate.com,direct
-HOST-SUFFIX,windowsupdate.microsoft.com,direct
 HOST-SUFFIX,xunlei.com,direct
 HOST-SUFFIX,yonghuivip.com,direct
 HOST-SUFFIX,zoho.com,direct

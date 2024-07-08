@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-08 14:29:11
+# 更新时间： 2024-07-08 14:49:16
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -34,7 +34,6 @@ payload:
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
   - DOMAIN,download.jetbrains.com
-  - DOMAIN,download.microsoft.com
   - DOMAIN,eco-push-api-client.meiqia.com
   - DOMAIN,errlog.umeng.com
   - DOMAIN,fairplay.l.qq.com
@@ -59,7 +58,6 @@ payload:
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,mtalk.google.com
   - DOMAIN,new-api.meiqia.com
-  - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,ok.zuidapic.com
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
@@ -181,7 +179,6 @@ payload:
   - DOMAIN-SUFFIX,dicmusic.club
   - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,dizhensubao.getui.com
-  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,doi.org
   - DOMAIN-SUFFIX,dxdhd.com
   - DOMAIN-SUFFIX,eastgame.org
@@ -242,6 +239,7 @@ payload:
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,madsrevolution.net
   - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,moecat.best
   - DOMAIN-SUFFIX,morethan.tv
   - DOMAIN-SUFFIX,msg.vg
@@ -295,13 +293,11 @@ payload:
   - DOMAIN-SUFFIX,trontv.com
   - DOMAIN-SUFFIX,uhdbits.org
   - DOMAIN-SUFFIX,upaiyun.com
-  - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   - DOMAIN-SUFFIX,weather-data.apple.com
   - DOMAIN-SUFFIX,weather-map.apple.com
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,yonghuivip.com
   - DOMAIN-SUFFIX,zoho.com
