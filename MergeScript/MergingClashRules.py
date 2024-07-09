@@ -21,7 +21,6 @@ replacements = [
 
 RULES = {
     "CorrectionRule": {
-        "Direct": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list",
         "MyCorrectionRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/CorrectionRule.list",
     },
     "RejectRule": {
