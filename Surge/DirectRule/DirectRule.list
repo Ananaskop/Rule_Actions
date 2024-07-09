@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-09 02:14:55
+# 更新时间： 2024-07-09 08:52:15
 DOMAIN,1-fss24-s0.streamhoster.com
 DOMAIN,14033.live.streamtheworld.com
 DOMAIN,156zy.suyunbo.tv
@@ -387,6 +387,7 @@ DOMAIN,support.1ucrs.com
 DOMAIN,taishun.news01.yunshanit.com
 DOMAIN,test.bugs-qa.chromium.org
 DOMAIN,test.gbugs-qa.chromium.org
+DOMAIN,time.xtracloud.net
 DOMAIN,tl.gscm.tv
 DOMAIN,trtcanlitv-lh.akamaihd.net
 DOMAIN,tv-hls.juyun.tv
@@ -24213,8 +24214,10 @@ DOMAIN-SUFFIX,duwenxue.com
 DOMAIN-SUFFIX,duwenz.com
 DOMAIN-SUFFIX,duwenzhang.com
 DOMAIN-SUFFIX,duxiaomai.net
+DOMAIN-SUFFIX,duxiaoman-int.com
 DOMAIN-SUFFIX,duxiaoman.com
 DOMAIN-SUFFIX,duxiaomanfintech.com
+DOMAIN-SUFFIX,duxiaomantech.com
 DOMAIN-SUFFIX,duxiaoshuo.com
 DOMAIN-SUFFIX,duxiu.com
 DOMAIN-SUFFIX,duxuetang.com
@@ -24297,10 +24300,15 @@ DOMAIN-SUFFIX,dxiazaicc.com
 DOMAIN-SUFFIX,dxjh.net
 DOMAIN-SUFFIX,dxjs.com
 DOMAIN-SUFFIX,dxlfile.com
+DOMAIN-SUFFIX,dxm-cdn.com
+DOMAIN-SUFFIX,dxm-int.com
 DOMAIN-SUFFIX,dxm-yibai.com
 DOMAIN-SUFFIX,dxmjinr.com
+DOMAIN-SUFFIX,dxmlcf.com
+DOMAIN-SUFFIX,dxmlcfintech.com
 DOMAIN-SUFFIX,dxmpay.com
 DOMAIN-SUFFIX,dxmstatic.com
+DOMAIN-SUFFIX,dxmyqh.com
 DOMAIN-SUFFIX,dxnky.com
 DOMAIN-SUFFIX,dxqyy.com
 DOMAIN-SUFFIX,dxrc.com
@@ -41578,6 +41586,7 @@ DOMAIN-SUFFIX,juejinchain.com
 DOMAIN-SUFFIX,juejinqifu.com
 DOMAIN-SUFFIX,juemei.com
 DOMAIN-SUFFIX,juemuren4449.com
+DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,juesheng.com
 DOMAIN-SUFFIX,juewei.com
 DOMAIN-SUFFIX,juexiang.com

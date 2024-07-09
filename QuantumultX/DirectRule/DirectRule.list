@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-09 02:14:37
+# 更新时间： 2024-07-09 08:51:58
 HOST,1-fss24-s0.streamhoster.com,direct
 HOST,14033.live.streamtheworld.com,direct
 HOST,156zy.suyunbo.tv,direct
@@ -387,6 +387,7 @@ HOST,support.1ucrs.com,direct
 HOST,taishun.news01.yunshanit.com,direct
 HOST,test.bugs-qa.chromium.org,direct
 HOST,test.gbugs-qa.chromium.org,direct
+HOST,time.xtracloud.net,direct
 HOST,tl.gscm.tv,direct
 HOST,trtcanlitv-lh.akamaihd.net,direct
 HOST,tv-hls.juyun.tv,direct
@@ -24213,8 +24214,10 @@ HOST-SUFFIX,duwenxue.com,direct
 HOST-SUFFIX,duwenz.com,direct
 HOST-SUFFIX,duwenzhang.com,direct
 HOST-SUFFIX,duxiaomai.net,direct
+HOST-SUFFIX,duxiaoman-int.com,direct
 HOST-SUFFIX,duxiaoman.com,direct
 HOST-SUFFIX,duxiaomanfintech.com,direct
+HOST-SUFFIX,duxiaomantech.com,direct
 HOST-SUFFIX,duxiaoshuo.com,direct
 HOST-SUFFIX,duxiu.com,direct
 HOST-SUFFIX,duxuetang.com,direct
@@ -24297,10 +24300,15 @@ HOST-SUFFIX,dxiazaicc.com,direct
 HOST-SUFFIX,dxjh.net,direct
 HOST-SUFFIX,dxjs.com,direct
 HOST-SUFFIX,dxlfile.com,direct
+HOST-SUFFIX,dxm-cdn.com,direct
+HOST-SUFFIX,dxm-int.com,direct
 HOST-SUFFIX,dxm-yibai.com,direct
 HOST-SUFFIX,dxmjinr.com,direct
+HOST-SUFFIX,dxmlcf.com,direct
+HOST-SUFFIX,dxmlcfintech.com,direct
 HOST-SUFFIX,dxmpay.com,direct
 HOST-SUFFIX,dxmstatic.com,direct
+HOST-SUFFIX,dxmyqh.com,direct
 HOST-SUFFIX,dxnky.com,direct
 HOST-SUFFIX,dxqyy.com,direct
 HOST-SUFFIX,dxrc.com,direct
@@ -41578,6 +41586,7 @@ HOST-SUFFIX,juejinchain.com,direct
 HOST-SUFFIX,juejinqifu.com,direct
 HOST-SUFFIX,juemei.com,direct
 HOST-SUFFIX,juemuren4449.com,direct
+HOST-SUFFIX,juequling.com,direct
 HOST-SUFFIX,juesheng.com,direct
 HOST-SUFFIX,juewei.com,direct
 HOST-SUFFIX,juexiang.com,direct
