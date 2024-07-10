@@ -12,7 +12,7 @@ replacements = [
     (r'\s+', ''),
     (r',no-resolve', ''),
     (r',(?:GlobalMedia)$', ',Media'),
-    (r',(?:China|ChinaMax|Direct|Speedtest|Apple|Lan|Microsoft|WeChat)$', ',direct'),
+    (r',(?:China|Direct|ChinaIPs)$', ',direct'),
     (r',(?:Hijacking|BlockHttpDNS|REJECT|Reject)$', ',reject'),
     (r',(?:Proxy|Global)$', ',proxy'),
     (r',(?:OpenAI|PayPal|Bing|Anthropic|Gemini|Facebook)$', ',US'),
@@ -41,7 +41,8 @@ RULES = {
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/ProxyRule.list",
     },
     "DirectRule": {
-        "ChinaMax": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaMax/ChinaMax.list",
+        "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list",
+        "ChinaIPs": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/ChinaIPs/ChinaIPs.list",
     },
     "USRule": {
         "OpenAI": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list",
