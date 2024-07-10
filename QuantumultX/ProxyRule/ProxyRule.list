@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-10 20:20:46
+# 更新时间： 2024-07-11 02:16:12
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -8194,6 +8194,7 @@ HOST-SUFFIX,faapy.com,proxy
 HOST-SUFFIX,faasbook.com,proxy
 HOST-SUFFIX,fabhairypussy.com,proxy
 HOST-SUFFIX,fabric.io,proxy
+HOST-SUFFIX,fabricmc.net,proxy
 HOST-SUFFIX,fabuye.top,proxy
 HOST-SUFFIX,fabuyemian.com,proxy
 HOST-SUFFIX,facbebook.com,proxy
@@ -18410,6 +18411,7 @@ HOST-SUFFIX,printfriendly.com,proxy
 HOST-SUFFIX,printspots.com,proxy
 HOST-SUFFIX,printspots.net,proxy
 HOST-SUFFIX,prism-break.org,proxy
+HOST-SUFFIX,prismlauncher.org,proxy
 HOST-SUFFIX,prismlive.com,proxy
 HOST-SUFFIX,prisoneralert.com,proxy
 HOST-SUFFIX,pritunl.com,proxy
@@ -18714,6 +18716,7 @@ HOST-SUFFIX,quicktime.eu,proxy
 HOST-SUFFIX,quicktime.net,proxy
 HOST-SUFFIX,quicktime.tv,proxy
 HOST-SUFFIX,quiksee.com,proxy
+HOST-SUFFIX,quiltmc.org,proxy
 HOST-SUFFIX,quip-cdn.com,proxy
 HOST-SUFFIX,quip.com,proxy
 HOST-SUFFIX,quipelements.com,proxy
