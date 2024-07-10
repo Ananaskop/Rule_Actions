@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-10 02:14:51
+# 更新时间： 2024-07-10 08:21:31
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
 DOMAIN,a3.mzstatic.com
@@ -8,6 +8,7 @@ DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,adcdownload.apple.com
 DOMAIN,adcdownload.apple.com.akadns.net
+DOMAIN,ain.bgm.tv
 DOMAIN,aliyundrive.asia
 DOMAIN,amdc.m.taobao.com
 DOMAIN,amp-api-search-edge.apps.apple.com
@@ -65,6 +66,7 @@ DOMAIN,cdn-cn3.apple-mapkit.com
 DOMAIN,cdn-cn4.apple-mapkit.com
 DOMAIN,cdn.apple-cloudkit.com
 DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdn.marketplaceimages.windowsphone.com
 DOMAIN,cdn1.apple-mapkit.com
 DOMAIN,cdn2.apple-mapkit.com
@@ -111,6 +113,7 @@ DOMAIN,dd-cdn.origin-apple.com.akadns.net
 DOMAIN,ddys.art
 DOMAIN,default.exp-tas.com
 DOMAIN,dejavu.apple.com
+DOMAIN,deo.shopeemobile.com
 DOMAIN,detectportal.firefox.com
 DOMAIN,developer.apple.com
 DOMAIN,developer.microsoft.com
@@ -172,11 +175,16 @@ DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN,icloud.cdn-apple.com
 DOMAIN,icons.axm-usercontent-apple.com
 DOMAIN,iecvlist.microsoft.com
+DOMAIN,image.maimn.com
 DOMAIN,images.apple.com
 DOMAIN,images.apple.com.akadns.net
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
+DOMAIN,img.bfzypic.com
+DOMAIN,img.ffzypic.com
+DOMAIN,img.kuaikanzy.net
+DOMAIN,img.liangzipic.com
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
@@ -211,10 +219,13 @@ DOMAIN,itunesconnect.apple.com
 DOMAIN,js-cdn.music.apple.com
 DOMAIN,kczybf.com
 DOMAIN,km.support.apple.com
+DOMAIN,lain.bgm.tv
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
 DOMAIN,lookup-api.apple.com
 DOMAIN,lookup-api.apple.com.edgekey.net
+DOMAIN,m3u8.255tv.tk
+DOMAIN,m3u8.mstopq.com
 DOMAIN,maps.apple.com
 DOMAIN,mask-api.fe.apple-dns.net
 DOMAIN,mask-api.icloud.com
@@ -250,6 +261,7 @@ DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,officecdn.microsoft.com
+DOMAIN,ok.zuidapic.com
 DOMAIN,oneclient.sfx.ms
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
@@ -276,6 +288,7 @@ DOMAIN,rink.hockeyapp.net
 DOMAIN,router.asus.com
 DOMAIN,s.mzstatic.com
 DOMAIN,sandbox.itunes.apple.com
+DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,sdx.microsoft.com
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,se.itunes.apple.com
@@ -295,6 +308,7 @@ DOMAIN,smp-device-content.apple.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,sp.itunes.apple.com
 DOMAIN,static.gc.apple.com
+DOMAIN,static.jssp.tv
 DOMAIN,statici.icloud.com
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
@@ -328,8 +342,11 @@ DOMAIN,sylvan.apple.com
 DOMAIN,sync.itunes.apple.com
 DOMAIN,teams.events.data.microsoft.com
 DOMAIN,testflight.apple.com
+DOMAIN,tiao.cjkypo.com
+DOMAIN,time.apple.com
 DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,tracking.miui.com
+DOMAIN,ts.thefilehosting.com
 DOMAIN,tv.applemusic.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
@@ -342,6 +359,8 @@ DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,vd.l.qq.com
 DOMAIN,vi.l.qq.com
+DOMAIN,vip.ffzyread.com
+DOMAIN,vip.imgffzy.com
 DOMAIN,vip.lzcdn2.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,weather-data.apple.com
@@ -364,20 +383,42 @@ DOMAIN,xb.dlservice.microsoft.com
 DOMAIN,xp.apple.com
 DOMAIN,zh188.net
 DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,anti-ad.net
+DOMAIN-KEYWORD,api-adservices.apple.com
+DOMAIN-KEYWORD,api.smoot.apple.cn
+DOMAIN-KEYWORD,api.smoot.apple.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
 DOMAIN-KEYWORD,aw-s.tripcdn.com
+DOMAIN-KEYWORD,ax1x.com
+DOMAIN-KEYWORD,bfzycdn.com
 DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+DOMAIN-KEYWORD,ess.apple.com
+DOMAIN-KEYWORD,gsa.apple.com
+DOMAIN-KEYWORD,humb.apple.com
+DOMAIN-KEYWORD,icloud.com
 DOMAIN-KEYWORD,icloud.com.akadns.net
+DOMAIN-KEYWORD,ls.apple.com
 DOMAIN-KEYWORD,lz-cdn
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,o.lencr.org
 DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,push.apple.com
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,smp-device
+DOMAIN-KEYWORD,ssl.apple.com
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,trip.com
+DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
+DOMAIN-KEYWORD,vip.ffzy-online
+DOMAIN-KEYWORD,vip.ffzy-play
+DOMAIN-KEYWORD,vip.kuaikan-cdn
+DOMAIN-KEYWORD,vip.lz-cdn
 DOMAIN-KEYWORD,wb_ad
+DOMAIN-KEYWORD,weather-adge.apple.com
+DOMAIN-KEYWORD,weather-edge.apple.com
 DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
@@ -2645,6 +2686,9 @@ DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,wasdj.com
 DOMAIN-SUFFIX,wbd.ms
+DOMAIN-SUFFIX,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,weather-data.apple.com
+DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,webkit.org
 DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,webobjects.co.uk
@@ -2758,6 +2802,8 @@ IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.0.0.0/24,no-resolve
 IP-CIDR,192.0.2.0/24,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,192.168.0.1/24,no-resolve
+IP-CIDR,192.168.1.1/24,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,192.88.99.0/24,no-resolve
 IP-CIDR,198.18.0.0/15,no-resolve

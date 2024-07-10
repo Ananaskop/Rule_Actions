@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-10 02:14:34
+# 更新时间： 2024-07-10 08:21:13
 HOST,3dns-1.adobe.com,proxy
 HOST,3dns-2.adobe.com,proxy
 HOST,3dns-3.adobe.com,proxy
@@ -6048,6 +6048,11 @@ HOST-SUFFIX,corbinfisher.com,proxy
 HOST-SUFFIX,cordcloud.org,proxy
 HOST-SUFFIX,coreduo.com,proxy
 HOST-SUFFIX,coreextreme.com,proxy
+HOST-SUFFIX,corel.com,proxy
+HOST-SUFFIX,corel.net,proxy
+HOST-SUFFIX,coreldraw.app,proxy
+HOST-SUFFIX,coreldraw.com,proxy
+HOST-SUFFIX,corelstore.com,proxy
 HOST-SUFFIX,coreml.net,proxy
 HOST-SUFFIX,coreoptics.net,proxy
 HOST-SUFFIX,corepublishingsolutions.com,proxy
@@ -11216,6 +11221,7 @@ HOST-SUFFIX,homesexmade.com,proxy
 HOST-SUFFIX,homestylerapp.com,proxy
 HOST-SUFFIX,homestylernews.com,proxy
 HOST-SUFFIX,hometrack.com.au,proxy
+HOST-SUFFIX,hominis.media,proxy
 HOST-SUFFIX,homo.xxx,proxy
 HOST-SUFFIX,honawalaan.com,proxy
 HOST-SUFFIX,honestpornreviews.com,proxy
@@ -13173,6 +13179,8 @@ HOST-SUFFIX,jqueryui.com,proxy
 HOST-SUFFIX,jr24h.com,proxy
 HOST-SUFFIX,js.org,proxy
 HOST-SUFFIX,js.revsci.net,proxy
+HOST-SUFFIX,jsati.com,proxy
+HOST-SUFFIX,jsatmobile.com,proxy
 HOST-SUFFIX,jsbridgestone.com,proxy
 HOST-SUFFIX,jsdelivr.com,proxy
 HOST-SUFFIX,jsdelivr.net,proxy
@@ -20114,6 +20122,8 @@ HOST-SUFFIX,skype.com,proxy
 HOST-SUFFIX,skype.net,proxy
 HOST-SUFFIX,skypeassets.com,proxy
 HOST-SUFFIX,skypeassets.net,proxy
+HOST-SUFFIX,skyperfectjsat.space,proxy
+HOST-SUFFIX,skyperfectv.co.jp,proxy
 HOST-SUFFIX,skyporn.online,proxy
 HOST-SUFFIX,skysports.com,proxy
 HOST-SUFFIX,skysports.fr,proxy
@@ -20454,6 +20464,7 @@ HOST-SUFFIX,spankwire.com,proxy
 HOST-SUFFIX,sparkmailapp.com,proxy
 HOST-SUFFIX,sparknotes.com,proxy
 HOST-SUFFIX,spb.com,proxy
+HOST-SUFFIX,spcc-sp.com,proxy
 HOST-SUFFIX,speakerdeck.com,proxy
 HOST-SUFFIX,spearhead.kr,proxy
 HOST-SUFFIX,specialtyheadphones.com,proxy
@@ -20520,6 +20531,7 @@ HOST-SUFFIX,sprinklesapp.com,proxy
 HOST-SUFFIX,sprite.org,proxy
 HOST-SUFFIX,sproutcore.com,proxy
 HOST-SUFFIX,sproxy.info,proxy
+HOST-SUFFIX,sptvbroadcast.com,proxy
 HOST-SUFFIX,spyjinx.com,proxy
 HOST-SUFFIX,sqlite.org,proxy
 HOST-SUFFIX,sqlserveronlinux.com,proxy

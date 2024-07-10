@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-10 02:14:34
+# 更新时间： 2024-07-10 08:21:13
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -8,6 +8,7 @@ HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,adcdownload.apple.com,direct
 HOST,adcdownload.apple.com.akadns.net,direct
+HOST,ain.bgm.tv,direct
 HOST,aliyundrive.asia,direct
 HOST,amdc.m.taobao.com,direct
 HOST,amp-api-search-edge.apps.apple.com,direct
@@ -65,6 +66,7 @@ HOST,cdn-cn3.apple-mapkit.com,direct
 HOST,cdn-cn4.apple-mapkit.com,direct
 HOST,cdn.apple-cloudkit.com,direct
 HOST,cdn.apple-mapkit.com,direct
+HOST,cdn.jsdelivr.net,direct
 HOST,cdn.marketplaceimages.windowsphone.com,direct
 HOST,cdn1.apple-mapkit.com,direct
 HOST,cdn2.apple-mapkit.com,direct
@@ -111,6 +113,7 @@ HOST,dd-cdn.origin-apple.com.akadns.net,direct
 HOST,ddys.art,direct
 HOST,default.exp-tas.com,direct
 HOST,dejavu.apple.com,direct
+HOST,deo.shopeemobile.com,direct
 HOST,detectportal.firefox.com,direct
 HOST,developer.apple.com,direct
 HOST,developer.microsoft.com,direct
@@ -172,11 +175,16 @@ HOST,icloud-cdn.icloud.com.akadns.net,direct
 HOST,icloud.cdn-apple.com,direct
 HOST,icons.axm-usercontent-apple.com,direct
 HOST,iecvlist.microsoft.com,direct
+HOST,image.maimn.com,direct
 HOST,images.apple.com,direct
 HOST,images.apple.com.akadns.net,direct
 HOST,images.apple.com.edgekey.net.globalredir.akadns.net,direct
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,direct
 HOST,img-s-msn-com.akamaized.net,direct
+HOST,img.bfzypic.com,direct
+HOST,img.ffzypic.com,direct
+HOST,img.kuaikanzy.net,direct
+HOST,img.liangzipic.com,direct
 HOST,init-kt.apple.com,direct
 HOST,init-p01md-lb.push-apple.com.akadns.net,direct
 HOST,init-p01md.apple.com,direct
@@ -211,10 +219,13 @@ HOST,itunesconnect.apple.com,direct
 HOST,js-cdn.music.apple.com,direct
 HOST,kczybf.com,direct
 HOST,km.support.apple.com,direct
+HOST,lain.bgm.tv,direct
 HOST,livew.l.qq.com,direct
 HOST,log.mmstat.com,direct
 HOST,lookup-api.apple.com,direct
 HOST,lookup-api.apple.com.edgekey.net,direct
+HOST,m3u8.255tv.tk,direct
+HOST,m3u8.mstopq.com,direct
 HOST,maps.apple.com,direct
 HOST,mask-api.fe.apple-dns.net,direct
 HOST,mask-api.icloud.com,direct
@@ -250,6 +261,7 @@ HOST,ocsp2-lb.apple.com.akadns.net,direct
 HOST,ocsp2.apple.com,direct
 HOST,officecdn-microsoft-com.akamaized.net,direct
 HOST,officecdn.microsoft.com,direct
+HOST,ok.zuidapic.com,direct
 HOST,oneclient.sfx.ms,direct
 HOST,origin-a.akamaihd.ne,direct
 HOST,origin-a.akamaihd.net,direct
@@ -276,6 +288,7 @@ HOST,rink.hockeyapp.net,direct
 HOST,router.asus.com,direct
 HOST,s.mzstatic.com,direct
 HOST,sandbox.itunes.apple.com,direct
+HOST,sdk.alibaba.com.ailbaba.me,direct
 HOST,sdx.microsoft.com,direct
 HOST,se-edge.itunes.apple.com,direct
 HOST,se.itunes.apple.com,direct
@@ -295,6 +308,7 @@ HOST,smp-device-content.apple.com,direct
 HOST,sms.imagetasks.com,direct
 HOST,sp.itunes.apple.com,direct
 HOST,static.gc.apple.com,direct
+HOST,static.jssp.tv,direct
 HOST,statici.icloud.com,direct
 HOST,statics-marketingsites-eas-ms-com.akamaized.net,direct
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,direct
@@ -328,8 +342,11 @@ HOST,sylvan.apple.com,direct
 HOST,sync.itunes.apple.com,direct
 HOST,teams.events.data.microsoft.com,direct
 HOST,testflight.apple.com,direct
+HOST,tiao.cjkypo.com,direct
+HOST,time.apple.com,direct
 HOST,tj-pod1-smp-device.apple.com,direct
 HOST,tracking.miui.com,direct
+HOST,ts.thefilehosting.com,direct
 HOST,tv.applemusic.com,direct
 HOST,updates-http.cdn-apple.com,direct
 HOST,updates-http.cdn-apple.com.akadns.net,direct
@@ -342,6 +359,8 @@ HOST,valid.apple.com,direct
 HOST,valid.origin-apple.com.akadns.net,direct
 HOST,vd.l.qq.com,direct
 HOST,vi.l.qq.com,direct
+HOST,vip.ffzyread.com,direct
+HOST,vip.imgffzy.com,direct
 HOST,vip.lzcdn2.com,direct
 HOST,vsmarketplacebadge.apphb.com,direct
 HOST,weather-data.apple.com,direct
@@ -364,20 +383,42 @@ HOST,xb.dlservice.microsoft.com,direct
 HOST,xp.apple.com,direct
 HOST,zh188.net,direct
 HOST-KEYWORD,1drv,direct
+HOST-KEYWORD,anti-ad.net,direct
+HOST-KEYWORD,api-adservices.apple.com,direct
+HOST-KEYWORD,api.smoot.apple.cn,direct
+HOST-KEYWORD,api.smoot.apple.com,direct
 HOST-KEYWORD,apple-support.akadns.net,direct
 HOST-KEYWORD,apple.com.akadns.net,direct
 HOST-KEYWORD,apple.com.edgekey.net,direct
 HOST-KEYWORD,aw-s.tripcdn.com,direct
+HOST-KEYWORD,ax1x.com,direct
+HOST-KEYWORD,bfzycdn.com,direct
 HOST-KEYWORD,buy.itunes.apple.com,direct
+HOST-KEYWORD,ctc.qzs.qzone.qq.com,direct
+HOST-KEYWORD,ess.apple.com,direct
+HOST-KEYWORD,gsa.apple.com,direct
+HOST-KEYWORD,humb.apple.com,direct
+HOST-KEYWORD,icloud.com,direct
 HOST-KEYWORD,icloud.com.akadns.net,direct
+HOST-KEYWORD,ls.apple.com,direct
 HOST-KEYWORD,lz-cdn,direct
 HOST-KEYWORD,microsoft,direct
+HOST-KEYWORD,o.lencr.org,direct
 HOST-KEYWORD,onedrive,direct
+HOST-KEYWORD,push.apple.com,direct
 HOST-KEYWORD,skydrive,direct
 HOST-KEYWORD,smp-device,direct
+HOST-KEYWORD,ssl.apple.com,direct
 HOST-KEYWORD,testflight,direct
 HOST-KEYWORD,trip.com,direct
+HOST-KEYWORD,ttcdn-tos.kkimg.cc,direct
+HOST-KEYWORD,vip.ffzy-online,direct
+HOST-KEYWORD,vip.ffzy-play,direct
+HOST-KEYWORD,vip.kuaikan-cdn,direct
+HOST-KEYWORD,vip.lz-cdn,direct
 HOST-KEYWORD,wb_ad,direct
+HOST-KEYWORD,weather-adge.apple.com,direct
+HOST-KEYWORD,weather-edge.apple.com,direct
 HOST-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,direct
 HOST-SUFFIX,0.in-addr.arpa,direct
 HOST-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,direct
@@ -2645,6 +2686,9 @@ HOST-SUFFIX,vscode-webview.net,direct
 HOST-SUFFIX,vscode.dev,direct
 HOST-SUFFIX,wasdj.com,direct
 HOST-SUFFIX,wbd.ms,direct
+HOST-SUFFIX,weather-analytics-events.apple.com,direct
+HOST-SUFFIX,weather-data.apple.com,direct
+HOST-SUFFIX,weather-map.apple.com,direct
 HOST-SUFFIX,webkit.org,direct
 HOST-SUFFIX,webkitgtk.org,direct
 HOST-SUFFIX,webobjects.co.uk,direct
@@ -2758,6 +2802,8 @@ IP-CIDR,172.16.0.0/12,direct,no-resolve
 IP-CIDR,192.0.0.0/24,direct,no-resolve
 IP-CIDR,192.0.2.0/24,direct,no-resolve
 IP-CIDR,192.168.0.0/16,direct,no-resolve
+IP-CIDR,192.168.0.1/24,direct,no-resolve
+IP-CIDR,192.168.1.1/24,direct,no-resolve
 IP-CIDR,192.35.50.0/24,direct,no-resolve
 IP-CIDR,192.88.99.0/24,direct,no-resolve
 IP-CIDR,198.18.0.0/15,direct,no-resolve
