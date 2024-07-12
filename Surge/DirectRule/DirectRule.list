@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-12 02:14:38
+# 更新时间： 2024-07-12 08:51:44
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -9753,6 +9753,7 @@ IP-CIDR,115.104.0.0/14,no-resolve
 IP-CIDR,115.120.0.0/14,no-resolve
 IP-CIDR,115.120.0.0/17,no-resolve
 IP-CIDR,115.120.130.0/24,no-resolve
+IP-CIDR,115.120.136.0/21,no-resolve
 IP-CIDR,115.120.192.0/18,no-resolve
 IP-CIDR,115.124.16.0/20,no-resolve
 IP-CIDR,115.148.0.0/14,no-resolve
@@ -11446,6 +11447,7 @@ IP-CIDR,123.49.238.24/29,no-resolve
 IP-CIDR,123.49.238.32/28,no-resolve
 IP-CIDR,123.49.238.56/29,no-resolve
 IP-CIDR,123.49.238.64/26,no-resolve
+IP-CIDR,123.49.240.0/22,no-resolve
 IP-CIDR,123.49.241.0/24,no-resolve
 IP-CIDR,123.49.243.113/32,no-resolve
 IP-CIDR,123.49.245.0/24,no-resolve
@@ -16663,6 +16665,7 @@ IP-CIDR,219.230.0.0/15,no-resolve
 IP-CIDR,219.232.0.0/14,no-resolve
 IP-CIDR,219.232.0.0/15,no-resolve
 IP-CIDR,219.232.0.0/17,no-resolve
+IP-CIDR,219.232.128.0/20,no-resolve
 IP-CIDR,219.232.160.0/19,no-resolve
 IP-CIDR,219.232.192.0/19,no-resolve
 IP-CIDR,219.233.0.0/16,no-resolve
