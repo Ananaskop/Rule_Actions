@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-17 14:15:52
+# 更新时间： 2024-07-17 20:20:49
 HOST,1010pic.com,reject
 HOST,8le8le.com,reject
 HOST,a.cpic.com.cn,reject
@@ -120,6 +120,7 @@ HOST,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn,reject
 HOST,adxserver.ad.cmvideo.cn,reject
 HOST,afd.baidu.com,reject
 HOST,afdconf.baidu.com,reject
+HOST,affcpatrk.com,reject
 HOST,afs.googlesyndication.com,reject
 HOST,aiseet.aa.atianqi.com,reject
 HOST,ali-ad.a.yximgs.com,reject

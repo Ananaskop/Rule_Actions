@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-17 14:16:00
+# 更新时间： 2024-07-17 20:20:56
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,8le8le.com
@@ -121,6 +121,7 @@ payload:
   - DOMAIN,adxserver.ad.cmvideo.cn
   - DOMAIN,afd.baidu.com
   - DOMAIN,afdconf.baidu.com
+  - DOMAIN,affcpatrk.com
   - DOMAIN,afs.googlesyndication.com
   - DOMAIN,aiseet.aa.atianqi.com
   - DOMAIN,ali-ad.a.yximgs.com
