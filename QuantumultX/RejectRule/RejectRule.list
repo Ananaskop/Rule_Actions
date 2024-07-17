@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-17 09:44:04
+# 更新时间： 2024-07-17 14:15:52
 HOST,1010pic.com,reject
 HOST,8le8le.com,reject
 HOST,a.cpic.com.cn,reject
@@ -547,6 +547,7 @@ HOST,scdown.qq.com,reject
 HOST,scs.openspeech.cn,reject
 HOST,sdk-ab-config.qquanquan.com,reject
 HOST,sdk-cache.video.ptqy.gitv.tv,reject
+HOST,sdk.1rtb.net,reject
 HOST,sdk.beizi.biz,reject
 HOST,sdk.cferw.com,reject
 HOST,sdk.e.qq.com,reject
