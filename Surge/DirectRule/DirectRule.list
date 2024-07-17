@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-17 02:14:45
+# 更新时间： 2024-07-17 08:52:59
 DOMAIN,analytics.strava.com
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
@@ -11431,6 +11431,7 @@ IP-CIDR,116.196.128.0/18,no-resolve
 IP-CIDR,116.196.128.0/19,no-resolve
 IP-CIDR,116.196.16.0/20,no-resolve
 IP-CIDR,116.196.192.0/18,no-resolve
+IP-CIDR,116.196.192.0/20,no-resolve
 IP-CIDR,116.196.192.0/21,no-resolve
 IP-CIDR,116.196.201.0/24,no-resolve
 IP-CIDR,116.196.203.0/24,no-resolve
@@ -13266,9 +13267,9 @@ IP-CIDR,124.70.0.0/15,no-resolve
 IP-CIDR,124.70.0.0/16,no-resolve
 IP-CIDR,124.71.0.0/17,no-resolve
 IP-CIDR,124.71.128.0/18,no-resolve
+IP-CIDR,124.71.192.0/18,no-resolve
 IP-CIDR,124.71.192.0/19,no-resolve
 IP-CIDR,124.71.224.0/20,no-resolve
-IP-CIDR,124.71.240.0/20,no-resolve
 IP-CIDR,124.71.240.0/21,no-resolve
 IP-CIDR,124.71.250.0/24,no-resolve
 IP-CIDR,124.71.252.0/22,no-resolve
@@ -13880,6 +13881,7 @@ IP-CIDR,154.223.178.0/23,no-resolve
 IP-CIDR,154.223.180.0/24,no-resolve
 IP-CIDR,154.223.182.0/24,no-resolve
 IP-CIDR,154.223.188.0/23,no-resolve
+IP-CIDR,154.30.140.0/23,no-resolve
 IP-CIDR,154.36.92.0/23,no-resolve
 IP-CIDR,154.38.104.0/22,no-resolve
 IP-CIDR,154.48.224.0/24,no-resolve
@@ -18233,6 +18235,9 @@ IP-CIDR,219.232.0.0/14,no-resolve
 IP-CIDR,219.232.0.0/15,no-resolve
 IP-CIDR,219.232.0.0/17,no-resolve
 IP-CIDR,219.232.128.0/21,no-resolve
+IP-CIDR,219.232.136.0/22,no-resolve
+IP-CIDR,219.232.140.0/23,no-resolve
+IP-CIDR,219.232.142.0/24,no-resolve
 IP-CIDR,219.232.160.0/19,no-resolve
 IP-CIDR,219.232.192.0/19,no-resolve
 IP-CIDR,219.233.0.0/16,no-resolve
