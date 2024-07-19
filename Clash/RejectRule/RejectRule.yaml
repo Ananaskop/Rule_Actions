@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-19 02:15:21
+# 更新时间： 2024-07-19 10:28:09
 payload:
   - DOMAIN,1010pic.com
   - DOMAIN,8le8le.com
@@ -292,6 +292,7 @@ payload:
   - DOMAIN,googleadservices.com
   - DOMAIN,googletagservices-cn.com
   - DOMAIN,googletagservices.com
+  - DOMAIN,gorgon.youdao.com
   - DOMAIN,gromore.pangolin-sdk-toutiao.com
   - DOMAIN,grs.dbankcloud.com
   - DOMAIN,grs.hicloud.com

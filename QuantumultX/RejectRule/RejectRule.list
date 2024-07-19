@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-19 02:15:14
+# 更新时间： 2024-07-19 10:28:03
 HOST,1010pic.com,reject
 HOST,8le8le.com,reject
 HOST,a.cpic.com.cn,reject
@@ -291,6 +291,7 @@ HOST,googleadservices-cn.com,reject
 HOST,googleadservices.com,reject
 HOST,googletagservices-cn.com,reject
 HOST,googletagservices.com,reject
+HOST,gorgon.youdao.com,reject
 HOST,gromore.pangolin-sdk-toutiao.com,reject
 HOST,grs.dbankcloud.com,reject
 HOST,grs.hicloud.com,reject
