@@ -1,10 +1,11 @@
-# 更新时间： 2024-07-19 14:19:05
+# 更新时间： 2024-07-19 20:19:59
 HOST,1010pic.com,reject
 HOST,8le8le.com,reject
 HOST,a.cpic.com.cn,reject
 HOST,a0.app.xiaomi.com,reject
 HOST,aaid.umeng.com,reject
 HOST,aaid.uyunad.com,reject
+HOST,abyss.cyapi.cn,reject
 HOST,acdn.adnxs.com,reject
 HOST,acs4baichuan.m.taobao.com,reject
 HOST,ad-cache.dopool.com,reject
@@ -269,6 +270,7 @@ HOST,encounter.bz.mgtv.com,reject
 HOST,entry.baidu.com,reject
 HOST,errlog.umeng.com,reject
 HOST,errnewlog.umeng.com,reject
+HOST,et.tanx.com,reject
 HOST,event.tradplusad.com,reject
 HOST,events-drcn.op.dbankcloud.cn,reject
 HOST,firebaselogging-pa.googleapis.com,reject
@@ -437,6 +439,7 @@ HOST,mbdlog.iqiyi.com,reject
 HOST,mc.atm.youku.com,reject
 HOST,md-i-s.apptimize.com,reject
 HOST,mediation.adnxs.com,reject
+HOST,mercury-gateway.ixiaochuan.cn,reject
 HOST,metok.sys.miui.com,reject
 HOST,metrics-picture.d.meituan.net,reject
 HOST,metrics.apple.com,reject
@@ -1416,6 +1419,7 @@ HOST-SUFFIX,tz.sec.xiaomi.com,reject
 HOST-SUFFIX,u3.ucweb.com,reject
 HOST-SUFFIX,uapi.ads.heytapmobi.com,reject
 HOST-SUFFIX,uapi.chiq-cloud.com,reject
+HOST-SUFFIX,ubixioe.com,reject
 HOST-SUFFIX,ucstat.baidu.com,reject
 HOST-SUFFIX,ulog-sdk.gifshow.com,reject
 HOST-SUFFIX,ulogjs.gifshow.com,reject
@@ -1508,6 +1512,7 @@ HOST-SUFFIX,zeus.ad.xiaomi.com,reject
 HOST-SUFFIX,zhaozecheng.cn,reject
 HOST-SUFFIX,zhenxinet.com,reject
 HOST-SUFFIX,zhzzx.com,reject
+HOST-SUFFIX,zijieapi.com,reject
 HOST-SUFFIX,zlne800.com,reject
 HOST-SUFFIX,zmlled.cn,reject
 HOST-SUFFIX,zryydi.com,reject

@@ -1,10 +1,11 @@
-# 更新时间： 2024-07-19 14:19:19
+# 更新时间： 2024-07-19 20:20:13
 DOMAIN,1010pic.com
 DOMAIN,8le8le.com
 DOMAIN,a.cpic.com.cn
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
 DOMAIN,aaid.uyunad.com
+DOMAIN,abyss.cyapi.cn
 DOMAIN,acdn.adnxs.com
 DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,ad-cache.dopool.com
@@ -269,6 +270,7 @@ DOMAIN,encounter.bz.mgtv.com
 DOMAIN,entry.baidu.com
 DOMAIN,errlog.umeng.com
 DOMAIN,errnewlog.umeng.com
+DOMAIN,et.tanx.com
 DOMAIN,event.tradplusad.com
 DOMAIN,events-drcn.op.dbankcloud.cn
 DOMAIN,firebaselogging-pa.googleapis.com
@@ -437,6 +439,7 @@ DOMAIN,mbdlog.iqiyi.com
 DOMAIN,mc.atm.youku.com
 DOMAIN,md-i-s.apptimize.com
 DOMAIN,mediation.adnxs.com
+DOMAIN,mercury-gateway.ixiaochuan.cn
 DOMAIN,metok.sys.miui.com
 DOMAIN,metrics-picture.d.meituan.net
 DOMAIN,metrics.apple.com
@@ -1416,6 +1419,7 @@ DOMAIN-SUFFIX,tz.sec.xiaomi.com
 DOMAIN-SUFFIX,u3.ucweb.com
 DOMAIN-SUFFIX,uapi.ads.heytapmobi.com
 DOMAIN-SUFFIX,uapi.chiq-cloud.com
+DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,ucstat.baidu.com
 DOMAIN-SUFFIX,ulog-sdk.gifshow.com
 DOMAIN-SUFFIX,ulogjs.gifshow.com
@@ -1508,6 +1512,7 @@ DOMAIN-SUFFIX,zeus.ad.xiaomi.com
 DOMAIN-SUFFIX,zhaozecheng.cn
 DOMAIN-SUFFIX,zhenxinet.com
 DOMAIN-SUFFIX,zhzzx.com
+DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zlne800.com
 DOMAIN-SUFFIX,zmlled.cn
 DOMAIN-SUFFIX,zryydi.com
