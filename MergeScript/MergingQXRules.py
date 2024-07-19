@@ -122,7 +122,7 @@ def merge_and_deduplicate_files(path):
                         line = apply_replacements(line)  # 应用替换规则
                         #if re.match(r'^IP', line):
                         #    line += ',no-resolve'
-                        #modified_lines.append(line)  # 将修改后的行添加到新的列表
+                        modified_lines.append(line)  # 将修改后的行添加到新的列表
                     
                     data_set.update(modified_lines)
         data_list = sorted(data_set)
