@@ -35,7 +35,6 @@ RULES = {
     "GlobalRule": {
         "Global": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list",
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/ProxyRule.list",
-        "AppleProxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleProxy/AppleProxy.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list",
         "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/MediaRule.list",
     },
