@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-23 02:14:35
+# 更新时间： 2024-07-23 07:09:58
 HOST,a1.mzstatic.com,direct
 HOST,a2.mzstatic.com,direct
 HOST,a3.mzstatic.com,direct
@@ -22132,6 +22132,7 @@ IP-CIDR,60.232.164.0/24,direct,no-resolve
 IP-CIDR,60.232.176.0/23,direct,no-resolve
 IP-CIDR,60.232.178.0/24,direct,no-resolve
 IP-CIDR,60.232.224.0/24,direct,no-resolve
+IP-CIDR,60.232.244.0/24,direct,no-resolve
 IP-CIDR,60.232.246.0/23,direct,no-resolve
 IP-CIDR,60.232.252.0/24,direct,no-resolve
 IP-CIDR,60.232.254.0/24,direct,no-resolve

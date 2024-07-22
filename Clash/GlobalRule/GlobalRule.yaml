@@ -1,10 +1,9 @@
-# 更新时间： 2024-07-23 02:14:42
+# 更新时间： 2024-07-23 07:10:05
 payload:
   - DOMAIN,adobeereg.com
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,angle.com.tw
   - DOMAIN,anime-rule34-world.b-cdn.net
-  - DOMAIN,api-glb-sea.smoot.apple.com
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,api.mojang.com
   - DOMAIN,api.okzy.tv
@@ -28,13 +27,11 @@ payload:
   - DOMAIN,beck-online.beck.de
   - DOMAIN,bfvvs.com
   - DOMAIN,blizzard.nefficient.co.kr
-  - DOMAIN,books.itunes.apple.com
   - DOMAIN,bybit.ada.support
   - DOMAIN,cbsi.live.ott.irdeto.com
   - DOMAIN,cbsplaylistserver.aws.syncbak.com
   - DOMAIN,cbsservice.aws.syncbak.com
   - DOMAIN,cdn-spotify-experiments.conductrics.com
-  - DOMAIN,cdn.apple-cloudkit.com
   - DOMAIN,cdn.ceres9350.com
   - DOMAIN,cdn.efhie.com
   - DOMAIN,cdn.js7k.com
@@ -49,7 +46,6 @@ payload:
   - DOMAIN,crl.pki.goog
   - DOMAIN,crl.versign.net
   - DOMAIN,cs428.wpc.edgecastcdn.net
-  - DOMAIN,cvws.icloud-content.com
   - DOMAIN,dashasiafox.akamaized.netflix
   - DOMAIN,databank.worldbank.org
   - DOMAIN,daznfeeds.com.edgekey.net
@@ -57,13 +53,9 @@ payload:
   - DOMAIN,default.exp-tas.com
   - DOMAIN,deribit.cdn.prismic.io
   - DOMAIN,deutschewelle.h-cdn.com
-  - DOMAIN,developer.apple.com
   - DOMAIN,developer.microsoft.com
-  - DOMAIN,devimages-cdn.apple.com
-  - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,discord.com
   - DOMAIN,dl.begellhouse.com
-  - DOMAIN,docs-assets.developer.apple.com
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN,ea.tt.omtrdc.net
@@ -81,16 +73,13 @@ payload:
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,haiwaikan.com
   - DOMAIN,hamifans.emome.net
-  - DOMAIN,hls-svod.itunes.apple.com
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,hulu.com.c.footprint.net
   - DOMAIN,hulu.map.fastly.net
   - DOMAIN,i.jeded.com
   - DOMAIN,images-daznservices-com.cdn.ampproject.org
   - DOMAIN,imperial.insendi.com
-  - DOMAIN,itunes.apple.com
   - DOMAIN,itvpnpmobile-a.akamaihd.net
-  - DOMAIN,js-cdn.music.apple.com
   - DOMAIN,ktpx.amazon.com
   - DOMAIN,lens.l.google.com
   - DOMAIN,lgelectronics.122.2o7.net
@@ -98,22 +87,16 @@ payload:
   - DOMAIN,live-patreon-marketing.pantheonsite.io
   - DOMAIN,location.microsoft.com
   - DOMAIN,login.microsoftonline.com
-  - DOMAIN,lookup-api.apple.com
-  - DOMAIN,mask-api.icloud.com
-  - DOMAIN,mask-h2.icloud.com
-  - DOMAIN,mask.icloud.com
   - DOMAIN,mdn.mozillademos.org
   - DOMAIN,medone-education.thieme.com
   - DOMAIN,mscrl.microsoft.com
   - DOMAIN,mtalk.google.com
   - DOMAIN,muse.jhu.edu
   - DOMAIN,nationalaustraliaban.tt.omtrdc.net
-  - DOMAIN,news-assets.apple.com
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
   - DOMAIN,notion-api.splitbee.io
-  - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,nvidia.tt.omtrdc.net
   - DOMAIN,ocsp.microsoft.com
   - DOMAIN,ocsp.pki.goog
@@ -122,7 +105,6 @@ payload:
   - DOMAIN,olevod.com
   - DOMAIN,oneocsp.microsoft.com
   - DOMAIN,ood.opsource.net
-  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,practivate.adobe
   - DOMAIN,practivate.adobe.ipp
   - DOMAIN,practivate.adobe.newoa
@@ -136,7 +118,6 @@ payload:
   - DOMAIN,rthklive2-lh.akamaihd.net
   - DOMAIN,safebrowsing-cache.google.com
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN,sandbox.itunes.apple.com
   - DOMAIN,self.events.data.microsoft.com
   - DOMAIN,steambroadcast.akamaized.net
   - DOMAIN,steamcdn-a.akamaihd.net
@@ -147,14 +128,11 @@ payload:
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,tesla-cdn.thron.com
-  - DOMAIN,testflight.apple.com
   - DOMAIN,themoviedb.org
   - DOMAIN,thetvdb.com
   - DOMAIN,tmdb.org
   - DOMAIN,translate.googleapis.com
   - DOMAIN,translomatic.foxfortmobile.com
-  - DOMAIN,tv.applemusic.com
-  - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,v1.mk
   - DOMAIN,vmware.tt.omtrdc.net
   - DOMAIN,voice.telephony.goog
@@ -2200,7 +2178,6 @@ payload:
   - DOMAIN-SUFFIX,applw.com
   - DOMAIN-SUFFIX,appmediagroup.com
   - DOMAIN-SUFFIX,approvedusedbmw.com
-  - DOMAIN-SUFFIX,apps.apple.com
   - DOMAIN-SUFFIX,apps5.oingo.com
   - DOMAIN-SUFFIX,appsflayer.com
   - DOMAIN-SUFFIX,appshopper.com
@@ -2459,7 +2436,6 @@ payload:
   - DOMAIN-SUFFIX,audible.com
   - DOMAIN-SUFFIX,audiencenetwork.com
   - DOMAIN-SUFFIX,audiencenetwork.tv
-  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
   - DOMAIN-SUFFIX,audiobeatsau.com
   - DOMAIN-SUFFIX,audiobeatsbydre.com
   - DOMAIN-SUFFIX,audiomonsterbeatsonline.com
@@ -3686,7 +3662,6 @@ payload:
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,blizzardgearstore.com
   - DOMAIN-SUFFIX,blob.core.windows.net
-  - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,blockcast.it
   - DOMAIN-SUFFIX,blockcn.com
   - DOMAIN-SUFFIX,blockedbyhk.com
@@ -5030,7 +5005,6 @@ payload:
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,cdmatech.com
   - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cdn-terapeak.com
@@ -10931,8 +10905,6 @@ payload:
   - DOMAIN-SUFFIX,hkwcc.org.hk
   - DOMAIN-SUFFIX,hkzone.org
   - DOMAIN-SUFFIX,hlbelygl.com
-  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com
-  - DOMAIN-SUFFIX,hls.itunes.apple.com
   - DOMAIN-SUFFIX,hlsp1.pw
   - DOMAIN-SUFFIX,hm.com
   - DOMAIN-SUFFIX,hmd.site
@@ -16613,7 +16585,6 @@ payload:
   - DOMAIN-SUFFIX,ocry.com
   - DOMAIN-SUFFIX,ocsp-certum.com
   - DOMAIN-SUFFIX,ocsp-responder.com
-  - DOMAIN-SUFFIX,ocsp.apple.com
   - DOMAIN-SUFFIX,october-review.org
   - DOMAIN-SUFFIX,ocul.us
   - DOMAIN-SUFFIX,oculus-china.com

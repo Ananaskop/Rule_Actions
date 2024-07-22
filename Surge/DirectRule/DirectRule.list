@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-23 02:14:49
+# 更新时间： 2024-07-23 07:10:12
 DOMAIN,analytics.strava.com
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,apple-events.akamaized.net
@@ -21865,6 +21865,7 @@ IP-CIDR,60.232.164.0/24,no-resolve
 IP-CIDR,60.232.176.0/23,no-resolve
 IP-CIDR,60.232.178.0/24,no-resolve
 IP-CIDR,60.232.224.0/24,no-resolve
+IP-CIDR,60.232.244.0/24,no-resolve
 IP-CIDR,60.232.246.0/23,no-resolve
 IP-CIDR,60.232.252.0/24,no-resolve
 IP-CIDR,60.232.254.0/24,no-resolve
