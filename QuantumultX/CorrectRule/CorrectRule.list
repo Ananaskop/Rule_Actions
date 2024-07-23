@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-23 15:16:37
+# 更新时间： 2024-07-23 17:23:57
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -82,6 +82,7 @@ HOST,www.4khdr.cn,direct
 HOST,www.asusrouter.com,direct
 HOST,www.m3u8.tv.jiexi.8old.cn,direct
 HOST,zh188.net,direct
+HOST-KEYWORD,1drv,direct
 HOST-KEYWORD,anti-ad.net,direct
 HOST-KEYWORD,api-adservices.apple.com,direct
 HOST-KEYWORD,api.smoot.apple.cn,direct
@@ -98,7 +99,9 @@ HOST-KEYWORD,icloud.com,direct
 HOST-KEYWORD,ls.apple.com,direct
 HOST-KEYWORD,lz-cdn,direct
 HOST-KEYWORD,o.lencr.org,direct
+HOST-KEYWORD,onedrive,direct
 HOST-KEYWORD,push.apple.com,direct
+HOST-KEYWORD,skydrive,direct
 HOST-KEYWORD,ssl.apple.com,direct
 HOST-KEYWORD,trip.com,direct
 HOST-KEYWORD,ttcdn-tos.kkimg.cc,direct
@@ -149,6 +152,7 @@ HOST-SUFFIX,168.192.in-addr.arpa,direct
 HOST-SUFFIX,17.172.in-addr.arpa,direct
 HOST-SUFFIX,18.172.in-addr.arpa,direct
 HOST-SUFFIX,19.172.in-addr.arpa,direct
+HOST-SUFFIX,1drv.com,direct
 HOST-SUFFIX,1password.com,direct
 HOST-SUFFIX,1passwordservices.com,direct
 HOST-SUFFIX,2.0.192.in-addr.arpa,direct
@@ -229,6 +233,7 @@ HOST-SUFFIX,koodomobile.ca,direct
 HOST-SUFFIX,koodomobile.com,direct
 HOST-SUFFIX,leike.cc,direct
 HOST-SUFFIX,likesto.me,direct
+HOST-SUFFIX,livefilestore.com,direct
 HOST-SUFFIX,localhost.ptlogin2.qq.com,direct
 HOST-SUFFIX,localhost.sec.qq.com,direct
 HOST-SUFFIX,location.services.mozilla.com,direct
@@ -237,14 +242,24 @@ HOST-SUFFIX,msftncsi.com,direct
 HOST-SUFFIX,my.router,direct
 HOST-SUFFIX,networkcheck.kde.org,direct
 HOST-SUFFIX,ol.epicgames.com,direct
+HOST-SUFFIX,oneclient.sfx.ms,direct
+HOST-SUFFIX,onedrive.com,direct
+HOST-SUFFIX,onedrive.live.com,direct
 HOST-SUFFIX,p.to,direct
 HOST-SUFFIX,peiluyou.com,direct
 HOST-SUFFIX,phicomm.me,direct
+HOST-SUFFIX,photos.live.com,direct
 HOST-SUFFIX,plex.direct,direct
 HOST-SUFFIX,router.ctc,direct
 HOST-SUFFIX,routerlogin.com,direct
+HOST-SUFFIX,sharepoint.com,direct
+HOST-SUFFIX,sharepointonline.com,direct
+HOST-SUFFIX,skydrive.wns.windows.com,direct
 HOST-SUFFIX,snapdrop.net,direct
+HOST-SUFFIX,spoprod-a.akamaihd.net,direct
 HOST-SUFFIX,staticfile.org,direct
+HOST-SUFFIX,storage.live.com,direct
+HOST-SUFFIX,storage.msn.com,direct
 HOST-SUFFIX,tendawifi.com,direct
 HOST-SUFFIX,test.steampowered.com,direct
 HOST-SUFFIX,tplinkwifi.net,direct
@@ -294,6 +309,8 @@ IP6-CIDR,::/127,direct,no-resolve
 IP6-CIDR,fc00::/7,direct,no-resolve
 IP6-CIDR,fe80::/10,direct,no-resolve
 IP6-CIDR,ff00::/8,direct,no-resolve
+USER-AGENT,OneDrive*,direct
+USER-AGENT,OneDriveiOSApp*,direct
 USER-AGENT,archero*,direct
 USER-AGENT,coffee%20corp*,direct
 USER-AGENT,coffeecorp*,direct
