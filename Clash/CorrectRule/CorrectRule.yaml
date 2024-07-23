@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-23 14:55:00
+# 更新时间： 2024-07-23 15:16:43
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -26,6 +26,7 @@ payload:
   - DOMAIN,detectportal.firefox.com
   - DOMAIN,dig.bdurl.net
   - DOMAIN,download.jetbrains.com
+  - DOMAIN,download.microsoft.com
   - DOMAIN,eco-push-api-client.meiqia.com
   - DOMAIN,errlog.umeng.com
   - DOMAIN,fairplay.l.qq.com
@@ -50,15 +51,19 @@ payload:
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,new-api.meiqia.com
+  - DOMAIN,ntservicepack.microsoft.com
   - DOMAIN,ok.zuidapic.com
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,outlook.office365.com
   - DOMAIN,rewards.hypixel.net
   - DOMAIN,router.asus.com
   - DOMAIN,sdk.alibaba.com.ailbaba.me
   - DOMAIN,setmeup.arubanetworks.com
   - DOMAIN,smp-device-content.apple.com
   - DOMAIN,sms.imagetasks.com
+  - DOMAIN,smtp-mail.outlook.com
+  - DOMAIN,smtp.office365.com
   - DOMAIN,static.jssp.tv
   - DOMAIN,staticsns.cdn.bcebos.com
   - DOMAIN,sycm.mmstat.com
@@ -73,6 +78,7 @@ payload:
   - DOMAIN,vip.ffzyread.com
   - DOMAIN,vip.imgffzy.com
   - DOMAIN,vip.lzcdn2.com
+  - DOMAIN,wustat.windows.com
   - DOMAIN,www.4khdr.cn
   - DOMAIN,www.asusrouter.com
   - DOMAIN,www.m3u8.tv.jiexi.8old.cn
@@ -212,6 +218,7 @@ payload:
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,d.f.ip6.arpa
   - DOMAIN-SUFFIX,dizhensubao.getui.com
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,f.video.weibocdn.com
   - DOMAIN-SUFFIX,flyert.com
   - DOMAIN-SUFFIX,fus.cdn.krcom.cn
@@ -246,10 +253,13 @@ payload:
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-SUFFIX,ts.net
   - DOMAIN-SUFFIX,upaiyun.com
+  - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   - DOMAIN-SUFFIX,weather-data.apple.com
   - DOMAIN-SUFFIX,weather-map.apple.com
   - DOMAIN-SUFFIX,wifi.cmcc
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,yonghuivip.com
   - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,zoho.com.au

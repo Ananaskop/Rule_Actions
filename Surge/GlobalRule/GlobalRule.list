@@ -1,7 +1,9 @@
-# 更新时间： 2024-07-23 14:55:06
+# 更新时间： 2024-07-23 15:16:49
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
+DOMAIN,api.imem.app
 DOMAIN,api.mojang.com
 DOMAIN,api.okzy.tv
+DOMAIN,api.swiftgram.app
 DOMAIN,api.waqi.info
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
@@ -104,6 +106,7 @@ DOMAIN-KEYWORD,japronx
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,nivod
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,olevod
@@ -1204,6 +1207,7 @@ DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,cdn.optimizely.com
@@ -1500,6 +1504,7 @@ DOMAIN-SUFFIX,constitutionalism.solutions
 DOMAIN-SUFFIX,contactmagazine.net
 DOMAIN-SUFFIX,content.jwplatform.com
 DOMAIN-SUFFIX,content.office.net
+DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,control.kochava.com
 DOMAIN-SUFFIX,convio.net
 DOMAIN-SUFFIX,conviva.com
@@ -4558,6 +4563,7 @@ DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,lefora.com
 DOMAIN-SUFFIX,left21.hk
+DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,legsjapan.com
 DOMAIN-SUFFIX,leirentv.ca
 DOMAIN-SUFFIX,leisurecafe.ca
@@ -4795,6 +4801,7 @@ DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,maxing.jp
 DOMAIN-SUFFIX,mayimayi.com
+DOMAIN-SUFFIX,mbrx.app
 DOMAIN-SUFFIX,mcadforums.com
 DOMAIN-SUFFIX,mcaf.ee
 DOMAIN-SUFFIX,mcfog.com
@@ -6656,6 +6663,7 @@ DOMAIN-SUFFIX,steel-storm.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steganos.com
 DOMAIN-SUFFIX,steganos.net
+DOMAIN-SUFFIX,stel.com
 DOMAIN-SUFFIX,stepchina.com
 DOMAIN-SUFFIX,stephaniered.com
 DOMAIN-SUFFIX,stgloballink.com
@@ -6854,7 +6862,14 @@ DOMAIN-SUFFIX,teeniefuck.net
 DOMAIN-SUFFIX,teensinasia.com
 DOMAIN-SUFFIX,tehrantimes.com
 DOMAIN-SUFFIX,telecomspace.com
+DOMAIN-SUFFIX,telega.one
 DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telemundo.com
 DOMAIN-SUFFIX,telesco.pe
@@ -6873,6 +6888,7 @@ DOMAIN-SUFFIX,textnow.com
 DOMAIN-SUFFIX,textnow.me
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,tfiflve.com
+DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,th.hao123.com
 DOMAIN-SUFFIX,thaicn.com
 DOMAIN-SUFFIX,thb.gov.tw
@@ -7427,6 +7443,7 @@ DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,usembassy.gov
 DOMAIN-SUFFIX,useplannr.com
 DOMAIN-SUFFIX,userapi.nytlog.com
+DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,usfk.mil
 DOMAIN-SUFFIX,usgs.gov
@@ -8401,7 +8418,12 @@ DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
+IP-ASN,211157,no-resolve
 IP-ASN,32934,no-resolve
+IP-ASN,44907,no-resolve
+IP-ASN,59930,no-resolve
+IP-ASN,62014,no-resolve
+IP-ASN,62041,no-resolve
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,1.37.35.6/32,no-resolve
 IP-CIDR,101.100.179.242/32,no-resolve
@@ -9036,6 +9058,7 @@ IP-CIDR,45.57.0.0/17,no-resolve
 IP-CIDR,45.64.40.0/22,no-resolve
 IP-CIDR,49.231.114.6/32,no-resolve
 IP-CIDR,49.231.121.6/32,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,50.125.239.30/32,no-resolve
 IP-CIDR,50.125.68.250/32,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
@@ -9435,6 +9458,7 @@ IP-CIDR,96.23.20.78/32,no-resolve
 IP-CIDR,96.4.63.99/32,no-resolve
 IP-CIDR,99.81.97.56/32,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2607:fb10::/32,no-resolve
@@ -9443,6 +9467,7 @@ IP-CIDR6,2620:10c:7000::/44,no-resolve
 IP-CIDR6,2620:120:e000::/40,no-resolve
 IP-CIDR6,2a00:86c0::/32,no-resolve
 IP-CIDR6,2a03:5640::/32,no-resolve
+IP-CIDR6,2a0a:f280::/29,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone

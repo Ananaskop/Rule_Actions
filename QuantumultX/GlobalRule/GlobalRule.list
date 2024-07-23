@@ -1,8 +1,10 @@
-# 更新时间： 2024-07-23 14:54:54
+# 更新时间： 2024-07-23 15:16:37
 HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,proxy
+HOST,api.imem.app,proxy
 HOST,api.mojang.com,proxy
 HOST,api.msn.com,proxy
 HOST,api.okzy.tv,proxy
+HOST,api.swiftgram.app,proxy
 HOST,api.waqi.info,proxy
 HOST,apm-misaka.biliapi.net,proxy
 HOST,apple.comscoreresearch.com,proxy
@@ -109,6 +111,7 @@ HOST-KEYWORD,japronx,proxy
 HOST-KEYWORD,jooxweb-api,proxy
 HOST-KEYWORD,musical.ly,proxy
 HOST-KEYWORD,netflixdnstest,proxy
+HOST-KEYWORD,nicegram,proxy
 HOST-KEYWORD,nivod,proxy
 HOST-KEYWORD,nowtv100,proxy
 HOST-KEYWORD,olevod,proxy
@@ -1524,6 +1527,7 @@ HOST-SUFFIX,constitutionalism.solutions,proxy
 HOST-SUFFIX,contactmagazine.net,proxy
 HOST-SUFFIX,content.jwplatform.com,proxy
 HOST-SUFFIX,content.office.net,proxy
+HOST-SUFFIX,contest.com,proxy
 HOST-SUFFIX,control.kochava.com,proxy
 HOST-SUFFIX,convio.net,proxy
 HOST-SUFFIX,conviva.com,proxy
@@ -4628,6 +4632,7 @@ HOST-SUFFIX,leetcode.com,proxy
 HOST-SUFFIX,lefora.com,proxy
 HOST-SUFFIX,left21.hk,proxy
 HOST-SUFFIX,legalporno.com,proxy
+HOST-SUFFIX,legra.ph,proxy
 HOST-SUFFIX,legsjapan.com,proxy
 HOST-SUFFIX,leirentv.ca,proxy
 HOST-SUFFIX,leisurecafe.ca,proxy
@@ -4868,6 +4873,7 @@ HOST-SUFFIX,max.com,proxy
 HOST-SUFFIX,maxgo.com,proxy
 HOST-SUFFIX,maxing.jp,proxy
 HOST-SUFFIX,mayimayi.com,proxy
+HOST-SUFFIX,mbrx.app,proxy
 HOST-SUFFIX,mcadforums.com,proxy
 HOST-SUFFIX,mcaf.ee,proxy
 HOST-SUFFIX,mcfog.com,proxy
@@ -6758,6 +6764,7 @@ HOST-SUFFIX,steel-storm.com,proxy
 HOST-SUFFIX,steemit.com,proxy
 HOST-SUFFIX,steganos.com,proxy
 HOST-SUFFIX,steganos.net,proxy
+HOST-SUFFIX,stel.com,proxy
 HOST-SUFFIX,stepchina.com,proxy
 HOST-SUFFIX,stephaniered.com,proxy
 HOST-SUFFIX,stgloballink.com,proxy
@@ -6959,6 +6966,7 @@ HOST-SUFFIX,teeniefuck.net,proxy
 HOST-SUFFIX,teensinasia.com,proxy
 HOST-SUFFIX,tehrantimes.com,proxy
 HOST-SUFFIX,telecomspace.com,proxy
+HOST-SUFFIX,telega.one,proxy
 HOST-SUFFIX,telegra.ph,proxy
 HOST-SUFFIX,telegram-cdn.org,proxy
 HOST-SUFFIX,telegram.dog,proxy
@@ -6984,6 +6992,7 @@ HOST-SUFFIX,textnow.com,proxy
 HOST-SUFFIX,textnow.me,proxy
 HOST-SUFFIX,tfhub.dev,proxy
 HOST-SUFFIX,tfiflve.com,proxy
+HOST-SUFFIX,tg.dev,proxy
 HOST-SUFFIX,th.hao123.com,proxy
 HOST-SUFFIX,thaicn.com,proxy
 HOST-SUFFIX,thb.gov.tw,proxy
@@ -7554,6 +7563,7 @@ HOST-SUFFIX,uscnpm.org,proxy
 HOST-SUFFIX,usembassy.gov,proxy
 HOST-SUFFIX,useplannr.com,proxy
 HOST-SUFFIX,userapi.nytlog.com,proxy
+HOST-SUFFIX,usercontent.dev,proxy
 HOST-SUFFIX,usertrust.com,proxy
 HOST-SUFFIX,usfk.mil,proxy
 HOST-SUFFIX,usgs.gov,proxy
@@ -8548,7 +8558,12 @@ HOST-WILDCARD,youtube.com.*,proxy
 HOST-WILDCARD,youtubego.*,proxy
 HOST-WILDCARD,youtubego.co.*,proxy
 HOST-WILDCARD,youtubego.com.*,proxy
+IP-ASN,211157,proxy,no-resolve
 IP-ASN,32934,proxy,no-resolve
+IP-ASN,44907,proxy,no-resolve
+IP-ASN,59930,proxy,no-resolve
+IP-ASN,62014,proxy,no-resolve
+IP-ASN,62041,proxy,no-resolve
 IP-CIDR,1.201.0.0/24,proxy,no-resolve
 IP-CIDR,1.37.35.6/32,proxy,no-resolve
 IP-CIDR,101.100.179.242/32,proxy,no-resolve
@@ -9183,6 +9198,7 @@ IP-CIDR,45.57.0.0/17,proxy,no-resolve
 IP-CIDR,45.64.40.0/22,proxy,no-resolve
 IP-CIDR,49.231.114.6/32,proxy,no-resolve
 IP-CIDR,49.231.121.6/32,proxy,no-resolve
+IP-CIDR,5.28.192.0/18,proxy,no-resolve
 IP-CIDR,50.125.239.30/32,proxy,no-resolve
 IP-CIDR,50.125.68.250/32,proxy,no-resolve
 IP-CIDR,50.22.198.204/30,proxy,no-resolve
@@ -9582,6 +9598,7 @@ IP-CIDR,96.23.20.78/32,proxy,no-resolve
 IP-CIDR,96.4.63.99/32,proxy,no-resolve
 IP-CIDR,99.81.97.56/32,proxy,no-resolve
 IP6-CIDR,2001:67c:4e8::/48,proxy,no-resolve
+IP6-CIDR,2001:b28:f23c::/47,proxy,no-resolve
 IP6-CIDR,2001:b28:f23d::/48,proxy,no-resolve
 IP6-CIDR,2001:b28:f23f::/48,proxy,no-resolve
 IP6-CIDR,2607:fb10::/32,proxy,no-resolve
@@ -9590,6 +9607,7 @@ IP6-CIDR,2620:10c:7000::/44,proxy,no-resolve
 IP6-CIDR,2620:120:e000::/40,proxy,no-resolve
 IP6-CIDR,2a00:86c0::/32,proxy,no-resolve
 IP6-CIDR,2a03:5640::/32,proxy,no-resolve
+IP6-CIDR,2a0a:f280::/29,proxy,no-resolve
 IP6-CIDR,2a0a:f280::/32,proxy,no-resolve
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,proxy
 USER-AGENT,*Spotify*,proxy

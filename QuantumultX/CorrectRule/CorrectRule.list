@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-23 14:54:54
+# 更新时间： 2024-07-23 15:16:37
 HOST,ad.10010.com,direct
 HOST,ad.12306.cn,direct
 HOST,ain.bgm.tv,direct
@@ -25,6 +25,7 @@ HOST,deo.shopeemobile.com,direct
 HOST,detectportal.firefox.com,direct
 HOST,dig.bdurl.net,direct
 HOST,download.jetbrains.com,direct
+HOST,download.microsoft.com,direct
 HOST,eco-push-api-client.meiqia.com,direct
 HOST,errlog.umeng.com,direct
 HOST,fairplay.l.qq.com,direct
@@ -49,15 +50,19 @@ HOST,movie.douban.com,direct
 HOST,msg.umeng.com,direct
 HOST,msg.umengcloud.com,direct
 HOST,new-api.meiqia.com,direct
+HOST,ntservicepack.microsoft.com,direct
 HOST,ok.zuidapic.com,direct
 HOST,origin-a.akamaihd.ne,direct
 HOST,origin-a.akamaihd.net,direct
+HOST,outlook.office365.com,direct
 HOST,rewards.hypixel.net,direct
 HOST,router.asus.com,direct
 HOST,sdk.alibaba.com.ailbaba.me,direct
 HOST,setmeup.arubanetworks.com,direct
 HOST,smp-device-content.apple.com,direct
 HOST,sms.imagetasks.com,direct
+HOST,smtp-mail.outlook.com,direct
+HOST,smtp.office365.com,direct
 HOST,static.jssp.tv,direct
 HOST,staticsns.cdn.bcebos.com,direct
 HOST,sycm.mmstat.com,direct
@@ -72,6 +77,7 @@ HOST,vi.l.qq.com,direct
 HOST,vip.ffzyread.com,direct
 HOST,vip.imgffzy.com,direct
 HOST,vip.lzcdn2.com,direct
+HOST,wustat.windows.com,direct
 HOST,www.4khdr.cn,direct
 HOST,www.asusrouter.com,direct
 HOST,www.m3u8.tv.jiexi.8old.cn,direct
@@ -211,6 +217,7 @@ HOST-SUFFIX,captive.apple.com,direct
 HOST-SUFFIX,connectivitycheck.gstatic.com,direct
 HOST-SUFFIX,d.f.ip6.arpa,direct
 HOST-SUFFIX,dizhensubao.getui.com,direct
+HOST-SUFFIX,dl.delivery.mp.microsoft.com,direct
 HOST-SUFFIX,f.video.weibocdn.com,direct
 HOST-SUFFIX,flyert.com,direct
 HOST-SUFFIX,fus.cdn.krcom.cn,direct
@@ -245,10 +252,13 @@ HOST-SUFFIX,tplogin.cn,direct
 HOST-SUFFIX,tracking-protection.cdn.mozilla.net,direct
 HOST-SUFFIX,ts.net,direct
 HOST-SUFFIX,upaiyun.com,direct
+HOST-SUFFIX,update.microsoft.com,direct
 HOST-SUFFIX,weather-analytics-events.apple.com,direct
 HOST-SUFFIX,weather-data.apple.com,direct
 HOST-SUFFIX,weather-map.apple.com,direct
 HOST-SUFFIX,wifi.cmcc,direct
+HOST-SUFFIX,windowsupdate.com,direct
+HOST-SUFFIX,windowsupdate.microsoft.com,direct
 HOST-SUFFIX,yonghuivip.com,direct
 HOST-SUFFIX,zoho.com,direct
 HOST-SUFFIX,zoho.com.au,direct
