@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-24 08:53:22
+# 更新时间： 2024-07-24 09:12:17
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -83,7 +83,6 @@ payload:
   - DOMAIN,www.asusrouter.com
   - DOMAIN,www.m3u8.tv.jiexi.8old.cn
   - DOMAIN,zh188.net
-  - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,anti-ad.net
   - DOMAIN-KEYWORD,api-adservices.apple.com
   - DOMAIN-KEYWORD,api.smoot.apple.cn
@@ -100,9 +99,7 @@ payload:
   - DOMAIN-KEYWORD,ls.apple.com
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,o.lencr.org
-  - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,push.apple.com
-  - DOMAIN-KEYWORD,skydrive
   - DOMAIN-KEYWORD,ssl.apple.com
   - DOMAIN-KEYWORD,trip.com
   - DOMAIN-KEYWORD,ttcdn-tos.kkimg.cc
@@ -153,7 +150,6 @@ payload:
   - DOMAIN-SUFFIX,17.172.in-addr.arpa
   - DOMAIN-SUFFIX,18.172.in-addr.arpa
   - DOMAIN-SUFFIX,19.172.in-addr.arpa
-  - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,1password.com
   - DOMAIN-SUFFIX,1passwordservices.com
   - DOMAIN-SUFFIX,2.0.192.in-addr.arpa
@@ -234,7 +230,6 @@ payload:
   - DOMAIN-SUFFIX,koodomobile.com
   - DOMAIN-SUFFIX,leike.cc
   - DOMAIN-SUFFIX,likesto.me
-  - DOMAIN-SUFFIX,livefilestore.com
   - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
   - DOMAIN-SUFFIX,localhost.sec.qq.com
   - DOMAIN-SUFFIX,location.services.mozilla.com
@@ -243,24 +238,14 @@ payload:
   - DOMAIN-SUFFIX,my.router
   - DOMAIN-SUFFIX,networkcheck.kde.org
   - DOMAIN-SUFFIX,ol.epicgames.com
-  - DOMAIN-SUFFIX,oneclient.sfx.ms
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,p.to
   - DOMAIN-SUFFIX,peiluyou.com
   - DOMAIN-SUFFIX,phicomm.me
-  - DOMAIN-SUFFIX,photos.live.com
   - DOMAIN-SUFFIX,plex.direct
   - DOMAIN-SUFFIX,router.ctc
   - DOMAIN-SUFFIX,routerlogin.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
-  - DOMAIN-SUFFIX,skydrive.wns.windows.com
   - DOMAIN-SUFFIX,snapdrop.net
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
   - DOMAIN-SUFFIX,staticfile.org
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,storage.msn.com
   - DOMAIN-SUFFIX,tendawifi.com
   - DOMAIN-SUFFIX,test.steampowered.com
   - DOMAIN-SUFFIX,tplinkwifi.net
