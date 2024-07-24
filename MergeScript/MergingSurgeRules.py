@@ -22,7 +22,7 @@ replacements = [
 RULES = {
     "CorrectRule": {
         "Fenliuxiuzheng": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list",
-        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/CorrectRule.list",
+        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/CorrectRule.list",
     },
     "RejectRule": {
         "Hijacking": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list",
@@ -33,9 +33,9 @@ RULES = {
     },
     "GlobalRule": {
         "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All.list",
-        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/ProxyRule.list",
+        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
-        "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/MediaRule.list",
+        "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/MediaRule.list",
     },
     "DirectRule": {
         "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",

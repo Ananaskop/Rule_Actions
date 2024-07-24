@@ -35,9 +35,6 @@ jobs:
           pwd
       # Runs a single command using the runners shell
 
-      - name: "下载并合并 QuantumultX 规则"
-        run: python MergeScript/MergingQXRules.py
-
       - name: "下载并合并 Clash 规则"
         run: python MergeScript/MergingClashRules.py
 

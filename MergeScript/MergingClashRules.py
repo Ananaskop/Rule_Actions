@@ -22,20 +22,20 @@ replacements = [
 RULES = {
     "CorrectRule": {
         "Fenliuxiuzheng": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list",
-        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/CorrectRule.list",
+        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/CorrectRule.list",
     },
     "RejectRule": {
         "Hijacking": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Hijacking/Hijacking.list",
         "BlockHttpDNS": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlockHttpDNS/BlockHttpDNS.list",
         "MyBlockAds": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list",
         "AWAvenueAdsRule": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list",
-        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/RejectRule.list",
+        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/RejectRule.list",
     },
     "GlobalRule": {
         "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Proxy/Proxy.list",
-        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/ProxyRule.list",
+        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list",
-        "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/MediaRule.list",
+        "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/MediaRule.list",
     },
     "DirectRule": {
         "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/China.list",
