@@ -1,10 +1,10 @@
 import os
 import re
 import datetime
-import pytz
+import pytz # type: ignore
 import shutil
 import time
-import requests
+import requests # type: ignore
 from concurrent.futures import ThreadPoolExecutor
 
 # 正则表达式替换规则
