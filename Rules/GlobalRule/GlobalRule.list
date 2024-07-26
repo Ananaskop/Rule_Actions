@@ -1,4 +1,4 @@
-# 更新时间： 2024-07-26 14:16:07
+# 更新时间： 2024-07-26 14:53:27
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.imem.app
 DOMAIN,api.mojang.com
@@ -170,7 +170,6 @@ DOMAIN-SUFFIX,1984bbs.org
 DOMAIN-SUFFIX,1991way.com
 DOMAIN-SUFFIX,1998cdp.org
 DOMAIN-SUFFIX,1bao.org
-DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1dumb.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1eew.com
@@ -5511,9 +5510,6 @@ DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,on2.com
 DOMAIN-SUFFIX,onapp.com
-DOMAIN-SUFFIX,oneclient.sfx.ms
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onefifteen.net
 DOMAIN-SUFFIX,onefifteen.org
@@ -5723,7 +5719,6 @@ DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,phonegap.com
 DOMAIN-SUFFIX,photodharma.net
 DOMAIN-SUFFIX,photofocus.com
-DOMAIN-SUFFIX,photos.live.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,phuquocservices.com
 DOMAIN-SUFFIX,piaotian.net
@@ -6350,8 +6345,6 @@ DOMAIN-SUFFIX,shangfang.org
 DOMAIN-SUFFIX,shapeservices.com
 DOMAIN-SUFFIX,sharebee.com
 DOMAIN-SUFFIX,sharecool.org
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,sharpdaily.com.hk
 DOMAIN-SUFFIX,sharpdaily.hk
 DOMAIN-SUFFIX,sharpdaily.tw
@@ -6443,7 +6436,6 @@ DOMAIN-SUFFIX,skimtube.com
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skybet.com
-DOMAIN-SUFFIX,skydrive.wns.windows.com
 DOMAIN-SUFFIX,skygo.co.nz
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,skykiwi.com
@@ -6572,7 +6564,6 @@ DOMAIN-SUFFIX,spendee.com
 DOMAIN-SUFFIX,spicevpn.com
 DOMAIN-SUFFIX,spideroak.com
 DOMAIN-SUFFIX,spike.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,spotflux.com
@@ -6684,8 +6675,6 @@ DOMAIN-SUFFIX,stileproject.com
 DOMAIN-SUFFIX,sto.cc
 DOMAIN-SUFFIX,stoporganharvesting.org
 DOMAIN-SUFFIX,stoptibetcrisis.net
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,storagenewsletter.com
 DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,storm.mg
@@ -9529,7 +9518,6 @@ USER-AGENT,Naver%20TV*
 USER-AGENT,NaverTV*
 USER-AGENT,Niconico*
 USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
 USER-AGENT,Overcast*
 USER-AGENT,PBS*
 USER-AGENT,PPlus*
