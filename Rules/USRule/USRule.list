@@ -1,4 +1,4 @@
-# 更新时间： 2024-08-07 14:29:50
+# 更新时间： 2024-08-07 14:33:17
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,browser-intake-datadoghq.com
@@ -304,7 +304,7 @@ DOMAIN-SUFFIX,xoom.io
 DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
-IP-ASN,20473,no-resolve
+IP-ASN,20473
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 USER-AGENT,PayPal*

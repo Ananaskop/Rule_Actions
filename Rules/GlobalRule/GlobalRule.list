@@ -1,4 +1,4 @@
-# 更新时间： 2024-08-07 14:29:50
+# 更新时间： 2024-08-07 14:33:17
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.imem.app
 DOMAIN,api.mojang.com
@@ -8423,12 +8423,12 @@ DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
-IP-ASN,211157,no-resolve
-IP-ASN,32934,no-resolve
-IP-ASN,44907,no-resolve
-IP-ASN,59930,no-resolve
-IP-ASN,62014,no-resolve
-IP-ASN,62041,no-resolve
+IP-ASN,211157
+IP-ASN,32934
+IP-ASN,44907
+IP-ASN,59930
+IP-ASN,62014
+IP-ASN,62041
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,1.37.35.6/32,no-resolve
 IP-CIDR,101.100.179.242/32,no-resolve
