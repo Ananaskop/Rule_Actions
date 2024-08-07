@@ -41,8 +41,8 @@ RULES = {
     },
     "DirectRule": {
         "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",
-        "ChinaIPs": "https://download-list.oss-cn-shanghai.aliyuncs.com/Geo_AS_IP/Geo_AS_IP_CN_All_Surge.list",
-        "ChinaASN": "https://download-list.oss-cn-shanghai.aliyuncs.com/Geo_AS_IP/Geo_AS_CN.list",
+        "ChinaIPs": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list",
+        "ChinaASN": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list",
     },
     "USRule": {
         "OpenAI": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list",
