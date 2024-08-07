@@ -41,7 +41,7 @@ RULES = {
     },
     "DirectRule": {
         "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",
-        "ChinaIPs": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list",
+        "ChinaIPs": "https://download-list.oss-cn-shanghai.aliyuncs.com/Geo_AS_IP/Geo_AS_IP_CN_All_Surge.list",
         "ChinaASN": "https://download-list.oss-cn-shanghai.aliyuncs.com/Geo_AS_IP/Geo_AS_CN.list",
     },
     "USRule": {
@@ -117,7 +117,7 @@ def merge_and_deduplicate_files(path):
                     modified_lines = []  # 创建新的列表来存储修改后的行
                     for i, line in enumerate(lines):
                         line = apply_replacements(line)  # 应用替换规则
-                        if re.match(r'^IP', line):
+                        if re.match(r'^IP-CIDR', line):
                             line += ',no-resolve'
                         modified_lines.append(line)  # 将修改后的行添加到新的列表
                     
