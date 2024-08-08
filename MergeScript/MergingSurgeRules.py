@@ -40,7 +40,7 @@ RULES = {
         "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/MediaRule.list",
     },
     "DirectRule": {
-        "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",
+        "ChinaMaxNoIP": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMaxNoIP/ChinaMaxNoIP_All.list",
         "ChinaIPs": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaIPs/ChinaIPs.list",
         "ChinaASN": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaASN/ChinaASN.list",
         "MyDirectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/DirectRule.list",
