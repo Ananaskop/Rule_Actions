@@ -1,4 +1,4 @@
-# 更新时间： 2024-08-28 14:29:30
+# 更新时间： 2024-08-28 20:41:33
 DOMAIN,1010pic.com
 DOMAIN,8le8le.com
 DOMAIN,a.cpic.com.cn
@@ -119,6 +119,7 @@ DOMAIN,adx.ads.oppomobile.com
 DOMAIN,adxlog-adnet.vivo.com.cn
 DOMAIN,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 DOMAIN,adxserver.ad.cmvideo.cn
+DOMAIN,aegis.qq.com
 DOMAIN,afd.baidu.com
 DOMAIN,afdconf.baidu.com
 DOMAIN,affcpatrk.com
@@ -142,6 +143,7 @@ DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.woozooo.com
 DOMAIN,analyze.lemurbrowser.com
 DOMAIN,andrqd.play.aiseet.atianqi.com
+DOMAIN,ap.dongqiudi.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
@@ -189,6 +191,7 @@ DOMAIN,bdapi-in-ads.realmemobile.com
 DOMAIN,bdapi.ads.oppomobile.com
 DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beacon.qq.com
+DOMAIN,beaconcdn.qq.com
 DOMAIN,beacons.gvt2.com
 DOMAIN,beizi.biz
 DOMAIN,bianxian.com
@@ -196,6 +199,7 @@ DOMAIN,bingads.microsoft.com
 DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,books-analytics-events.apple.com
 DOMAIN,brahe.apptimize.com
+DOMAIN,bsrv.qq.com
 DOMAIN,bugly.qq.com
 DOMAIN,business-api.tiktok.com
 DOMAIN,c.bidtoolads.com
@@ -518,6 +522,7 @@ DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pglstatp-toutiao.com
 DOMAIN,pig.pupuapi.com
 DOMAIN,pixon.ads-pixiv.net
+DOMAIN,pms.mb.qq.com
 DOMAIN,policy.video.ptqy.gitv.tv
 DOMAIN,pre-acs.youku.com
 DOMAIN,proxy.advp.apple.com
@@ -528,6 +533,7 @@ DOMAIN,qwapi.apple.com
 DOMAIN,qzs.gdtimg.com
 DOMAIN,rc-topic-api.bz.mgtv.com
 DOMAIN,recommend-drcn.hms.dbankcloud.cn
+DOMAIN,report.tv.kohesport.qq.com
 DOMAIN,res.hubcloud.com.cn
 DOMAIN,res1.hubcloud.com.cn
 DOMAIN,res2.hubcloud.com.cn
@@ -588,10 +594,10 @@ DOMAIN,smetrics.samsung.com
 DOMAIN,sms.ads.oppomobile.com
 DOMAIN,sngmta.qq.com
 DOMAIN,soul-ad.soulapp.cn
+DOMAIN,stat.dongqiudi.com
 DOMAIN,stat.y.qq.com
 DOMAIN,static.ads-twitter.com
 DOMAIN,statics.woozooo.com
-DOMAIN,staticsns.cdn.bcebos.com
 DOMAIN,stats.qiumibao.com
 DOMAIN,statsigapi.net
 DOMAIN,stg-data.ads.heytapmobi.com
@@ -672,6 +678,7 @@ DOMAIN,vali-g1.cp31.ott.cibntv.net
 DOMAIN,vali-ugc.cp31.ott.cibntv.net
 DOMAIN,video-ad.sm.cn
 DOMAIN,video-dsp.pddpic.com
+DOMAIN,video.dispatch.tc.qq.com
 DOMAIN,vip.bz.mgtv.com
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
 DOMAIN,vlive.qqvideo.tc.qq.com
