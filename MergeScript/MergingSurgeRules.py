@@ -29,7 +29,7 @@ RULES = {
         "BlockHttpDNS": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list",
         "MyBlockAds": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list",
         "AWAvenueAdsRule": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list",
-        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/RejectRule.list",
+        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/RejectRule.list",
     },
     "ProxyRule": {
         "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All.list",
