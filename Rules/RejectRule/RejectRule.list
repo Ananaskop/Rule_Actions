@@ -1,5 +1,7 @@
-# 更新时间： 2024-08-31 20:38:26
+# 更新时间： 2024-09-01 02:26:21
 DOMAIN,1010pic.com
+DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
+DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
 DOMAIN,8le8le.com
 DOMAIN,a.cpic.com.cn
 DOMAIN,a0.app.xiaomi.com
@@ -27,6 +29,7 @@ DOMAIN,ad.qq.com
 DOMAIN,ad.richmob.cn
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.toutiao.com
+DOMAIN,ad.v3mh.com
 DOMAIN,ad.winrar.com.cn
 DOMAIN,ad.xelements.cn
 DOMAIN,ad.xiaomi.com
@@ -66,6 +69,7 @@ DOMAIN,ads.oppomobile.com
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.pubmatic.com
 DOMAIN,ads.service.kugou.com
+DOMAIN,ads.v3mh.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal-lf.zijieapi.com
 DOMAIN,ads3-normal-lq.zijieapi.com
@@ -127,6 +131,7 @@ DOMAIN,afs.googlesyndication.com
 DOMAIN,aiseet.aa.atianqi.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,alog.umeng.com
+DOMAIN,als.baidu.com
 DOMAIN,amap-aos-info-nogw.amap.com
 DOMAIN,amdc.m.youku.com
 DOMAIN,amdcopen.m.taobao.com
@@ -157,11 +162,13 @@ DOMAIN,api-ad-product.huxiu.com
 DOMAIN,api-adservices.apple.com
 DOMAIN,api-htp.beizi.biz
 DOMAIN,api.ad.xiaomi.com
+DOMAIN,api.e.kuaishou.com
 DOMAIN,api.helloclue.com
 DOMAIN,api.htp.hubcloud.com.cn
 DOMAIN,api.hzsanjiaomao.com
 DOMAIN,api.installer.xiaomi.com
 DOMAIN,api.iqiyi.com
+DOMAIN,api.jietuhb.com
 DOMAIN,api.kingdata.ksyun.com
 DOMAIN,api.liquidlink.cn
 DOMAIN,api.sm.cn
@@ -194,10 +201,12 @@ DOMAIN,beacon.qq.com
 DOMAIN,beaconcdn.qq.com
 DOMAIN,beacons.gvt2.com
 DOMAIN,beizi.biz
+DOMAIN,bgg.baidu.com
 DOMAIN,bianxian.com
 DOMAIN,bingads.microsoft.com
 DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,books-analytics-events.apple.com
+DOMAIN,bossaudioandcomic-1252317822.image.myqcloud.com
 DOMAIN,brahe.apptimize.com
 DOMAIN,bsrv.qq.com
 DOMAIN,bugly.qq.com
@@ -212,12 +221,14 @@ DOMAIN,cad.youku.com
 DOMAIN,catalog.fjwhcbsh.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
+DOMAIN,cdn-ad.wtzw.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn.ad.xiaomi.com
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cfg.imtt.qq.com
 DOMAIN,chat1.jd.com
 DOMAIN,chiq-cloud.com
+DOMAIN,cj.qidian.com
 DOMAIN,ck.ads.oppomobile.com
 DOMAIN,clog.miguvideo.com
 DOMAIN,cnzz.com
@@ -288,6 +299,7 @@ DOMAIN,gdfp.gifshow.com
 DOMAIN,gemini.yahoo.com
 DOMAIN,geo.yahoo.com
 DOMAIN,geo2.adobe.com
+DOMAIN,getui.com
 DOMAIN,ggx.cmvideo.cn
 DOMAIN,ggx01.miguvideo.com
 DOMAIN,ggx03.miguvideo.com
@@ -311,6 +323,7 @@ DOMAIN,hexagon-analytics.com
 DOMAIN,hiboard-drcn.ai.dbankcloud.cn
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
+DOMAIN,houyi.kkmh.com
 DOMAIN,hpplay.cn
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
@@ -350,9 +363,13 @@ DOMAIN,iadworkbench.apple.com
 DOMAIN,id.hadron.ad.gt
 DOMAIN,ifacelog.iqiyi.com
 DOMAIN,ifs.tanx.com
+DOMAIN,ii.gdt.qq.com
+DOMAIN,imag8.pubmatic.com
+DOMAIN,imag86.pubmatic.com
 DOMAIN,image-ad.sm.cn
 DOMAIN,imageplus.baidu.com
 DOMAIN,images.ctfassets.net
+DOMAIN,images.outbrainimg.com
 DOMAIN,images.pinduoduo.com
 DOMAIN,img-c.heytapimage.com
 DOMAIN,img.adnyg.com
@@ -363,6 +380,7 @@ DOMAIN,info4.video.qq.com
 DOMAIN,info6.video.qq.com
 DOMAIN,init.supersonicads.com
 DOMAIN,ios.video.mpush.qq.com
+DOMAIN,ipv4.kkmh.com
 DOMAIN,ipv4.music.163.com
 DOMAIN,ipv6.music.163.com
 DOMAIN,irc.qubiankeji.com
@@ -430,10 +448,13 @@ DOMAIN,logtj.kugou.com
 DOMAIN,logupdate.avlyun.sec.miui.com
 DOMAIN,lookup.api.bsb.baidu.com
 DOMAIN,m-vali.cp31.ott.cibntv.net
+DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.adyounger.com
 DOMAIN,m.atm.youku.com
 DOMAIN,m.kubiqq.com
 DOMAIN,m1.ad.10010.com
+DOMAIN,magev6.if.qidian.com
+DOMAIN,manhua.acimg.cn
 DOMAIN,mapi.apptimize.com
 DOMAIN,mapi.m.jd.com
 DOMAIN,maplocatesdksnapshot.d.meituan.net
@@ -523,6 +544,7 @@ DOMAIN,pgdt.ugdtimg.com
 DOMAIN,pglstatp-toutiao.com
 DOMAIN,pig.pupuapi.com
 DOMAIN,pixon.ads-pixiv.net
+DOMAIN,plbslog.umeng.com
 DOMAIN,pms.mb.qq.com
 DOMAIN,policy.video.ptqy.gitv.tv
 DOMAIN,pre-acs.youku.com
@@ -550,6 +572,7 @@ DOMAIN,rtb.voiceads.cn
 DOMAIN,s1.qq.com
 DOMAIN,s2.qq.com
 DOMAIN,s3.qq.com
+DOMAIN,saad.ms.zhangyue.net
 DOMAIN,samsung-com.112.2o7.net
 DOMAIN,samsungads.com
 DOMAIN,sanme2.taisantech.com
@@ -578,6 +601,7 @@ DOMAIN,search3-search.ixigua.com
 DOMAIN,search5-search-hl.ixigua.com
 DOMAIN,search5-search.ixigua.com
 DOMAIN,securemetrics.apple.com
+DOMAIN,securepubads.g.doubleclick.net
 DOMAIN,sensors-log.dongqiudi.com
 DOMAIN,service.changhong.upgrade2.huan.tv
 DOMAIN,service.vmos.cn
@@ -589,11 +613,13 @@ DOMAIN,sigmob.com
 DOMAIN,sin3-ib.adnxs.com
 DOMAIN,skdisplay.jd.com
 DOMAIN,slb-p2p.vcloud.ks-live.com
+DOMAIN,smad.ms.zhangyue.net
 DOMAIN,smart-tv.cn
 DOMAIN,smartad.10010.com
 DOMAIN,smetrics.samsung.com
 DOMAIN,sms.ads.oppomobile.com
 DOMAIN,sngmta.qq.com
+DOMAIN,snowflake.qq.com
 DOMAIN,soul-ad.soulapp.cn
 DOMAIN,ssp.soulapp.cn
 DOMAIN,stat.dongqiudi.com
@@ -659,6 +685,7 @@ DOMAIN,tz.sec.xiaomi.com
 DOMAIN,uapi.ads.heytapmobi.com
 DOMAIN,udc.yahoo.com
 DOMAIN,udcm.yahoo.com
+DOMAIN,uedas.qidian.com
 DOMAIN,ulog-sdk.gifshow.com
 DOMAIN,ulogjs.gifshow.com
 DOMAIN,ulogs.umeng.com
@@ -666,6 +693,7 @@ DOMAIN,ulogs.umengcloud.com
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,umengjmacs.m.taobao.com
 DOMAIN,umsns.com
+DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
 DOMAIN,update.avlyun.sec.miui.com
 DOMAIN,update.lejiao.tv
@@ -715,8 +743,10 @@ DOMAIN,w1.zskwai.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn
 DOMAIN,webstat.qiumibao.com
+DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.pinterest.com
 DOMAIN,win.gdt.qq.com
+DOMAIN,wn.pos.baidu.com
 DOMAIN,wn.x.jd.com
 DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.sj.qq.com
@@ -731,6 +761,7 @@ DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,xc.gdt.qq.com
 DOMAIN,xiaomi-dtv.m.cn.miaozhen.com
+DOMAIN,xiaoshuo.wtzw.com
 DOMAIN,xlivrdr.com
 DOMAIN,xlmzc.cnjp-exp.com
 DOMAIN,xlog.jd.com
