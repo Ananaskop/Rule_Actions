@@ -31,7 +31,7 @@ RULES = {
         "AWAvenueAdsRule": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list",
         "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/QuantumultX/Rule/RejectRule.list",
     },
-    "GlobalRule": {
+    "ProxyRule": {
         "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All.list",
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
