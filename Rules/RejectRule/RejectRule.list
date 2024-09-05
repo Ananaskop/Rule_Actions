@@ -1,4 +1,5 @@
-# 更新时间： 2024-09-05 02:26:47
+# 更新时间： 2024-09-05 08:43:17
+AND,((PROTOCOL,QUIC),(DOMAIN-SUFFIX,xiaohongshu.com))
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
