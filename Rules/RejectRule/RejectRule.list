@@ -1,4 +1,4 @@
-# 更新时间： 2024-09-08 14:28:03
+# 更新时间： 2024-09-08 20:38:42
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -68,6 +68,7 @@ DOMAIN,ads.music.126.net
 DOMAIN,ads.oppomobile.com
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.pubmatic.com
+DOMAIN,ads.servebom.com
 DOMAIN,ads.service.kugou.com
 DOMAIN,ads.v3mh.com
 DOMAIN,ads3-normal-hl.zijieapi.com
@@ -453,7 +454,6 @@ DOMAIN,m.adyounger.com
 DOMAIN,m.atm.youku.com
 DOMAIN,m.kubiqq.com
 DOMAIN,m1.ad.10010.com
-DOMAIN,magev6.if.qidian.com
 DOMAIN,manhua.acimg.cn
 DOMAIN,mapi.apptimize.com
 DOMAIN,mapi.m.jd.com
@@ -521,6 +521,7 @@ DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,oth.str.mdt.qq.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN,otheve.play.aiseet.atianqi.com
+DOMAIN,outlookads.live.com
 DOMAIN,p.l.qq.com
 DOMAIN,p.s.360.cn
 DOMAIN,p1-be-pack-sign.pglstatp-toutiao.com
@@ -740,6 +741,8 @@ DOMAIN,w1.wskwai.com
 DOMAIN,w1.xskwai.com
 DOMAIN,w1.yskwai.com
 DOMAIN,w1.zskwai.com
+DOMAIN,watson.microsoft.com
+DOMAIN,watson.telemetry.microsoft.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn
 DOMAIN,webstat.qiumibao.com
