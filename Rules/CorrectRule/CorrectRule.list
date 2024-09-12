@@ -1,4 +1,4 @@
-# 更新时间： 2024-09-12 21:54:47
+# 更新时间： 2024-09-13 00:30:03
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -55,7 +55,6 @@ DOMAIN,ok.zuidapic.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,outlook.office365.com
-DOMAIN,polaris.zijieapi.com
 DOMAIN,rewards.hypixel.net
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
@@ -74,7 +73,6 @@ DOMAIN,ts.thefilehosting.com
 DOMAIN,v.ddys.pro
 DOMAIN,v.ddys.zip
 DOMAIN,vd.l.qq.com
-DOMAIN,verify.zijieapi.com
 DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
@@ -263,6 +261,7 @@ DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN-SUFFIX,yonghuivip.com
+DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zoho.com.au
 DOMAIN-SUFFIX,zoho.eu
