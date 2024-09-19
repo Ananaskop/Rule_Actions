@@ -1,4 +1,4 @@
-# 更新时间： 2024-09-19 02:29:22
+# 更新时间： 2024-09-19 08:06:49
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.imem.app
 DOMAIN,api.mojang.com
@@ -9,10 +9,8 @@ DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
-DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,bfvvs.com
-DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,cdn.ceres9350.com
 DOMAIN,cdn.efhie.com
 DOMAIN,cdn.venus7202.com
@@ -37,7 +35,6 @@ DOMAIN,h-dazn.online-metrix.net
 DOMAIN,h-netflix.online-metrix.net
 DOMAIN,haiwaikan.com
 DOMAIN,hamifans.emome.net
-DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,hulu.com.c.footprint.net
 DOMAIN,hulu.map.fastly.net
 DOMAIN,images-daznservices-com.cdn.ampproject.org
@@ -62,9 +59,6 @@ DOMAIN,rthklive2-lh.akamaihd.net
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,self.events.data.microsoft.com
-DOMAIN,spotify.com.edgesuite.net
-DOMAIN,spotify.map.fastly.net
-DOMAIN,spotify.map.fastlylb.net
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
@@ -645,7 +639,6 @@ DOMAIN-SUFFIX,atv-ps-eu.amazon.com
 DOMAIN-SUFFIX,atv-ps-fe.amazon.co.jp
 DOMAIN-SUFFIX,atv-ps-fe.amazon.com
 DOMAIN-SUFFIX,atv-ps.amazon.com
-DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,audionow.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,av-e-body.com
@@ -3690,7 +3683,6 @@ DOMAIN-SUFFIX,hdrplusdata.org
 DOMAIN-SUFFIX,hdtvb.net
 DOMAIN-SUFFIX,hdzog.com
 DOMAIN-SUFFIX,he.net
-DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,heartyit.com
 DOMAIN-SUFFIX,heavy-r.com
 DOMAIN-SUFFIX,hec.su
@@ -6584,7 +6576,6 @@ DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
 DOMAIN-SUFFIX,spotflux.com
 DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotify-everywhere.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotify.design
@@ -8456,7 +8447,6 @@ IP-CIDR,103.4.96.0/22,no-resolve
 IP-CIDR,103.5.34.153/32,no-resolve
 IP-CIDR,103.87.204.0/22,no-resolve
 IP-CIDR,104.109.129.153/32,no-resolve
-IP-CIDR,104.154.127.126/32,no-resolve
 IP-CIDR,104.85.165.17/32,no-resolve
 IP-CIDR,105.187.240.196/31,no-resolve
 IP-CIDR,105.187.243.5/32,no-resolve
@@ -9489,7 +9479,6 @@ IP-CIDR6,2a00:86c0::/32,no-resolve
 IP-CIDR6,2a03:5640::/32,no-resolve
 IP-CIDR6,2a0a:f280::/29,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-PROCESS-NAME,com.spotify.music
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
