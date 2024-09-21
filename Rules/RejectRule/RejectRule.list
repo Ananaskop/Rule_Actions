@@ -1,4 +1,4 @@
-# 更新时间： 2024-09-21 20:39:08
+# 更新时间： 2024-09-22 02:27:46
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -725,22 +725,22 @@ DOMAIN,youku-acs.m.taobao.com
 DOMAIN,youxi.kugou.com
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
-DOMAIN-KEYWORD,..shouji.sogou.com
-DOMAIN-KEYWORD,.[a-zA-Z0-9.-]skwai.com
-DOMAIN-KEYWORD,.a.market.xiaomi.com
-DOMAIN-KEYWORD,.data.hicloud.com
-DOMAIN-KEYWORD,.log.aliyuncs.com
-DOMAIN-KEYWORD,.shouji.sogou.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.sm.cn
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.video.yximgs.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.wtzw.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-be-pack-sign.pglstatp-toutiao.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-lm.adkwai.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal-[a-zA-Z0-9.-].zijieapi.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal.zijieapi.com
+DOMAIN-KEYWORD,.*\..*\.shouji\.sogou\.com
+DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com
+DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com
+DOMAIN-KEYWORD,.*\.data\.hicloud\.com
+DOMAIN-KEYWORD,.*\.log\.aliyuncs\.com
+DOMAIN-KEYWORD,.*\.shouji\.sogou\.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.sm\.cn
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.wtzw\.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-lm\.adkwai\.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal\.zijieapi\.com
 DOMAIN-KEYWORD,adservice.google.com.
-DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]-dev..[a-zA-Z0-9.-]-[a-zA-Z0-9.-]-[a-zA-Z0-9.-].amazonaws.com
+DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,17gouwuba.com
