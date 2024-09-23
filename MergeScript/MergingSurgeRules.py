@@ -22,20 +22,20 @@ replacements = [
 RULES = {
     "CorrectRule": {
         "Fenliuxiuzheng": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list",
-        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/CorrectRule.list",
+        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/CorrectRule.list",
     },
     "RejectRule": {
         "Hijacking": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list",
         "BlockHttpDNS": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list",
         "MyBlockAds": "https://raw.githubusercontent.com/RuCu6/Loon/main/Rules/MyBlockAds.list",
         "AWAvenueAdsRule": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list",
-        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/RejectRule.list",
+        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/RejectRule.list",
     },
     "ProxyRule": {
         "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All.list",
-        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/ProxyRule.list",
+        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
-        "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Surge/Rule/MediaRule.list",
+        "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/MediaRule.list",
     },
     "DirectRule": {
         "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",
