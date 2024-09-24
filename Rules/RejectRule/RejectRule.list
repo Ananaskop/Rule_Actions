@@ -1,4 +1,4 @@
-# 更新时间： 2024-09-24 09:46:47
+# 更新时间： 2024-09-24 14:32:16
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -38,6 +38,7 @@ DOMAIN,adclick.tencentmusic.com
 DOMAIN,adcolony.com
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adfilter.imtt.qq.com
+DOMAIN,adfstat.yandex.ru
 DOMAIN,adguanggao.eee114.com
 DOMAIN,adjust.cn
 DOMAIN,adjust.com
@@ -59,12 +60,15 @@ DOMAIN,ads.heytapmobi.com
 DOMAIN,ads.huan.tv
 DOMAIN,ads.huantest.com
 DOMAIN,ads.icloseli.cn
+DOMAIN,ads.linkedin.com
 DOMAIN,ads.music.126.net
 DOMAIN,ads.oppomobile.com
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.servebom.com
 DOMAIN,ads.service.kugou.com
+DOMAIN,ads.tiktok.com
 DOMAIN,ads.v3mh.com
+DOMAIN,ads.youtube.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal-lf.zijieapi.com
 DOMAIN,ads3-normal-lq.zijieapi.com
@@ -74,6 +78,7 @@ DOMAIN,ads5-normal-lf.zijieapi.com
 DOMAIN,ads5-normal-lq.zijieapi.com
 DOMAIN,ads5-normal.zijieapi.com
 DOMAIN,adsense.google.cn
+DOMAIN,adserver.unityads.unity3d.com
 DOMAIN,adservice.google.cn
 DOMAIN,adservice.google.com
 DOMAIN,adserviceretry.kugou.com
@@ -132,10 +137,13 @@ DOMAIN,analytics.126.net
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.google.com
 DOMAIN,analytics.pinterest.com
+DOMAIN,analytics.pointdrive.linkedin.com
 DOMAIN,analytics.query.yahoo.com
 DOMAIN,analytics.rayjump.com
+DOMAIN,analytics.s3.amazonaws.com
 DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.woozooo.com
+DOMAIN,analyticsengine.s3.amazonaws.com
 DOMAIN,analyze.lemurbrowser.com
 DOMAIN,andrqd.play.aiseet.atianqi.com
 DOMAIN,ap.dongqiudi.com
@@ -171,6 +179,7 @@ DOMAIN,applog.lc.quark.cn
 DOMAIN,applog.uc.cn
 DOMAIN,applog.zijieapi.com
 DOMAIN,ata-sdk-uuid-report.dreport.meituan.net
+DOMAIN,auction.unityads.unity3d.com
 DOMAIN,audid-api.taobao.com
 DOMAIN,audid.umeng.com
 DOMAIN,azr.footprintdns.com
@@ -215,6 +224,8 @@ DOMAIN,chat1.jd.com
 DOMAIN,chiq-cloud.com
 DOMAIN,cj.qidian.com
 DOMAIN,ck.ads.oppomobile.com
+DOMAIN,click.googleanalytics.com
+DOMAIN,click.oneplus.cn
 DOMAIN,clog.miguvideo.com
 DOMAIN,cm-10-138.getui.com
 DOMAIN,cnzz.com
@@ -222,6 +233,7 @@ DOMAIN,collect.kugou.com
 DOMAIN,collector.clue.run
 DOMAIN,commdata.v.qq.com
 DOMAIN,config.chsmarttv.com
+DOMAIN,config.unityads.unity3d.com
 DOMAIN,conn-service-cn-03.allawntech.com
 DOMAIN,conn-service-cn-04.allawntech.com
 DOMAIN,conn-service-cn-05.allawntech.com
@@ -268,6 +280,8 @@ DOMAIN,errlog.umeng.com
 DOMAIN,errnewlog.umeng.com
 DOMAIN,event.tradplusad.com
 DOMAIN,events-drcn.op.dbankcloud.cn
+DOMAIN,events.reddit.com
+DOMAIN,events.redditmedia.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flurry.com
 DOMAIN,furiousfar.com
@@ -351,6 +365,8 @@ DOMAIN,img.adnyg.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
 DOMAIN,imge.dangbei.net
 DOMAIN,imtmp.net
+DOMAIN,iot-eu-logser.realme.com
+DOMAIN,iot-logser.realme.com
 DOMAIN,ipv4.kkmh.com
 DOMAIN,irc.qubiankeji.com
 DOMAIN,itv2-up.openspeech.cn
@@ -587,6 +603,7 @@ DOMAIN,stat.y.qq.com
 DOMAIN,static.ads-twitter.com
 DOMAIN,statics.woozooo.com
 DOMAIN,stats.qiumibao.com
+DOMAIN,stats.wp.com
 DOMAIN,statsigapi.net
 DOMAIN,stg-data.ads.heytapmobi.com
 DOMAIN,success.ctobsnssdk.com
@@ -707,6 +724,7 @@ DOMAIN,watson.telemetry.microsoft.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn
 DOMAIN,webstat.qiumibao.com
+DOMAIN,webview.unityads.unity3d.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.pinterest.com
 DOMAIN,win.gdt.qq.com
@@ -741,7 +759,6 @@ DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com
 DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com
 DOMAIN-KEYWORD,.*\.data\.hicloud\.com
 DOMAIN-KEYWORD,.*\.log\.aliyuncs\.com
-DOMAIN-KEYWORD,.*\.shouji\.sogou\.com
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.sm\.cn
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com
