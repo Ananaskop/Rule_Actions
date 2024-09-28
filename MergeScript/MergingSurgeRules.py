@@ -32,7 +32,7 @@ RULES = {
         "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/RejectRule.list",
     },
     "ProxyRule": {
-        "Proxy": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All.list",
+        "ProxyLite": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ProxyLite/ProxyLite.list",
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
         "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/MediaRule.list",
