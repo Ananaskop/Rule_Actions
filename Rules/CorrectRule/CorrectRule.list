@@ -1,10 +1,14 @@
-# 更新时间： 2024-09-28 08:14:22
+# 更新时间： 2024-09-28 09:35:40
+DOMAIN,accounts.brex.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
 DOMAIN,amdc.m.taobao.com
 DOMAIN,analytics.strava.com
+DOMAIN,api.privacy.com
+DOMAIN,api.pwnedpasswords.com
 DOMAIN,asusrouter.com
 DOMAIN,ca.iadsdk.apple.com
+DOMAIN,cache.agilebits.com
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cp.cloudflare.com
 DOMAIN,deo.shopeemobile.com
@@ -15,9 +19,11 @@ DOMAIN,img.bfzypic.com
 DOMAIN,img.ffzypic.com
 DOMAIN,img.kuaikanzy.net
 DOMAIN,img.liangzipic.com
+DOMAIN,in.appcenter.ms
 DOMAIN,init.ess.apple.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,itunes.apple.com
+DOMAIN,jmap.fastmail.com
 DOMAIN,lain.bgm.tv
 DOMAIN,livew.l.qq.com
 DOMAIN,log.mmstat.com
@@ -26,6 +32,7 @@ DOMAIN,m3u8.mstopq.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,ok.zuidapic.com
+DOMAIN,platform.brex.com
 DOMAIN,router.asus.com
 DOMAIN,sdk.alibaba.com.ailbaba.me
 DOMAIN,setmeup.arubanetworks.com
@@ -40,6 +47,7 @@ DOMAIN,vi.l.qq.com
 DOMAIN,vip.ffzyread.com
 DOMAIN,vip.imgffzy.com
 DOMAIN,www.asusrouter.com
+DOMAIN-KEYWORD,1password
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
 DOMAIN-KEYWORD,api.smoot.apple.cn
@@ -105,6 +113,10 @@ DOMAIN-SUFFIX,168.192.in-addr.arpa
 DOMAIN-SUFFIX,17.172.in-addr.arpa
 DOMAIN-SUFFIX,18.172.in-addr.arpa
 DOMAIN-SUFFIX,19.172.in-addr.arpa
+DOMAIN-SUFFIX,1infra.net
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,2.0.192.in-addr.arpa
 DOMAIN-SUFFIX,20.172.in-addr.arpa
 DOMAIN-SUFFIX,21.172.in-addr.arpa
@@ -165,6 +177,8 @@ DOMAIN-SUFFIX,b.e.f.ip6.arpa
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,d.f.ip6.arpa
+DOMAIN-SUFFIX,fastmail.com
+DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,leike.cc
