@@ -35,10 +35,8 @@ RULES = {
         "ProxyGFW": "https://raw.githubusercontent.com/Moli-X/Tool/refs/heads/X/Surge/Rules/ProxyGFW.list",
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
-        "MyMediaRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/MediaRule.list",
     },
     "DirectRule": {
-        "China": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",
         "ChinaASN": "https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Geo_AS_CN.list",
         "Apple": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple_All.list",
         "Microsoft": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Microsoft/Microsoft.list",
