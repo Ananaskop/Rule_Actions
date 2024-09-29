@@ -1,4 +1,4 @@
-# 更新时间： 2024-09-29 09:53:46
+# 更新时间： 2024-09-29 14:29:28
 DOMAIN,1010pic.com
 DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
 DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
@@ -809,7 +809,7 @@ DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-adsystem.com
-DOMAIN-KEYWORD,.*\..*\.shouji\.sogou\.com
+DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com
 DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com
 DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com
 DOMAIN-KEYWORD,.*\.data\.hicloud\.com
