@@ -1,22 +1,36 @@
-# 更新时间： 2024-10-08 11:51:52
+# 更新时间： 2024-10-08 12:02:47
+AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-eastus-),(DOMAIN-SUFFIX,webpubsub.azure.com))
+AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))
 DOMAIN,ai.google.dev
+DOMAIN,aida.googleapis.com
+DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,api.githubcopilot.com
 DOMAIN,api.msn.com
 DOMAIN,api.statsig.com
 DOMAIN,assets.msn.com
+DOMAIN,bard.google.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,cdn.usefathom.com
+DOMAIN,chat.mistral.ai
 DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,console.mistral.ai
+DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
 DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,imagine.meta.com
 DOMAIN,in.appcenter.ms
 DOMAIN,location.microsoft.com
 DOMAIN,makersuite.google.com
+DOMAIN,o33249.ingest.sentry.io
 DOMAIN,odc.officeapps.live.com
 DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,r.bing.com
@@ -94,6 +108,8 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,getbraintree.com
 DOMAIN-SUFFIX,gmoney.org
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,i-o-u.info
 DOMAIN-SUFFIX,identrust.com
@@ -105,6 +121,8 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,loanbuilder.com
 DOMAIN-SUFFIX,login-paypal.com
 DOMAIN-SUFFIX,login-paypal.info
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mywaytopay.info
 DOMAIN-SUFFIX,mywaytopay.net
 DOMAIN-SUFFIX,oaistatic.com
@@ -279,6 +297,7 @@ DOMAIN-SUFFIX,paypaly.com
 DOMAIN-SUFFIX,payppal.com
 DOMAIN-SUFFIX,payypal.com
 DOMAIN-SUFFIX,pdncommunity.com
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,photos.live.com
 DOMAIN-SUFFIX,pp-soc.com
 DOMAIN-SUFFIX,ppaypal.com
@@ -331,8 +350,10 @@ DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
 IP-ASN,14061
 IP-ASN,20473
+IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
 USER-AGENT,OneDrive*
