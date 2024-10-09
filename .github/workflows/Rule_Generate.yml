@@ -36,7 +36,7 @@ jobs:
       # Runs a single command using the runners shell
 
       - name: "下载并合并 Surge 规则"
-        run: python MergeScript/MergingSurgeRules.py
+        run: python .github/MergingSurgeRules.py
 
       - name: "提交文件"
         run: |
