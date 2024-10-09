@@ -1,5 +1,4 @@
-# 更新时间： 2024-10-09 09:46:03
-AND,((GEOIP,CN),(DOMAIN,pitaya.bytedance.com))//此为抖音和TikTok共用域名，仅国外解析结果走代理
+# 更新时间： 2024-10-09 11:05:04
 DOMAIN,accounts.brex.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -183,7 +182,6 @@ DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
-DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
@@ -196,7 +194,6 @@ DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,plex.direct
-DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
