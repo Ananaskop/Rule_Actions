@@ -1,4 +1,4 @@
-# 更新时间： 2024-10-11 09:46:00
+# 更新时间： 2024-10-11 09:56:45
 DOMAIN,accounts.brex.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -205,19 +205,6 @@ DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
 DOMAIN-SUFFIX,wifi.cmcc
-DOMAIN-SUFFIX,zoho.com
-DOMAIN-SUFFIX,zoho.com.au
-DOMAIN-SUFFIX,zoho.eu
-DOMAIN-SUFFIX,zoho.in
-DOMAIN-SUFFIX,zohocdn.com
-DOMAIN-SUFFIX,zohomeetups.com
-DOMAIN-SUFFIX,zohomerchandise.com
-DOMAIN-SUFFIX,zohopublic.com
-DOMAIN-SUFFIX,zohoschools.com
-DOMAIN-SUFFIX,zohostatic.com
-DOMAIN-SUFFIX,zohostatic.in
-DOMAIN-SUFFIX,zohouniversity.com
-DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zte.home
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
