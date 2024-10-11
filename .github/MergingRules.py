@@ -22,18 +22,18 @@ replacements = [
 RULES = {
     "CorrectRule": {
         "Fenliuxiuzheng": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list",
-        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/CorrectRule.list",
+        "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/CorrectRule.list",
     },
     "RejectRule": {
         "Hijacking": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list",
         "BlockHttpDNS": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BlockHttpDNS/BlockHttpDNS.list",
         "MyBlockAds": "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list",
         "AWAvenueAdsRule": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list",
-        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/RejectRule.list",
+        "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/RejectRule.list",
     },
     "ProxyRule": {
-        "ProxyGFW": "https://raw.githubusercontent.com/Moli-X/Tool/refs/heads/X/Surge/Rules/ProxyGFW.list",
-        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/ProxyRule.list",
+        "ProxyGFW": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/ProxyGFW.list",
+        "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
     },
     "DirectRule": {
@@ -41,8 +41,8 @@ RULES = {
         "Microsoft": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Microsoft/Microsoft.list",
     },
     "USRule": {
-        "MyAIRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rule/AIRule.list",
-        "AI": "https://raw.githubusercontent.com/luestr/ProxyResource/refs/heads/main/Tool/Loon/Rule/AI.list",
+        "MyAIRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/AIRule.list",
+        "AI": "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Rule/AI.list",
         "PayPal": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list",
         "OneDrive": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OneDrive/OneDrive.list",
     },
