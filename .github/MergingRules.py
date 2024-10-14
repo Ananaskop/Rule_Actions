@@ -37,8 +37,10 @@ RULES = {
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
     },
     "DirectRule": {
-        "Apple": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple_All.list",
-        "Microsoft": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Microsoft/Microsoft.list",
+        "Apple": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/Apple.list",
+        "Microsoft": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/Microsoft.list",
+        "ChinaDomain": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/ChinaDomain.list",
+        "ChinaASN": "https://raw.githubusercontent.com/Moli-X/Tool/refs/heads/X/Surge/Rules/ChinaASN.list",
     },
     "USRule": {
         "MyAIRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/AIRule.list",
