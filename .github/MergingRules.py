@@ -40,7 +40,7 @@ RULES = {
         "Apple": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/Apple.list",
         "Microsoft": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/Microsoft.list",
         "ChinaDomain": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/ChinaDomain.list",
-        "ChinaASN": "https://raw.githubusercontent.com/Moli-X/Tool/refs/heads/X/Surge/Rules/ChinaASN.list",
+        "ChinaASN": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/ChinaASN.list",
     },
     "USRule": {
         "MyAIRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/AIRule.list",
