@@ -32,15 +32,13 @@ RULES = {
         "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/RejectRule.list",
     },
     "ProxyRule": {
-        "ProxyGFW": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/ProxyGFW.list",
+        "ProxyGFW": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list",
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
     },
     "DirectRule": {
-        "Apple": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/Apple.list",
-        "Microsoft": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/Microsoft.list",
-        "ChinaDomain": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/ChinaDomain.list",
-        "ChinaASN": "https://raw.githubusercontent.com/Moli-X/Tool/X/Surge/Rules/ChinaASN.list",
+        "ChinaDomain": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",
+        "ChinaASN": "https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Geo_AS_CN.list",
     },
     "USRule": {
         "MyAIRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/AIRule.list",
