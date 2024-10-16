@@ -1,4 +1,4 @@
-# 更新时间： 2024-10-16 10:08:51
+# 更新时间： 2024-10-16 11:04:13
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.imem.app
 DOMAIN,api.mojang.com
@@ -31,7 +31,6 @@ DOMAIN,haiwaikan.com
 DOMAIN,hamifans.emome.net
 DOMAIN,hulu.com.c.footprint.net
 DOMAIN,hulu.map.fastly.net
-DOMAIN,hxd.as174.com
 DOMAIN,images-daznservices-com.cdn.ampproject.org
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,ktpx.amazon.com
@@ -40,7 +39,6 @@ DOMAIN,mtalk.google.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
-DOMAIN,notion-api.splitbee.io
 DOMAIN,ocsp.pki.goog
 DOMAIN,ocvideo.apple.com
 DOMAIN,olemovienews.com
@@ -567,6 +565,7 @@ DOMAIN-SUFFIX,articles.sk
 DOMAIN-SUFFIX,artofpeacefoundation.org
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artsy.net
+DOMAIN-SUFFIX,as174.com
 DOMAIN-SUFFIX,asacp.org
 DOMAIN-SUFFIX,asdfg.jp
 DOMAIN-SUFFIX,asg.to
@@ -4196,7 +4195,6 @@ DOMAIN-SUFFIX,inxian.com
 DOMAIN-SUFFIX,iole.tv
 DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
-DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ip6.static.sl-reverse.com
 DOMAIN-SUFFIX,ipalter.com
@@ -4208,7 +4206,6 @@ DOMAIN-SUFFIX,iphonetaiwan.org
 DOMAIN-SUFFIX,iphonix.fr
 DOMAIN-SUFFIX,ipicture.ru
 DOMAIN-SUFFIX,ipjetable.net
-DOMAIN-SUFFIX,iplce.net
 DOMAIN-SUFFIX,ipobar.com
 DOMAIN-SUFFIX,ipoock.com
 DOMAIN-SUFFIX,iportal.me
@@ -4843,7 +4840,6 @@ DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,messengerdevelopers.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
-DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
@@ -5492,7 +5488,6 @@ DOMAIN-SUFFIX,onedumb.com
 DOMAIN-SUFFIX,onefifteen.net
 DOMAIN-SUFFIX,onefifteen.org
 DOMAIN-SUFFIX,onejav.com
-DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,oneworldmanystories.com
 DOMAIN-SUFFIX,oninstagram.com
