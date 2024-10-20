@@ -36,10 +36,6 @@ RULES = {
         "MyProxyRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/ProxyRule.list",
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
     },
-    "DirectRule": {
-        "ChinaDomain": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/China/China_All.list",
-        "ChinaASN": "https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Geo_AS_CN.list",
-    },
     "USRule": {
         "MyAIRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/AIRule.list",
         "AI": "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Rule/AI.list",
