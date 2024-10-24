@@ -25,6 +25,7 @@ RULES = {
         "MyCorrectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/CorrectRule.list",
     },
     "RejectRule": {
+        "rejectAd": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/rule/rejectAd.list",
         "Hijacking": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list",
         "AWAvenueAdsRule": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge-RULE-SET.list",
         "MyRejectRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/RejectRule.list",
@@ -35,7 +36,7 @@ RULES = {
         "GlobalMedia": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list",
     },
     "USRule": {
-        "MyAIRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/AIRule.list",
+        "MyUSRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/USRule.list",
         "AI": "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Rule/AI.list",
         "PayPal": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list",
     },
