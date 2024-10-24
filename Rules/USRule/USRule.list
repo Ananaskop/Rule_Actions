@@ -1,4 +1,4 @@
-# 更新时间： 2024-10-24 07:58:04
+# 更新时间： 2024-10-24 09:10:26
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,api.msn.com
@@ -26,16 +26,12 @@ DOMAIN,services.bingapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
-DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
-DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaicom-api
 DOMAIN-KEYWORD,paypal
-DOMAIN-KEYWORD,skydrive
-DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
 DOMAIN-SUFFIX,account-paypal.org
@@ -102,7 +98,6 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,krakenjs.com
 DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,loanbuilder.com
 DOMAIN-SUFFIX,login-paypal.com
 DOMAIN-SUFFIX,login-paypal.info
@@ -111,9 +106,6 @@ DOMAIN-SUFFIX,mywaytopay.net
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,oneclient.sfx.ms
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
@@ -280,7 +272,6 @@ DOMAIN-SUFFIX,paypaly.com
 DOMAIN-SUFFIX,payppal.com
 DOMAIN-SUFFIX,payypal.com
 DOMAIN-SUFFIX,pdncommunity.com
-DOMAIN-SUFFIX,photos.live.com
 DOMAIN-SUFFIX,pp-soc.com
 DOMAIN-SUFFIX,ppaypal.com
 DOMAIN-SUFFIX,pppds.com
@@ -294,14 +285,8 @@ DOMAIN-SUFFIX,secure-paypal.info
 DOMAIN-SUFFIX,securepaypal.info
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,simility.com
-DOMAIN-SUFFIX,skydrive.wns.windows.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,sslpaypal.org
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,swiftbank.info
 DOMAIN-SUFFIX,swiftbank.us
@@ -334,8 +319,4 @@ IP-ASN,14061
 IP-ASN,20473
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
 USER-AGENT,PayPal*
