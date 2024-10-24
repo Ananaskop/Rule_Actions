@@ -37,7 +37,6 @@ RULES = {
     },
     "USRule": {
         "MyUSRule": "https://raw.githubusercontent.com/Ananaskop/Profile/main/Rules/USRule.list",
-        "AI": "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Rule/AI.list",
         "PayPal": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list",
     },
 }
