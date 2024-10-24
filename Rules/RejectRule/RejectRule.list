@@ -1,4 +1,4 @@
-# 更新时间： 2024-10-24 22:42:32
+# 更新时间： 2024-10-25 02:30:33
 AND,((DOMAIN-KEYWORD,-ad-),(DOMAIN-SUFFIX,byteimg.com))
 AND,((DOMAIN-KEYWORD,-ttam-),(DOMAIN-SUFFIX,ibyteimg.com))
 AND,((DOMAIN-KEYWORD,adash),(DOMAIN-SUFFIX,ut.taobao.com))
@@ -378,6 +378,7 @@ DOMAIN,c2.gdt.qq.com
 DOMAIN,cache-verify.dutils.com
 DOMAIN,cad.youku.com
 DOMAIN,caid.adintl.cn
+DOMAIN,canvas-cdn.gdt.qq.com
 DOMAIN,cartoonapi.uc.cn
 DOMAIN,catalog.fjwhcbsh.com
 DOMAIN,cbjs.baidu.com
